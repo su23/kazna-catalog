@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-06-15",
+  "base_url": "https://catalog.kazna.app",
+  "packs": [
+    {
+      "id": "ru-supermarkets",
+      "type": "payees",
+      "version": 1,
+      "name": {
+        "en": "Russian Supermarkets",
+        "ru": "Супермаркеты"
+      },
+      "description": {
+        "en": "Major Russian grocery chains with logos — Pyaterochka, Magnit, Perekrestok, VkusVill and more",
+        "ru": "Крупные сети продуктовых магазинов с логотипами — Пятёрочка, Магнит, Перекрёсток, ВкусВилл и другие"
+      },
+      "tags": ["russia", "groceries", "retail"],
+      "entity_count": 6,
+      "pack_url": "packs/ru-supermarkets/v1/pack.json",
+      "preview_logos": [
+        "packs/ru-supermarkets/logos/pyaterochka.png",
+        "packs/ru-supermarkets/logos/magnit.png",
+        "packs/ru-supermarkets/logos/perekrestok.png"
+      ]
+    },
+    {
+      "id": "ru-food-delivery",
+      "type": "payees",
+      "version": 1,
+      "name": {
+        "en": "Russian Food Delivery",
+        "ru": "Доставка еды"
+      },
+      "description": {
+        "en": "Food delivery services operating in Russia — Yandex Eda, Delivery Club, Samokat and more",
+        "ru": "Сервисы доставки еды в России — Яндекс Еда, Деливери Клаб, Самокат и другие"
+      },
+      "tags": ["russia", "food-delivery", "apps"],
+      "entity_count": 4,
+      "pack_url": "packs/ru-food-delivery/v1/pack.json",
+      "preview_logos": [
+        "packs/ru-food-delivery/logos/yandex-eda.png",
+        "packs/ru-food-delivery/logos/delivery-club.png"
+      ]
+    }
+  ]
+}

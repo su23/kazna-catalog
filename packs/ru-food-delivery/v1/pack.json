@@ -1,0 +1,51 @@
+{
+  "id": "ru-food-delivery",
+  "version": 1,
+  "type": "payees",
+  "name": {
+    "en": "Russian Food Delivery",
+    "ru": "Доставка еды"
+  },
+  "payees": [
+    {
+      "key": "yandex-eda",
+      "name": {
+        "en": "Yandex Eda",
+        "ru": "Яндекс Еда"
+      },
+      "logo": "packs/ru-food-delivery/logos/yandex-eda.png",
+      "mcc": [5812, 7299],
+      "website": "https://eda.yandex.ru"
+    },
+    {
+      "key": "delivery-club",
+      "name": {
+        "en": "Delivery Club",
+        "ru": "Деливери Клаб"
+      },
+      "logo": "packs/ru-food-delivery/logos/delivery-club.png",
+      "mcc": [5812, 7299],
+      "website": "https://delivery-club.ru"
+    },
+    {
+      "key": "samokat",
+      "name": {
+        "en": "Samokat",
+        "ru": "Самокат"
+      },
+      "logo": "packs/ru-food-delivery/logos/samokat.png",
+      "mcc": [5411, 7299],
+      "website": "https://samokat.ru"
+    },
+    {
+      "key": "sbermarket",
+      "name": {
+        "en": "SberMarket",
+        "ru": "СберМаркет"
+      },
+      "logo": "packs/ru-food-delivery/logos/sbermarket.png",
+      "mcc": [5411, 7299],
+      "website": "https://sbermarket.ru"
+    }
+  ]
+}

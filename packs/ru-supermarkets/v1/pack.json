@@ -1,0 +1,71 @@
+{
+  "id": "ru-supermarkets",
+  "version": 1,
+  "type": "payees",
+  "name": {
+    "en": "Russian Supermarkets",
+    "ru": "Супермаркеты"
+  },
+  "payees": [
+    {
+      "key": "pyaterochka",
+      "name": {
+        "en": "Pyaterochka",
+        "ru": "Пятёрочка"
+      },
+      "logo": "packs/ru-supermarkets/logos/pyaterochka.png",
+      "mcc": [5411],
+      "website": "https://5ka.ru"
+    },
+    {
+      "key": "magnit",
+      "name": {
+        "en": "Magnit",
+        "ru": "Магнит"
+      },
+      "logo": "packs/ru-supermarkets/logos/magnit.png",
+      "mcc": [5411],
+      "website": "https://magnit.ru"
+    },
+    {
+      "key": "perekrestok",
+      "name": {
+        "en": "Perekrestok",
+        "ru": "Перекрёсток"
+      },
+      "logo": "packs/ru-supermarkets/logos/perekrestok.png",
+      "mcc": [5411],
+      "website": "https://perekrestok.ru"
+    },
+    {
+      "key": "vkusvill",
+      "name": {
+        "en": "VkusVill",
+        "ru": "ВкусВилл"
+      },
+      "logo": "packs/ru-supermarkets/logos/vkusvill.png",
+      "mcc": [5411],
+      "website": "https://vkusvill.ru"
+    },
+    {
+      "key": "lenta",
+      "name": {
+        "en": "Lenta",
+        "ru": "Лента"
+      },
+      "logo": "packs/ru-supermarkets/logos/lenta.png",
+      "mcc": [5411],
+      "website": "https://lenta.com"
+    },
+    {
+      "key": "dixy",
+      "name": {
+        "en": "Dixy",
+        "ru": "Дикси"
+      },
+      "logo": "packs/ru-supermarkets/logos/dixy.png",
+      "mcc": [5411],
+      "website": "https://dixy.ru"
+    }
+  ]
+}

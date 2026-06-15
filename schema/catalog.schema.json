@@ -1,0 +1,46 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "catalog.schema.json",
+  "title": "Kazna Catalog Index",
+  "type": "object",
+  "required": ["schema_version", "generated_at", "base_url", "packs"],
+  "additionalProperties": false,
+  "properties": {
+    "schema_version": { "type": "integer", "minimum": 1 },
+    "generated_at": { "type": "string" },
+    "base_url": { "type": "string", "format": "uri" },
+    "packs": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["id", "type", "version", "name", "entity_count", "pack_url"],
+        "additionalProperties": false,
+        "properties": {
+          "id": { "type": "string", "pattern": "^[a-z0-9-]+$" },
+          "type": { "type": "string", "enum": ["payees", "banks", "categories", "mixed"] },
+          "version": { "type": "integer", "minimum": 1 },
+          "name": { "$ref": "#/$defs/localizedString" },
+          "description": { "$ref": "#/$defs/localizedString" },
+          "tags": { "type": "array", "items": { "type": "string" } },
+          "entity_count": { "type": "integer", "minimum": 0 },
+          "pack_url": { "type": "string" },
+          "preview_logos": {
+            "type": "array",
+            "items": { "type": "string" },
+            "maxItems": 4
+          }
+        }
+      }
+    }
+  },
+  "$defs": {
+    "localizedString": {
+      "type": "object",
+      "required": ["en"],
+      "properties": {
+        "en": { "type": "string" },
+        "ru": { "type": "string" }
+      }
+    }
+  }
+}
