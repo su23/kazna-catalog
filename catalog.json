@@ -41,7 +41,9 @@
       "pack_url": "packs/ru-food-delivery/v1/pack.json",
       "preview_logos": [
         "packs/ru-food-delivery/logos/yandex-eda.png",
-        "packs/ru-food-delivery/logos/delivery-club.png"
+        "packs/ru-food-delivery/logos/delivery-club.png",
+        "packs/ru-food-delivery/logos/samokat.png",
+        "packs/ru-food-delivery/logos/sbermarket.png"
       ]
     }
   ]
