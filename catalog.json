@@ -16,7 +16,7 @@
         "ru": "Крупные сети продуктовых магазинов с логотипами — Пятёрочка, Магнит, Перекрёсток, ВкусВилл и другие"
       },
       "tags": ["russia", "groceries", "retail"],
-      "entity_count": 6,
+      "entity_count": 10,
       "pack_url": "https://catalog.kazna.app/packs/ru-supermarkets/v1/pack.json",
       "preview_logos": [
         "https://catalog.kazna.app/packs/ru-supermarkets/logos/pyaterochka.png",
@@ -37,7 +37,7 @@
         "ru": "Сервисы доставки еды в России — Яндекс Еда, Деливери Клаб, Самокат и другие"
       },
       "tags": ["russia", "food-delivery", "apps"],
-      "entity_count": 4,
+      "entity_count": 8,
       "pack_url": "https://catalog.kazna.app/packs/ru-food-delivery/v1/pack.json",
       "preview_logos": [
         "https://catalog.kazna.app/packs/ru-food-delivery/logos/yandex-eda.png",

@@ -66,6 +66,46 @@
       "logo": "https://catalog.kazna.app/packs/ru-supermarkets/logos/dixy.png",
       "mcc": [5411],
       "website": "https://dixy.ru"
+    },
+    {
+      "key": "auchan",
+      "name": {
+        "en": "Auchan",
+        "ru": "Ашан"
+      },
+      "logo": "https://catalog.kazna.app/packs/ru-supermarkets/logos/auchan.png",
+      "mcc": [5411],
+      "website": "https://auchan.ru"
+    },
+    {
+      "key": "okey",
+      "name": {
+        "en": "O'KEY",
+        "ru": "О'КЕЙ"
+      },
+      "logo": "https://catalog.kazna.app/packs/ru-supermarkets/logos/okey.png",
+      "mcc": [5411],
+      "website": "https://www.okmarket.ru"
+    },
+    {
+      "key": "globus",
+      "name": {
+        "en": "Globus",
+        "ru": "Глобус"
+      },
+      "logo": "https://catalog.kazna.app/packs/ru-supermarkets/logos/globus.png",
+      "mcc": [5411],
+      "website": "https://globus.ru"
+    },
+    {
+      "key": "metro",
+      "name": {
+        "en": "Metro C&C",
+        "ru": "МЕТРО"
+      },
+      "logo": "https://catalog.kazna.app/packs/ru-supermarkets/logos/metro.png",
+      "mcc": [5411, 5300],
+      "website": "https://metro-cc.ru"
     }
   ]
 }

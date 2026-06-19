@@ -44,7 +44,7 @@ Key fields per pack entry:
 ## Logo specs
 
 - Format: PNG with transparency
-- Size: 256×256 px recommended (app will render at 40–80dp)
+- Size: 128×128 px (app will render at 40–80dp)
 - Name: matches the payee/bank `key` field, e.g. `pyaterochka.png`
 
 ## Adding a new pack

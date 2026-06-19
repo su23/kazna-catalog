@@ -46,6 +46,46 @@
       "logo": "https://catalog.kazna.app/packs/ru-food-delivery/logos/sbermarket.png",
       "mcc": [5411, 7299],
       "website": "https://sbermarket.ru"
+    },
+    {
+      "key": "yandex-lavka",
+      "name": {
+        "en": "Yandex Lavka",
+        "ru": "Яндекс Лавка"
+      },
+      "logo": "https://catalog.kazna.app/packs/ru-food-delivery/logos/yandex-lavka.png",
+      "mcc": [5411, 7299],
+      "website": "https://lavka.yandex.ru"
+    },
+    {
+      "key": "kuper",
+      "name": {
+        "en": "Kuper",
+        "ru": "Купер"
+      },
+      "logo": "https://catalog.kazna.app/packs/ru-food-delivery/logos/kuper.png",
+      "mcc": [5411, 7299],
+      "website": "https://kuper.ru"
+    },
+    {
+      "key": "vprok",
+      "name": {
+        "en": "Vprok.ru",
+        "ru": "Впрок"
+      },
+      "logo": "https://catalog.kazna.app/packs/ru-food-delivery/logos/vprok.png",
+      "mcc": [5411, 7299],
+      "website": "https://vprok.ru"
+    },
+    {
+      "key": "ozon-fresh",
+      "name": {
+        "en": "Ozon Fresh",
+        "ru": "Озон Фреш"
+      },
+      "logo": "https://catalog.kazna.app/packs/ru-food-delivery/logos/ozon-fresh.png",
+      "mcc": [5411, 7299],
+      "website": "https://ozon.ru"
     }
   ]
 }
