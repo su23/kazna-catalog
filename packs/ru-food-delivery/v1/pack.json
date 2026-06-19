@@ -13,7 +13,7 @@
         "en": "Yandex Eda",
         "ru": "Яндекс Еда"
       },
-      "logo": "packs/ru-food-delivery/logos/yandex-eda.png",
+      "logo": "https://catalog.kazna.app/packs/ru-food-delivery/logos/yandex-eda.png",
       "mcc": [5812, 7299],
       "website": "https://eda.yandex.ru"
     },
@@ -23,7 +23,7 @@
         "en": "Delivery Club",
         "ru": "Деливери Клаб"
       },
-      "logo": "packs/ru-food-delivery/logos/delivery-club.png",
+      "logo": "https://catalog.kazna.app/packs/ru-food-delivery/logos/delivery-club.png",
       "mcc": [5812, 7299],
       "website": "https://delivery-club.ru"
     },
@@ -33,7 +33,7 @@
         "en": "Samokat",
         "ru": "Самокат"
       },
-      "logo": "packs/ru-food-delivery/logos/samokat.png",
+      "logo": "https://catalog.kazna.app/packs/ru-food-delivery/logos/samokat.png",
       "mcc": [5411, 7299],
       "website": "https://samokat.ru"
     },
@@ -43,7 +43,7 @@
         "en": "SberMarket",
         "ru": "СберМаркет"
       },
-      "logo": "packs/ru-food-delivery/logos/sbermarket.png",
+      "logo": "https://catalog.kazna.app/packs/ru-food-delivery/logos/sbermarket.png",
       "mcc": [5411, 7299],
       "website": "https://sbermarket.ru"
     }

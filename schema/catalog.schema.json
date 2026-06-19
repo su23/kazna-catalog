@@ -7,7 +7,7 @@
   "additionalProperties": false,
   "properties": {
     "schema_version": { "type": "integer", "minimum": 1 },
-    "generated_at": { "type": "string" },
+    "generated_at": { "type": "string", "format": "date" },
     "base_url": { "type": "string", "format": "uri" },
     "packs": {
       "type": "array",
@@ -23,10 +23,10 @@
           "description": { "$ref": "#/$defs/localizedString" },
           "tags": { "type": "array", "items": { "type": "string" } },
           "entity_count": { "type": "integer", "minimum": 0 },
-          "pack_url": { "type": "string" },
+          "pack_url": { "type": "string", "format": "uri" },
           "preview_logos": {
             "type": "array",
-            "items": { "type": "string" },
+            "items": { "type": "string", "format": "uri" },
             "maxItems": 4
           }
         }
@@ -37,6 +37,7 @@
     "localizedString": {
       "type": "object",
       "required": ["en"],
+      "additionalProperties": false,
       "properties": {
         "en": { "type": "string" },
         "ru": { "type": "string" }

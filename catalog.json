@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-06-15",
+  "generated_at": "2026-06-19",
   "base_url": "https://catalog.kazna.app",
   "packs": [
     {
@@ -17,11 +17,11 @@
       },
       "tags": ["russia", "groceries", "retail"],
       "entity_count": 6,
-      "pack_url": "packs/ru-supermarkets/v1/pack.json",
+      "pack_url": "https://catalog.kazna.app/packs/ru-supermarkets/v1/pack.json",
       "preview_logos": [
-        "packs/ru-supermarkets/logos/pyaterochka.png",
-        "packs/ru-supermarkets/logos/magnit.png",
-        "packs/ru-supermarkets/logos/perekrestok.png"
+        "https://catalog.kazna.app/packs/ru-supermarkets/logos/pyaterochka.png",
+        "https://catalog.kazna.app/packs/ru-supermarkets/logos/magnit.png",
+        "https://catalog.kazna.app/packs/ru-supermarkets/logos/perekrestok.png"
       ]
     },
     {
@@ -38,12 +38,12 @@
       },
       "tags": ["russia", "food-delivery", "apps"],
       "entity_count": 4,
-      "pack_url": "packs/ru-food-delivery/v1/pack.json",
+      "pack_url": "https://catalog.kazna.app/packs/ru-food-delivery/v1/pack.json",
       "preview_logos": [
-        "packs/ru-food-delivery/logos/yandex-eda.png",
-        "packs/ru-food-delivery/logos/delivery-club.png",
-        "packs/ru-food-delivery/logos/samokat.png",
-        "packs/ru-food-delivery/logos/sbermarket.png"
+        "https://catalog.kazna.app/packs/ru-food-delivery/logos/yandex-eda.png",
+        "https://catalog.kazna.app/packs/ru-food-delivery/logos/delivery-club.png",
+        "https://catalog.kazna.app/packs/ru-food-delivery/logos/samokat.png",
+        "https://catalog.kazna.app/packs/ru-food-delivery/logos/sbermarket.png"
       ]
     }
   ]

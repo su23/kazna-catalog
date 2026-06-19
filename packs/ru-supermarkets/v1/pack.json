@@ -13,7 +13,7 @@
         "en": "Pyaterochka",
         "ru": "Пятёрочка"
       },
-      "logo": "packs/ru-supermarkets/logos/pyaterochka.png",
+      "logo": "https://catalog.kazna.app/packs/ru-supermarkets/logos/pyaterochka.png",
       "mcc": [5411],
       "website": "https://5ka.ru"
     },
@@ -23,7 +23,7 @@
         "en": "Magnit",
         "ru": "Магнит"
       },
-      "logo": "packs/ru-supermarkets/logos/magnit.png",
+      "logo": "https://catalog.kazna.app/packs/ru-supermarkets/logos/magnit.png",
       "mcc": [5411],
       "website": "https://magnit.ru"
     },
@@ -33,7 +33,7 @@
         "en": "Perekrestok",
         "ru": "Перекрёсток"
       },
-      "logo": "packs/ru-supermarkets/logos/perekrestok.png",
+      "logo": "https://catalog.kazna.app/packs/ru-supermarkets/logos/perekrestok.png",
       "mcc": [5411],
       "website": "https://perekrestok.ru"
     },
@@ -43,7 +43,7 @@
         "en": "VkusVill",
         "ru": "ВкусВилл"
       },
-      "logo": "packs/ru-supermarkets/logos/vkusvill.png",
+      "logo": "https://catalog.kazna.app/packs/ru-supermarkets/logos/vkusvill.png",
       "mcc": [5411],
       "website": "https://vkusvill.ru"
     },
@@ -53,7 +53,7 @@
         "en": "Lenta",
         "ru": "Лента"
       },
-      "logo": "packs/ru-supermarkets/logos/lenta.png",
+      "logo": "https://catalog.kazna.app/packs/ru-supermarkets/logos/lenta.png",
       "mcc": [5411],
       "website": "https://lenta.com"
     },
@@ -63,7 +63,7 @@
         "en": "Dixy",
         "ru": "Дикси"
       },
-      "logo": "packs/ru-supermarkets/logos/dixy.png",
+      "logo": "https://catalog.kazna.app/packs/ru-supermarkets/logos/dixy.png",
       "mcc": [5411],
       "website": "https://dixy.ru"
     }
