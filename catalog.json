@@ -6,7 +6,7 @@
     {
       "id": "ru-supermarkets",
       "type": "payees",
-      "version": 1,
+      "version": 2,
       "name": {
         "en": "Russian Supermarkets",
         "ru": "Супермаркеты"
@@ -17,7 +17,7 @@
       },
       "tags": ["russia", "groceries", "retail"],
       "entity_count": 10,
-      "pack_url": "https://catalog.kazna.app/packs/ru-supermarkets/v1/pack.json",
+      "pack_url": "https://catalog.kazna.app/packs/ru-supermarkets/v2/pack.json",
       "preview_logos": [
         "https://catalog.kazna.app/packs/ru-supermarkets/logos/pyaterochka.png",
         "https://catalog.kazna.app/packs/ru-supermarkets/logos/magnit.png",
@@ -27,7 +27,7 @@
     {
       "id": "ru-food-delivery",
       "type": "payees",
-      "version": 1,
+      "version": 2,
       "name": {
         "en": "Russian Food Delivery",
         "ru": "Доставка еды"
@@ -38,7 +38,7 @@
       },
       "tags": ["russia", "food-delivery", "apps"],
       "entity_count": 8,
-      "pack_url": "https://catalog.kazna.app/packs/ru-food-delivery/v1/pack.json",
+      "pack_url": "https://catalog.kazna.app/packs/ru-food-delivery/v2/pack.json",
       "preview_logos": [
         "https://catalog.kazna.app/packs/ru-food-delivery/logos/yandex-eda.png",
         "https://catalog.kazna.app/packs/ru-food-delivery/logos/delivery-club.png",
