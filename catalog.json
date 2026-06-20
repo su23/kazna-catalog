@@ -67,6 +67,28 @@
         "https://catalog.kazna.app/packs/ru-marketplaces/logos/yandex-market.png",
         "https://catalog.kazna.app/packs/ru-marketplaces/logos/megamarket.png"
       ]
+    },
+    {
+      "id": "ru-mobile-operators",
+      "type": "payees",
+      "version": 1,
+      "name": {
+        "en": "Russian Mobile Operators",
+        "ru": "Мобильные операторы"
+      },
+      "description": {
+        "en": "Russian mobile operators and MVNOs — MTS, Beeline, Megafon, Tele2, Yota and more",
+        "ru": "Российские мобильные операторы и MVNO — МТС, Билайн, МегаФон, Теле2, Йота и другие"
+      },
+      "tags": ["russia", "mobile", "telecom"],
+      "entity_count": 9,
+      "pack_url": "https://catalog.kazna.app/packs/ru-mobile-operators/v1/pack.json",
+      "preview_logos": [
+        "https://catalog.kazna.app/packs/ru-mobile-operators/logos/mts.png",
+        "https://catalog.kazna.app/packs/ru-mobile-operators/logos/beeline.png",
+        "https://catalog.kazna.app/packs/ru-mobile-operators/logos/megafon.png",
+        "https://catalog.kazna.app/packs/ru-mobile-operators/logos/tele2.png"
+      ]
     }
   ]
 }

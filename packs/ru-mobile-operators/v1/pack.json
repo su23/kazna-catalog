@@ -1,0 +1,101 @@
+{
+  "id": "ru-mobile-operators",
+  "version": 1,
+  "type": "payees",
+  "name": {
+    "en": "Russian Mobile Operators",
+    "ru": "Мобильные операторы"
+  },
+  "payees": [
+    {
+      "key": "mts",
+      "name": {
+        "en": "MTS",
+        "ru": "МТС"
+      },
+      "logo": "https://catalog.kazna.app/packs/ru-mobile-operators/logos/mts.png",
+      "mcc": [4814],
+      "website": "https://mts.ru"
+    },
+    {
+      "key": "beeline",
+      "name": {
+        "en": "Beeline",
+        "ru": "Билайн"
+      },
+      "logo": "https://catalog.kazna.app/packs/ru-mobile-operators/logos/beeline.png",
+      "mcc": [4814],
+      "website": "https://beeline.ru"
+    },
+    {
+      "key": "megafon",
+      "name": {
+        "en": "Megafon",
+        "ru": "МегаФон"
+      },
+      "logo": "https://catalog.kazna.app/packs/ru-mobile-operators/logos/megafon.png",
+      "mcc": [4814],
+      "website": "https://megafon.ru"
+    },
+    {
+      "key": "tele2",
+      "name": {
+        "en": "Tele2",
+        "ru": "Теле2"
+      },
+      "logo": "https://catalog.kazna.app/packs/ru-mobile-operators/logos/tele2.png",
+      "mcc": [4814],
+      "website": "https://tele2.ru"
+    },
+    {
+      "key": "yota",
+      "name": {
+        "en": "Yota",
+        "ru": "Йота"
+      },
+      "logo": "https://catalog.kazna.app/packs/ru-mobile-operators/logos/yota.png",
+      "mcc": [4814],
+      "website": "https://yota.ru"
+    },
+    {
+      "key": "tinkoff-mobile",
+      "name": {
+        "en": "Tinkoff Mobile",
+        "ru": "Тинькофф Мобайл"
+      },
+      "logo": "https://catalog.kazna.app/packs/ru-mobile-operators/logos/tinkoff-mobile.png",
+      "mcc": [4814],
+      "website": "https://tinkoff.ru/mobile-operator/"
+    },
+    {
+      "key": "sbermobile",
+      "name": {
+        "en": "SberMobile",
+        "ru": "СберМобайл"
+      },
+      "logo": "https://catalog.kazna.app/packs/ru-mobile-operators/logos/sbermobile.png",
+      "mcc": [4814],
+      "website": "https://sbermobile.ru"
+    },
+    {
+      "key": "gpb-mobile",
+      "name": {
+        "en": "GPB Mobile",
+        "ru": "ГПБ Мобайл"
+      },
+      "logo": "https://catalog.kazna.app/packs/ru-mobile-operators/logos/gpb-mobile.png",
+      "mcc": [4814],
+      "website": "https://gpb-mobile.ru"
+    },
+    {
+      "key": "vtb-mobile",
+      "name": {
+        "en": "VTB Mobile",
+        "ru": "ВТБ Мобайл"
+      },
+      "logo": "https://catalog.kazna.app/packs/ru-mobile-operators/logos/vtb-mobile.png",
+      "mcc": [4814],
+      "website": "https://vtbmobile.ru"
+    }
+  ]
+}
