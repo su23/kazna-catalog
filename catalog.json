@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-06-19",
+  "generated_at": "2026-06-20",
   "base_url": "https://catalog.kazna.app",
   "packs": [
     {
@@ -44,6 +44,28 @@
         "https://catalog.kazna.app/packs/ru-food-delivery/logos/delivery-club.png",
         "https://catalog.kazna.app/packs/ru-food-delivery/logos/samokat.png",
         "https://catalog.kazna.app/packs/ru-food-delivery/logos/sbermarket.png"
+      ]
+    },
+    {
+      "id": "ru-marketplaces",
+      "type": "payees",
+      "version": 1,
+      "name": {
+        "en": "Russian Marketplaces",
+        "ru": "Маркетплейсы"
+      },
+      "description": {
+        "en": "Major Russian online marketplaces — Wildberries, Ozon, Yandex Market, MegaMarket and more",
+        "ru": "Крупные российские маркетплейсы — Вайлдберриз, Озон, Яндекс Маркет, МегаМаркет и другие"
+      },
+      "tags": ["russia", "shopping", "retail"],
+      "entity_count": 8,
+      "pack_url": "https://catalog.kazna.app/packs/ru-marketplaces/v1/pack.json",
+      "preview_logos": [
+        "https://catalog.kazna.app/packs/ru-marketplaces/logos/wildberries.png",
+        "https://catalog.kazna.app/packs/ru-marketplaces/logos/ozon.png",
+        "https://catalog.kazna.app/packs/ru-marketplaces/logos/yandex-market.png",
+        "https://catalog.kazna.app/packs/ru-marketplaces/logos/megamarket.png"
       ]
     }
   ]

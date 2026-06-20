@@ -1,0 +1,91 @@
+{
+  "id": "ru-marketplaces",
+  "version": 1,
+  "type": "payees",
+  "name": {
+    "en": "Russian Marketplaces",
+    "ru": "Маркетплейсы"
+  },
+  "payees": [
+    {
+      "key": "wildberries",
+      "name": {
+        "en": "Wildberries",
+        "ru": "Вайлдберриз"
+      },
+      "logo": "https://catalog.kazna.app/packs/ru-marketplaces/logos/wildberries.png",
+      "mcc": [5999, 5691],
+      "website": "https://wildberries.ru"
+    },
+    {
+      "key": "ozon",
+      "name": {
+        "en": "Ozon",
+        "ru": "Озон"
+      },
+      "logo": "https://catalog.kazna.app/packs/ru-marketplaces/logos/ozon.png",
+      "mcc": [5999],
+      "website": "https://ozon.ru"
+    },
+    {
+      "key": "yandex-market",
+      "name": {
+        "en": "Yandex Market",
+        "ru": "Яндекс Маркет"
+      },
+      "logo": "https://catalog.kazna.app/packs/ru-marketplaces/logos/yandex-market.png",
+      "mcc": [5999],
+      "website": "https://market.yandex.ru"
+    },
+    {
+      "key": "megamarket",
+      "name": {
+        "en": "MegaMarket",
+        "ru": "МегаМаркет"
+      },
+      "logo": "https://catalog.kazna.app/packs/ru-marketplaces/logos/megamarket.png",
+      "mcc": [5999],
+      "website": "https://megamarket.ru"
+    },
+    {
+      "key": "lamoda",
+      "name": {
+        "en": "Lamoda",
+        "ru": "Ламода"
+      },
+      "logo": "https://catalog.kazna.app/packs/ru-marketplaces/logos/lamoda.png",
+      "mcc": [5691, 5999],
+      "website": "https://lamoda.ru"
+    },
+    {
+      "key": "avito",
+      "name": {
+        "en": "Avito",
+        "ru": "Авито"
+      },
+      "logo": "https://catalog.kazna.app/packs/ru-marketplaces/logos/avito.png",
+      "mcc": [5999, 7389],
+      "website": "https://avito.ru"
+    },
+    {
+      "key": "aliexpress",
+      "name": {
+        "en": "AliExpress",
+        "ru": "АлиЭкспресс"
+      },
+      "logo": "https://catalog.kazna.app/packs/ru-marketplaces/logos/aliexpress.png",
+      "mcc": [5999],
+      "website": "https://aliexpress.ru"
+    },
+    {
+      "key": "kazanexpress",
+      "name": {
+        "en": "KazanExpress",
+        "ru": "КазаньЭкспресс"
+      },
+      "logo": "https://catalog.kazna.app/packs/ru-marketplaces/logos/kazanexpress.png",
+      "mcc": [5999],
+      "website": "https://kazanexpress.ru"
+    }
+  ]
+}
