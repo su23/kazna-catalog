@@ -1,0 +1,158 @@
+{
+  "id": "global-brands",
+  "version": 1,
+  "type": "payees",
+  "name": {
+    "en": "Global Brands",
+    "ru": "Мировые бренды"
+  },
+  "payees": [
+    {
+      "key": "amazon",
+      "name": { "en": "Amazon", "ru": "Амазон" },
+      "logo": "https://catalog.kazna.app/packs/global-brands/logos/amazon.png",
+      "mcc": [5999],
+      "website": "https://amazon.com"
+    },
+    {
+      "key": "apple",
+      "name": { "en": "Apple", "ru": "Эппл" },
+      "logo": "https://catalog.kazna.app/packs/global-brands/logos/apple.png",
+      "mcc": [5734, 7372],
+      "website": "https://apple.com"
+    },
+    {
+      "key": "google",
+      "name": { "en": "Google", "ru": "Гугл" },
+      "logo": "https://catalog.kazna.app/packs/global-brands/logos/google.png",
+      "mcc": [7372],
+      "website": "https://google.com"
+    },
+    {
+      "key": "microsoft",
+      "name": { "en": "Microsoft", "ru": "Майкрософт" },
+      "logo": "https://catalog.kazna.app/packs/global-brands/logos/microsoft.png",
+      "mcc": [5734, 7372],
+      "website": "https://microsoft.com"
+    },
+    {
+      "key": "adobe",
+      "name": { "en": "Adobe", "ru": "Адоб" },
+      "logo": "https://catalog.kazna.app/packs/global-brands/logos/adobe.png",
+      "mcc": [7372],
+      "website": "https://adobe.com"
+    },
+    {
+      "key": "netflix",
+      "name": { "en": "Netflix", "ru": "Нетфликс" },
+      "logo": "https://catalog.kazna.app/packs/global-brands/logos/netflix.png",
+      "mcc": [7841],
+      "website": "https://netflix.com"
+    },
+    {
+      "key": "spotify",
+      "name": { "en": "Spotify", "ru": "Спотифай" },
+      "logo": "https://catalog.kazna.app/packs/global-brands/logos/spotify.png",
+      "mcc": [7929],
+      "website": "https://spotify.com"
+    },
+    {
+      "key": "steam",
+      "name": { "en": "Steam", "ru": "Стим" },
+      "logo": "https://catalog.kazna.app/packs/global-brands/logos/steam.png",
+      "mcc": [5734, 7994],
+      "website": "https://store.steampowered.com"
+    },
+    {
+      "key": "ebay",
+      "name": { "en": "eBay", "ru": "иБей" },
+      "logo": "https://catalog.kazna.app/packs/global-brands/logos/ebay.png",
+      "mcc": [5999],
+      "website": "https://ebay.com"
+    },
+    {
+      "key": "paypal",
+      "name": { "en": "PayPal", "ru": "ПейПал" },
+      "logo": "https://catalog.kazna.app/packs/global-brands/logos/paypal.png",
+      "mcc": [6012],
+      "website": "https://paypal.com"
+    },
+    {
+      "key": "mcdonalds",
+      "name": { "en": "McDonald's", "ru": "Макдоналдс" },
+      "logo": "https://catalog.kazna.app/packs/global-brands/logos/mcdonalds.png",
+      "mcc": [5814],
+      "website": "https://mcdonalds.com"
+    },
+    {
+      "key": "kfc",
+      "name": { "en": "KFC", "ru": "КФС" },
+      "logo": "https://catalog.kazna.app/packs/global-brands/logos/kfc.png",
+      "mcc": [5814],
+      "website": "https://kfc.com"
+    },
+    {
+      "key": "burger-king",
+      "name": { "en": "Burger King", "ru": "Бургер Кинг" },
+      "logo": "https://catalog.kazna.app/packs/global-brands/logos/burger-king.png",
+      "mcc": [5814],
+      "website": "https://burgerking.com"
+    },
+    {
+      "key": "starbucks",
+      "name": { "en": "Starbucks", "ru": "Старбакс" },
+      "logo": "https://catalog.kazna.app/packs/global-brands/logos/starbucks.png",
+      "mcc": [5814],
+      "website": "https://starbucks.com"
+    },
+    {
+      "key": "subway",
+      "name": { "en": "Subway", "ru": "Сабвей" },
+      "logo": "https://catalog.kazna.app/packs/global-brands/logos/subway.png",
+      "mcc": [5814],
+      "website": "https://subway.com"
+    },
+    {
+      "key": "ikea",
+      "name": { "en": "IKEA", "ru": "ИКЕА" },
+      "logo": "https://catalog.kazna.app/packs/global-brands/logos/ikea.png",
+      "mcc": [5712],
+      "website": "https://ikea.com"
+    },
+    {
+      "key": "zara",
+      "name": { "en": "Zara", "ru": "Зара" },
+      "logo": "https://catalog.kazna.app/packs/global-brands/logos/zara.png",
+      "mcc": [5691],
+      "website": "https://zara.com"
+    },
+    {
+      "key": "hm",
+      "name": { "en": "H&M", "ru": "Эйч энд Эм" },
+      "logo": "https://catalog.kazna.app/packs/global-brands/logos/hm.png",
+      "mcc": [5691],
+      "website": "https://hm.com"
+    },
+    {
+      "key": "booking",
+      "name": { "en": "Booking.com", "ru": "Букинг" },
+      "logo": "https://catalog.kazna.app/packs/global-brands/logos/booking.png",
+      "mcc": [7011],
+      "website": "https://booking.com"
+    },
+    {
+      "key": "airbnb",
+      "name": { "en": "Airbnb", "ru": "Эйрбнб" },
+      "logo": "https://catalog.kazna.app/packs/global-brands/logos/airbnb.png",
+      "mcc": [7011],
+      "website": "https://airbnb.com"
+    },
+    {
+      "key": "uber",
+      "name": { "en": "Uber", "ru": "Убер" },
+      "logo": "https://catalog.kazna.app/packs/global-brands/logos/uber.png",
+      "mcc": [4121],
+      "website": "https://uber.com"
+    }
+  ]
+}

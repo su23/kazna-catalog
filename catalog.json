@@ -89,6 +89,50 @@
         "https://catalog.kazna.app/packs/ru-mobile-operators/logos/megafon.png",
         "https://catalog.kazna.app/packs/ru-mobile-operators/logos/tele2.png"
       ]
+    },
+    {
+      "id": "global-brands",
+      "type": "payees",
+      "version": 1,
+      "name": {
+        "en": "Global Brands",
+        "ru": "Мировые бренды"
+      },
+      "description": {
+        "en": "Worldwide consumer brands — Amazon, Apple, Google, Netflix, McDonald's, IKEA and more",
+        "ru": "Мировые потребительские бренды — Амазон, Эппл, Гугл, Нетфликс, Макдоналдс, ИКЕА и другие"
+      },
+      "tags": ["global", "retail", "tech", "food"],
+      "entity_count": 21,
+      "pack_url": "https://catalog.kazna.app/packs/global-brands/v1/pack.json",
+      "preview_logos": [
+        "https://catalog.kazna.app/packs/global-brands/logos/amazon.png",
+        "https://catalog.kazna.app/packs/global-brands/logos/mcdonalds.png",
+        "https://catalog.kazna.app/packs/global-brands/logos/netflix.png",
+        "https://catalog.kazna.app/packs/global-brands/logos/ikea.png"
+      ]
+    },
+    {
+      "id": "airlines",
+      "type": "payees",
+      "version": 1,
+      "name": {
+        "en": "Airlines",
+        "ru": "Авиакомпании"
+      },
+      "description": {
+        "en": "Major airlines worldwide — Aeroflot, Emirates, Lufthansa, Singapore Airlines and 42 more",
+        "ru": "Крупнейшие авиакомпании мира — Аэрофлот, Эмирейтс, Люфтганза, Сингапурские авиалинии и ещё 42"
+      },
+      "tags": ["global", "travel", "airlines"],
+      "entity_count": 46,
+      "pack_url": "https://catalog.kazna.app/packs/airlines/v1/pack.json",
+      "preview_logos": [
+        "https://catalog.kazna.app/packs/airlines/logos/aeroflot.png",
+        "https://catalog.kazna.app/packs/airlines/logos/emirates.png",
+        "https://catalog.kazna.app/packs/airlines/logos/lufthansa.png",
+        "https://catalog.kazna.app/packs/airlines/logos/singapore-airlines.png"
+      ]
     }
   ]
 }

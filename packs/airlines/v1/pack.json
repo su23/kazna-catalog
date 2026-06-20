@@ -1,0 +1,333 @@
+{
+  "id": "airlines",
+  "version": 1,
+  "type": "payees",
+  "name": {
+    "en": "Airlines",
+    "ru": "Авиакомпании"
+  },
+  "payees": [
+    {
+      "key": "aeroflot",
+      "name": { "en": "Aeroflot", "ru": "Аэрофлот" },
+      "logo": "https://catalog.kazna.app/packs/airlines/logos/aeroflot.png",
+      "mcc": [3011, 4511],
+      "website": "https://aeroflot.ru"
+    },
+    {
+      "key": "s7-airlines",
+      "name": { "en": "S7 Airlines", "ru": "С7 Авиалинии" },
+      "logo": "https://catalog.kazna.app/packs/airlines/logos/s7-airlines.png",
+      "mcc": [4511],
+      "website": "https://s7.ru"
+    },
+    {
+      "key": "united",
+      "name": { "en": "United Airlines", "ru": "Юнайтед Эйрлайнс" },
+      "logo": "https://catalog.kazna.app/packs/airlines/logos/united.png",
+      "mcc": [3000, 4511],
+      "website": "https://united.com"
+    },
+    {
+      "key": "american",
+      "name": { "en": "American Airlines", "ru": "Американ Эйрлайнс" },
+      "logo": "https://catalog.kazna.app/packs/airlines/logos/american.png",
+      "mcc": [3001, 4511],
+      "website": "https://aa.com"
+    },
+    {
+      "key": "delta",
+      "name": { "en": "Delta Air Lines", "ru": "Дельта Эйр Лайнс" },
+      "logo": "https://catalog.kazna.app/packs/airlines/logos/delta.png",
+      "mcc": [3058, 4511],
+      "website": "https://delta.com"
+    },
+    {
+      "key": "southwest",
+      "name": { "en": "Southwest Airlines", "ru": "Саутвест Эйрлайнс" },
+      "logo": "https://catalog.kazna.app/packs/airlines/logos/southwest.png",
+      "mcc": [3066, 4511],
+      "website": "https://southwest.com"
+    },
+    {
+      "key": "alaska-airlines",
+      "name": { "en": "Alaska Airlines", "ru": "Аляска Эйрлайнс" },
+      "logo": "https://catalog.kazna.app/packs/airlines/logos/alaska-airlines.png",
+      "mcc": [3256, 4511],
+      "website": "https://alaskaair.com"
+    },
+    {
+      "key": "british-airways",
+      "name": { "en": "British Airways", "ru": "Бритиш Эйруэйз" },
+      "logo": "https://catalog.kazna.app/packs/airlines/logos/british-airways.png",
+      "mcc": [3005, 4511],
+      "website": "https://britishairways.com"
+    },
+    {
+      "key": "lufthansa",
+      "name": { "en": "Lufthansa", "ru": "Люфтганза" },
+      "logo": "https://catalog.kazna.app/packs/airlines/logos/lufthansa.png",
+      "mcc": [3008, 4511],
+      "website": "https://lufthansa.com"
+    },
+    {
+      "key": "air-france",
+      "name": { "en": "Air France", "ru": "Эйр Франс" },
+      "logo": "https://catalog.kazna.app/packs/airlines/logos/air-france.png",
+      "mcc": [3007, 4511],
+      "website": "https://airfrance.com"
+    },
+    {
+      "key": "klm",
+      "name": { "en": "KLM", "ru": "КЛМ" },
+      "logo": "https://catalog.kazna.app/packs/airlines/logos/klm.png",
+      "mcc": [3010, 4511],
+      "website": "https://klm.com"
+    },
+    {
+      "key": "iberia",
+      "name": { "en": "Iberia", "ru": "Иберия" },
+      "logo": "https://catalog.kazna.app/packs/airlines/logos/iberia.png",
+      "mcc": [3102, 4511],
+      "website": "https://iberia.com"
+    },
+    {
+      "key": "tap",
+      "name": { "en": "TAP Air Portugal", "ru": "ТАП Эйр Португал" },
+      "logo": "https://catalog.kazna.app/packs/airlines/logos/tap.png",
+      "mcc": [3035, 4511],
+      "website": "https://flytap.com"
+    },
+    {
+      "key": "finnair",
+      "name": { "en": "Finnair", "ru": "Финнэйр" },
+      "logo": "https://catalog.kazna.app/packs/airlines/logos/finnair.png",
+      "mcc": [3042, 4511],
+      "website": "https://finnair.com"
+    },
+    {
+      "key": "sas",
+      "name": { "en": "SAS", "ru": "СКандинавские Авиалинии" },
+      "logo": "https://catalog.kazna.app/packs/airlines/logos/sas.png",
+      "mcc": [3016, 4511],
+      "website": "https://flysas.com"
+    },
+    {
+      "key": "aer-lingus",
+      "name": { "en": "Aer Lingus", "ru": "Аэр Лингус" },
+      "logo": "https://catalog.kazna.app/packs/airlines/logos/aer-lingus.png",
+      "mcc": [3043, 4511],
+      "website": "https://aerlingus.com"
+    },
+    {
+      "key": "austrian",
+      "name": { "en": "Austrian Airlines", "ru": "Австрийские авиалинии" },
+      "logo": "https://catalog.kazna.app/packs/airlines/logos/austrian.png",
+      "mcc": [3051, 4511],
+      "website": "https://austrian.com"
+    },
+    {
+      "key": "lot",
+      "name": { "en": "LOT Polish Airlines", "ru": "ЛОТ Польские Авиалинии" },
+      "logo": "https://catalog.kazna.app/packs/airlines/logos/lot.png",
+      "mcc": [3182, 4511],
+      "website": "https://lot.com"
+    },
+    {
+      "key": "virgin-atlantic",
+      "name": { "en": "Virgin Atlantic", "ru": "Вёрджин Атлантик" },
+      "logo": "https://catalog.kazna.app/packs/airlines/logos/virgin-atlantic.png",
+      "mcc": [3144, 4511],
+      "website": "https://virginatlantic.com"
+    },
+    {
+      "key": "ryanair",
+      "name": { "en": "Ryanair", "ru": "Райанэйр" },
+      "logo": "https://catalog.kazna.app/packs/airlines/logos/ryanair.png",
+      "mcc": [4511],
+      "website": "https://ryanair.com"
+    },
+    {
+      "key": "easyjet",
+      "name": { "en": "EasyJet", "ru": "Изиджет" },
+      "logo": "https://catalog.kazna.app/packs/airlines/logos/easyjet.png",
+      "mcc": [4511],
+      "website": "https://easyjet.com"
+    },
+    {
+      "key": "emirates",
+      "name": { "en": "Emirates", "ru": "Эмирейтс" },
+      "logo": "https://catalog.kazna.app/packs/airlines/logos/emirates.png",
+      "mcc": [4511],
+      "website": "https://emirates.com"
+    },
+    {
+      "key": "turkish-airlines",
+      "name": { "en": "Turkish Airlines", "ru": "Турецкие авиалинии" },
+      "logo": "https://catalog.kazna.app/packs/airlines/logos/turkish-airlines.png",
+      "mcc": [3047, 4511],
+      "website": "https://turkishairlines.com"
+    },
+    {
+      "key": "gulf-air",
+      "name": { "en": "Gulf Air", "ru": "Галф Эйр" },
+      "logo": "https://catalog.kazna.app/packs/airlines/logos/gulf-air.png",
+      "mcc": [3040, 4511],
+      "website": "https://gulfair.com"
+    },
+    {
+      "key": "egypt-air",
+      "name": { "en": "EgyptAir", "ru": "Иджипт Эйр" },
+      "logo": "https://catalog.kazna.app/packs/airlines/logos/egypt-air.png",
+      "mcc": [3037, 4511],
+      "website": "https://egyptair.com"
+    },
+    {
+      "key": "el-al",
+      "name": { "en": "El Al", "ru": "Эль-Аль" },
+      "logo": "https://catalog.kazna.app/packs/airlines/logos/el-al.png",
+      "mcc": [3032, 4511],
+      "website": "https://elal.com"
+    },
+    {
+      "key": "icelandair",
+      "name": { "en": "Icelandair", "ru": "Айслэндэйр" },
+      "logo": "https://catalog.kazna.app/packs/airlines/logos/icelandair.png",
+      "mcc": [3050, 4511],
+      "website": "https://icelandair.com"
+    },
+    {
+      "key": "air-canada",
+      "name": { "en": "Air Canada", "ru": "Эйр Канада" },
+      "logo": "https://catalog.kazna.app/packs/airlines/logos/air-canada.png",
+      "mcc": [3009, 4511],
+      "website": "https://aircanada.com"
+    },
+    {
+      "key": "qantas",
+      "name": { "en": "Qantas", "ru": "Квонтас" },
+      "logo": "https://catalog.kazna.app/packs/airlines/logos/qantas.png",
+      "mcc": [3012, 4511],
+      "website": "https://qantas.com"
+    },
+    {
+      "key": "air-new-zealand",
+      "name": { "en": "Air New Zealand", "ru": "Эйр Нью-Зиланд" },
+      "logo": "https://catalog.kazna.app/packs/airlines/logos/air-new-zealand.png",
+      "mcc": [3025, 4511],
+      "website": "https://airnewzealand.com"
+    },
+    {
+      "key": "avianca",
+      "name": { "en": "Avianca", "ru": "Авианка" },
+      "logo": "https://catalog.kazna.app/packs/airlines/logos/avianca.png",
+      "mcc": [3039, 4511],
+      "website": "https://avianca.com"
+    },
+    {
+      "key": "aeromexico",
+      "name": { "en": "Aeroméxico", "ru": "Аэромехико" },
+      "logo": "https://catalog.kazna.app/packs/airlines/logos/aeromexico.png",
+      "mcc": [3076, 4511],
+      "website": "https://aeromexico.com"
+    },
+    {
+      "key": "copa",
+      "name": { "en": "Copa Airlines", "ru": "Копа Эйрлайнс" },
+      "logo": "https://catalog.kazna.app/packs/airlines/logos/copa.png",
+      "mcc": [3219, 4511],
+      "website": "https://copaair.com"
+    },
+    {
+      "key": "singapore-airlines",
+      "name": { "en": "Singapore Airlines", "ru": "Сингапурские авиалинии" },
+      "logo": "https://catalog.kazna.app/packs/airlines/logos/singapore-airlines.png",
+      "mcc": [3075, 4511],
+      "website": "https://singaporeair.com"
+    },
+    {
+      "key": "cathay-pacific",
+      "name": { "en": "Cathay Pacific", "ru": "Катай Пасифик" },
+      "logo": "https://catalog.kazna.app/packs/airlines/logos/cathay-pacific.png",
+      "mcc": [3099, 4511],
+      "website": "https://cathaypacific.com"
+    },
+    {
+      "key": "japan-airlines",
+      "name": { "en": "Japan Airlines", "ru": "Джапан Эйрлайнс" },
+      "logo": "https://catalog.kazna.app/packs/airlines/logos/japan-airlines.png",
+      "mcc": [3006, 4511],
+      "website": "https://jal.com"
+    },
+    {
+      "key": "ana",
+      "name": { "en": "ANA", "ru": "АНА" },
+      "logo": "https://catalog.kazna.app/packs/airlines/logos/ana.png",
+      "mcc": [3161, 4511],
+      "website": "https://ana.co.jp"
+    },
+    {
+      "key": "korean-air",
+      "name": { "en": "Korean Air", "ru": "Кориэн Эйр" },
+      "logo": "https://catalog.kazna.app/packs/airlines/logos/korean-air.png",
+      "mcc": [3082, 4511],
+      "website": "https://koreanair.com"
+    },
+    {
+      "key": "air-china",
+      "name": { "en": "Air China", "ru": "Эйр Чайна" },
+      "logo": "https://catalog.kazna.app/packs/airlines/logos/air-china.png",
+      "mcc": [3261, 4511],
+      "website": "https://airchina.com"
+    },
+    {
+      "key": "china-airlines",
+      "name": { "en": "China Airlines", "ru": "Чайна Эйрлайнс" },
+      "logo": "https://catalog.kazna.app/packs/airlines/logos/china-airlines.png",
+      "mcc": [3078, 4511],
+      "website": "https://china-airlines.com"
+    },
+    {
+      "key": "eva-air",
+      "name": { "en": "EVA Air", "ru": "Эва Эйр" },
+      "logo": "https://catalog.kazna.app/packs/airlines/logos/eva-air.png",
+      "mcc": [3084, 4511],
+      "website": "https://evaair.com"
+    },
+    {
+      "key": "thai-airways",
+      "name": { "en": "Thai Airways", "ru": "Тайские авиалинии" },
+      "logo": "https://catalog.kazna.app/packs/airlines/logos/thai-airways.png",
+      "mcc": [3077, 4511],
+      "website": "https://thaiairways.com"
+    },
+    {
+      "key": "malaysia-airlines",
+      "name": { "en": "Malaysia Airlines", "ru": "Малайзийские авиалинии" },
+      "logo": "https://catalog.kazna.app/packs/airlines/logos/malaysia-airlines.png",
+      "mcc": [3100, 4511],
+      "website": "https://malaysiaairlines.com"
+    },
+    {
+      "key": "garuda",
+      "name": { "en": "Garuda Indonesia", "ru": "Гаруда Индонезия" },
+      "logo": "https://catalog.kazna.app/packs/airlines/logos/garuda.png",
+      "mcc": [3103, 4511],
+      "website": "https://garuda-indonesia.com"
+    },
+    {
+      "key": "air-india",
+      "name": { "en": "Air India", "ru": "Эйр Индия" },
+      "logo": "https://catalog.kazna.app/packs/airlines/logos/air-india.png",
+      "mcc": [3020, 4511],
+      "website": "https://airindia.com"
+    },
+    {
+      "key": "ethiopian",
+      "name": { "en": "Ethiopian Airlines", "ru": "Эфиопские авиалинии" },
+      "logo": "https://catalog.kazna.app/packs/airlines/logos/ethiopian.png",
+      "mcc": [3294, 4511],
+      "website": "https://ethiopianairlines.com"
+    }
+  ]
+}
