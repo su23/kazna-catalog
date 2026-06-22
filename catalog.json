@@ -17,7 +17,7 @@
       },
       "tags": ["russia", "groceries", "retail"],
       "entity_count": 10,
-      "pack_url": "https://catalog.kazna.app/packs/ru-supermarkets/v2/pack.json",
+      "pack_url": "https://catalog.kazna.app/packs/ru-supermarkets/pack.json",
       "preview_logos": [
         "https://catalog.kazna.app/packs/ru-supermarkets/logos/pyaterochka.png",
         "https://catalog.kazna.app/packs/ru-supermarkets/logos/magnit.png",
@@ -38,7 +38,7 @@
       },
       "tags": ["russia", "food-delivery", "apps"],
       "entity_count": 8,
-      "pack_url": "https://catalog.kazna.app/packs/ru-food-delivery/v2/pack.json",
+      "pack_url": "https://catalog.kazna.app/packs/ru-food-delivery/pack.json",
       "preview_logos": [
         "https://catalog.kazna.app/packs/ru-food-delivery/logos/yandex-eda.png",
         "https://catalog.kazna.app/packs/ru-food-delivery/logos/delivery-club.png",
@@ -60,7 +60,7 @@
       },
       "tags": ["russia", "shopping", "retail"],
       "entity_count": 8,
-      "pack_url": "https://catalog.kazna.app/packs/ru-marketplaces/v1/pack.json",
+      "pack_url": "https://catalog.kazna.app/packs/ru-marketplaces/pack.json",
       "preview_logos": [
         "https://catalog.kazna.app/packs/ru-marketplaces/logos/wildberries.png",
         "https://catalog.kazna.app/packs/ru-marketplaces/logos/ozon.png",
@@ -82,7 +82,7 @@
       },
       "tags": ["russia", "mobile", "telecom"],
       "entity_count": 9,
-      "pack_url": "https://catalog.kazna.app/packs/ru-mobile-operators/v1/pack.json",
+      "pack_url": "https://catalog.kazna.app/packs/ru-mobile-operators/pack.json",
       "preview_logos": [
         "https://catalog.kazna.app/packs/ru-mobile-operators/logos/mts.png",
         "https://catalog.kazna.app/packs/ru-mobile-operators/logos/beeline.png",
@@ -104,7 +104,7 @@
       },
       "tags": ["global", "retail", "tech", "food"],
       "entity_count": 21,
-      "pack_url": "https://catalog.kazna.app/packs/global-brands/v1/pack.json",
+      "pack_url": "https://catalog.kazna.app/packs/global-brands/pack.json",
       "preview_logos": [
         "https://catalog.kazna.app/packs/global-brands/logos/amazon.png",
         "https://catalog.kazna.app/packs/global-brands/logos/mcdonalds.png",
@@ -126,7 +126,7 @@
       },
       "tags": ["global", "travel", "airlines"],
       "entity_count": 46,
-      "pack_url": "https://catalog.kazna.app/packs/airlines/v1/pack.json",
+      "pack_url": "https://catalog.kazna.app/packs/airlines/pack.json",
       "preview_logos": [
         "https://catalog.kazna.app/packs/airlines/logos/aeroflot.png",
         "https://catalog.kazna.app/packs/airlines/logos/emirates.png",
