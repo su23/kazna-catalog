@@ -1,0 +1,218 @@
+{
+  "id": "global-banks",
+  "version": 1,
+  "type": "banks",
+  "name": {
+    "en": "Global Banks",
+    "ru": "Мировые банки"
+  },
+  "banks": [
+    {
+      "key": "revolut",
+      "name": {"en": "Revolut"},
+      "logo": "https://catalog.kazna.app/packs/global-banks/logos/revolut.png",
+      "countries": null,
+      "website": "https://revolut.com",
+      "card_background": "solid:#1C1C1E",
+      "accent_color": "#1C1C1E"
+    },
+    {
+      "key": "wise",
+      "name": {"en": "Wise"},
+      "logo": "https://catalog.kazna.app/packs/global-banks/logos/wise.png",
+      "countries": null,
+      "website": "https://wise.com",
+      "card_background": "solid:#163D00",
+      "accent_color": "#9FE870"
+    },
+    {
+      "key": "paypal",
+      "name": {"en": "PayPal"},
+      "logo": "https://catalog.kazna.app/packs/global-banks/logos/paypal.png",
+      "countries": null,
+      "website": "https://paypal.com",
+      "card_background": "solid:#003087",
+      "accent_color": "#003087"
+    },
+    {
+      "key": "n26",
+      "name": {"en": "N26"},
+      "logo": "https://catalog.kazna.app/packs/global-banks/logos/n26.png",
+      "countries": ["DE", "AT", "FR", "ES", "IT"],
+      "website": "https://n26.com",
+      "card_background": "solid:#191918",
+      "accent_color": "#48AC98"
+    },
+    {
+      "key": "monzo",
+      "name": {"en": "Monzo"},
+      "logo": "https://catalog.kazna.app/packs/global-banks/logos/monzo.png",
+      "countries": ["GB"],
+      "website": "https://monzo.com",
+      "card_background": "solid:#FF5B5B",
+      "accent_color": "#FF5B5B"
+    },
+    {
+      "key": "hsbc",
+      "name": {"en": "HSBC"},
+      "logo": "https://catalog.kazna.app/packs/global-banks/logos/hsbc.png",
+      "countries": null,
+      "website": "https://hsbc.com",
+      "card_background": "solid:#DB0011",
+      "accent_color": "#DB0011"
+    },
+    {
+      "key": "barclays",
+      "name": {"en": "Barclays"},
+      "logo": "https://catalog.kazna.app/packs/global-banks/logos/barclays.png",
+      "countries": ["GB"],
+      "website": "https://barclays.com",
+      "card_background": "solid:#00395D",
+      "accent_color": "#00AEEF"
+    },
+    {
+      "key": "lloyds",
+      "name": {"en": "Lloyds Bank"},
+      "logo": "https://catalog.kazna.app/packs/global-banks/logos/lloyds.png",
+      "countries": ["GB"],
+      "website": "https://lloydsbank.com",
+      "card_background": "solid:#006A4D",
+      "accent_color": "#006A4D"
+    },
+    {
+      "key": "natwest",
+      "name": {"en": "NatWest"},
+      "logo": "https://catalog.kazna.app/packs/global-banks/logos/natwest.png",
+      "countries": ["GB"],
+      "website": "https://natwest.com",
+      "card_background": "solid:#4A1F80",
+      "accent_color": "#4A1F80"
+    },
+    {
+      "key": "chase",
+      "name": {"en": "Chase"},
+      "logo": "https://catalog.kazna.app/packs/global-banks/logos/chase.png",
+      "countries": ["US"],
+      "website": "https://chase.com",
+      "card_background": "solid:#005EB8",
+      "accent_color": "#005EB8"
+    },
+    {
+      "key": "bank_of_america",
+      "name": {"en": "Bank of America"},
+      "logo": "https://catalog.kazna.app/packs/global-banks/logos/bank_of_america.png",
+      "countries": ["US"],
+      "website": "https://bankofamerica.com",
+      "card_background": "solid:#012169",
+      "accent_color": "#E31837"
+    },
+    {
+      "key": "wells_fargo",
+      "name": {"en": "Wells Fargo"},
+      "logo": "https://catalog.kazna.app/packs/global-banks/logos/wells_fargo.png",
+      "countries": ["US"],
+      "website": "https://wellsfargo.com",
+      "card_background": "solid:#B92B27",
+      "accent_color": "#B92B27"
+    },
+    {
+      "key": "citibank",
+      "name": {"en": "Citibank"},
+      "logo": "https://catalog.kazna.app/packs/global-banks/logos/citibank.png",
+      "countries": null,
+      "website": "https://citi.com",
+      "card_background": "solid:#003B92",
+      "accent_color": "#003B92"
+    },
+    {
+      "key": "ing",
+      "name": {"en": "ING"},
+      "logo": "https://catalog.kazna.app/packs/global-banks/logos/ing.png",
+      "countries": ["NL", "BE", "DE"],
+      "website": "https://ing.com",
+      "card_background": "solid:#FF6200",
+      "accent_color": "#FF6200"
+    },
+    {
+      "key": "santander",
+      "name": {"en": "Santander"},
+      "logo": "https://catalog.kazna.app/packs/global-banks/logos/santander.png",
+      "countries": ["ES", "GB", "BR", "MX"],
+      "website": "https://santander.com",
+      "card_background": "solid:#EC0000",
+      "accent_color": "#EC0000"
+    },
+    {
+      "key": "deutsche_bank",
+      "name": {"en": "Deutsche Bank", "de": "Deutsche Bank"},
+      "logo": "https://catalog.kazna.app/packs/global-banks/logos/deutsche_bank.png",
+      "countries": ["DE"],
+      "website": "https://db.com",
+      "card_background": "solid:#0018A8",
+      "accent_color": "#0018A8"
+    },
+    {
+      "key": "commerzbank",
+      "name": {"en": "Commerzbank", "de": "Commerzbank"},
+      "logo": "https://catalog.kazna.app/packs/global-banks/logos/commerzbank.png",
+      "countries": ["DE"],
+      "website": "https://commerzbank.com",
+      "card_background": "solid:#FFD101",
+      "accent_color": "#FFD101"
+    },
+    {
+      "key": "bnp_paribas",
+      "name": {"en": "BNP Paribas", "fr": "BNP Paribas"},
+      "logo": "https://catalog.kazna.app/packs/global-banks/logos/bnp_paribas.png",
+      "countries": ["FR", "BE"],
+      "website": "https://bnpparibas.com",
+      "card_background": "solid:#005C3D",
+      "accent_color": "#009B77"
+    },
+    {
+      "key": "credit_agricole",
+      "name": {"en": "Crédit Agricole", "fr": "Crédit Agricole"},
+      "logo": "https://catalog.kazna.app/packs/global-banks/logos/credit_agricole.png",
+      "countries": ["FR"],
+      "website": "https://credit-agricole.com",
+      "card_background": "solid:#1E6B2E",
+      "accent_color": "#1E6B2E"
+    },
+    {
+      "key": "societe_generale",
+      "name": {"en": "Société Générale", "fr": "Société Générale"},
+      "logo": "https://catalog.kazna.app/packs/global-banks/logos/societe_generale.png",
+      "countries": ["FR"],
+      "website": "https://societegenerale.com",
+      "card_background": "solid:#E60028",
+      "accent_color": "#E60028"
+    },
+    {
+      "key": "unicredit",
+      "name": {"en": "UniCredit", "ru": "ЮниКредит Банк"},
+      "logo": "https://catalog.kazna.app/packs/global-banks/logos/unicredit.png",
+      "countries": ["IT", "DE", "AT", "RU"],
+      "website": "https://unicredit.eu",
+      "card_background": "solid:#CC0000",
+      "accent_color": "#CC0000"
+    },
+    {
+      "key": "raiffeisen",
+      "name": {"en": "Raiffeisen Bank", "ru": "Райффайзен Банк", "de": "Raiffeisenbank"},
+      "logo": "https://catalog.kazna.app/packs/global-banks/logos/raiffeisen.png",
+      "countries": ["AT", "DE", "CZ", "SK", "RU", "RS", "HR"],
+      "website": "https://raiffeisen.com",
+      "card_background": "solid:#FFDD00",
+      "accent_color": "#FFDD00"
+    },
+    {
+      "key": "otpbank",
+      "name": {"en": "OTP Bank", "ru": "ОТП Банк"},
+      "logo": "https://catalog.kazna.app/packs/global-banks/logos/otpbank.png",
+      "countries": ["HU", "RU"],
+      "website": "https://otpbank.ru",
+      "card_background": "solid:#005BAC",
+      "accent_color": "#005BAC"
+    }
+  ]
+}

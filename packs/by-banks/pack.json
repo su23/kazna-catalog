@@ -1,0 +1,53 @@
+{
+  "id": "by-banks",
+  "version": 1,
+  "type": "banks",
+  "name": {
+    "en": "Belarusian Banks",
+    "ru": "Банки Беларуси",
+    "be": "Банкі Беларусі"
+  },
+  "banks": [
+    {
+      "key": "belarusbank",
+      "name": {"en": "Belarusbank", "ru": "Беларусбанк", "be": "Беларусбанк"},
+      "logo": "https://catalog.kazna.app/packs/by-banks/logos/belarusbank.png",
+      "countries": ["BY"],
+      "website": "https://belarusbank.by",
+      "card_background": "solid:#005B9A",
+      "accent_color": "#005B9A"
+    },
+    {
+      "key": "belagroprombank",
+      "name": {"en": "Belagroprombank", "ru": "Белагропромбанк"},
+      "logo": "https://catalog.kazna.app/packs/by-banks/logos/belagroprombank.png",
+      "countries": ["BY"],
+      "website": "https://belapb.by",
+      "card_background": "solid:#1A7B30",
+      "accent_color": "#1A7B30"
+    },
+    {
+      "key": "belinvestbank",
+      "name": {"en": "Belinvestbank", "ru": "Белинвестбанк"},
+      "logo": "https://catalog.kazna.app/packs/by-banks/logos/belinvestbank.png",
+      "countries": ["BY"],
+      "website": "https://belinvestbank.by"
+    },
+    {
+      "key": "belgazprombank",
+      "name": {"en": "Belgazprombank", "ru": "Белгазпромбанк"},
+      "logo": "https://catalog.kazna.app/packs/by-banks/logos/belgazprombank.png",
+      "countries": ["BY"],
+      "website": "https://belgazprombank.by"
+    },
+    {
+      "key": "priorbank",
+      "name": {"en": "Priorbank", "ru": "Приорбанк"},
+      "logo": "https://catalog.kazna.app/packs/by-banks/logos/priorbank.png",
+      "countries": ["BY"],
+      "website": "https://priorbank.by",
+      "card_background": "solid:#FFDD00",
+      "accent_color": "#FFDD00"
+    }
+  ]
+}

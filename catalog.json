@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-06-20",
+  "generated_at": "2026-07-05",
   "base_url": "https://catalog.kazna.app",
   "packs": [
     {
@@ -110,6 +110,115 @@
         "https://catalog.kazna.app/packs/global-brands/logos/mcdonalds.png",
         "https://catalog.kazna.app/packs/global-brands/logos/netflix.png",
         "https://catalog.kazna.app/packs/global-brands/logos/ikea.png"
+      ]
+    },
+    {
+      "id": "ru-banks",
+      "type": "banks",
+      "version": 1,
+      "name": {
+        "en": "Russian Banks",
+        "ru": "Банки России"
+      },
+      "description": {
+        "en": "Major Russian banks with card colors — Sberbank, T-Bank, VTB, Alfa-Bank and 32 more",
+        "ru": "Крупные банки России с цветами карт — Сбербанк, Т-Банк, ВТБ, Альфа-Банк и ещё 32"
+      },
+      "tags": ["russia", "banks"],
+      "entity_count": 36,
+      "pack_url": "https://catalog.kazna.app/packs/ru-banks/pack.json",
+      "preview_logos": [
+        "https://catalog.kazna.app/packs/ru-banks/logos/sberbank.png",
+        "https://catalog.kazna.app/packs/ru-banks/logos/tbank.png",
+        "https://catalog.kazna.app/packs/ru-banks/logos/vtb.png",
+        "https://catalog.kazna.app/packs/ru-banks/logos/alfabank.png"
+      ]
+    },
+    {
+      "id": "by-banks",
+      "type": "banks",
+      "version": 1,
+      "name": {
+        "en": "Belarusian Banks",
+        "ru": "Банки Беларуси",
+        "be": "Банкі Беларусі"
+      },
+      "description": {
+        "en": "Major Belarusian banks — Belarusbank, Belagroprombank, Priorbank and more",
+        "ru": "Крупные банки Беларуси — Беларусбанк, Белагропромбанк, Приорбанк и другие"
+      },
+      "tags": ["belarus", "banks"],
+      "entity_count": 5,
+      "pack_url": "https://catalog.kazna.app/packs/by-banks/pack.json",
+      "preview_logos": [
+        "https://catalog.kazna.app/packs/by-banks/logos/belarusbank.png",
+        "https://catalog.kazna.app/packs/by-banks/logos/belagroprombank.png",
+        "https://catalog.kazna.app/packs/by-banks/logos/priorbank.png"
+      ]
+    },
+    {
+      "id": "kz-banks",
+      "type": "banks",
+      "version": 1,
+      "name": {
+        "en": "Kazakh Banks",
+        "ru": "Банки Казахстана",
+        "kk": "Қазақстан банктері"
+      },
+      "description": {
+        "en": "Major Kazakh banks — Kaspi Bank, Halyk Bank, CenterCredit and more",
+        "ru": "Крупные банки Казахстана — Каспи Банк, Халык Банк, ЦентрКредит и другие"
+      },
+      "tags": ["kazakhstan", "banks"],
+      "entity_count": 5,
+      "pack_url": "https://catalog.kazna.app/packs/kz-banks/pack.json",
+      "preview_logos": [
+        "https://catalog.kazna.app/packs/kz-banks/logos/kaspi.png",
+        "https://catalog.kazna.app/packs/kz-banks/logos/halyk.png",
+        "https://catalog.kazna.app/packs/kz-banks/logos/centercredit.png"
+      ]
+    },
+    {
+      "id": "ua-banks",
+      "type": "banks",
+      "version": 1,
+      "name": {
+        "en": "Ukrainian Banks",
+        "ru": "Банки Украины",
+        "uk": "Банки України"
+      },
+      "description": {
+        "en": "Major Ukrainian banks — Monobank and PrivatBank",
+        "ru": "Крупные банки Украины — Монобанк и ПриватБанк"
+      },
+      "tags": ["ukraine", "banks"],
+      "entity_count": 2,
+      "pack_url": "https://catalog.kazna.app/packs/ua-banks/pack.json",
+      "preview_logos": [
+        "https://catalog.kazna.app/packs/ua-banks/logos/monobank.png",
+        "https://catalog.kazna.app/packs/ua-banks/logos/privatbank.png"
+      ]
+    },
+    {
+      "id": "global-banks",
+      "type": "banks",
+      "version": 1,
+      "name": {
+        "en": "Global Banks",
+        "ru": "Мировые банки"
+      },
+      "description": {
+        "en": "Major international banks — Revolut, Wise, HSBC, Chase, Barclays, Santander and 17 more",
+        "ru": "Крупные международные банки — Revolut, Wise, HSBC, Chase, Barclays, Santander и ещё 17"
+      },
+      "tags": ["global", "banks"],
+      "entity_count": 23,
+      "pack_url": "https://catalog.kazna.app/packs/global-banks/pack.json",
+      "preview_logos": [
+        "https://catalog.kazna.app/packs/global-banks/logos/revolut.png",
+        "https://catalog.kazna.app/packs/global-banks/logos/wise.png",
+        "https://catalog.kazna.app/packs/global-banks/logos/monzo.png",
+        "https://catalog.kazna.app/packs/global-banks/logos/hsbc.png"
       ]
     },
     {

@@ -23,7 +23,7 @@ def load(path):
 
 
 def domain_from_url(url):
-    return urllib.parse.urlparse(url).netloc.lstrip("www.")
+    return urllib.parse.urlparse(url).netloc.removeprefix("www.")
 
 
 def candidate_urls(domain):

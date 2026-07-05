@@ -1,0 +1,297 @@
+{
+  "id": "ru-banks",
+  "version": 1,
+  "type": "banks",
+  "name": {
+    "en": "Russian Banks",
+    "ru": "Банки России"
+  },
+  "banks": [
+    {
+      "key": "sberbank",
+      "name": {"en": "Sberbank", "ru": "Сбербанк"},
+      "logo": "https://catalog.kazna.app/packs/ru-banks/logos/sberbank.png",
+      "countries": ["RU", "BY"],
+      "website": "https://sber.ru",
+      "card_background": "solid:#21A038",
+      "accent_color": "#21A038"
+    },
+    {
+      "key": "tbank",
+      "name": {"en": "T-Bank", "ru": "Т-Банк"},
+      "logo": "https://catalog.kazna.app/packs/ru-banks/logos/tbank.png",
+      "countries": ["RU"],
+      "website": "https://tbank.ru",
+      "card_background": "solid:#FFDD2D",
+      "accent_color": "#FFDD2D"
+    },
+    {
+      "key": "vtb",
+      "name": {"en": "VTB", "ru": "ВТБ"},
+      "logo": "https://catalog.kazna.app/packs/ru-banks/logos/vtb.png",
+      "countries": ["RU", "BY"],
+      "website": "https://vtb.ru",
+      "card_background": "solid:#003087",
+      "accent_color": "#003087"
+    },
+    {
+      "key": "alfabank",
+      "name": {"en": "Alfa-Bank", "ru": "Альфа-Банк"},
+      "logo": "https://catalog.kazna.app/packs/ru-banks/logos/alfabank.png",
+      "countries": ["RU", "BY", "KZ"],
+      "website": "https://alfabank.ru",
+      "card_background": "solid:#EF3124",
+      "accent_color": "#EF3124"
+    },
+    {
+      "key": "gazprombank",
+      "name": {"en": "Gazprombank", "ru": "Газпромбанк"},
+      "logo": "https://catalog.kazna.app/packs/ru-banks/logos/gazprombank.png",
+      "countries": ["RU"],
+      "website": "https://gazprombank.ru",
+      "card_background": "solid:#1D3F6D",
+      "accent_color": "#1D3F6D"
+    },
+    {
+      "key": "sovcombank",
+      "name": {"en": "Sovcombank", "ru": "Совкомбанк"},
+      "logo": "https://catalog.kazna.app/packs/ru-banks/logos/sovcombank.png",
+      "countries": ["RU"],
+      "website": "https://sovcombank.ru",
+      "card_background": "solid:#F7941D",
+      "accent_color": "#F7941D"
+    },
+    {
+      "key": "mkb",
+      "name": {"en": "Moscow Credit Bank", "ru": "МКБ"},
+      "logo": "https://catalog.kazna.app/packs/ru-banks/logos/mkb.png",
+      "countries": ["RU"],
+      "website": "https://mkb.ru",
+      "card_background": "solid:#002D74",
+      "accent_color": "#002D74"
+    },
+    {
+      "key": "domrf",
+      "name": {"en": "Dom.RF Bank", "ru": "Банк ДОМ.РФ"},
+      "logo": "https://catalog.kazna.app/packs/ru-banks/logos/domrf.png",
+      "countries": ["RU"],
+      "website": "https://domrfbank.ru",
+      "card_background": "solid:#1B4F9B",
+      "accent_color": "#1B4F9B"
+    },
+    {
+      "key": "psb",
+      "name": {"en": "PSB", "ru": "Промсвязьбанк"},
+      "logo": "https://catalog.kazna.app/packs/ru-banks/logos/psb.png",
+      "countries": ["RU"],
+      "website": "https://psbank.ru",
+      "card_background": "solid:#C8102E",
+      "accent_color": "#C8102E"
+    },
+    {
+      "key": "rosselkhozbank",
+      "name": {"en": "Rosselkhozbank", "ru": "Россельхозбанк"},
+      "logo": "https://catalog.kazna.app/packs/ru-banks/logos/rosselkhozbank.png",
+      "countries": ["RU"],
+      "website": "https://rshb.ru",
+      "card_background": "solid:#009B4D",
+      "accent_color": "#009B4D"
+    },
+    {
+      "key": "akbars",
+      "name": {"en": "Ak Bars Bank", "ru": "АК БАРС Банк"},
+      "logo": "https://catalog.kazna.app/packs/ru-banks/logos/akbars.png",
+      "countries": ["RU"],
+      "website": "https://akbars.ru",
+      "card_background": "solid:#007A5E",
+      "accent_color": "#007A5E"
+    },
+    {
+      "key": "rsb",
+      "name": {"en": "Russian Standard Bank", "ru": "Русский Стандарт"},
+      "logo": "https://catalog.kazna.app/packs/ru-banks/logos/rsb.png",
+      "countries": ["RU"],
+      "website": "https://rsb.ru",
+      "card_background": "solid:#7B1413",
+      "accent_color": "#7B1413"
+    },
+    {
+      "key": "ozonbank",
+      "name": {"en": "Ozon Bank", "ru": "Озон Банк"},
+      "logo": "https://catalog.kazna.app/packs/ru-banks/logos/ozonbank.png",
+      "countries": ["RU"],
+      "website": "https://finance.ozon.ru",
+      "card_background": "solid:#005BFF",
+      "accent_color": "#005BFF"
+    },
+    {
+      "key": "yandexbank",
+      "name": {"en": "Yandex Bank", "ru": "Яндекс Банк"},
+      "logo": "https://catalog.kazna.app/packs/ru-banks/logos/yandexbank.png",
+      "countries": ["RU"],
+      "website": "https://pay.yandex.ru",
+      "card_background": "solid:#1C1C1E",
+      "accent_color": "#FFCC00"
+    },
+    {
+      "key": "wbbank",
+      "name": {"en": "WB Bank", "ru": "ВБ Банк"},
+      "logo": "https://catalog.kazna.app/packs/ru-banks/logos/wbbank.png",
+      "countries": ["RU"],
+      "website": "https://wb-bank.ru",
+      "card_background": "solid:#CB11AB",
+      "accent_color": "#CB11AB"
+    },
+    {
+      "key": "bspb",
+      "name": {"en": "Bank Saint-Petersburg", "ru": "Банк Санкт-Петербург"},
+      "logo": "https://catalog.kazna.app/packs/ru-banks/logos/bspb.png",
+      "countries": ["RU"],
+      "website": "https://bspb.ru",
+      "card_background": "solid:#004B87",
+      "accent_color": "#004B87"
+    },
+    {
+      "key": "sinara",
+      "name": {"en": "Sinara Bank", "ru": "Синара Банк"},
+      "logo": "https://catalog.kazna.app/packs/ru-banks/logos/sinara.png",
+      "countries": ["RU"],
+      "website": "https://sinara.ru",
+      "card_background": "solid:#0033A0",
+      "accent_color": "#0033A0"
+    },
+    {
+      "key": "crediteurope",
+      "name": {"en": "Credit Europe Bank", "ru": "Кредит Европа Банк"},
+      "logo": "https://catalog.kazna.app/packs/ru-banks/logos/crediteurope.png",
+      "countries": ["RU"],
+      "website": "https://crediteurope.ru"
+    },
+    {
+      "key": "bbr",
+      "name": {"en": "BBR Bank", "ru": "ББР Банк"},
+      "logo": "https://catalog.kazna.app/packs/ru-banks/logos/bbr.png",
+      "countries": ["RU"],
+      "website": "https://bbr.ru"
+    },
+    {
+      "key": "finstarbank",
+      "name": {"en": "Finstar Bank", "ru": "Финстар Банк"},
+      "logo": "https://catalog.kazna.app/packs/ru-banks/logos/finstarbank.png",
+      "countries": ["RU"],
+      "website": "https://online.finstarbank.ru"
+    },
+    {
+      "key": "realistbank",
+      "name": {"en": "Realist Bank", "ru": "Реалист Банк"},
+      "logo": "https://catalog.kazna.app/packs/ru-banks/logos/realistbank.png",
+      "countries": ["RU"],
+      "website": "https://realistbank.ru"
+    },
+    {
+      "key": "norvikbank",
+      "name": {"en": "Norvik Bank", "ru": "Норвик Банк"},
+      "logo": "https://catalog.kazna.app/packs/ru-banks/logos/norvikbank.png",
+      "countries": ["RU"],
+      "website": "https://norvikbank.ru"
+    },
+    {
+      "key": "novikombank",
+      "name": {"en": "Novikombank", "ru": "Новикомбанк"},
+      "logo": "https://catalog.kazna.app/packs/ru-banks/logos/novikombank.png",
+      "countries": ["RU"],
+      "website": "https://novikom.ru"
+    },
+    {
+      "key": "abank",
+      "name": {"en": "A-Bank", "ru": "А Банк"},
+      "logo": "https://catalog.kazna.app/packs/ru-banks/logos/abank.png",
+      "countries": ["RU"],
+      "website": "https://abank.ru"
+    },
+    {
+      "key": "mosoblbank",
+      "name": {"en": "Mosoblbank", "ru": "Мособлбанк"},
+      "logo": "https://catalog.kazna.app/packs/ru-banks/logos/mosoblbank.png",
+      "countries": ["RU"],
+      "website": "https://mosoblbank.ru"
+    },
+    {
+      "key": "sdm",
+      "name": {"en": "SDM-Bank", "ru": "СДМ-Банк"},
+      "logo": "https://catalog.kazna.app/packs/ru-banks/logos/sdm.png",
+      "countries": ["RU"],
+      "website": "https://sdm.ru"
+    },
+    {
+      "key": "inbank",
+      "name": {"en": "IN Bank", "ru": "ИН Банк"},
+      "logo": "https://catalog.kazna.app/packs/ru-banks/logos/inbank.png",
+      "countries": ["RU"],
+      "website": "https://in-bank.ru"
+    },
+    {
+      "key": "rostfinance",
+      "name": {"en": "Rost Finance", "ru": "Ростфинанс"},
+      "logo": "https://catalog.kazna.app/packs/ru-banks/logos/rostfinance.png",
+      "countries": ["RU"],
+      "website": "https://rostfinance.ru"
+    },
+    {
+      "key": "tkbbank",
+      "name": {"en": "TKB Bank", "ru": "ТКБ Банк"},
+      "logo": "https://catalog.kazna.app/packs/ru-banks/logos/tkbbank.png",
+      "countries": ["RU"],
+      "website": "https://tkbbank.ru"
+    },
+    {
+      "key": "ubrr",
+      "name": {"en": "UBRR", "ru": "УБРиР"},
+      "logo": "https://catalog.kazna.app/packs/ru-banks/logos/ubrr.png",
+      "countries": ["RU"],
+      "website": "https://ubrr.ru"
+    },
+    {
+      "key": "vbrr",
+      "name": {"en": "VBRR", "ru": "ВБРР"},
+      "logo": "https://catalog.kazna.app/packs/ru-banks/logos/vbrr.png",
+      "countries": ["RU"],
+      "website": "https://vbrr.ru"
+    },
+    {
+      "key": "expobank",
+      "name": {"en": "Expobank", "ru": "Экспобанк"},
+      "logo": "https://catalog.kazna.app/packs/ru-banks/logos/expobank.png",
+      "countries": ["RU"],
+      "website": "https://expobank.ru"
+    },
+    {
+      "key": "nsbank",
+      "name": {"en": "NS Bank", "ru": "НС Банк"},
+      "logo": "https://catalog.kazna.app/packs/ru-banks/logos/nsbank.png",
+      "countries": ["RU"],
+      "website": "https://ns-bank.ru"
+    },
+    {
+      "key": "bgfbank",
+      "name": {"en": "BGF Bank", "ru": "БГФ Банк"},
+      "logo": "https://catalog.kazna.app/packs/ru-banks/logos/bgfbank.png",
+      "countries": ["RU"],
+      "website": "https://bgfbank.ru"
+    },
+    {
+      "key": "solidbank",
+      "name": {"en": "Solid Bank", "ru": "Солид Банк"},
+      "logo": "https://catalog.kazna.app/packs/ru-banks/logos/solidbank.png",
+      "countries": ["RU"],
+      "website": "https://solidbank.ru"
+    },
+    {
+      "key": "solid",
+      "name": {"en": "Solid", "ru": "Солид"},
+      "logo": "https://catalog.kazna.app/packs/ru-banks/logos/solid.png",
+      "countries": ["RU"],
+      "website": "https://solid.ru"
+    }
+  ]
+}

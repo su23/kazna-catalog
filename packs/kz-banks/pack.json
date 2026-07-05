@@ -1,0 +1,57 @@
+{
+  "id": "kz-banks",
+  "version": 1,
+  "type": "banks",
+  "name": {
+    "en": "Kazakh Banks",
+    "ru": "Банки Казахстана",
+    "kk": "Қазақстан банктері"
+  },
+  "banks": [
+    {
+      "key": "kaspi",
+      "name": {"en": "Kaspi Bank", "kk": "Каспи Банк"},
+      "logo": "https://catalog.kazna.app/packs/kz-banks/logos/kaspi.png",
+      "countries": ["KZ"],
+      "website": "https://kaspi.kz",
+      "card_background": "solid:#FF5818",
+      "accent_color": "#FF5818"
+    },
+    {
+      "key": "halyk",
+      "name": {"en": "Halyk Bank", "kk": "Халық Банкі"},
+      "logo": "https://catalog.kazna.app/packs/kz-banks/logos/halyk.png",
+      "countries": ["KZ"],
+      "website": "https://halykbank.kz",
+      "card_background": "solid:#1B8131",
+      "accent_color": "#1B8131"
+    },
+    {
+      "key": "centercredit",
+      "name": {"en": "Bank CenterCredit", "ru": "Банк ЦентрКредит", "kk": "Банк ЦентрКредит"},
+      "logo": "https://catalog.kazna.app/packs/kz-banks/logos/centercredit.png",
+      "countries": ["KZ"],
+      "website": "https://centercredit.kz",
+      "card_background": "solid:#005BAC",
+      "accent_color": "#005BAC"
+    },
+    {
+      "key": "otbasy",
+      "name": {"en": "Otbasy Bank", "ru": "Отбасы Банк", "kk": "Отбасы Банк"},
+      "logo": "https://catalog.kazna.app/packs/kz-banks/logos/otbasy.png",
+      "countries": ["KZ"],
+      "website": "https://otbasybank.kz",
+      "card_background": "solid:#004B9B",
+      "accent_color": "#004B9B"
+    },
+    {
+      "key": "fortebank",
+      "name": {"en": "ForteBank", "ru": "ФортеБанк", "kk": "ФортеБанк"},
+      "logo": "https://catalog.kazna.app/packs/kz-banks/logos/fortebank.png",
+      "countries": ["KZ"],
+      "website": "https://forte.kz",
+      "card_background": "solid:#D4000B",
+      "accent_color": "#D4000B"
+    }
+  ]
+}

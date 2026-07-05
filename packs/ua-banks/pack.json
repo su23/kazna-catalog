@@ -1,0 +1,30 @@
+{
+  "id": "ua-banks",
+  "version": 1,
+  "type": "banks",
+  "name": {
+    "en": "Ukrainian Banks",
+    "ru": "Банки Украины",
+    "uk": "Банки України"
+  },
+  "banks": [
+    {
+      "key": "monobank",
+      "name": {"en": "Monobank", "uk": "Монобанк"},
+      "logo": "https://catalog.kazna.app/packs/ua-banks/logos/monobank.png",
+      "countries": ["UA"],
+      "website": "https://monobank.ua",
+      "card_background": "solid:#1A1A1A",
+      "accent_color": "#1A1A1A"
+    },
+    {
+      "key": "privatbank",
+      "name": {"en": "PrivatBank", "uk": "ПриватБанк"},
+      "logo": "https://catalog.kazna.app/packs/ua-banks/logos/privatbank.png",
+      "countries": ["UA"],
+      "website": "https://privatbank.ua",
+      "card_background": "solid:#159B2E",
+      "accent_color": "#159B2E"
+    }
+  ]
+}
