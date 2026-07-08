@@ -1,6 +1,6 @@
 {
   "id": "ru-banks",
-  "version": 1,
+  "version": 2,
   "type": "banks",
   "name": {
     "en": "Russian Banks",
@@ -292,6 +292,66 @@
       "logo": "https://catalog.kazna.app/packs/ru-banks/logos/solid.png",
       "countries": ["RU"],
       "website": "https://solid.ru"
+    },
+    {
+      "key": "otpbank",
+      "name": {"en": "OTP Bank", "ru": "ОТП Банк"},
+      "logo": "https://catalog.kazna.app/packs/ru-banks/logos/otpbank.png",
+      "countries": ["RU", "HU"],
+      "website": "https://otpbank.ru",
+      "accent_color": "#009A44"
+    },
+    {
+      "key": "vostbank",
+      "name": {"en": "Vostochny Bank", "ru": "Восточный Банк"},
+      "logo": "https://catalog.kazna.app/packs/ru-banks/logos/vostbank.png",
+      "countries": ["RU"],
+      "website": "https://vostochny.com",
+      "accent_color": "#F26522",
+      "closed": true
+    },
+    {
+      "key": "cfb",
+      "name": {"en": "BKF Bank", "ru": "БКФ Банк"},
+      "logo": "https://catalog.kazna.app/packs/ru-banks/logos/cfb.png",
+      "countries": ["RU"],
+      "website": "https://bkf.ru",
+      "closed": true
+    },
+    {
+      "key": "otkritie",
+      "name": {"en": "Otkritie Bank", "ru": "Банк Открытие"},
+      "logo": "https://catalog.kazna.app/packs/ru-banks/logos/otkritie.png",
+      "countries": ["RU"],
+      "website": "https://open.ru",
+      "accent_color": "#7B2D8B",
+      "closed": true
+    },
+    {
+      "key": "rosbank",
+      "name": {"en": "Rosbank", "ru": "Росбанк"},
+      "logo": "https://catalog.kazna.app/packs/ru-banks/logos/rosbank.png",
+      "countries": ["RU"],
+      "website": "https://rosbank.ru",
+      "accent_color": "#D9272E",
+      "closed": true
+    },
+    {
+      "key": "tavrich",
+      "name": {"en": "Tavrichesky Bank", "ru": "Таврический Банк"},
+      "logo": "https://catalog.kazna.app/packs/ru-banks/logos/tavrich.png",
+      "countries": ["RU"],
+      "website": "https://tavrich.com",
+      "closed": true
+    },
+    {
+      "key": "megafonbank",
+      "name": {"en": "Megafon Bank", "ru": "Мегафон Банк"},
+      "logo": "https://catalog.kazna.app/packs/ru-banks/logos/megafonbank.png",
+      "countries": ["RU"],
+      "website": "https://megafonbank.ru",
+      "accent_color": "#00B956",
+      "closed": true
     }
   ]
 }
