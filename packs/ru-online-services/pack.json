@@ -1,0 +1,161 @@
+{
+  "id": "ru-online-services",
+  "version": 1,
+  "type": "payees",
+  "name": {
+    "en": "Russian Online Services",
+    "ru": "Онлайн-сервисы России"
+  },
+  "payees": [
+    {
+      "key": "yandex-plus",
+      "name": {
+        "en": "Yandex Plus",
+        "ru": "Яндекс Плюс"
+      },
+      "logo": "https://catalog.kazna.app/packs/ru-online-services/logos/yandex-plus.png",
+      "mcc": [5968, 7372],
+      "website": "https://plus.yandex.ru"
+    },
+    {
+      "key": "yandex-music",
+      "name": {
+        "en": "Yandex Music",
+        "ru": "Яндекс Музыка"
+      },
+      "logo": "https://catalog.kazna.app/packs/ru-online-services/logos/yandex-music.png",
+      "mcc": [5815, 5968],
+      "website": "https://music.yandex.ru"
+    },
+    {
+      "key": "kinopoisk",
+      "name": {
+        "en": "Kinopoisk",
+        "ru": "Кинопоиск"
+      },
+      "logo": "https://catalog.kazna.app/packs/ru-online-services/logos/kinopoisk.png",
+      "mcc": [5815, 5968],
+      "website": "https://kinopoisk.ru"
+    },
+    {
+      "key": "yandex-go",
+      "name": {
+        "en": "Yandex Go",
+        "ru": "Яндекс Go"
+      },
+      "logo": "https://catalog.kazna.app/packs/ru-online-services/logos/yandex-go.png",
+      "mcc": [4121],
+      "website": "https://go.yandex.ru"
+    },
+    {
+      "key": "vk",
+      "name": {
+        "en": "VK",
+        "ru": "ВКонтакте"
+      },
+      "logo": "https://catalog.kazna.app/packs/ru-online-services/logos/vk.png",
+      "mcc": [7372, 5968],
+      "website": "https://vk.com"
+    },
+    {
+      "key": "vk-music",
+      "name": {
+        "en": "VK Music",
+        "ru": "VK Музыка"
+      },
+      "logo": "https://catalog.kazna.app/packs/ru-online-services/logos/vk-music.png",
+      "mcc": [5815, 5968],
+      "website": "https://music.vk.com"
+    },
+    {
+      "key": "ivi",
+      "name": {
+        "en": "IVI",
+        "ru": "ИВИ"
+      },
+      "logo": "https://catalog.kazna.app/packs/ru-online-services/logos/ivi.png",
+      "mcc": [5815, 5968],
+      "website": "https://ivi.ru"
+    },
+    {
+      "key": "okko",
+      "name": {
+        "en": "Okko",
+        "ru": "Okko"
+      },
+      "logo": "https://catalog.kazna.app/packs/ru-online-services/logos/okko.png",
+      "mcc": [5815, 5968],
+      "website": "https://okko.tv"
+    },
+    {
+      "key": "wink",
+      "name": {
+        "en": "Wink",
+        "ru": "Wink"
+      },
+      "logo": "https://catalog.kazna.app/packs/ru-online-services/logos/wink.png",
+      "mcc": [5815, 5968],
+      "website": "https://wink.ru"
+    },
+    {
+      "key": "premier",
+      "name": {
+        "en": "Premier",
+        "ru": "Премьер"
+      },
+      "logo": "https://catalog.kazna.app/packs/ru-online-services/logos/premier.png",
+      "mcc": [5815, 5968],
+      "website": "https://premier.one"
+    },
+    {
+      "key": "start",
+      "name": {
+        "en": "START",
+        "ru": "СТАРТ"
+      },
+      "logo": "https://catalog.kazna.app/packs/ru-online-services/logos/start.png",
+      "mcc": [5815, 5968],
+      "website": "https://start.ru"
+    },
+    {
+      "key": "gosuslugi",
+      "name": {
+        "en": "Gosuslugi",
+        "ru": "Госуслуги"
+      },
+      "logo": "https://catalog.kazna.app/packs/ru-online-services/logos/gosuslugi.png",
+      "mcc": [9399],
+      "website": "https://gosuslugi.ru"
+    },
+    {
+      "key": "2gis",
+      "name": {
+        "en": "2GIS",
+        "ru": "2ГИС"
+      },
+      "logo": "https://catalog.kazna.app/packs/ru-online-services/logos/2gis.png",
+      "mcc": [7372],
+      "website": "https://2gis.ru"
+    },
+    {
+      "key": "yandex-cloud",
+      "name": {
+        "en": "Yandex Cloud",
+        "ru": "Яндекс Облако"
+      },
+      "logo": "https://catalog.kazna.app/packs/ru-online-services/logos/yandex-cloud.png",
+      "mcc": [7372],
+      "website": "https://cloud.yandex.ru"
+    },
+    {
+      "key": "rutube",
+      "name": {
+        "en": "Rutube",
+        "ru": "Рутуб"
+      },
+      "logo": "https://catalog.kazna.app/packs/ru-online-services/logos/rutube.png",
+      "mcc": [5815, 7372],
+      "website": "https://rutube.ru"
+    }
+  ]
+}

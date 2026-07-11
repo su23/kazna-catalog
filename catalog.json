@@ -1,8 +1,30 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-07-05",
+  "generated_at": "2026-07-11",
   "base_url": "https://catalog.kazna.app",
   "packs": [
+    {
+      "id": "ru-online-services",
+      "type": "payees",
+      "version": 1,
+      "name": {
+        "en": "Russian Online Services",
+        "ru": "Онлайн-сервисы России"
+      },
+      "description": {
+        "en": "Russian digital services — Yandex ecosystem, VK, streaming platforms, Gosuslugi and more",
+        "ru": "Российские цифровые сервисы — экосистема Яндекса, ВКонтакте, стриминг, Госуслуги и другие"
+      },
+      "tags": ["russia", "tech", "streaming", "apps"],
+      "entity_count": 15,
+      "pack_url": "https://catalog.kazna.app/packs/ru-online-services/pack.json",
+      "preview_logos": [
+        "https://catalog.kazna.app/packs/ru-online-services/logos/yandex-music.png",
+        "https://catalog.kazna.app/packs/ru-online-services/logos/vk.png",
+        "https://catalog.kazna.app/packs/ru-online-services/logos/kinopoisk.png",
+        "https://catalog.kazna.app/packs/ru-online-services/logos/ivi.png"
+      ]
+    },
     {
       "id": "ru-supermarkets",
       "type": "payees",
