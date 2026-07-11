@@ -4,6 +4,28 @@
   "base_url": "https://catalog.kazna.app",
   "packs": [
     {
+      "id": "ru-home-improvement",
+      "type": "payees",
+      "version": 1,
+      "name": {
+        "en": "Russian Home Improvement",
+        "ru": "Строительные магазины"
+      },
+      "description": {
+        "en": "Home improvement and DIY stores in Russia — Lemana Pro, OBI, Maxidom, Petrovich and more",
+        "ru": "Строительные магазины и товары для дома — Лемана Про, ОБИ, Максидом, Петрович и другие"
+      },
+      "tags": ["russia", "home-improvement", "retail"],
+      "entity_count": 7,
+      "pack_url": "https://catalog.kazna.app/packs/ru-home-improvement/pack.json",
+      "preview_logos": [
+        "https://catalog.kazna.app/packs/ru-home-improvement/logos/lemana-pro.png",
+        "https://catalog.kazna.app/packs/ru-home-improvement/logos/obi.png",
+        "https://catalog.kazna.app/packs/ru-home-improvement/logos/maxidom.png",
+        "https://catalog.kazna.app/packs/ru-home-improvement/logos/hoff.png"
+      ]
+    },
+    {
       "id": "ru-online-services",
       "type": "payees",
       "version": 1,

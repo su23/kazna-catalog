@@ -1,0 +1,81 @@
+{
+  "id": "ru-home-improvement",
+  "version": 1,
+  "type": "payees",
+  "name": {
+    "en": "Russian Home Improvement",
+    "ru": "Строительные магазины"
+  },
+  "payees": [
+    {
+      "key": "lemana-pro",
+      "name": {
+        "en": "Lemana Pro",
+        "ru": "Лемана Про"
+      },
+      "logo": "https://catalog.kazna.app/packs/ru-home-improvement/logos/lemana-pro.png",
+      "mcc": [5211, 5251],
+      "website": "https://leroymerlin.ru"
+    },
+    {
+      "key": "obi",
+      "name": {
+        "en": "OBI",
+        "ru": "ОБИ"
+      },
+      "logo": "https://catalog.kazna.app/packs/ru-home-improvement/logos/obi.png",
+      "mcc": [5211, 5251],
+      "website": "https://obi.ru"
+    },
+    {
+      "key": "maxidom",
+      "name": {
+        "en": "Maxidom",
+        "ru": "Максидом"
+      },
+      "logo": "https://catalog.kazna.app/packs/ru-home-improvement/logos/maxidom.png",
+      "mcc": [5211, 5251],
+      "website": "https://maxidom.ru"
+    },
+    {
+      "key": "petrovich",
+      "name": {
+        "en": "Petrovich",
+        "ru": "Петрович"
+      },
+      "logo": "https://catalog.kazna.app/packs/ru-home-improvement/logos/petrovich.png",
+      "mcc": [5211],
+      "website": "https://petrovich.ru"
+    },
+    {
+      "key": "vseinstrumenty",
+      "name": {
+        "en": "VseInstrumenty",
+        "ru": "ВсеИнструменты"
+      },
+      "logo": "https://catalog.kazna.app/packs/ru-home-improvement/logos/vseinstrumenty.png",
+      "mcc": [5251, 5999],
+      "website": "https://vseinstrumenty.ru"
+    },
+    {
+      "key": "stroydepot",
+      "name": {
+        "en": "StroiDepot",
+        "ru": "СтройДепо"
+      },
+      "logo": "https://catalog.kazna.app/packs/ru-home-improvement/logos/stroydepot.png",
+      "mcc": [5211, 5251],
+      "website": "https://stroydepot.ru"
+    },
+    {
+      "key": "hoff",
+      "name": {
+        "en": "Hoff",
+        "ru": "Хофф"
+      },
+      "logo": "https://catalog.kazna.app/packs/ru-home-improvement/logos/hoff.png",
+      "mcc": [5712, 5719],
+      "website": "https://hoff.ru"
+    }
+  ]
+}
