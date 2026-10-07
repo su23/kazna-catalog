@@ -18,14 +18,14 @@
       "website": "https://leroymerlin.ru"
     },
     {
-      "key": "obi",
+      "key": "dom-lenta",
       "name": {
-        "en": "OBI",
-        "ru": "ОБИ"
+        "en": "DOM Lenta",
+        "ru": "DOM Лента"
       },
-      "logo": "https://catalog.kazna.app/packs/ru-home-improvement/logos/obi.png",
+      "logo": "https://catalog.kazna.app/packs/ru-home-improvement/logos/dom-lenta.png",
       "mcc": [5211, 5251],
-      "website": "https://obi.ru"
+      "website": "https://domlenta.ru"
     },
     {
       "key": "maxidom",
@@ -56,16 +56,6 @@
       "logo": "https://catalog.kazna.app/packs/ru-home-improvement/logos/vseinstrumenty.png",
       "mcc": [5251, 5999],
       "website": "https://vseinstrumenty.ru"
-    },
-    {
-      "key": "stroydepot",
-      "name": {
-        "en": "StroiDepot",
-        "ru": "СтройДепо"
-      },
-      "logo": "https://catalog.kazna.app/packs/ru-home-improvement/logos/stroydepot.png",
-      "mcc": [5211, 5251],
-      "website": "https://stroydepot.ru"
     },
     {
       "key": "hoff",

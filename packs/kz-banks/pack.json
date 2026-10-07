@@ -1,6 +1,6 @@
 {
   "id": "kz-banks",
-  "version": 1,
+  "version": 2,
   "type": "banks",
   "name": {
     "en": "Kazakh Banks",
@@ -31,7 +31,7 @@
       "name": {"en": "Bank CenterCredit", "ru": "Банк ЦентрКредит", "kk": "Банк ЦентрКредит"},
       "logo": "https://catalog.kazna.app/packs/kz-banks/logos/centercredit.png",
       "countries": ["KZ"],
-      "website": "https://centercredit.kz",
+      "website": "https://bcc.kz",
       "card_background": "solid:#005BAC",
       "accent_color": "#005BAC"
     },

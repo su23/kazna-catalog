@@ -1,0 +1,18 @@
+{
+  "akbars": {
+    "source": "https://commons.wikimedia.org/wiki/File:Ak_Bars_Bank_Logo.svg",
+    "kind": "Wikimedia Commons (500px render)",
+    "licence": "PD-textlogo; trademark",
+    "note": "green symbol cropped",
+    "fetched": "2026-10-07",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "domrf": {
+    "source": "https://commons.wikimedia.org/wiki/File:Dom.RF_Logo.svg",
+    "kind": "Wikimedia Commons (500px render)",
+    "licence": "PD-textlogo; trademark",
+    "note": "interim: the DOM.RF group mark; the bank rebranded on 2026-09-14 and its new logo is not yet published",
+    "fetched": "2026-10-07",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  }
+}

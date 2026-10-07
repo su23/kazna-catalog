@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-07-11",
+  "generated_at": "2026-10-07",
   "base_url": "https://catalog.kazna.app",
   "packs": [
     {
@@ -12,15 +12,15 @@
         "ru": "Строительные магазины"
       },
       "description": {
-        "en": "Home improvement and DIY stores in Russia — Lemana Pro, OBI, Maxidom, Petrovich and more",
-        "ru": "Строительные магазины и товары для дома — Лемана Про, ОБИ, Максидом, Петрович и другие"
+        "en": "Home improvement and DIY stores in Russia — Lemana Pro, DOM Lenta (formerly OBI), Maxidom, Petrovich and more",
+        "ru": "Строительные магазины и товары для дома — Лемана Про, DOM Лента (бывший ОБИ), Максидом, Петрович и другие"
       },
       "tags": ["russia", "home-improvement", "retail"],
-      "entity_count": 7,
+      "entity_count": 6,
       "pack_url": "https://catalog.kazna.app/packs/ru-home-improvement/pack.json",
       "preview_logos": [
         "https://catalog.kazna.app/packs/ru-home-improvement/logos/lemana-pro.png",
-        "https://catalog.kazna.app/packs/ru-home-improvement/logos/obi.png",
+        "https://catalog.kazna.app/packs/ru-home-improvement/logos/dom-lenta.png",
         "https://catalog.kazna.app/packs/ru-home-improvement/logos/maxidom.png",
         "https://catalog.kazna.app/packs/ru-home-improvement/logos/hoff.png"
       ]
@@ -159,7 +159,7 @@
     {
       "id": "ru-banks",
       "type": "banks",
-      "version": 2,
+      "version": 3,
       "name": {
         "en": "Russian Banks",
         "ru": "Банки России"
@@ -181,7 +181,7 @@
     {
       "id": "by-banks",
       "type": "banks",
-      "version": 1,
+      "version": 2,
       "name": {
         "en": "Belarusian Banks",
         "ru": "Банки Беларуси",
@@ -203,7 +203,7 @@
     {
       "id": "kz-banks",
       "type": "banks",
-      "version": 1,
+      "version": 2,
       "name": {
         "en": "Kazakh Banks",
         "ru": "Банки Казахстана",
@@ -246,17 +246,17 @@
     {
       "id": "global-banks",
       "type": "banks",
-      "version": 1,
+      "version": 2,
       "name": {
         "en": "Global Banks",
         "ru": "Мировые банки"
       },
       "description": {
-        "en": "Major international banks — Revolut, Wise, HSBC, Chase, Barclays, Santander and 17 more",
-        "ru": "Крупные международные банки — Revolut, Wise, HSBC, Chase, Barclays, Santander и ещё 17"
+        "en": "Major international banks — Revolut, Wise, HSBC, Chase, Barclays, Santander and 16 more",
+        "ru": "Крупные международные банки — Revolut, Wise, HSBC, Chase, Barclays, Santander и ещё 16"
       },
       "tags": ["global", "banks"],
-      "entity_count": 23,
+      "entity_count": 22,
       "pack_url": "https://catalog.kazna.app/packs/global-banks/pack.json",
       "preview_logos": [
         "https://catalog.kazna.app/packs/global-banks/logos/revolut.png",
@@ -268,7 +268,7 @@
     {
       "id": "airlines",
       "type": "payees",
-      "version": 1,
+      "version": 2,
       "name": {
         "en": "Airlines",
         "ru": "Авиакомпании"

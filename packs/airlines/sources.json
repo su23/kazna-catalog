@@ -1,0 +1,9 @@
+{
+  "s7-airlines": {
+    "source": "https://portal.s7cdn.online/S7PCabinService/media/by-path/raw/images/pages/brand/main-logo.svg",
+    "kind": "official brand book (s7.ru/ru/brand)",
+    "note": "symbol; usage rules in the brand book PDF",
+    "fetched": "2026-10-07",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  }
+}

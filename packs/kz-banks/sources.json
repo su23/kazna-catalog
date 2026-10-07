@@ -1,0 +1,9 @@
+{
+  "centercredit": {
+    "source": "https://www.bcc.kz/themes/bcc/assets/images/logo.svg",
+    "kind": "brand site SVG",
+    "note": "triangle cropped from the lockup",
+    "fetched": "2026-10-07",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  }
+}

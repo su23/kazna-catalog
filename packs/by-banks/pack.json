@@ -1,6 +1,6 @@
 {
   "id": "by-banks",
-  "version": 1,
+  "version": 2,
   "type": "banks",
   "name": {
     "en": "Belarusian Banks",
@@ -14,8 +14,8 @@
       "logo": "https://catalog.kazna.app/packs/by-banks/logos/belarusbank.png",
       "countries": ["BY"],
       "website": "https://belarusbank.by",
-      "card_background": "solid:#005B9A",
-      "accent_color": "#005B9A"
+      "card_background": "solid:#006A41",
+      "accent_color": "#006A41"
     },
     {
       "key": "belagroprombank",

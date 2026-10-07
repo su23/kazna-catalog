@@ -1,0 +1,16 @@
+{
+  "ing": {
+    "source": "https://ing.com/webfiles/1788951119972/images/ing-logo.svg",
+    "kind": "brand site SVG (ing.com media kit)",
+    "note": "lion cropped from the lockup",
+    "fetched": "2026-10-07",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "credit_agricole": {
+    "source": "https://commons.wikimedia.org/wiki/File:Cr%C3%A9dit_Agricole_2020_logo.svg",
+    "kind": "Wikimedia Commons (500px render)",
+    "licence": "PD-shape; trademark",
+    "fetched": "2026-10-07",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  }
+}

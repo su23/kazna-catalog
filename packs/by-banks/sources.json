@@ -1,0 +1,10 @@
+{
+  "belarusbank": {
+    "source": "https://commons.wikimedia.org/wiki/File:Belarusbank_logo_(be).svg",
+    "kind": "Wikimedia Commons (1920px render)",
+    "licence": "PD-textlogo",
+    "note": "emblem cropped from the lockup",
+    "fetched": "2026-10-07",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  }
+}

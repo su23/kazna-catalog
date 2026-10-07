@@ -1,6 +1,6 @@
 {
   "id": "global-banks",
-  "version": 1,
+  "version": 2,
   "type": "banks",
   "name": {
     "en": "Global Banks",
@@ -204,15 +204,6 @@
       "website": "https://raiffeisen.com",
       "card_background": "solid:#FFDD00",
       "accent_color": "#FFDD00"
-    },
-    {
-      "key": "otpbank",
-      "name": {"en": "OTP Bank", "ru": "ОТП Банк"},
-      "logo": "https://catalog.kazna.app/packs/global-banks/logos/otpbank.png",
-      "countries": ["HU", "RU"],
-      "website": "https://otpbank.ru",
-      "card_background": "solid:#005BAC",
-      "accent_color": "#005BAC"
     }
   ]
 }
