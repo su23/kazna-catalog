@@ -1,6 +1,6 @@
 {
   "id": "ru-banks",
-  "version": 5,
+  "version": 6,
   "type": "banks",
   "name": {
     "en": "Russian Banks",
@@ -370,6 +370,8 @@
     {"key": "chelindbank", "name": {"en": "Chelindbank", "ru": "Челиндбанк"}, "logo": "https://catalog.kazna.app/packs/ru-banks/logos/chelindbank.png", "countries": ["RU"], "website": "https://www.chelindbank.ru", "card_background": "solid:#005E9E", "accent_color": "#005E9E"},
     {"key": "rncb", "name": {"en": "RNCB", "ru": "РНКБ"}, "logo": "https://catalog.kazna.app/packs/ru-banks/logos/rncb.png", "countries": ["RU"], "website": "https://www.rncb.ru", "card_background": "solid:#00AEC7", "accent_color": "#00AEC7", "closed": true},
     {"key": "homebank", "name": {"en": "Home Bank", "ru": "Хоум Банк"}, "logo": "https://catalog.kazna.app/packs/ru-banks/logos/homebank.png", "countries": ["RU"], "website": "https://home.bank", "card_background": "solid:#E2383F", "accent_color": "#E2383F", "closed": true},
-    {"key": "pochtabank", "name": {"en": "Pochta Bank", "ru": "Почта Банк"}, "countries": ["RU"], "website": "https://www.pochtabank.ru", "closed": true}
+    {"key": "pochtabank", "name": {"en": "Pochta Bank", "ru": "Почта Банк"}, "countries": ["RU"], "website": "https://www.pochtabank.ru", "closed": true},
+    {"key": "raiffeisen-ru", "name": {"en": "Raiffeisenbank", "ru": "Райффайзенбанк"}, "logo": "https://catalog.kazna.app/packs/ru-banks/logos/raiffeisen-ru.png", "countries": ["RU"], "website": "https://www.raiffeisen.ru", "card_background": "solid:#FFDD00", "accent_color": "#FFDD00"},
+    {"key": "unicredit-ru", "name": {"en": "UniCredit Bank", "ru": "ЮниКредит Банк"}, "logo": "https://catalog.kazna.app/packs/ru-banks/logos/unicredit-ru.png", "countries": ["RU"], "website": "https://www.unicredit.ru", "card_background": "solid:#CC0000", "accent_color": "#CC0000"}
   ]
 }

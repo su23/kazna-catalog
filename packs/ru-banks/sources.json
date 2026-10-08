@@ -112,5 +112,19 @@
   },
   "sdm": {
     "note": "white background removed 2026-10-08"
+  },
+  "raiffeisen-ru": {
+    "source": "https://catalog.kazna.app/packs/global-banks/logos/raiffeisen.png",
+    "kind": "copied from global-banks",
+    "note": "Russian bank of the group; global raiffeisen no longer lists RU",
+    "fetched": "2026-10-08",
+    "processing": "unchanged"
+  },
+  "unicredit-ru": {
+    "source": "https://catalog.kazna.app/packs/global-banks/logos/unicredit.png",
+    "kind": "copied from global-banks",
+    "note": "Russian bank of the group; global unicredit no longer lists RU",
+    "fetched": "2026-10-08",
+    "processing": "unchanged"
   }
 }

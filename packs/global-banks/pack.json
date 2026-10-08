@@ -1,6 +1,6 @@
 {
   "id": "global-banks",
-  "version": 2,
+  "version": 3,
   "type": "banks",
   "name": {
     "en": "Global Banks",
@@ -191,7 +191,7 @@
       "key": "unicredit",
       "name": {"en": "UniCredit", "ru": "ЮниКредит Банк"},
       "logo": "https://catalog.kazna.app/packs/global-banks/logos/unicredit.png",
-      "countries": ["IT", "DE", "AT", "RU"],
+      "countries": ["IT", "DE", "AT"],
       "website": "https://unicredit.eu",
       "card_background": "solid:#CC0000",
       "accent_color": "#CC0000"
@@ -200,7 +200,7 @@
       "key": "raiffeisen",
       "name": {"en": "Raiffeisen Bank", "ru": "Райффайзен Банк", "de": "Raiffeisenbank"},
       "logo": "https://catalog.kazna.app/packs/global-banks/logos/raiffeisen.png",
-      "countries": ["AT", "DE", "CZ", "SK", "RU", "RS", "HR"],
+      "countries": ["AT", "DE", "CZ", "SK", "RS", "HR"],
       "website": "https://raiffeisen.com",
       "card_background": "solid:#FFDD00",
       "accent_color": "#FFDD00"

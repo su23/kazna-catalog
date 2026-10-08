@@ -159,17 +159,17 @@
     {
       "id": "ru-banks",
       "type": "banks",
-      "version": 5,
+      "version": 6,
       "name": {
         "en": "Russian Banks",
         "ru": "Банки России"
       },
       "description": {
-        "en": "Major Russian banks with card colors — Sberbank, T-Bank, VTB, Alfa-Bank and 55 more",
-        "ru": "Крупные банки России с цветами карт — Сбербанк, Т-Банк, ВТБ, Альфа-Банк и ещё 55"
+        "en": "Major Russian banks with card colors — Sberbank, T-Bank, VTB, Alfa-Bank and 57 more",
+        "ru": "Крупные банки России с цветами карт — Сбербанк, Т-Банк, ВТБ, Альфа-Банк и ещё 57"
       },
       "tags": ["russia", "banks"],
-      "entity_count": 59,
+      "entity_count": 61,
       "pack_url": "https://catalog.kazna.app/packs/ru-banks/pack.json",
       "preview_logos": [
         "https://catalog.kazna.app/packs/ru-banks/logos/sberbank.png",
@@ -246,7 +246,7 @@
     {
       "id": "global-banks",
       "type": "banks",
-      "version": 2,
+      "version": 3,
       "name": {
         "en": "Global Banks",
         "ru": "Мировые банки"
