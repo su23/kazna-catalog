@@ -1,0 +1,98 @@
+{
+  "youtube-premium": {
+    "source": "https://commons.wikimedia.org/wiki/File:YouTube_full-color_icon_(2017).svg",
+    "kind": "Wikimedia Commons SVG",
+    "licence": "Public domain; trademark",
+    "note": "the red play button is the mark",
+    "fetched": "2026-10-08",
+    "processing": "rendered at 1200 px, cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "prime-video": {
+    "source": "https://commons.wikimedia.org/wiki/File:Prime_Video_logo_(2024).svg",
+    "kind": "Wikimedia Commons SVG",
+    "licence": "Public domain; trademark",
+    "note": "2024 wordmark with the smile",
+    "fetched": "2026-10-08",
+    "processing": "rendered at 1200 px, cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "disney-plus": {
+    "source": "https://commons.wikimedia.org/wiki/File:Disney+_2024.svg",
+    "kind": "Wikimedia Commons SVG",
+    "licence": "Public domain; trademark",
+    "note": "2024 logo",
+    "fetched": "2026-10-08",
+    "processing": "rendered at 1200 px, cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "hbo-max": {
+    "source": "https://commons.wikimedia.org/wiki/File:HBO_Max_(2025).svg",
+    "kind": "Wikimedia Commons SVG",
+    "licence": "Public domain; trademark",
+    "note": "July 2025 relaunch logo",
+    "fetched": "2026-10-08",
+    "processing": "rendered at 1200 px, cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "twitch": {
+    "source": "https://commons.wikimedia.org/wiki/File:Twitch_Glitch_Logo_Purple.svg",
+    "kind": "Wikimedia Commons SVG",
+    "licence": "Public domain; trademark",
+    "note": "Glitch mark",
+    "fetched": "2026-10-08",
+    "processing": "rendered at 1200 px, cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "telegram": {
+    "source": "https://commons.wikimedia.org/wiki/File:Telegram_logo.svg",
+    "kind": "Wikimedia Commons SVG",
+    "licence": "Public domain; trademark",
+    "note": "covers Premium, Stars and Ads",
+    "fetched": "2026-10-08",
+    "processing": "rendered at 1200 px, cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "patreon": {
+    "source": "https://commons.wikimedia.org/wiki/File:Patreon_logomark_2023.svg",
+    "kind": "Wikimedia Commons SVG",
+    "licence": "Public domain; trademark",
+    "note": "2023 mark",
+    "fetched": "2026-10-08",
+    "processing": "rendered at 1200 px, cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "duolingo": {
+    "source": "App Store icon id570060128 (Duolingo, Inc)",
+    "kind": "App Store icon, opaque tile",
+    "licence": "trademark",
+    "note": "the owl is the green; kept as the icon",
+    "fetched": "2026-10-08",
+    "processing": "resized to 128x128 from 512 px"
+  },
+  "audible": {
+    "source": "https://commons.wikimedia.org/wiki/File:Audible_logo.svg",
+    "kind": "Wikimedia Commons SVG",
+    "licence": "Public domain; trademark",
+    "note": "orange wave cropped from the lockup",
+    "fetched": "2026-10-08",
+    "processing": "rendered at 1200 px, cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "crunchyroll": {
+    "source": "https://commons.wikimedia.org/wiki/File:Crunchyroll_2024_stacked.svg",
+    "kind": "Wikimedia Commons SVG",
+    "licence": "Public domain; trademark",
+    "note": "2024 mark cropped",
+    "fetched": "2026-10-08",
+    "processing": "rendered at 1200 px, cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "paramount-plus": {
+    "source": "https://commons.wikimedia.org/wiki/File:Paramount_Plus.svg",
+    "kind": "Wikimedia Commons SVG",
+    "licence": "Public domain; trademark",
+    "note": "mountain mark cropped",
+    "fetched": "2026-10-08",
+    "processing": "rendered at 1200 px, cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "deezer": {
+    "source": "https://commons.wikimedia.org/wiki/File:Deezer_New_Icon.svg",
+    "kind": "Wikimedia Commons SVG",
+    "licence": "Public domain; trademark",
+    "note": "2023 heart",
+    "fetched": "2026-10-08",
+    "processing": "rendered at 1200 px, cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  }
+}

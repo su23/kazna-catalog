@@ -859,6 +859,28 @@
         "https://catalog.kazna.app/packs/work-tools/logos/figma.png",
         "https://catalog.kazna.app/packs/work-tools/logos/notion.png"
       ]
+    },
+    {
+      "id": "subscriptions",
+      "type": "payees",
+      "version": 1,
+      "name": {
+        "en": "Streaming & Subscriptions",
+        "ru": "Стриминг и подписки"
+      },
+      "description": {
+        "en": "Streaming and subscription services — YouTube Premium, Prime Video, Disney+, HBO Max and 8 more",
+        "ru": "Стриминг и подписки — YouTube Premium, Prime Video, Disney+, HBO Max и ещё 8"
+      },
+      "tags": ["global", "streaming", "subscriptions"],
+      "entity_count": 12,
+      "pack_url": "https://catalog.kazna.app/packs/subscriptions/pack.json",
+      "preview_logos": [
+        "https://catalog.kazna.app/packs/subscriptions/logos/youtube-premium.png",
+        "https://catalog.kazna.app/packs/subscriptions/logos/prime-video.png",
+        "https://catalog.kazna.app/packs/subscriptions/logos/disney-plus.png",
+        "https://catalog.kazna.app/packs/subscriptions/logos/hbo-max.png"
+      ]
     }
   ]
 }

@@ -1,0 +1,95 @@
+{
+  "id": "subscriptions",
+  "version": 1,
+  "type": "payees",
+  "name": {
+    "en": "Streaming & Subscriptions",
+    "ru": "Стриминг и подписки"
+  },
+  "payees": [
+    {
+      "key": "youtube-premium",
+      "name": { "en": "YouTube Premium", "ru": "YouTube Premium" },
+      "logo": "https://catalog.kazna.app/packs/subscriptions/logos/youtube-premium.png",
+      "mcc": [4899, 5815],
+      "website": "https://www.youtube.com/premium"
+    },
+    {
+      "key": "prime-video",
+      "name": { "en": "Prime Video", "ru": "Prime Video" },
+      "logo": "https://catalog.kazna.app/packs/subscriptions/logos/prime-video.png",
+      "mcc": [4899, 5815],
+      "website": "https://www.primevideo.com"
+    },
+    {
+      "key": "disney-plus",
+      "name": { "en": "Disney+", "ru": "Disney+" },
+      "logo": "https://catalog.kazna.app/packs/subscriptions/logos/disney-plus.png",
+      "mcc": [4899, 5815],
+      "website": "https://www.disneyplus.com"
+    },
+    {
+      "key": "hbo-max",
+      "name": { "en": "HBO Max", "ru": "HBO Max" },
+      "logo": "https://catalog.kazna.app/packs/subscriptions/logos/hbo-max.png",
+      "mcc": [4899, 5815],
+      "website": "https://www.hbomax.com"
+    },
+    {
+      "key": "twitch",
+      "name": { "en": "Twitch", "ru": "Twitch" },
+      "logo": "https://catalog.kazna.app/packs/subscriptions/logos/twitch.png",
+      "mcc": [5815, 5818],
+      "website": "https://www.twitch.tv"
+    },
+    {
+      "key": "telegram",
+      "name": { "en": "Telegram", "ru": "Telegram" },
+      "logo": "https://catalog.kazna.app/packs/subscriptions/logos/telegram.png",
+      "mcc": [5818, 5968],
+      "website": "https://telegram.org"
+    },
+    {
+      "key": "patreon",
+      "name": { "en": "Patreon", "ru": "Patreon" },
+      "logo": "https://catalog.kazna.app/packs/subscriptions/logos/patreon.png",
+      "mcc": [5818, 5968],
+      "website": "https://www.patreon.com"
+    },
+    {
+      "key": "duolingo",
+      "name": { "en": "Duolingo", "ru": "Duolingo" },
+      "logo": "https://catalog.kazna.app/packs/subscriptions/logos/duolingo.png",
+      "mcc": [5818, 8299],
+      "website": "https://www.duolingo.com"
+    },
+    {
+      "key": "audible",
+      "name": { "en": "Audible", "ru": "Audible" },
+      "logo": "https://catalog.kazna.app/packs/subscriptions/logos/audible.png",
+      "mcc": [5815, 5968],
+      "website": "https://www.audible.com"
+    },
+    {
+      "key": "crunchyroll",
+      "name": { "en": "Crunchyroll", "ru": "Crunchyroll" },
+      "logo": "https://catalog.kazna.app/packs/subscriptions/logos/crunchyroll.png",
+      "mcc": [4899, 5815],
+      "website": "https://www.crunchyroll.com"
+    },
+    {
+      "key": "paramount-plus",
+      "name": { "en": "Paramount+", "ru": "Paramount+" },
+      "logo": "https://catalog.kazna.app/packs/subscriptions/logos/paramount-plus.png",
+      "mcc": [4899, 5815],
+      "website": "https://www.paramountplus.com"
+    },
+    {
+      "key": "deezer",
+      "name": { "en": "Deezer", "ru": "Deezer" },
+      "logo": "https://catalog.kazna.app/packs/subscriptions/logos/deezer.png",
+      "mcc": [5815, 5818],
+      "website": "https://www.deezer.com"
+    }
+  ]
+}
