@@ -1,6 +1,6 @@
 {
   "id": "ua-retail",
-  "version": 1,
+  "version": 2,
   "type": "payees",
   "name": {
     "en": "Ukraine Shops & Services",
@@ -101,7 +101,7 @@
     },
     {
       "key": "glovo",
-      "name": { "en": "Glovo", "ru": "Glovo", "uk": "Glovo" },
+      "name": { "en": "Glovo", "ru": "Glovo" },
       "logo": "https://catalog.kazna.app/packs/ua-retail/logos/glovo.png",
       "mcc": [5814, 4215],
       "website": "https://glovoapp.com"

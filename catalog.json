@@ -87,7 +87,7 @@
         "https://catalog.kazna.app/packs/ru-food-delivery/logos/yandex-eda.png",
         "https://catalog.kazna.app/packs/ru-food-delivery/logos/delivery-club.png",
         "https://catalog.kazna.app/packs/ru-food-delivery/logos/samokat.png",
-        "https://catalog.kazna.app/packs/ru-food-delivery/logos/sbermarket.png"
+        "https://catalog.kazna.app/packs/ru-food-delivery/logos/kuper.png"
       ]
     },
     {
@@ -796,7 +796,7 @@
     {
       "id": "ua-retail",
       "type": "payees",
-      "version": 1,
+      "version": 2,
       "name": {
         "en": "Ukraine Shops & Services",
         "ru": "Магазины и сервисы Украины",
