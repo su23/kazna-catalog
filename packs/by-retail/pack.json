@@ -1,0 +1,88 @@
+{
+  "id": "by-retail",
+  "version": 1,
+  "type": "payees",
+  "name": {
+    "en": "Belarus Shops & Services",
+    "ru": "Магазины и сервисы Беларуси"
+  },
+  "payees": [
+    {
+      "key": "evroopt",
+      "name": { "en": "Evroopt", "ru": "Евроопт" },
+      "logo": "https://catalog.kazna.app/packs/by-retail/logos/evroopt.png",
+      "mcc": [5411],
+      "website": "https://evroopt.by"
+    },
+    {
+      "key": "korona",
+      "name": { "en": "Korona", "ru": "Корона" },
+      "logo": "https://catalog.kazna.app/packs/by-retail/logos/korona.png",
+      "mcc": [5411],
+      "website": "https://korona.by"
+    },
+    {
+      "key": "gippo",
+      "name": { "en": "Gippo", "ru": "Гиппо" },
+      "logo": "https://catalog.kazna.app/packs/by-retail/logos/gippo.png",
+      "mcc": [5411],
+      "website": "https://gippo-market.by"
+    },
+    {
+      "key": "green-by",
+      "name": { "en": "Green", "ru": "Грин" },
+      "logo": "https://catalog.kazna.app/packs/by-retail/logos/green-by.png",
+      "mcc": [5411],
+      "website": "https://www.green-market.by"
+    },
+    {
+      "key": "sosedi",
+      "name": { "en": "Sosedi", "ru": "Соседи" },
+      "logo": "https://catalog.kazna.app/packs/by-retail/logos/sosedi.png",
+      "mcc": [5411],
+      "website": "https://sosedi.by"
+    },
+    {
+      "key": "5element",
+      "name": { "en": "5 Element", "ru": "5 элемент" },
+      "logo": "https://catalog.kazna.app/packs/by-retail/logos/5element.png",
+      "mcc": [5732],
+      "website": "https://5element.by"
+    },
+    {
+      "key": "electrosila",
+      "name": { "en": "Electrosila", "ru": "Электросила" },
+      "logo": "https://catalog.kazna.app/packs/by-retail/logos/electrosila.png",
+      "mcc": [5732],
+      "website": "https://sila.by"
+    },
+    {
+      "key": "beltelecom",
+      "name": { "en": "Beltelecom", "ru": "Белтелеком" },
+      "logo": "https://catalog.kazna.app/packs/by-retail/logos/beltelecom.png",
+      "mcc": [4814, 4899],
+      "website": "https://beltelecom.by"
+    },
+    {
+      "key": "a1-by",
+      "name": { "en": "A1", "ru": "A1" },
+      "logo": "https://catalog.kazna.app/packs/by-retail/logos/a1-by.png",
+      "mcc": [4814],
+      "website": "https://www.a1.by"
+    },
+    {
+      "key": "mts-by",
+      "name": { "en": "MTS Belarus", "ru": "МТС Беларусь" },
+      "logo": "https://catalog.kazna.app/packs/by-retail/logos/mts-by.png",
+      "mcc": [4814],
+      "website": "https://www.mts.by"
+    },
+    {
+      "key": "life-by",
+      "name": { "en": "Life", "ru": "Лайф" },
+      "logo": "https://catalog.kazna.app/packs/by-retail/logos/life-by.png",
+      "mcc": [4814],
+      "website": "https://life.by"
+    }
+  ]
+}

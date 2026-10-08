@@ -1,6 +1,6 @@
 {
   "id": "ru-banks",
-  "version": 8,
+  "version": 9,
   "type": "banks",
   "name": {
     "en": "Russian Banks",
@@ -11,7 +11,7 @@
       "key": "sberbank",
       "name": {"en": "Sberbank", "ru": "Сбербанк"},
       "logo": "https://catalog.kazna.app/packs/ru-banks/logos/sberbank.png",
-      "countries": ["RU", "BY"],
+      "countries": ["RU"],
       "website": "https://sber.ru",
       "card_background": "solid:#21A038",
       "accent_color": "#21A038"
@@ -29,7 +29,7 @@
       "key": "vtb",
       "name": {"en": "VTB", "ru": "ВТБ"},
       "logo": "https://catalog.kazna.app/packs/ru-banks/logos/vtb.png",
-      "countries": ["RU", "BY"],
+      "countries": ["RU"],
       "website": "https://vtb.ru",
       "card_background": "solid:#003087",
       "accent_color": "#003087"
@@ -38,7 +38,7 @@
       "key": "alfabank",
       "name": {"en": "Alfa-Bank", "ru": "Альфа-Банк"},
       "logo": "https://catalog.kazna.app/packs/ru-banks/logos/alfabank.png",
-      "countries": ["RU", "BY", "KZ"],
+      "countries": ["RU", "KZ"],
       "website": "https://alfabank.ru",
       "card_background": "solid:#EF3124",
       "accent_color": "#EF3124"

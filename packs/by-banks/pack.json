@@ -1,6 +1,6 @@
 {
   "id": "by-banks",
-  "version": 2,
+  "version": 3,
   "type": "banks",
   "name": {
     "en": "Belarusian Banks",
@@ -48,6 +48,63 @@
       "website": "https://priorbank.by",
       "card_background": "solid:#FFDD00",
       "accent_color": "#FFDD00"
+    },
+    {
+      "key": "alfabank-by",
+      "name": {"en": "Alfa Bank", "ru": "Альфа Банк", "be": "Альфа Банк"},
+      "logo": "https://catalog.kazna.app/packs/by-banks/logos/alfabank-by.png",
+      "countries": ["BY"],
+      "website": "https://www.alfabank.by",
+      "card_background": "solid:#EF3124",
+      "accent_color": "#EF3124",
+      "brand": "alfabank"
+    },
+    {
+      "key": "mtbank",
+      "name": {"en": "MTBank", "ru": "МТБанк", "be": "МТБанк"},
+      "logo": "https://catalog.kazna.app/packs/by-banks/logos/mtbank.png",
+      "countries": ["BY"],
+      "website": "https://www.mtbank.by",
+      "card_background": "solid:#2030C8",
+      "accent_color": "#2030C8"
+    },
+    {
+      "key": "belveb",
+      "name": {"en": "Bank BelVEB", "ru": "Банк БелВЭБ", "be": "Банк БелВЭБ"},
+      "logo": "https://catalog.kazna.app/packs/by-banks/logos/belveb.png",
+      "countries": ["BY"],
+      "website": "https://www.belveb.by",
+      "card_background": "solid:#001837",
+      "accent_color": "#001837"
+    },
+    {
+      "key": "sberbank-by",
+      "name": {"en": "Sber Bank", "ru": "Сбер Банк", "be": "Сбер Банк"},
+      "logo": "https://catalog.kazna.app/packs/by-banks/logos/sberbank-by.png",
+      "countries": ["BY"],
+      "website": "https://www.sber-bank.by",
+      "card_background": "solid:#21A038",
+      "accent_color": "#21A038",
+      "brand": "sberbank"
+    },
+    {
+      "key": "vtb-by",
+      "name": {"en": "VTB Bank (Belarus)", "ru": "Банк ВТБ (Беларусь)", "be": "Банк ВТБ (Беларусь)"},
+      "logo": "https://catalog.kazna.app/packs/by-banks/logos/vtb-by.png",
+      "countries": ["BY"],
+      "website": "https://www.vtb.by",
+      "card_background": "solid:#003087",
+      "accent_color": "#003087",
+      "brand": "vtb"
+    },
+    {
+      "key": "bsb",
+      "name": {"en": "BSB Bank", "ru": "БСБ Банк", "be": "БСБ Банк"},
+      "logo": "https://catalog.kazna.app/packs/by-banks/logos/bsb.png",
+      "countries": ["BY"],
+      "website": "https://www.bsb.by",
+      "card_background": "solid:#E30613",
+      "accent_color": "#E30613"
     }
   ]
 }

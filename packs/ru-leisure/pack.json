@@ -1,0 +1,60 @@
+{
+  "id": "ru-leisure",
+  "version": 1,
+  "type": "payees",
+  "name": {
+    "en": "Russian Cinemas & Tickets",
+    "ru": "Кино и билеты"
+  },
+  "payees": [
+    {
+      "key": "yandex-afisha",
+      "name": { "en": "Yandex Afisha", "ru": "Яндекс Афиша" },
+      "logo": "https://catalog.kazna.app/packs/ru-leisure/logos/yandex-afisha.png",
+      "mcc": [7922],
+      "website": "https://afisha.yandex.ru"
+    },
+    {
+      "key": "karo",
+      "name": { "en": "KARO", "ru": "КАРО" },
+      "logo": "https://catalog.kazna.app/packs/ru-leisure/logos/karo.png",
+      "mcc": [7832],
+      "website": "https://karofilm.ru"
+    },
+    {
+      "key": "cinema-park",
+      "name": { "en": "Cinema Park / Formula Kino", "ru": "Синема Парк / Формула Кино" },
+      "logo": "https://catalog.kazna.app/packs/ru-leisure/logos/cinema-park.png",
+      "mcc": [7832],
+      "website": "https://kinoteatr.ru"
+    },
+    {
+      "key": "kinomax",
+      "name": { "en": "Kinomax", "ru": "Киномакс" },
+      "logo": "https://catalog.kazna.app/packs/ru-leisure/logos/kinomax.png",
+      "mcc": [7832],
+      "website": "https://kinomax.ru"
+    },
+    {
+      "key": "kassir",
+      "name": { "en": "Kassir.ru", "ru": "Кассир.ру" },
+      "logo": "https://catalog.kazna.app/packs/ru-leisure/logos/kassir.png",
+      "mcc": [7922],
+      "website": "https://kassir.ru"
+    },
+    {
+      "key": "mts-live",
+      "name": { "en": "MTS Live", "ru": "МТС Live" },
+      "logo": "https://catalog.kazna.app/packs/ru-leisure/logos/mts-live.png",
+      "mcc": [7922],
+      "website": "https://live.mts.ru"
+    },
+    {
+      "key": "ticketland",
+      "name": { "en": "Ticketland", "ru": "Ticketland" },
+      "logo": "https://catalog.kazna.app/packs/ru-leisure/logos/ticketland.png",
+      "mcc": [7922],
+      "website": "https://www.ticketland.ru"
+    }
+  ]
+}

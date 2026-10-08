@@ -159,7 +159,7 @@
     {
       "id": "ru-banks",
       "type": "banks",
-      "version": 8,
+      "version": 9,
       "name": {
         "en": "Russian Banks",
         "ru": "Банки России"
@@ -181,7 +181,7 @@
     {
       "id": "by-banks",
       "type": "banks",
-      "version": 2,
+      "version": 3,
       "name": {
         "en": "Belarusian Banks",
         "ru": "Банки Беларуси",
@@ -192,7 +192,7 @@
         "ru": "Крупные банки Беларуси — Беларусбанк, Белагропромбанк, Приорбанк и другие"
       },
       "tags": ["belarus", "banks"],
-      "entity_count": 5,
+      "entity_count": 11,
       "pack_url": "https://catalog.kazna.app/packs/by-banks/pack.json",
       "preview_logos": [
         "https://catalog.kazna.app/packs/by-banks/logos/belarusbank.png",
@@ -703,6 +703,94 @@
         "https://catalog.kazna.app/packs/ru-auto/logos/mos-parking.png",
         "https://catalog.kazna.app/packs/ru-auto/logos/yandex-zapravki.png",
         "https://catalog.kazna.app/packs/ru-auto/logos/fit-service.png"
+      ]
+    },
+    {
+      "id": "ru-kids-pets",
+      "type": "payees",
+      "version": 1,
+      "name": {
+        "en": "Russian Kids & Pet Stores",
+        "ru": "Детские и зоотовары"
+      },
+      "description": {
+        "en": "Kids and pet stores in Russia — Detsky Mir, Zoozavr, Four Paws, Bethowen and 1 more",
+        "ru": "Детские и зоомагазины — Детский мир, Зоозавр, Четыре лапы, Бетховен и ещё 1"
+      },
+      "tags": ["russia", "kids", "pets"],
+      "entity_count": 5,
+      "pack_url": "https://catalog.kazna.app/packs/ru-kids-pets/pack.json",
+      "preview_logos": [
+        "https://catalog.kazna.app/packs/ru-kids-pets/logos/detmir.png",
+        "https://catalog.kazna.app/packs/ru-kids-pets/logos/zoozavr.png",
+        "https://catalog.kazna.app/packs/ru-kids-pets/logos/chetyre-lapy.png",
+        "https://catalog.kazna.app/packs/ru-kids-pets/logos/bethowen.png"
+      ]
+    },
+    {
+      "id": "ru-insurance",
+      "type": "payees",
+      "version": 1,
+      "name": {
+        "en": "Russian Insurance",
+        "ru": "Страхование"
+      },
+      "description": {
+        "en": "Insurance companies in Russia — Ingosstrakh, Rosgosstrakh, SOGAZ, RESO-Garantia and 3 more",
+        "ru": "Страховые компании — Ингосстрах, Росгосстрах, СОГАЗ, РЕСО-Гарантия и ещё 3"
+      },
+      "tags": ["russia", "insurance"],
+      "entity_count": 7,
+      "pack_url": "https://catalog.kazna.app/packs/ru-insurance/pack.json",
+      "preview_logos": [
+        "https://catalog.kazna.app/packs/ru-insurance/logos/ingos.png",
+        "https://catalog.kazna.app/packs/ru-insurance/logos/rgs.png",
+        "https://catalog.kazna.app/packs/ru-insurance/logos/sogaz.png",
+        "https://catalog.kazna.app/packs/ru-insurance/logos/reso.png"
+      ]
+    },
+    {
+      "id": "ru-leisure",
+      "type": "payees",
+      "version": 1,
+      "name": {
+        "en": "Russian Cinemas & Tickets",
+        "ru": "Кино и билеты"
+      },
+      "description": {
+        "en": "Cinemas and event tickets in Russia — Yandex Afisha, KARO, Cinema Park, Kinomax and 3 more",
+        "ru": "Кинотеатры и билеты на события — Яндекс Афиша, КАРО, Синема Парк, Киномакс и ещё 3"
+      },
+      "tags": ["russia", "leisure", "tickets"],
+      "entity_count": 7,
+      "pack_url": "https://catalog.kazna.app/packs/ru-leisure/pack.json",
+      "preview_logos": [
+        "https://catalog.kazna.app/packs/ru-leisure/logos/yandex-afisha.png",
+        "https://catalog.kazna.app/packs/ru-leisure/logos/karo.png",
+        "https://catalog.kazna.app/packs/ru-leisure/logos/cinema-park.png",
+        "https://catalog.kazna.app/packs/ru-leisure/logos/kinomax.png"
+      ]
+    },
+    {
+      "id": "by-retail",
+      "type": "payees",
+      "version": 1,
+      "name": {
+        "en": "Belarus Shops & Services",
+        "ru": "Магазины и сервисы Беларуси"
+      },
+      "description": {
+        "en": "Shops, electronics and telecoms in Belarus — Evroopt, Korona, Gippo, Green and 7 more",
+        "ru": "Магазины, электроника и связь в Беларуси — Евроопт, Корона, Гиппо, Грин и ещё 7"
+      },
+      "tags": ["belarus", "retail", "telecom"],
+      "entity_count": 11,
+      "pack_url": "https://catalog.kazna.app/packs/by-retail/pack.json",
+      "preview_logos": [
+        "https://catalog.kazna.app/packs/by-retail/logos/evroopt.png",
+        "https://catalog.kazna.app/packs/by-retail/logos/korona.png",
+        "https://catalog.kazna.app/packs/by-retail/logos/gippo.png",
+        "https://catalog.kazna.app/packs/by-retail/logos/green-by.png"
       ]
     }
   ]

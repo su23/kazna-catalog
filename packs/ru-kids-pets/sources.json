@@ -1,0 +1,41 @@
+{
+  "detmir": {
+    "source": "App Store icon id1444328363 (DM LLC)",
+    "kind": "App Store icon, opaque tile",
+    "licence": "trademark",
+    "note": "the site logo is a long wordmark",
+    "fetched": "2026-10-08",
+    "processing": "resized to 128x128"
+  },
+  "zoozavr": {
+    "source": "https://go.detmir.st/img/production_afc682322a6987/69e9f2ba3bf8275c9c10e17af9528562.svg",
+    "kind": "brand site SVG",
+    "licence": "trademark",
+    "note": "part of Detsky Mir; wordmark",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "chetyre-lapy": {
+    "source": "https://cdn.4lapy.ru/images/back-logo.svg + https://cdn.4lapy.ru/images/dog.svg",
+    "kind": "brand site SVG",
+    "licence": "trademark",
+    "note": "dog composed on its backdrop, as the site sidebar shows it",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "bethowen": {
+    "source": "https://www.bethowen.ru/images/logo-2025-md.svg",
+    "kind": "brand site SVG",
+    "licence": "trademark",
+    "note": "2025 mark, wordmark dropped",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "petshop": {
+    "source": "https://cdn.petshop.ru/favicon-144x144.svg",
+    "kind": "brand site SVG",
+    "licence": "trademark",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  }
+}

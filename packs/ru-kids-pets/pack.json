@@ -1,0 +1,46 @@
+{
+  "id": "ru-kids-pets",
+  "version": 1,
+  "type": "payees",
+  "name": {
+    "en": "Russian Kids & Pet Stores",
+    "ru": "Детские и зоотовары"
+  },
+  "payees": [
+    {
+      "key": "detmir",
+      "name": { "en": "Detsky Mir", "ru": "Детский мир" },
+      "logo": "https://catalog.kazna.app/packs/ru-kids-pets/logos/detmir.png",
+      "mcc": [5641, 5945],
+      "website": "https://www.detmir.ru"
+    },
+    {
+      "key": "zoozavr",
+      "name": { "en": "Zoozavr", "ru": "Зоозавр" },
+      "logo": "https://catalog.kazna.app/packs/ru-kids-pets/logos/zoozavr.png",
+      "mcc": [5995],
+      "website": "https://zoozavr.ru"
+    },
+    {
+      "key": "chetyre-lapy",
+      "name": { "en": "Four Paws", "ru": "Четыре лапы" },
+      "logo": "https://catalog.kazna.app/packs/ru-kids-pets/logos/chetyre-lapy.png",
+      "mcc": [5995],
+      "website": "https://4lapy.ru"
+    },
+    {
+      "key": "bethowen",
+      "name": { "en": "Bethowen", "ru": "Бетховен" },
+      "logo": "https://catalog.kazna.app/packs/ru-kids-pets/logos/bethowen.png",
+      "mcc": [5995],
+      "website": "https://www.bethowen.ru"
+    },
+    {
+      "key": "petshop",
+      "name": { "en": "Petshop.ru", "ru": "Petshop.ru" },
+      "logo": "https://catalog.kazna.app/packs/ru-kids-pets/logos/petshop.png",
+      "mcc": [5995],
+      "website": "https://www.petshop.ru"
+    }
+  ]
+}

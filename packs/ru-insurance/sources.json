@@ -1,0 +1,58 @@
+{
+  "ingos": {
+    "source": "https://www.ingos.ru/ (sprite symbol icon-logo-mini)",
+    "kind": "brand site inline SVG",
+    "licence": "trademark",
+    "note": "drawn in the site primary #004DE5",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "rgs": {
+    "source": "https://www.rgs.ru/_nuxt/52ec7deae9929baac31bfae97c61216b.svg#i-logotype",
+    "kind": "brand site SVG sprite",
+    "licence": "trademark",
+    "note": "wordmark in the rendered #990032; no symbol",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "sogaz": {
+    "source": "https://www.sogaz.ru/u/pages/main/logo-mini.svg",
+    "kind": "brand site SVG",
+    "licence": "trademark",
+    "note": "wordmark",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "reso": {
+    "source": "https://reso.ru/export/system/modules/ru.reso.v2/resources/img/icons/logo.svg",
+    "kind": "brand site SVG",
+    "licence": "trademark",
+    "note": "symbol cropped from the lockup",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "renins": {
+    "source": "App Store icon id1456449980 (Renaissance Insurance Group)",
+    "kind": "App Store icon, opaque tile",
+    "licence": "trademark",
+    "note": "the site logo is a long wordmark",
+    "fetched": "2026-10-08",
+    "processing": "resized to 128x128"
+  },
+  "sber-insurance": {
+    "source": "https://sberbankins.ru/local/templates/front/img/main-logo.svg",
+    "kind": "brand site SVG",
+    "licence": "trademark",
+    "note": "wordmark, so it is not mistaken for Sberbank",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "t-insurance": {
+    "source": "https://commons.wikimedia.org/wiki/File:T-Insurance_logo.svg",
+    "kind": "Wikimedia Commons SVG",
+    "licence": "Public domain; trademark",
+    "note": "wordmark, so it is not mistaken for T-Bank",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  }
+}

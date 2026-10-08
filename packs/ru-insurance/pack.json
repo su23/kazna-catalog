@@ -1,0 +1,60 @@
+{
+  "id": "ru-insurance",
+  "version": 1,
+  "type": "payees",
+  "name": {
+    "en": "Russian Insurance",
+    "ru": "Страхование"
+  },
+  "payees": [
+    {
+      "key": "ingos",
+      "name": { "en": "Ingosstrakh", "ru": "Ингосстрах" },
+      "logo": "https://catalog.kazna.app/packs/ru-insurance/logos/ingos.png",
+      "mcc": [6300],
+      "website": "https://www.ingos.ru"
+    },
+    {
+      "key": "rgs",
+      "name": { "en": "Rosgosstrakh", "ru": "Росгосстрах" },
+      "logo": "https://catalog.kazna.app/packs/ru-insurance/logos/rgs.png",
+      "mcc": [6300],
+      "website": "https://www.rgs.ru"
+    },
+    {
+      "key": "sogaz",
+      "name": { "en": "SOGAZ", "ru": "СОГАЗ" },
+      "logo": "https://catalog.kazna.app/packs/ru-insurance/logos/sogaz.png",
+      "mcc": [6300],
+      "website": "https://www.sogaz.ru"
+    },
+    {
+      "key": "reso",
+      "name": { "en": "RESO-Garantia", "ru": "РЕСО-Гарантия" },
+      "logo": "https://catalog.kazna.app/packs/ru-insurance/logos/reso.png",
+      "mcc": [6300],
+      "website": "https://reso.ru"
+    },
+    {
+      "key": "renins",
+      "name": { "en": "Renaissance Insurance", "ru": "Ренессанс страхование" },
+      "logo": "https://catalog.kazna.app/packs/ru-insurance/logos/renins.png",
+      "mcc": [6300],
+      "website": "https://www.renins.ru"
+    },
+    {
+      "key": "sber-insurance",
+      "name": { "en": "Sber Insurance", "ru": "СберСтрахование" },
+      "logo": "https://catalog.kazna.app/packs/ru-insurance/logos/sber-insurance.png",
+      "mcc": [6300],
+      "website": "https://sberbankins.ru"
+    },
+    {
+      "key": "t-insurance",
+      "name": { "en": "T-Insurance", "ru": "Т-Страхование" },
+      "logo": "https://catalog.kazna.app/packs/ru-insurance/logos/t-insurance.png",
+      "mcc": [6300],
+      "website": "https://www.tbank.ru/insurance/"
+    }
+  ]
+}
