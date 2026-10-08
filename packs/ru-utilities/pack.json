@@ -1,0 +1,53 @@
+{
+  "id": "ru-utilities",
+  "version": 1,
+  "type": "payees",
+  "name": {
+    "en": "Russian Utilities & Home Internet",
+    "ru": "ЖКХ и домашний интернет"
+  },
+  "payees": [
+    {
+      "key": "rostelecom",
+      "name": { "en": "Rostelecom", "ru": "Ростелеком" },
+      "logo": "https://catalog.kazna.app/packs/ru-utilities/logos/rostelecom.png",
+      "mcc": [4900, 4814],
+      "website": "https://rt.ru"
+    },
+    {
+      "key": "domru",
+      "name": { "en": "Dom.ru", "ru": "Дом.ру" },
+      "logo": "https://catalog.kazna.app/packs/ru-utilities/logos/domru.png",
+      "mcc": [4900, 4814],
+      "website": "https://dom.ru"
+    },
+    {
+      "key": "mosenergosbyt",
+      "name": { "en": "Mosenergosbyt", "ru": "Мосэнергосбыт" },
+      "logo": "https://catalog.kazna.app/packs/ru-utilities/logos/mosenergosbyt.png",
+      "mcc": [4900, 4814],
+      "website": "https://www.mosenergosbyt.ru"
+    },
+    {
+      "key": "mosobleirc",
+      "name": { "en": "MosOblEIRC", "ru": "МосОблЕИРЦ" },
+      "logo": "https://catalog.kazna.app/packs/ru-utilities/logos/mosobleirc.png",
+      "mcc": [4900, 4814],
+      "website": "https://мособлеирц.рф"
+    },
+    {
+      "key": "gazprom-mrg",
+      "name": { "en": "Gazprom Mezhregiongaz", "ru": "Газпром межрегионгаз" },
+      "logo": "https://catalog.kazna.app/packs/ru-utilities/logos/gazprom-mrg.png",
+      "mcc": [4900, 4814],
+      "website": "https://mrg.gazprom.ru"
+    },
+    {
+      "key": "psk-spb",
+      "name": { "en": "Petersburg Sales Company", "ru": "Петербургская сбытовая компания" },
+      "logo": "https://catalog.kazna.app/packs/ru-utilities/logos/psk-spb.png",
+      "mcc": [4900, 4814],
+      "website": "https://pesc.ru"
+    }
+  ]
+}

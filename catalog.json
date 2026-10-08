@@ -484,6 +484,116 @@
         "https://catalog.kazna.app/packs/uz-banks/logos/uzumbank.png",
         "https://catalog.kazna.app/packs/uz-banks/logos/hamkorbank.png"
       ]
+    },
+    {
+      "id": "ru-electronics",
+      "type": "payees",
+      "version": 1,
+      "name": {
+        "en": "Russian Electronics Stores",
+        "ru": "Магазины электроники"
+      },
+      "description": {
+        "en": "Electronics and appliance chains in Russia — M.Video, Eldorado, DNS, Citilink and 1 more",
+        "ru": "Сети электроники и бытовой техники — М.Видео, Эльдорадо, DNS, Ситилинк и ещё 1"
+      },
+      "tags": ["russia", "electronics", "retail"],
+      "entity_count": 5,
+      "pack_url": "https://catalog.kazna.app/packs/ru-electronics/pack.json",
+      "preview_logos": [
+        "https://catalog.kazna.app/packs/ru-electronics/logos/mvideo.png",
+        "https://catalog.kazna.app/packs/ru-electronics/logos/eldorado.png",
+        "https://catalog.kazna.app/packs/ru-electronics/logos/dns.png",
+        "https://catalog.kazna.app/packs/ru-electronics/logos/citilink.png"
+      ]
+    },
+    {
+      "id": "ru-utilities",
+      "type": "payees",
+      "version": 1,
+      "name": {
+        "en": "Russian Utilities & Home Internet",
+        "ru": "ЖКХ и домашний интернет"
+      },
+      "description": {
+        "en": "Utility bills and home internet in Russia — Rostelecom, Dom.ru, Mosenergosbyt, MosOblEIRC and 2 more",
+        "ru": "Коммунальные платежи и домашний интернет — Ростелеком, Дом.ру, Мосэнергосбыт, МосОблЕИРЦ и ещё 2"
+      },
+      "tags": ["russia", "utilities", "bills"],
+      "entity_count": 6,
+      "pack_url": "https://catalog.kazna.app/packs/ru-utilities/pack.json",
+      "preview_logos": [
+        "https://catalog.kazna.app/packs/ru-utilities/logos/rostelecom.png",
+        "https://catalog.kazna.app/packs/ru-utilities/logos/domru.png",
+        "https://catalog.kazna.app/packs/ru-utilities/logos/mosenergosbyt.png",
+        "https://catalog.kazna.app/packs/ru-utilities/logos/mosobleirc.png"
+      ]
+    },
+    {
+      "id": "ru-transport",
+      "type": "payees",
+      "version": 1,
+      "name": {
+        "en": "Russian Transport & Travel",
+        "ru": "Транспорт и поездки"
+      },
+      "description": {
+        "en": "Trains, city transport, carsharing and travel booking in Russia — Russian Railways, Moscow Transport, Aeroexpress, Tutu and 7 more",
+        "ru": "Поезда, городской транспорт, каршеринг и бронирование поездок — РЖД, Московский транспорт, Аэроэкспресс, Туту и ещё 7"
+      },
+      "tags": ["russia", "transport", "travel"],
+      "entity_count": 11,
+      "pack_url": "https://catalog.kazna.app/packs/ru-transport/pack.json",
+      "preview_logos": [
+        "https://catalog.kazna.app/packs/ru-transport/logos/rzd.png",
+        "https://catalog.kazna.app/packs/ru-transport/logos/mos-transport.png",
+        "https://catalog.kazna.app/packs/ru-transport/logos/aeroexpress.png",
+        "https://catalog.kazna.app/packs/ru-transport/logos/tutu.png"
+      ]
+    },
+    {
+      "id": "tr-banks",
+      "type": "banks",
+      "version": 1,
+      "name": {
+        "en": "Turkish Banks",
+        "ru": "Банки Турции"
+      },
+      "description": {
+        "en": "Major Turkish banks with card colors — Ziraat Bank, Garanti BBVA, İş Bankası, Akbank and 6 more",
+        "ru": "Крупные банки Турции с цветами карт — Зираат Банк, Гаранти BBVA, Ишбанк, Акбанк и ещё 6"
+      },
+      "tags": ["turkey", "banks"],
+      "entity_count": 10,
+      "pack_url": "https://catalog.kazna.app/packs/tr-banks/pack.json",
+      "preview_logos": [
+        "https://catalog.kazna.app/packs/tr-banks/logos/ziraat-bank.png",
+        "https://catalog.kazna.app/packs/tr-banks/logos/garanti-bbva.png",
+        "https://catalog.kazna.app/packs/tr-banks/logos/isbank.png",
+        "https://catalog.kazna.app/packs/tr-banks/logos/akbank.png"
+      ]
+    },
+    {
+      "id": "ae-banks",
+      "type": "banks",
+      "version": 1,
+      "name": {
+        "en": "UAE Banks",
+        "ru": "Банки ОАЭ"
+      },
+      "description": {
+        "en": "Major UAE banks with card colors — Emirates NBD, ADCB, First Abu Dhabi Bank, Mashreq and 4 more",
+        "ru": "Крупные банки ОАЭ с цветами карт — Эмирейтс НБД, ADCB, Первый банк Абу-Даби, Машрек и ещё 4"
+      },
+      "tags": ["uae", "banks"],
+      "entity_count": 8,
+      "pack_url": "https://catalog.kazna.app/packs/ae-banks/pack.json",
+      "preview_logos": [
+        "https://catalog.kazna.app/packs/ae-banks/logos/emirates-nbd.png",
+        "https://catalog.kazna.app/packs/ae-banks/logos/adcb.png",
+        "https://catalog.kazna.app/packs/ae-banks/logos/fab.png",
+        "https://catalog.kazna.app/packs/ae-banks/logos/mashreq.png"
+      ]
     }
   ]
 }

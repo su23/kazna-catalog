@@ -1,0 +1,101 @@
+{
+  "id": "tr-banks",
+  "version": 1,
+  "type": "banks",
+  "name": {
+    "en": "Turkish Banks",
+    "ru": "Банки Турции"
+  },
+  "banks": [
+    {
+      "key": "ziraat-bank",
+      "name": { "en": "Ziraat Bank", "ru": "Зираат Банк" },
+      "logo": "https://catalog.kazna.app/packs/tr-banks/logos/ziraat-bank.png",
+      "countries": ["TR"],
+      "website": "https://www.ziraatbank.com.tr",
+      "card_background": "solid:#E10514",
+      "accent_color": "#E10514"
+    },
+    {
+      "key": "garanti-bbva",
+      "name": { "en": "Garanti BBVA", "ru": "Гаранти BBVA" },
+      "logo": "https://catalog.kazna.app/packs/tr-banks/logos/garanti-bbva.png",
+      "countries": ["TR"],
+      "website": "https://www.garantibbva.com.tr",
+      "card_background": "solid:#004481",
+      "accent_color": "#004481"
+    },
+    {
+      "key": "isbank",
+      "name": { "en": "Türkiye İş Bankası", "ru": "Ишбанк" },
+      "logo": "https://catalog.kazna.app/packs/tr-banks/logos/isbank.png",
+      "countries": ["TR"],
+      "website": "https://www.isbank.com.tr",
+      "card_background": "solid:#005098",
+      "accent_color": "#005098"
+    },
+    {
+      "key": "akbank",
+      "name": { "en": "Akbank", "ru": "Акбанк" },
+      "logo": "https://catalog.kazna.app/packs/tr-banks/logos/akbank.png",
+      "countries": ["TR"],
+      "website": "https://www.akbank.com",
+      "card_background": "solid:#DC0005",
+      "accent_color": "#DC0005"
+    },
+    {
+      "key": "yapi-kredi",
+      "name": { "en": "Yapı Kredi", "ru": "Яапы Креди" },
+      "logo": "https://catalog.kazna.app/packs/tr-banks/logos/yapi-kredi.png",
+      "countries": ["TR"],
+      "website": "https://www.yapikredi.com.tr",
+      "card_background": "solid:#004990",
+      "accent_color": "#004990"
+    },
+    {
+      "key": "vakifbank",
+      "name": { "en": "VakıfBank", "ru": "Вакыфбанк" },
+      "logo": "https://catalog.kazna.app/packs/tr-banks/logos/vakifbank.png",
+      "countries": ["TR"],
+      "website": "https://www.vakifbank.com.tr",
+      "card_background": "solid:#F8C048",
+      "accent_color": "#F8C048"
+    },
+    {
+      "key": "halkbank",
+      "name": { "en": "Halkbank", "ru": "Халкбанк" },
+      "logo": "https://catalog.kazna.app/packs/tr-banks/logos/halkbank.png",
+      "countries": ["TR"],
+      "website": "https://www.halkbank.com.tr",
+      "card_background": "solid:#005090",
+      "accent_color": "#005090"
+    },
+    {
+      "key": "qnb-tr",
+      "name": { "en": "QNB", "ru": "QNB" },
+      "logo": "https://catalog.kazna.app/packs/tr-banks/logos/qnb-tr.png",
+      "countries": ["TR"],
+      "website": "https://www.qnb.com.tr",
+      "card_background": "solid:#870052",
+      "accent_color": "#870052"
+    },
+    {
+      "key": "enpara",
+      "name": { "en": "Enpara", "ru": "Энпара" },
+      "logo": "https://catalog.kazna.app/packs/tr-banks/logos/enpara.png",
+      "countries": ["TR"],
+      "website": "https://www.enpara.com",
+      "card_background": "solid:#A850A0",
+      "accent_color": "#A850A0"
+    },
+    {
+      "key": "denizbank-tr",
+      "name": { "en": "DenizBank", "ru": "ДенизБанк" },
+      "logo": "https://catalog.kazna.app/packs/tr-banks/logos/denizbank-tr.png",
+      "countries": ["TR"],
+      "website": "https://www.denizbank.com",
+      "card_background": "solid:#00529A",
+      "accent_color": "#00529A"
+    }
+  ]
+}

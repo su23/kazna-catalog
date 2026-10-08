@@ -1,0 +1,88 @@
+{
+  "id": "ru-transport",
+  "version": 1,
+  "type": "payees",
+  "name": {
+    "en": "Russian Transport & Travel",
+    "ru": "Транспорт и поездки"
+  },
+  "payees": [
+    {
+      "key": "rzd",
+      "name": { "en": "Russian Railways", "ru": "РЖД" },
+      "logo": "https://catalog.kazna.app/packs/ru-transport/logos/rzd.png",
+      "mcc": [4112],
+      "website": "https://www.rzd.ru"
+    },
+    {
+      "key": "mos-transport",
+      "name": { "en": "Moscow Transport (Troika)", "ru": "Московский транспорт (Тройка)" },
+      "logo": "https://catalog.kazna.app/packs/ru-transport/logos/mos-transport.png",
+      "mcc": [4111],
+      "website": "https://transport.mos.ru"
+    },
+    {
+      "key": "aeroexpress",
+      "name": { "en": "Aeroexpress", "ru": "Аэроэкспресс" },
+      "logo": "https://catalog.kazna.app/packs/ru-transport/logos/aeroexpress.png",
+      "mcc": [4112],
+      "website": "https://aeroexpress.ru"
+    },
+    {
+      "key": "tutu",
+      "name": { "en": "Tutu", "ru": "Туту" },
+      "logo": "https://catalog.kazna.app/packs/ru-transport/logos/tutu.png",
+      "mcc": [4722],
+      "website": "https://www.tutu.ru"
+    },
+    {
+      "key": "aviasales",
+      "name": { "en": "Aviasales", "ru": "Авиасейлс" },
+      "logo": "https://catalog.kazna.app/packs/ru-transport/logos/aviasales.png",
+      "mcc": [4722],
+      "website": "https://www.aviasales.ru"
+    },
+    {
+      "key": "ostrovok",
+      "name": { "en": "Ostrovok", "ru": "Островок" },
+      "logo": "https://catalog.kazna.app/packs/ru-transport/logos/ostrovok.png",
+      "mcc": [4722, 7011],
+      "website": "https://ostrovok.ru"
+    },
+    {
+      "key": "yandex-go",
+      "name": { "en": "Yandex Go", "ru": "Яндекс Go" },
+      "logo": "https://catalog.kazna.app/packs/ru-transport/logos/yandex-go.png",
+      "mcc": [4121],
+      "website": "https://go.yandex.ru"
+    },
+    {
+      "key": "delimobil",
+      "name": { "en": "Delimobil", "ru": "Делимобиль" },
+      "logo": "https://catalog.kazna.app/packs/ru-transport/logos/delimobil.png",
+      "mcc": [7512],
+      "website": "https://delimobil.ru"
+    },
+    {
+      "key": "belkacar",
+      "name": { "en": "BelkaCar", "ru": "BelkaCar" },
+      "logo": "https://catalog.kazna.app/packs/ru-transport/logos/belkacar.png",
+      "mcc": [7512],
+      "website": "https://belkacar.ru"
+    },
+    {
+      "key": "whoosh",
+      "name": { "en": "Whoosh", "ru": "Whoosh" },
+      "logo": "https://catalog.kazna.app/packs/ru-transport/logos/whoosh.png",
+      "mcc": [7999, 4121],
+      "website": "https://whoosh-bike.ru"
+    },
+    {
+      "key": "urent",
+      "name": { "en": "Yurent", "ru": "Юрент" },
+      "logo": "https://catalog.kazna.app/packs/ru-transport/logos/urent.png",
+      "mcc": [7999, 4121],
+      "website": "https://urent.ru"
+    }
+  ]
+}

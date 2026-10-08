@@ -1,0 +1,85 @@
+{
+  "rzd": {
+    "source": "https://commons.wikimedia.org/wiki/File:Russian_Railways_Logo.svg",
+    "kind": "Wikimedia Commons SVG",
+    "licence": "Public domain; trademark",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "mos-transport": {
+    "source": "https://commons.wikimedia.org/wiki/File:Moscow_Transport_logo.svg",
+    "kind": "Wikimedia Commons SVG",
+    "licence": "Public domain; trademark",
+    "note": "covers the Troika card",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "aeroexpress": {
+    "source": "https://aeroexpress.ru/favicon.svg",
+    "kind": "brand site SVG",
+    "licence": "trademark",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "tutu": {
+    "source": "https://cdn1.tu-tu.ru/lib-assets/@tutu-react/favicon@1.3.2/favicon.svg",
+    "kind": "brand site SVG",
+    "licence": "trademark",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "aviasales": {
+    "source": "https://static.aviasales.com/selene-static/spa/favicons/AS-icon.svg",
+    "kind": "brand site SVG",
+    "licence": "trademark",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "ostrovok": {
+    "source": "https://commons.wikimedia.org/wiki/File:Ostrovok_logo_2024.svg",
+    "kind": "Wikimedia Commons SVG",
+    "licence": "Public domain; trademark",
+    "note": "wordmark",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "yandex-go": {
+    "source": "https://catalog.kazna.app/packs/ru-online-services/logos/yandex-go.png",
+    "kind": "copied from ru-online-services",
+    "licence": "trademark",
+    "note": "same key as in ru-online-services: one payee in both packs",
+    "fetched": "2026-10-08",
+    "processing": "unchanged"
+  },
+  "delimobil": {
+    "source": "https://delimobil.ru/img/logo.8db8ca8d.svg",
+    "kind": "brand site SVG",
+    "licence": "trademark",
+    "note": "wordmark",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "belkacar": {
+    "source": "https://belkacar.ru/uploads/logo-blue.df73b53.svg",
+    "kind": "brand site SVG",
+    "licence": "trademark",
+    "note": "wordmark",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "whoosh": {
+    "source": "https://static.tildacdn.com/tild3761-6265-4336-b966-356561393931/App_Icon.svg",
+    "kind": "brand site SVG",
+    "licence": "trademark",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "urent": {
+    "source": "https://urent.ru/images/tild3234-3163-4136-a663-383263303332__ur_logo.svg",
+    "kind": "brand site SVG",
+    "licence": "trademark",
+    "note": "formerly Urent",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "ziraat-bank": {
+    "source": "https://commons.wikimedia.org/wiki/File:Ziraat_Bankası_2025_Logo.svg",
+    "kind": "Wikimedia Commons SVG",
+    "licence": "Public domain; trademark",
+    "note": "2025 logo, emblem cropped",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "garanti-bbva": {
+    "source": "https://commons.wikimedia.org/wiki/File:Garanti_BBVA_2019.svg",
+    "kind": "Wikimedia Commons SVG",
+    "licence": "Public domain; trademark",
+    "note": "clover cropped",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "isbank": {
+    "source": "https://commons.wikimedia.org/wiki/File:Türkiye_İş_Bankası_logo.svg",
+    "kind": "Wikimedia Commons SVG",
+    "licence": "Public domain; trademark",
+    "note": "symbol cropped",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "akbank": {
+    "source": "https://commons.wikimedia.org/wiki/File:Akbank_logo_2025.svg",
+    "kind": "Wikimedia Commons SVG",
+    "licence": "Public domain; trademark",
+    "note": "2025 wordmark",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "yapi-kredi": {
+    "source": "https://assets.yapikredi.com.tr/WebSite/_assets/img/Yapikredi_logo.svg",
+    "kind": "brand site SVG",
+    "licence": "trademark",
+    "note": "symbol cropped",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "vakifbank": {
+    "source": "https://commons.wikimedia.org/wiki/File:Vakıfbank_logo.svg",
+    "kind": "Wikimedia Commons SVG",
+    "licence": "Public domain; trademark",
+    "note": "symbol cropped; colour sampled from the logo",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "halkbank": {
+    "source": "https://commons.wikimedia.org/wiki/File:Halkbank_logo.svg",
+    "kind": "Wikimedia Commons SVG",
+    "licence": "Public domain; trademark",
+    "note": "symbol cropped; colour sampled from the logo",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "qnb-tr": {
+    "source": "https://commons.wikimedia.org/wiki/File:QNB_Logo.svg",
+    "kind": "Wikimedia Commons SVG",
+    "licence": "Public domain; trademark",
+    "note": "formerly QNB Finansbank; symbol cropped",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "enpara": {
+    "source": "https://commons.wikimedia.org/wiki/File:Enpara.com_Logo.svg",
+    "kind": "Wikimedia Commons SVG",
+    "licence": "Public domain; trademark",
+    "note": "emblem cropped",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "denizbank-tr": {
+    "source": "https://commons.wikimedia.org/wiki/File:DenizBank_logo_2026.svg",
+    "kind": "Wikimedia Commons SVG",
+    "licence": "Public domain; trademark",
+    "note": "2026 wordmark",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  }
+}

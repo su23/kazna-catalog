@@ -1,0 +1,83 @@
+{
+  "id": "ae-banks",
+  "version": 1,
+  "type": "banks",
+  "name": {
+    "en": "UAE Banks",
+    "ru": "Банки ОАЭ"
+  },
+  "banks": [
+    {
+      "key": "emirates-nbd",
+      "name": { "en": "Emirates NBD", "ru": "Эмирейтс НБД" },
+      "logo": "https://catalog.kazna.app/packs/ae-banks/logos/emirates-nbd.png",
+      "countries": ["AE"],
+      "website": "https://www.emiratesnbd.com",
+      "card_background": "solid:#072447",
+      "accent_color": "#072447"
+    },
+    {
+      "key": "adcb",
+      "name": { "en": "ADCB", "ru": "ADCB" },
+      "logo": "https://catalog.kazna.app/packs/ae-banks/logos/adcb.png",
+      "countries": ["AE"],
+      "website": "https://www.adcb.com",
+      "card_background": "solid:#EC0100",
+      "accent_color": "#EC0100"
+    },
+    {
+      "key": "fab",
+      "name": { "en": "First Abu Dhabi Bank", "ru": "Первый банк Абу-Даби" },
+      "logo": "https://catalog.kazna.app/packs/ae-banks/logos/fab.png",
+      "countries": ["AE"],
+      "website": "https://www.bankfab.com",
+      "card_background": "solid:#004088",
+      "accent_color": "#004088"
+    },
+    {
+      "key": "mashreq",
+      "name": { "en": "Mashreq", "ru": "Машрек" },
+      "logo": "https://catalog.kazna.app/packs/ae-banks/logos/mashreq.png",
+      "countries": ["AE"],
+      "website": "https://www.mashreq.com",
+      "card_background": "solid:#E85820",
+      "accent_color": "#E85820"
+    },
+    {
+      "key": "dib",
+      "name": { "en": "Dubai Islamic Bank", "ru": "Дубайский исламский банк" },
+      "logo": "https://catalog.kazna.app/packs/ae-banks/logos/dib.png",
+      "countries": ["AE"],
+      "website": "https://www.dib.ae",
+      "card_background": "solid:#007830",
+      "accent_color": "#007830"
+    },
+    {
+      "key": "adib",
+      "name": { "en": "Abu Dhabi Islamic Bank", "ru": "Исламский банк Абу-Даби" },
+      "logo": "https://catalog.kazna.app/packs/ae-banks/logos/adib.png",
+      "countries": ["AE"],
+      "website": "https://www.adib.ae",
+      "card_background": "solid:#183870",
+      "accent_color": "#183870"
+    },
+    {
+      "key": "rakbank",
+      "name": { "en": "RAKBANK", "ru": "РАКБАНК" },
+      "logo": "https://catalog.kazna.app/packs/ae-banks/logos/rakbank.png",
+      "countries": ["AE"],
+      "website": "https://www.rakbank.ae",
+      "card_background": "solid:#F82800",
+      "accent_color": "#F82800"
+    },
+    {
+      "key": "wio",
+      "name": { "en": "Wio Bank", "ru": "Вио Банк" },
+      "logo": "https://catalog.kazna.app/packs/ae-banks/logos/wio.png",
+      "countries": ["AE"],
+      "website": "https://wio.io",
+      "card_background": "solid:#5700FF",
+      "accent_color": "#5700FF"
+    }
+  ]
+}

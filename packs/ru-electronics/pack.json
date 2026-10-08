@@ -1,0 +1,46 @@
+{
+  "id": "ru-electronics",
+  "version": 1,
+  "type": "payees",
+  "name": {
+    "en": "Russian Electronics Stores",
+    "ru": "Магазины электроники"
+  },
+  "payees": [
+    {
+      "key": "mvideo",
+      "name": { "en": "M.Video", "ru": "М.Видео" },
+      "logo": "https://catalog.kazna.app/packs/ru-electronics/logos/mvideo.png",
+      "mcc": [5732, 5722],
+      "website": "https://www.mvideo.ru"
+    },
+    {
+      "key": "eldorado",
+      "name": { "en": "Eldorado", "ru": "Эльдорадо" },
+      "logo": "https://catalog.kazna.app/packs/ru-electronics/logos/eldorado.png",
+      "mcc": [5732, 5722],
+      "website": "https://www.eldorado.ru"
+    },
+    {
+      "key": "dns",
+      "name": { "en": "DNS", "ru": "DNS" },
+      "logo": "https://catalog.kazna.app/packs/ru-electronics/logos/dns.png",
+      "mcc": [5732, 5722],
+      "website": "https://www.dns-shop.ru"
+    },
+    {
+      "key": "citilink",
+      "name": { "en": "Citilink", "ru": "Ситилинк" },
+      "logo": "https://catalog.kazna.app/packs/ru-electronics/logos/citilink.png",
+      "mcc": [5732, 5722],
+      "website": "https://www.citilink.ru"
+    },
+    {
+      "key": "restore",
+      "name": { "en": "restore:", "ru": "restore:" },
+      "logo": "https://catalog.kazna.app/packs/ru-electronics/logos/restore.png",
+      "mcc": [5732, 5722],
+      "website": "https://re-store.ru"
+    }
+  ]
+}
