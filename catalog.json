@@ -203,7 +203,7 @@
     {
       "id": "kz-banks",
       "type": "banks",
-      "version": 2,
+      "version": 3,
       "name": {
         "en": "Kazakh Banks",
         "ru": "Банки Казахстана",
@@ -214,7 +214,7 @@
         "ru": "Крупные банки Казахстана — Каспи Банк, Халык Банк, ЦентрКредит и другие"
       },
       "tags": ["kazakhstan", "banks"],
-      "entity_count": 5,
+      "entity_count": 11,
       "pack_url": "https://catalog.kazna.app/packs/kz-banks/pack.json",
       "preview_logos": [
         "https://catalog.kazna.app/packs/kz-banks/logos/kaspi.png",
@@ -225,18 +225,18 @@
     {
       "id": "ua-banks",
       "type": "banks",
-      "version": 1,
+      "version": 2,
       "name": {
         "en": "Ukrainian Banks",
         "ru": "Банки Украины",
         "uk": "Банки України"
       },
       "description": {
-        "en": "Major Ukrainian banks — Monobank and PrivatBank",
-        "ru": "Крупные банки Украины — Монобанк и ПриватБанк"
+        "en": "Major Ukrainian banks with card colors — Monobank, PrivatBank, Oschadbank, PUMB and 5 more",
+        "ru": "Крупные банки Украины с цветами карт — Монобанк, ПриватБанк, Ощадбанк, ПУМБ и ещё 5"
       },
       "tags": ["ukraine", "banks"],
-      "entity_count": 2,
+      "entity_count": 9,
       "pack_url": "https://catalog.kazna.app/packs/ua-banks/pack.json",
       "preview_logos": [
         "https://catalog.kazna.app/packs/ua-banks/logos/monobank.png",
@@ -268,17 +268,17 @@
     {
       "id": "airlines",
       "type": "payees",
-      "version": 3,
+      "version": 4,
       "name": {
         "en": "Airlines",
         "ru": "Авиакомпании"
       },
       "description": {
-        "en": "Major airlines worldwide — Aeroflot, Emirates, Lufthansa, Singapore Airlines and 42 more",
-        "ru": "Крупнейшие авиакомпании мира — Аэрофлот, Эмирейтс, Люфтганза, Сингапурские авиалинии и ещё 42"
+        "en": "Major airlines worldwide — Aeroflot, Emirates, Lufthansa, Singapore Airlines and 43 more",
+        "ru": "Крупнейшие авиакомпании мира — Аэрофлот, Эмирейтс, Люфтганза, Сингапурские авиалинии и ещё 43"
       },
       "tags": ["global", "travel", "airlines"],
-      "entity_count": 46,
+      "entity_count": 47,
       "pack_url": "https://catalog.kazna.app/packs/airlines/pack.json",
       "preview_logos": [
         "https://catalog.kazna.app/packs/airlines/logos/aeroflot.png",
@@ -593,6 +593,72 @@
         "https://catalog.kazna.app/packs/ae-banks/logos/adcb.png",
         "https://catalog.kazna.app/packs/ae-banks/logos/fab.png",
         "https://catalog.kazna.app/packs/ae-banks/logos/mashreq.png"
+      ]
+    },
+    {
+      "id": "ru-fashion",
+      "type": "payees",
+      "version": 1,
+      "name": {
+        "en": "Russian Clothing & Sport",
+        "ru": "Одежда и спорт"
+      },
+      "description": {
+        "en": "Clothing, shoes and sport chains in Russia — Sportmaster, Gloria Jeans, O'STIN, Befree and 8 more",
+        "ru": "Сети одежды, обуви и спорта — Спортмастер, Глория Джинс, Остин, Befree и ещё 8"
+      },
+      "tags": ["russia", "fashion", "retail"],
+      "entity_count": 12,
+      "pack_url": "https://catalog.kazna.app/packs/ru-fashion/pack.json",
+      "preview_logos": [
+        "https://catalog.kazna.app/packs/ru-fashion/logos/sportmaster.png",
+        "https://catalog.kazna.app/packs/ru-fashion/logos/gloria-jeans.png",
+        "https://catalog.kazna.app/packs/ru-fashion/logos/ostin.png",
+        "https://catalog.kazna.app/packs/ru-fashion/logos/befree.png"
+      ]
+    },
+    {
+      "id": "ru-beauty",
+      "type": "payees",
+      "version": 1,
+      "name": {
+        "en": "Russian Beauty Stores",
+        "ru": "Косметика и парфюмерия"
+      },
+      "description": {
+        "en": "Beauty and cosmetics chains in Russia — Golden Apple, L'Etoile, Rive Gauche, Podruzhka and 3 more",
+        "ru": "Сети косметики и парфюмерии — Золотое Яблоко, Лэтуаль, Рив Гош, Подружка и ещё 3"
+      },
+      "tags": ["russia", "beauty", "retail"],
+      "entity_count": 7,
+      "pack_url": "https://catalog.kazna.app/packs/ru-beauty/pack.json",
+      "preview_logos": [
+        "https://catalog.kazna.app/packs/ru-beauty/logos/zolotoe-yabloko.png",
+        "https://catalog.kazna.app/packs/ru-beauty/logos/letual.png",
+        "https://catalog.kazna.app/packs/ru-beauty/logos/rive-gauche.png",
+        "https://catalog.kazna.app/packs/ru-beauty/logos/podruzhka.png"
+      ]
+    },
+    {
+      "id": "kz-retail",
+      "type": "payees",
+      "version": 1,
+      "name": {
+        "en": "Kazakhstan Shops & Services",
+        "ru": "Магазины и сервисы Казахстана"
+      },
+      "description": {
+        "en": "Shops, delivery and telecoms in Kazakhstan — Magnum, Small, Sulpak, Technodom and 9 more",
+        "ru": "Магазины, доставка и связь в Казахстане — Магнум, Смолл, Сулпак, Технодом и ещё 9"
+      },
+      "tags": ["kazakhstan", "retail", "telecom"],
+      "entity_count": 13,
+      "pack_url": "https://catalog.kazna.app/packs/kz-retail/pack.json",
+      "preview_logos": [
+        "https://catalog.kazna.app/packs/kz-retail/logos/magnum.png",
+        "https://catalog.kazna.app/packs/kz-retail/logos/small-kz.png",
+        "https://catalog.kazna.app/packs/kz-retail/logos/sulpak.png",
+        "https://catalog.kazna.app/packs/kz-retail/logos/technodom.png"
       ]
     }
   ]

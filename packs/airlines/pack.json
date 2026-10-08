@@ -1,6 +1,6 @@
 {
   "id": "airlines",
-  "version": 3,
+  "version": 4,
   "type": "payees",
   "name": {
     "en": "Airlines",
@@ -328,6 +328,13 @@
       "logo": "https://catalog.kazna.app/packs/airlines/logos/ethiopian.png",
       "mcc": [3294, 4511],
       "website": "https://ethiopianairlines.com"
+    },
+    {
+      "key": "air-astana",
+      "name": { "en": "Air Astana", "ru": "Эйр Астана" },
+      "logo": "https://catalog.kazna.app/packs/airlines/logos/air-astana.png",
+      "mcc": [4511],
+      "website": "https://airastana.com"
     }
   ]
 }

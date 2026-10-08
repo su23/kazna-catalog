@@ -1,6 +1,6 @@
 {
   "id": "ua-banks",
-  "version": 1,
+  "version": 2,
   "type": "banks",
   "name": {
     "en": "Ukrainian Banks",
@@ -10,7 +10,7 @@
   "banks": [
     {
       "key": "monobank",
-      "name": {"en": "Monobank", "uk": "Монобанк"},
+      "name": {"en": "Monobank", "ru": "Монобанк", "uk": "Монобанк"},
       "logo": "https://catalog.kazna.app/packs/ua-banks/logos/monobank.png",
       "countries": ["UA"],
       "website": "https://monobank.ua",
@@ -19,12 +19,75 @@
     },
     {
       "key": "privatbank",
-      "name": {"en": "PrivatBank", "uk": "ПриватБанк"},
+      "name": {"en": "PrivatBank", "ru": "ПриватБанк", "uk": "ПриватБанк"},
       "logo": "https://catalog.kazna.app/packs/ua-banks/logos/privatbank.png",
       "countries": ["UA"],
       "website": "https://privatbank.ua",
       "card_background": "solid:#159B2E",
       "accent_color": "#159B2E"
+    },
+    {
+      "key": "oschadbank",
+      "name": {"en": "Oschadbank", "ru": "Ощадбанк", "uk": "Ощадбанк"},
+      "logo": "https://catalog.kazna.app/packs/ua-banks/logos/oschadbank.png",
+      "countries": ["UA"],
+      "website": "https://www.oschadbank.ua",
+      "card_background": "solid:#20C8C0",
+      "accent_color": "#20C8C0"
+    },
+    {
+      "key": "raiffeisen-ua",
+      "name": {"en": "Raiffeisen Bank", "ru": "Райффайзен Банк", "uk": "Райффайзен Банк"},
+      "logo": "https://catalog.kazna.app/packs/ua-banks/logos/raiffeisen-ua.png",
+      "countries": ["UA"],
+      "website": "https://raiffeisen.ua",
+      "card_background": "solid:#FFED00",
+      "accent_color": "#FFED00"
+    },
+    {
+      "key": "pumb",
+      "name": {"en": "PUMB", "ru": "ПУМБ", "uk": "ПУМБ"},
+      "logo": "https://catalog.kazna.app/packs/ua-banks/logos/pumb.png",
+      "countries": ["UA"],
+      "website": "https://www.pumb.ua",
+      "card_background": "solid:#E60C2E",
+      "accent_color": "#E60C2E"
+    },
+    {
+      "key": "abank-ua",
+      "name": {"en": "A-Bank", "ru": "А-Банк", "uk": "А-Банк"},
+      "logo": "https://catalog.kazna.app/packs/ua-banks/logos/abank-ua.png",
+      "countries": ["UA"],
+      "website": "https://a-bank.com.ua",
+      "card_background": "solid:#00D352",
+      "accent_color": "#00D352"
+    },
+    {
+      "key": "sensebank",
+      "name": {"en": "Sense Bank", "ru": "Сенс Банк", "uk": "Сенс Банк"},
+      "logo": "https://catalog.kazna.app/packs/ua-banks/logos/sensebank.png",
+      "countries": ["UA"],
+      "website": "https://sensebank.ua",
+      "card_background": "solid:#2722FF",
+      "accent_color": "#2722FF"
+    },
+    {
+      "key": "ukrsibbank",
+      "name": {"en": "UKRSIBBANK", "ru": "УкрСиббанк", "uk": "УКРСИББАНК"},
+      "logo": "https://catalog.kazna.app/packs/ua-banks/logos/ukrsibbank.png",
+      "countries": ["UA"],
+      "website": "https://ukrsibbank.com",
+      "card_background": "solid:#00915A",
+      "accent_color": "#00915A"
+    },
+    {
+      "key": "otpbank-ua",
+      "name": {"en": "OTP Bank", "ru": "ОТП Банк", "uk": "ОТП Банк"},
+      "logo": "https://catalog.kazna.app/packs/ua-banks/logos/otpbank-ua.png",
+      "countries": ["UA"],
+      "website": "https://otpbank.com.ua",
+      "card_background": "solid:#009A44",
+      "accent_color": "#009A44"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "id": "kz-banks",
-  "version": 2,
+  "version": 3,
   "type": "banks",
   "name": {
     "en": "Kazakh Banks",
@@ -10,7 +10,7 @@
   "banks": [
     {
       "key": "kaspi",
-      "name": {"en": "Kaspi Bank", "kk": "Каспи Банк"},
+      "name": {"en": "Kaspi Bank", "ru": "Каспи Банк", "kk": "Каспи Банк"},
       "logo": "https://catalog.kazna.app/packs/kz-banks/logos/kaspi.png",
       "countries": ["KZ"],
       "website": "https://kaspi.kz",
@@ -19,7 +19,7 @@
     },
     {
       "key": "halyk",
-      "name": {"en": "Halyk Bank", "kk": "Халық Банкі"},
+      "name": {"en": "Halyk Bank", "ru": "Халык Банк", "kk": "Халық Банкі"},
       "logo": "https://catalog.kazna.app/packs/kz-banks/logos/halyk.png",
       "countries": ["KZ"],
       "website": "https://halykbank.kz",
@@ -52,6 +52,60 @@
       "website": "https://forte.kz",
       "card_background": "solid:#D4000B",
       "accent_color": "#D4000B"
+    },
+    {
+      "key": "alataucity",
+      "name": {"en": "Alatau City Bank", "ru": "Alatau City Bank", "kk": "Alatau City Bank"},
+      "logo": "https://catalog.kazna.app/packs/kz-banks/logos/alataucity.png",
+      "countries": ["KZ"],
+      "website": "https://alataucitybank.kz",
+      "card_background": "solid:#E8B010",
+      "accent_color": "#E8B010"
+    },
+    {
+      "key": "freedombank-kz",
+      "name": {"en": "Freedom Bank", "ru": "Фридом Банк", "kk": "Freedom Bank"},
+      "logo": "https://catalog.kazna.app/packs/kz-banks/logos/freedombank-kz.png",
+      "countries": ["KZ"],
+      "website": "https://bankffin.kz",
+      "card_background": "solid:#02B140",
+      "accent_color": "#02B140"
+    },
+    {
+      "key": "bereke",
+      "name": {"en": "Bereke Bank", "ru": "Береке Банк", "kk": "Береке Банк"},
+      "logo": "https://catalog.kazna.app/packs/kz-banks/logos/bereke.png",
+      "countries": ["KZ"],
+      "website": "https://berekebank.kz",
+      "card_background": "solid:#023DFF",
+      "accent_color": "#023DFF"
+    },
+    {
+      "key": "rbk-kz",
+      "name": {"en": "Bank RBK", "ru": "Банк RBK", "kk": "RBK Банкі"},
+      "logo": "https://catalog.kazna.app/packs/kz-banks/logos/rbk-kz.png",
+      "countries": ["KZ"],
+      "website": "https://bankrbk.kz",
+      "card_background": "solid:#2FC7C8",
+      "accent_color": "#2FC7C8"
+    },
+    {
+      "key": "homecredit-kz",
+      "name": {"en": "Home Credit Bank", "ru": "Хоум Кредит Банк", "kk": "Хоум Кредит Банк"},
+      "logo": "https://catalog.kazna.app/packs/kz-banks/logos/homecredit-kz.png",
+      "countries": ["KZ"],
+      "website": "https://home.kz",
+      "card_background": "solid:#DA0025",
+      "accent_color": "#DA0025"
+    },
+    {
+      "key": "eurasian",
+      "name": {"en": "Eurasian Bank", "ru": "Евразийский банк", "kk": "Еуразиялық банк"},
+      "logo": "https://catalog.kazna.app/packs/kz-banks/logos/eurasian.png",
+      "countries": ["KZ"],
+      "website": "https://eubank.kz",
+      "card_background": "solid:#E12972",
+      "accent_color": "#E12972"
     }
   ]
 }

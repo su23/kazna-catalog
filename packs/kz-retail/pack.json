@@ -1,0 +1,102 @@
+{
+  "id": "kz-retail",
+  "version": 1,
+  "type": "payees",
+  "name": {
+    "en": "Kazakhstan Shops & Services",
+    "ru": "Магазины и сервисы Казахстана"
+  },
+  "payees": [
+    {
+      "key": "magnum",
+      "name": { "en": "Magnum", "ru": "Магнум" },
+      "logo": "https://catalog.kazna.app/packs/kz-retail/logos/magnum.png",
+      "mcc": [5411],
+      "website": "https://magnum.kz"
+    },
+    {
+      "key": "small-kz",
+      "name": { "en": "Small", "ru": "Смолл" },
+      "logo": "https://catalog.kazna.app/packs/kz-retail/logos/small-kz.png",
+      "mcc": [5411],
+      "website": "https://small.kz"
+    },
+    {
+      "key": "arbuz",
+      "name": { "en": "Arbuz.kz", "ru": "Арбуз.kz" },
+      "logo": "https://catalog.kazna.app/packs/kz-retail/logos/arbuz.png",
+      "mcc": [5411],
+      "website": "https://arbuz.kz"
+    },
+    {
+      "key": "sulpak",
+      "name": { "en": "Sulpak", "ru": "Сулпак" },
+      "logo": "https://catalog.kazna.app/packs/kz-retail/logos/sulpak.png",
+      "mcc": [5732],
+      "website": "https://www.sulpak.kz"
+    },
+    {
+      "key": "technodom",
+      "name": { "en": "Technodom", "ru": "Технодом" },
+      "logo": "https://catalog.kazna.app/packs/kz-retail/logos/technodom.png",
+      "mcc": [5732],
+      "website": "https://www.technodom.kz"
+    },
+    {
+      "key": "mechta",
+      "name": { "en": "Mechta", "ru": "Мечта" },
+      "logo": "https://catalog.kazna.app/packs/kz-retail/logos/mechta.png",
+      "mcc": [5732],
+      "website": "https://www.mechta.kz"
+    },
+    {
+      "key": "chocolife",
+      "name": { "en": "Chocolife.me", "ru": "Чоколайф" },
+      "logo": "https://catalog.kazna.app/packs/kz-retail/logos/chocolife.png",
+      "mcc": [5311],
+      "website": "https://chocolife.me"
+    },
+    {
+      "key": "glovo",
+      "name": { "en": "Glovo", "ru": "Glovo" },
+      "logo": "https://catalog.kazna.app/packs/kz-retail/logos/glovo.png",
+      "mcc": [5814, 4215],
+      "website": "https://glovoapp.com"
+    },
+    {
+      "key": "beeline-kz",
+      "name": { "en": "Beeline Kazakhstan", "ru": "Билайн Казахстан" },
+      "logo": "https://catalog.kazna.app/packs/kz-retail/logos/beeline-kz.png",
+      "mcc": [4814],
+      "website": "https://beeline.kz"
+    },
+    {
+      "key": "kcell",
+      "name": { "en": "Kcell", "ru": "Kcell" },
+      "logo": "https://catalog.kazna.app/packs/kz-retail/logos/kcell.png",
+      "mcc": [4814],
+      "website": "https://www.kcell.kz"
+    },
+    {
+      "key": "tele2-kz",
+      "name": { "en": "Tele2 Kazakhstan", "ru": "Теле2 Казахстан" },
+      "logo": "https://catalog.kazna.app/packs/kz-retail/logos/tele2-kz.png",
+      "mcc": [4814],
+      "website": "https://tele2.kz"
+    },
+    {
+      "key": "altel",
+      "name": { "en": "Altel", "ru": "Алтел" },
+      "logo": "https://catalog.kazna.app/packs/kz-retail/logos/altel.png",
+      "mcc": [4814],
+      "website": "https://altel.kz"
+    },
+    {
+      "key": "kazakhtelecom",
+      "name": { "en": "Kazakhtelecom", "ru": "Казахтелеком" },
+      "logo": "https://catalog.kazna.app/packs/kz-retail/logos/kazakhtelecom.png",
+      "mcc": [4814, 4899],
+      "website": "https://telecom.kz"
+    }
+  ]
+}

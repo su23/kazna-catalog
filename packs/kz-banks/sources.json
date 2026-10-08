@@ -5,5 +5,52 @@
     "note": "triangle cropped from the lockup",
     "fetched": "2026-10-07",
     "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "alataucity": {
+    "source": "https://alataucitybank.kz/favicon/favicon.svg",
+    "kind": "brand site SVG",
+    "licence": "trademark",
+    "note": "formerly Jusan Bank (renamed June 2025); colour sampled from the logo",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "freedombank-kz": {
+    "source": "https://bankffin.kz/images/logo.svg",
+    "kind": "brand site SVG",
+    "licence": "trademark",
+    "note": "symbol cropped",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "bereke": {
+    "source": "https://berekebank.kz/themes/bereke/assets/favicon/favicon.svg",
+    "kind": "brand site SVG",
+    "licence": "trademark",
+    "note": "formerly Sberbank Kazakhstan; white tile removed",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "rbk-kz": {
+    "source": "https://bankrbk.kz/img/rbkLogo.svg",
+    "kind": "brand site SVG",
+    "licence": "trademark",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "homecredit-kz": {
+    "source": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/40/70/db/4070db2a-930a-31d7-6086-b22791563e2c/AppIcon-prod-0-0-1x_U007ephone-0-1-sRGB-85-220.png/512x512bb.png",
+    "kind": "App Store icon (Home.kz)",
+    "licence": "trademark",
+    "note": "the site has only a 240x24 wordmark; white background removed; owned by ForteBank since Dec 2025",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "eurasian": {
+    "source": "https://eubank.kz/_next/static/media/euro-logo.5a5699a7.webp",
+    "kind": "brand site WebP",
+    "licence": "trademark",
+    "note": "emblem cropped",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
   }
 }

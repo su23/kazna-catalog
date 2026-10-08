@@ -1,0 +1,60 @@
+{
+  "id": "ru-beauty",
+  "version": 1,
+  "type": "payees",
+  "name": {
+    "en": "Russian Beauty Stores",
+    "ru": "Косметика и парфюмерия"
+  },
+  "payees": [
+    {
+      "key": "zolotoe-yabloko",
+      "name": { "en": "Golden Apple", "ru": "Золотое Яблоко" },
+      "logo": "https://catalog.kazna.app/packs/ru-beauty/logos/zolotoe-yabloko.png",
+      "mcc": [5977],
+      "website": "https://goldapple.ru"
+    },
+    {
+      "key": "letual",
+      "name": { "en": "L'Etoile", "ru": "Лэтуаль" },
+      "logo": "https://catalog.kazna.app/packs/ru-beauty/logos/letual.png",
+      "mcc": [5977],
+      "website": "https://www.letu.ru"
+    },
+    {
+      "key": "rive-gauche",
+      "name": { "en": "Rive Gauche", "ru": "Рив Гош" },
+      "logo": "https://catalog.kazna.app/packs/ru-beauty/logos/rive-gauche.png",
+      "mcc": [5977],
+      "website": "https://rivegauche.ru"
+    },
+    {
+      "key": "podruzhka",
+      "name": { "en": "Podruzhka", "ru": "Подружка" },
+      "logo": "https://catalog.kazna.app/packs/ru-beauty/logos/podruzhka.png",
+      "mcc": [5977],
+      "website": "https://www.podrygka.ru"
+    },
+    {
+      "key": "ulybka-radugi",
+      "name": { "en": "Ulybka Radugi", "ru": "Улыбка радуги" },
+      "logo": "https://catalog.kazna.app/packs/ru-beauty/logos/ulybka-radugi.png",
+      "mcc": [5977],
+      "website": "https://www.r-ulybka.ru"
+    },
+    {
+      "key": "m-kosmetik",
+      "name": { "en": "M.Kosmetik", "ru": "М.Косметик" },
+      "logo": "https://catalog.kazna.app/packs/ru-beauty/logos/m-kosmetik.png",
+      "mcc": [5977],
+      "website": "https://cosmetic.magnit.ru"
+    },
+    {
+      "key": "yves-rocher",
+      "name": { "en": "Yves Rocher", "ru": "Ив Роше" },
+      "logo": "https://catalog.kazna.app/packs/ru-beauty/logos/yves-rocher.png",
+      "mcc": [5977],
+      "website": "https://www.yves-rocher.ru"
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "sportmaster": {
+    "source": "https://www.sportmaster.ru/ (header, inline SVG)",
+    "kind": "brand site inline SVG",
+    "licence": "trademark",
+    "note": "runner symbol; the white figure drawn in the header blue #1551E5",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "gloria-jeans": {
+    "source": "https://www.gloria-jeans.ru/ (header, inline SVG)",
+    "kind": "brand site inline SVG",
+    "licence": "trademark",
+    "note": "GJ monogram; box dropped, glyph drawn #1A1A1A",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "ostin": {
+    "source": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/72/b5/35/72b535de-57fd-901f-c6d9-7836bbf02058/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/512x512bb.png",
+    "kind": "App Store icon",
+    "licence": "trademark",
+    "note": "site blocks all automated access; white background removed",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "befree": {
+    "source": "https://befree.ru/images/logo.svg",
+    "kind": "brand site SVG",
+    "licence": "trademark",
+    "note": "wordmark",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "love-republic": {
+    "source": "https://loverepublic.ru/ (header, inline SVG)",
+    "kind": "brand site inline SVG",
+    "licence": "trademark",
+    "note": "white wordmark drawn black",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "zarina": {
+    "source": "https://zarina.ru/images/icons/logo-new.svg",
+    "kind": "brand site SVG",
+    "licence": "trademark",
+    "note": "wordmark",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "tvoe": {
+    "source": "https://tvoe.ru/favicon.svg",
+    "kind": "brand site SVG",
+    "licence": "trademark",
+    "note": "the red box is the logo",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "familia": {
+    "source": "https://www.famil.ru/ (header, inline SVG)",
+    "kind": "brand site inline SVG",
+    "licence": "trademark",
+    "note": "wordmark, #662C83",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "kari": {
+    "source": "https://kari.com/images/logo/kari-logo-mobile.svg",
+    "kind": "brand site SVG",
+    "licence": "trademark",
+    "note": "compact mark",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "lime": {
+    "source": "https://limestore.com/ (header, inline SVG)",
+    "kind": "brand site inline SVG",
+    "licence": "trademark",
+    "note": "wordmark",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "maag": {
+    "source": "https://maag-fashion.com/local/templates/main/images/logo.svg",
+    "kind": "brand site SVG",
+    "licence": "trademark",
+    "note": "formerly Zara Russia; wordmark",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "lamoda": {
+    "source": "(copied from another pack)",
+    "kind": "copied from ru-marketplaces",
+    "licence": "trademark",
+    "note": "same key as in ru-marketplaces: one payee in both packs",
+    "fetched": "2026-10-08",
+    "processing": "unchanged"
+  }
+}
