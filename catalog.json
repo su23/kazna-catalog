@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-07",
+  "generated_at": "2026-10-08",
   "base_url": "https://catalog.kazna.app",
   "packs": [
     {
@@ -285,6 +285,28 @@
         "https://catalog.kazna.app/packs/airlines/logos/emirates.png",
         "https://catalog.kazna.app/packs/airlines/logos/lufthansa.png",
         "https://catalog.kazna.app/packs/airlines/logos/singapore-airlines.png"
+      ]
+    },
+    {
+      "id": "ai-services",
+      "type": "payees",
+      "version": 1,
+      "name": {
+        "en": "AI Assistants",
+        "ru": "ИИ-ассистенты"
+      },
+      "description": {
+        "en": "AI chatbots and tools people subscribe to — ChatGPT, Claude, Gemini, DeepSeek and 19 more",
+        "ru": "ИИ-чат-боты и сервисы по подписке — ChatGPT, Claude, Gemini, DeepSeek и ещё 19"
+      },
+      "tags": ["global", "tech", "ai"],
+      "entity_count": 23,
+      "pack_url": "https://catalog.kazna.app/packs/ai-services/pack.json",
+      "preview_logos": [
+        "https://catalog.kazna.app/packs/ai-services/logos/chatgpt.png",
+        "https://catalog.kazna.app/packs/ai-services/logos/claude.png",
+        "https://catalog.kazna.app/packs/ai-services/logos/gemini.png",
+        "https://catalog.kazna.app/packs/ai-services/logos/deepseek.png"
       ]
     }
   ]

@@ -1,0 +1,172 @@
+{
+  "id": "ai-services",
+  "version": 1,
+  "type": "payees",
+  "name": {
+    "en": "AI Assistants",
+    "ru": "ИИ-ассистенты"
+  },
+  "payees": [
+    {
+      "key": "chatgpt",
+      "name": { "en": "ChatGPT", "ru": "ChatGPT" },
+      "logo": "https://catalog.kazna.app/packs/ai-services/logos/chatgpt.png",
+      "mcc": [5734, 5818],
+      "website": "https://chatgpt.com"
+    },
+    {
+      "key": "claude",
+      "name": { "en": "Claude", "ru": "Claude" },
+      "logo": "https://catalog.kazna.app/packs/ai-services/logos/claude.png",
+      "mcc": [5734, 5818],
+      "website": "https://claude.ai"
+    },
+    {
+      "key": "gemini",
+      "name": { "en": "Gemini", "ru": "Gemini" },
+      "logo": "https://catalog.kazna.app/packs/ai-services/logos/gemini.png",
+      "mcc": [5734, 5818],
+      "website": "https://gemini.google.com"
+    },
+    {
+      "key": "copilot",
+      "name": { "en": "Microsoft Copilot", "ru": "Microsoft Copilot" },
+      "logo": "https://catalog.kazna.app/packs/ai-services/logos/copilot.png",
+      "mcc": [5734, 5818],
+      "website": "https://copilot.microsoft.com"
+    },
+    {
+      "key": "grok",
+      "name": { "en": "Grok", "ru": "Grok" },
+      "logo": "https://catalog.kazna.app/packs/ai-services/logos/grok.png",
+      "mcc": [5734, 5818],
+      "website": "https://grok.com"
+    },
+    {
+      "key": "le-chat",
+      "name": { "en": "Le Chat", "ru": "Le Chat" },
+      "logo": "https://catalog.kazna.app/packs/ai-services/logos/le-chat.png",
+      "mcc": [5734, 5818],
+      "website": "https://chat.mistral.ai"
+    },
+    {
+      "key": "perplexity",
+      "name": { "en": "Perplexity", "ru": "Perplexity" },
+      "logo": "https://catalog.kazna.app/packs/ai-services/logos/perplexity.png",
+      "mcc": [5734, 5818],
+      "website": "https://www.perplexity.ai"
+    },
+    {
+      "key": "deepseek",
+      "name": { "en": "DeepSeek", "ru": "DeepSeek" },
+      "logo": "https://catalog.kazna.app/packs/ai-services/logos/deepseek.png",
+      "mcc": [5734, 5818],
+      "website": "https://www.deepseek.com"
+    },
+    {
+      "key": "meta-ai",
+      "name": { "en": "Meta AI", "ru": "Meta AI" },
+      "logo": "https://catalog.kazna.app/packs/ai-services/logos/meta-ai.png",
+      "mcc": [5734, 5818],
+      "website": "https://www.meta.ai"
+    },
+    {
+      "key": "qwen",
+      "name": { "en": "Qwen", "ru": "Qwen" },
+      "logo": "https://catalog.kazna.app/packs/ai-services/logos/qwen.png",
+      "mcc": [5734, 5818],
+      "website": "https://chat.qwen.ai"
+    },
+    {
+      "key": "kimi",
+      "name": { "en": "Kimi", "ru": "Kimi" },
+      "logo": "https://catalog.kazna.app/packs/ai-services/logos/kimi.png",
+      "mcc": [5734, 5818],
+      "website": "https://www.kimi.com"
+    },
+    {
+      "key": "z-ai",
+      "name": { "en": "Z.ai", "ru": "Z.ai" },
+      "logo": "https://catalog.kazna.app/packs/ai-services/logos/z-ai.png",
+      "mcc": [5734, 5818],
+      "website": "https://z.ai"
+    },
+    {
+      "key": "gigachat",
+      "name": { "en": "GigaChat", "ru": "ГигаЧат" },
+      "logo": "https://catalog.kazna.app/packs/ai-services/logos/gigachat.png",
+      "mcc": [5734, 5818],
+      "website": "https://giga.chat"
+    },
+    {
+      "key": "alice-ai",
+      "name": { "en": "Alice AI", "ru": "Алиса AI" },
+      "logo": "https://catalog.kazna.app/packs/ai-services/logos/alice-ai.png",
+      "mcc": [5734, 5818],
+      "website": "https://alice.yandex.ru"
+    },
+    {
+      "key": "cursor",
+      "name": { "en": "Cursor", "ru": "Cursor" },
+      "logo": "https://catalog.kazna.app/packs/ai-services/logos/cursor.png",
+      "mcc": [5734, 5818],
+      "website": "https://cursor.com"
+    },
+    {
+      "key": "github-copilot",
+      "name": { "en": "GitHub Copilot", "ru": "GitHub Copilot" },
+      "logo": "https://catalog.kazna.app/packs/ai-services/logos/github-copilot.png",
+      "mcc": [5734, 5818],
+      "website": "https://github.com/features/copilot"
+    },
+    {
+      "key": "midjourney",
+      "name": { "en": "Midjourney", "ru": "Midjourney" },
+      "logo": "https://catalog.kazna.app/packs/ai-services/logos/midjourney.png",
+      "mcc": [5734, 5818],
+      "website": "https://www.midjourney.com"
+    },
+    {
+      "key": "elevenlabs",
+      "name": { "en": "ElevenLabs", "ru": "ElevenLabs" },
+      "logo": "https://catalog.kazna.app/packs/ai-services/logos/elevenlabs.png",
+      "mcc": [5734, 5818],
+      "website": "https://elevenlabs.io"
+    },
+    {
+      "key": "suno",
+      "name": { "en": "Suno", "ru": "Suno" },
+      "logo": "https://catalog.kazna.app/packs/ai-services/logos/suno.png",
+      "mcc": [5734, 5818],
+      "website": "https://suno.com"
+    },
+    {
+      "key": "runway",
+      "name": { "en": "Runway", "ru": "Runway" },
+      "logo": "https://catalog.kazna.app/packs/ai-services/logos/runway.png",
+      "mcc": [5734, 5818],
+      "website": "https://runwayml.com"
+    },
+    {
+      "key": "character-ai",
+      "name": { "en": "Character.AI", "ru": "Character.AI" },
+      "logo": "https://catalog.kazna.app/packs/ai-services/logos/character-ai.png",
+      "mcc": [5734, 5818],
+      "website": "https://character.ai"
+    },
+    {
+      "key": "poe",
+      "name": { "en": "Poe", "ru": "Poe" },
+      "logo": "https://catalog.kazna.app/packs/ai-services/logos/poe.png",
+      "mcc": [5734, 5818],
+      "website": "https://poe.com"
+    },
+    {
+      "key": "openrouter",
+      "name": { "en": "OpenRouter", "ru": "OpenRouter" },
+      "logo": "https://catalog.kazna.app/packs/ai-services/logos/openrouter.png",
+      "mcc": [5734, 5818],
+      "website": "https://openrouter.ai"
+    }
+  ]
+}

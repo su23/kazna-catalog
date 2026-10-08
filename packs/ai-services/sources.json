@@ -1,0 +1,180 @@
+{
+  "chatgpt": {
+    "source": "https://commons.wikimedia.org/wiki/File:OpenAI_logo_2025_(symbol).svg",
+    "kind": "Wikimedia Commons SVG",
+    "licence": "Public domain; trademark",
+    "note": "OpenAI symbol",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "claude": {
+    "source": "https://commons.wikimedia.org/wiki/File:Claude_AI_symbol.svg",
+    "kind": "Wikimedia Commons SVG",
+    "licence": "CC0; trademark",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "gemini": {
+    "source": "https://commons.wikimedia.org/wiki/File:Google_Gemini_icon_2025.svg",
+    "kind": "Wikimedia Commons SVG",
+    "licence": "Public domain; trademark",
+    "note": "blur filters re-done in Pillow (AppKit ignores feGaussianBlur)",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "copilot": {
+    "source": "https://commons.wikimedia.org/wiki/File:Microsoft-copilot-2026-seeklogo.svg",
+    "kind": "Wikimedia Commons SVG",
+    "licence": "Public domain; trademark",
+    "note": "re-upload of a seeklogo file; replace with a microsoft.com asset if one turns up",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "grok": {
+    "source": "https://commons.wikimedia.org/wiki/File:Grok-icon.svg",
+    "kind": "Wikimedia Commons SVG",
+    "licence": "CC0; trademark",
+    "note": "black tile removed, mark drawn black",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "le-chat": {
+    "source": "https://commons.wikimedia.org/wiki/File:Mistral_AI_logo_(2025–).svg",
+    "kind": "Wikimedia Commons SVG",
+    "licence": "Public domain; trademark",
+    "note": "Mistral AI mark",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "perplexity": {
+    "source": "https://commons.wikimedia.org/wiki/File:Perplexity_AI_logo.svg",
+    "kind": "Wikimedia Commons SVG",
+    "licence": "Public domain; trademark",
+    "note": "symbol cropped from the wordmark",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "deepseek": {
+    "source": "https://commons.wikimedia.org/wiki/File:DeepSeek-icon.svg",
+    "kind": "Wikimedia Commons SVG",
+    "licence": "MIT; trademark",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "meta-ai": {
+    "source": "https://commons.wikimedia.org/wiki/File:Meta_AI_Logo_(Ring_Only).svg",
+    "kind": "Wikimedia Commons SVG",
+    "licence": "Public domain; trademark",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "qwen": {
+    "source": "https://commons.wikimedia.org/wiki/File:Qwen_logo.svg",
+    "kind": "Wikimedia Commons SVG",
+    "licence": "CC0; trademark",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "kimi": {
+    "source": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/af/c5/1d/afc51d35-0ed3-ba63-6b8c-45a7428fa3fd/AppIcon26-0-0-1x_U007epad-0-1-0-sRGB-85-220.png/512x512bb.png",
+    "kind": "App Store icon (Beijing Moonshot Technology), opaque tile",
+    "licence": "trademark",
+    "note": "no SVG on kimi.com",
+    "fetched": "2026-10-08",
+    "processing": "resized to 128x128"
+  },
+  "z-ai": {
+    "source": "https://z-cdn.chatglm.cn/z-ai/static/logo.svg",
+    "kind": "brand site SVG",
+    "licence": "trademark",
+    "note": "dark tile removed, Z drawn black; formerly Zhipu GLM",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "gigachat": {
+    "source": "https://giga.chat/icons/gigachat/apple-icon-180x180.png",
+    "kind": "brand site icon, opaque",
+    "licence": "trademark",
+    "note": "no SVG on giga.chat",
+    "fetched": "2026-10-08",
+    "processing": "resized to 128x128"
+  },
+  "alice-ai": {
+    "source": "https://yastatic.net/s3/alicestatic/_/v2/static/media/favicon.ab465454.svg",
+    "kind": "brand site SVG",
+    "licence": "trademark",
+    "note": "white tile removed; the 2025 mark",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "cursor": {
+    "source": "https://commons.wikimedia.org/wiki/File:Cursor_logo.svg",
+    "kind": "Wikimedia Commons SVG",
+    "licence": "Public domain; trademark",
+    "note": "cube cropped from the wordmark",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "github-copilot": {
+    "source": "https://commons.wikimedia.org/wiki/File:GitHub_Copilot_(2025).svg",
+    "kind": "Wikimedia Commons SVG",
+    "licence": "Public domain; trademark",
+    "note": "symbol cropped from the wordmark",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "midjourney": {
+    "source": "https://commons.wikimedia.org/wiki/File:Midjourney_Emblem.svg",
+    "kind": "Wikimedia Commons SVG",
+    "licence": "Public domain; trademark",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "elevenlabs": {
+    "source": "https://commons.wikimedia.org/wiki/File:ElevenLabs_Logo_03.svg",
+    "kind": "Wikimedia Commons SVG",
+    "licence": "Public domain; trademark",
+    "note": "\"II\" cropped from the wordmark",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "suno": {
+    "source": "https://commons.wikimedia.org/wiki/File:Suno_AI_icon.svg",
+    "kind": "Wikimedia Commons SVG",
+    "licence": "Public domain; trademark",
+    "note": "tile removed, S drawn black",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "runway": {
+    "source": "https://runwayml.com/images/logos/runway-app-icon.png",
+    "kind": "brand site app icon, opaque tile",
+    "licence": "trademark",
+    "note": "the Commons file is a wordmark only",
+    "fetched": "2026-10-08",
+    "processing": "resized to 128x128"
+  },
+  "character-ai": {
+    "source": "https://commons.wikimedia.org/wiki/File:Character.AI.svg",
+    "kind": "Wikimedia Commons SVG",
+    "licence": "Public domain; trademark",
+    "note": "wordmark",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "poe": {
+    "source": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/24/f3/38/24f33848-882b-aa89-8367-5a9317abadc5/AppIcon_Poe-0-0-1x_U007emarketing-0-0-0-8-0-0-85-220.png/512x512bb.png",
+    "kind": "App Store icon (Quora), opaque tile",
+    "licence": "trademark",
+    "note": "poe.com is behind a bot check",
+    "fetched": "2026-10-08",
+    "processing": "resized to 128x128"
+  },
+  "openrouter": {
+    "source": "https://commons.wikimedia.org/wiki/File:OpenRouter_icon.svg",
+    "kind": "Wikimedia Commons SVG",
+    "licence": "Public domain; trademark",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  }
+}
