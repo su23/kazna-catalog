@@ -1,0 +1,60 @@
+{
+  "id": "ru-brokers",
+  "version": 1,
+  "type": "payees",
+  "name": {
+    "en": "Brokers & Investments",
+    "ru": "Брокеры и инвестиции"
+  },
+  "payees": [
+    {
+      "key": "tbank-invest",
+      "name": { "en": "T-Investments", "ru": "Т-Инвестиции" },
+      "logo": "https://catalog.kazna.app/packs/ru-brokers/logos/tbank-invest.png",
+      "mcc": [6211],
+      "website": "https://www.tbank.ru/invest/"
+    },
+    {
+      "key": "sber-invest",
+      "name": { "en": "Sber Investments", "ru": "СберИнвестиции" },
+      "logo": "https://catalog.kazna.app/packs/ru-brokers/logos/sber-invest.png",
+      "mcc": [6211],
+      "website": "https://www.sberbank.ru/ru/person/investments"
+    },
+    {
+      "key": "alfa-invest",
+      "name": { "en": "Alfa-Investments", "ru": "Альфа-Инвестиции" },
+      "logo": "https://catalog.kazna.app/packs/ru-brokers/logos/alfa-invest.png",
+      "mcc": [6211],
+      "website": "https://alfabank.ru/make-money/investments/"
+    },
+    {
+      "key": "vtb-invest",
+      "name": { "en": "VTB My Investments", "ru": "ВТБ Мои Инвестиции" },
+      "logo": "https://catalog.kazna.app/packs/ru-brokers/logos/vtb-invest.png",
+      "mcc": [6211],
+      "website": "https://www.vtb.ru/personal/investicii/"
+    },
+    {
+      "key": "bcs",
+      "name": { "en": "BCS World of Investments", "ru": "БКС Мир инвестиций" },
+      "logo": "https://catalog.kazna.app/packs/ru-brokers/logos/bcs.png",
+      "mcc": [6211],
+      "website": "https://bcs.ru"
+    },
+    {
+      "key": "gpb-invest",
+      "name": { "en": "Gazprombank Investments", "ru": "Газпромбанк Инвестиции" },
+      "logo": "https://catalog.kazna.app/packs/ru-brokers/logos/gpb-invest.png",
+      "mcc": [6211],
+      "website": "https://gazprombank.investments"
+    },
+    {
+      "key": "finam",
+      "name": { "en": "Finam", "ru": "Финам" },
+      "logo": "https://catalog.kazna.app/packs/ru-brokers/logos/finam.png",
+      "mcc": [6211],
+      "website": "https://www.finam.ru"
+    }
+  ]
+}

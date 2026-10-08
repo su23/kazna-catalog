@@ -1,0 +1,63 @@
+{
+  "diia": {
+    "source": "https://diia.gov.ua/",
+    "kind": "brand site SVG (CSS data URI); free use per the Diia logobook",
+    "licence": "Trademark",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "yasno": {
+    "source": "https://yasno.ua/",
+    "kind": "brand site inline SVG",
+    "licence": "Trademark",
+    "note": "white Y recoloured to the brand orange #F6A717",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "naftogaz": {
+    "source": "https://commons.wikimedia.org/wiki/File:Naftohas_logo.svg",
+    "kind": "Wikimedia Commons SVG",
+    "licence": "PD-shape; trademark",
+    "note": "symbol only",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "kyivvodokanal": {
+    "source": "https://vodokanal.kyiv.ua/favicon.svg",
+    "kind": "brand site SVG",
+    "licence": "Trademark",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "kyivteploenergo": {
+    "source": "https://kte.kmda.gov.ua/wp-content/uploads/2025/01/Untitled-1-01.png",
+    "kind": "brand site PNG",
+    "licence": "Trademark",
+    "note": "symbol only",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "ukrzaliznytsia": {
+    "source": "https://commons.wikimedia.org/wiki/File:Ukrzaliznytsya.svg",
+    "kind": "Wikimedia Commons SVG",
+    "licence": "PD-UA-exempt; trademark",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "ukrposhta": {
+    "source": "https://www.ukrposhta.ua/ua",
+    "kind": "brand site inline SVG",
+    "licence": "Trademark",
+    "note": "2026 symbol only",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "dps-ua": {
+    "source": "https://apps.apple.com/app/id6450752527",
+    "kind": "App Store icon (seller The State Tax Service of Ukraine)",
+    "licence": "Trademark",
+    "note": "Моя Податкова icon, cropped to the TAX badge",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  }
+}

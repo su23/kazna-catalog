@@ -1,0 +1,53 @@
+{
+  "id": "ru-books",
+  "version": 1,
+  "type": "payees",
+  "name": {
+    "en": "Books",
+    "ru": "Книги"
+  },
+  "payees": [
+    {
+      "key": "chitai-gorod",
+      "name": { "en": "Chitai-gorod", "ru": "Читай-город" },
+      "logo": "https://catalog.kazna.app/packs/ru-books/logos/chitai-gorod.png",
+      "mcc": [5942],
+      "website": "https://www.chitai-gorod.ru"
+    },
+    {
+      "key": "bukvoed",
+      "name": { "en": "Bukvoed", "ru": "Буквоед" },
+      "logo": "https://catalog.kazna.app/packs/ru-books/logos/bukvoed.png",
+      "mcc": [5942],
+      "website": "https://www.bookvoed.ru"
+    },
+    {
+      "key": "litres",
+      "name": { "en": "Litres", "ru": "Литрес" },
+      "logo": "https://catalog.kazna.app/packs/ru-books/logos/litres.png",
+      "mcc": [5815,  5942],
+      "website": "https://www.litres.ru"
+    },
+    {
+      "key": "labirint",
+      "name": { "en": "Labirint", "ru": "Лабиринт" },
+      "logo": "https://catalog.kazna.app/packs/ru-books/logos/labirint.png",
+      "mcc": [5942],
+      "website": "https://www.labirint.ru"
+    },
+    {
+      "key": "mybook",
+      "name": { "en": "MyBook", "ru": "MyBook" },
+      "logo": "https://catalog.kazna.app/packs/ru-books/logos/mybook.png",
+      "mcc": [5815],
+      "website": "https://mybook.ru"
+    },
+    {
+      "key": "kion-stroki",
+      "name": { "en": "KION Stroki", "ru": "КИОН Строки" },
+      "logo": "https://catalog.kazna.app/packs/ru-books/logos/kion-stroki.png",
+      "mcc": [5815],
+      "website": "https://stroki.mts.ru"
+    }
+  ]
+}

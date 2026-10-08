@@ -1,0 +1,60 @@
+{
+  "id": "kz-utilities",
+  "version": 1,
+  "type": "payees",
+  "name": {
+    "en": "Kazakhstan: Bills & Taxes",
+    "ru": "Казахстан: платежи и налоги"
+  },
+  "payees": [
+    {
+      "key": "egov-kz",
+      "name": { "en": "eGov", "ru": "eGov" },
+      "logo": "https://catalog.kazna.app/packs/kz-utilities/logos/egov-kz.png",
+      "mcc": [9399],
+      "website": "https://egov.kz"
+    },
+    {
+      "key": "alseco",
+      "name": { "en": "Alseco", "ru": "Алсеко" },
+      "logo": "https://catalog.kazna.app/packs/kz-utilities/logos/alseco.png",
+      "mcc": [4900],
+      "website": "https://alseco.kz"
+    },
+    {
+      "key": "astana-erc",
+      "name": { "en": "Astana-ERC", "ru": "Астана-ЕРЦ" },
+      "logo": "https://catalog.kazna.app/packs/kz-utilities/logos/astana-erc.png",
+      "mcc": [4900],
+      "website": "https://aerc.kz"
+    },
+    {
+      "key": "energosbyt-almaty",
+      "name": { "en": "AZhK EnergoSbyt", "ru": "ЭнергоСбыт АЖК" },
+      "logo": "https://catalog.kazna.app/packs/kz-utilities/logos/energosbyt-almaty.png",
+      "mcc": [4900],
+      "website": "https://esalmaty.kz"
+    },
+    {
+      "key": "qazaqgaz-aimaq",
+      "name": { "en": "QazaqGaz Aimaq", "ru": "QazaqGaz Аймақ" },
+      "logo": "https://catalog.kazna.app/packs/kz-utilities/logos/qazaqgaz-aimaq.png",
+      "mcc": [4900],
+      "website": "https://aimaq.kz"
+    },
+    {
+      "key": "kgd-kz",
+      "name": { "en": "State Revenue Committee", "ru": "КГД МФ РК" },
+      "logo": "https://catalog.kazna.app/packs/kz-utilities/logos/kgd-kz.png",
+      "mcc": [9311],
+      "website": "https://kgd.gov.kz"
+    },
+    {
+      "key": "kazakhtelecom",
+      "name": { "en": "Kazakhtelecom", "ru": "Казахтелеком" },
+      "logo": "https://catalog.kazna.app/packs/kz-utilities/logos/kazakhtelecom.png",
+      "mcc": [4814,  4899],
+      "website": "https://telecom.kz"
+    }
+  ]
+}

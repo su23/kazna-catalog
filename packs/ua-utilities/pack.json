@@ -1,0 +1,67 @@
+{
+  "id": "ua-utilities",
+  "version": 1,
+  "type": "payees",
+  "name": {
+    "en": "Ukraine: Bills & Taxes",
+    "ru": "Украина: платежи и налоги"
+  },
+  "payees": [
+    {
+      "key": "diia",
+      "name": { "en": "Diia", "ru": "Дия" },
+      "logo": "https://catalog.kazna.app/packs/ua-utilities/logos/diia.png",
+      "mcc": [9399],
+      "website": "https://diia.gov.ua"
+    },
+    {
+      "key": "yasno",
+      "name": { "en": "YASNO", "ru": "YASNO" },
+      "logo": "https://catalog.kazna.app/packs/ua-utilities/logos/yasno.png",
+      "mcc": [4900],
+      "website": "https://yasno.ua"
+    },
+    {
+      "key": "naftogaz",
+      "name": { "en": "Naftogaz of Ukraine", "ru": "Нафтогаз Украины" },
+      "logo": "https://catalog.kazna.app/packs/ua-utilities/logos/naftogaz.png",
+      "mcc": [4900],
+      "website": "https://gas.ua"
+    },
+    {
+      "key": "kyivvodokanal",
+      "name": { "en": "Kyivvodokanal", "ru": "Киевводоканал" },
+      "logo": "https://catalog.kazna.app/packs/ua-utilities/logos/kyivvodokanal.png",
+      "mcc": [4900],
+      "website": "https://vodokanal.kyiv.ua"
+    },
+    {
+      "key": "kyivteploenergo",
+      "name": { "en": "Kyivteploenergo", "ru": "Киевтеплоэнерго" },
+      "logo": "https://catalog.kazna.app/packs/ua-utilities/logos/kyivteploenergo.png",
+      "mcc": [4900],
+      "website": "https://kte.kmda.gov.ua"
+    },
+    {
+      "key": "ukrzaliznytsia",
+      "name": { "en": "Ukrzaliznytsia", "ru": "Укрзализныця" },
+      "logo": "https://catalog.kazna.app/packs/ua-utilities/logos/ukrzaliznytsia.png",
+      "mcc": [4112],
+      "website": "https://uz.gov.ua"
+    },
+    {
+      "key": "ukrposhta",
+      "name": { "en": "Ukrposhta", "ru": "Укрпочта" },
+      "logo": "https://catalog.kazna.app/packs/ua-utilities/logos/ukrposhta.png",
+      "mcc": [9402],
+      "website": "https://ukrposhta.ua"
+    },
+    {
+      "key": "dps-ua",
+      "name": { "en": "State Tax Service of Ukraine", "ru": "ГНС Украины" },
+      "logo": "https://catalog.kazna.app/packs/ua-utilities/logos/dps-ua.png",
+      "mcc": [9311],
+      "website": "https://tax.gov.ua"
+    }
+  ]
+}

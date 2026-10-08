@@ -1,0 +1,57 @@
+{
+  "egov-kz": {
+    "source": "https://egov.kz/",
+    "kind": "brand site inline SVG",
+    "licence": "Trademark",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "alseco": {
+    "source": "https://apps.apple.com/app/id1473921175",
+    "kind": "App Store icon (seller ALSECO AO)",
+    "licence": "Trademark",
+    "note": "white tile removed",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "astana-erc": {
+    "source": "https://aerc.kz/bitrix/templates/aerc2025/resources/gw/logon.png",
+    "kind": "brand site PNG",
+    "licence": "Trademark",
+    "note": "towers symbol",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "energosbyt-almaty": {
+    "source": "https://esalmaty.kz/templates/astana/images/logonew.svg",
+    "kind": "brand site SVG",
+    "licence": "Trademark",
+    "note": "formerly АлматыЭнергоСбыт; the site shows the Samruk-Energy group mark, symbol only",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "qazaqgaz-aimaq": {
+    "source": "https://www.aimaq.kz/wp-content/uploads/2023/09/Лого-QazaqGaz-Aimaq-без-фона.png",
+    "kind": "brand site PNG",
+    "licence": "Trademark",
+    "note": "formerly КазТрансГаз Аймак; symbol only",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "kgd-kz": {
+    "source": "https://apps.apple.com/app/id1107556666",
+    "kind": "App Store icon (seller State revenue committee of Ministry of Finance of the Republic of Kazakhstan)",
+    "licence": "Trademark",
+    "note": "e-Salyq Azamat icon, white tile removed",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "kazakhtelecom": {
+    "source": "https://commons.wikimedia.org/wiki/File:Logo_KT.svg",
+    "kind": "Wikimedia Commons SVG",
+    "licence": "CC BY-SA 4.0 (attribution: Wikimedia Commons); trademark",
+    "note": "globe symbol cropped; shared key, logo copied from kz-retail",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  }
+}

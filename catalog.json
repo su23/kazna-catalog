@@ -1211,6 +1211,138 @@
         "https://catalog.kazna.app/packs/money-transfers/logos/paypal.png",
         "https://catalog.kazna.app/packs/money-transfers/logos/zolotaya-korona.png"
       ]
+    },
+    {
+      "id": "by-utilities",
+      "type": "payees",
+      "version": 1,
+      "name": {
+        "en": "Belarus: Bills & Taxes",
+        "ru": "Беларусь: платежи и налоги"
+      },
+      "description": {
+        "en": "Utility bills, telecom and taxes in Belarus — ERIP, Belenergo (Energosbyt), Mingaz, Minskvodokanal and 2 more",
+        "ru": "Коммунальные платежи, связь и налоги Беларуси — ЕРИП, Белэнерго (Энергосбыт), Мингаз, Минскводоканал и ещё 2"
+      },
+      "tags": ["belarus", "utilities", "government"],
+      "entity_count": 6,
+      "pack_url": "https://catalog.kazna.app/packs/by-utilities/pack.json",
+      "preview_logos": [
+        "https://catalog.kazna.app/packs/by-utilities/logos/erip.png",
+        "https://catalog.kazna.app/packs/by-utilities/logos/belenergo.png",
+        "https://catalog.kazna.app/packs/by-utilities/logos/mingaz.png",
+        "https://catalog.kazna.app/packs/by-utilities/logos/minskvodokanal.png"
+      ]
+    },
+    {
+      "id": "kz-utilities",
+      "type": "payees",
+      "version": 1,
+      "name": {
+        "en": "Kazakhstan: Bills & Taxes",
+        "ru": "Казахстан: платежи и налоги"
+      },
+      "description": {
+        "en": "Utility bills, telecom and state services in Kazakhstan — eGov, Alseco, Astana-ERC, AZhK EnergoSbyt and 3 more",
+        "ru": "Коммунальные платежи, связь и госуслуги Казахстана — eGov, Алсеко, Астана-ЕРЦ, ЭнергоСбыт АЖК и ещё 3"
+      },
+      "tags": ["kazakhstan", "utilities", "government"],
+      "entity_count": 7,
+      "pack_url": "https://catalog.kazna.app/packs/kz-utilities/pack.json",
+      "preview_logos": [
+        "https://catalog.kazna.app/packs/kz-utilities/logos/egov-kz.png",
+        "https://catalog.kazna.app/packs/kz-utilities/logos/alseco.png",
+        "https://catalog.kazna.app/packs/kz-utilities/logos/astana-erc.png",
+        "https://catalog.kazna.app/packs/kz-utilities/logos/energosbyt-almaty.png"
+      ]
+    },
+    {
+      "id": "ua-utilities",
+      "type": "payees",
+      "version": 1,
+      "name": {
+        "en": "Ukraine: Bills & Taxes",
+        "ru": "Украина: платежи и налоги"
+      },
+      "description": {
+        "en": "Utility bills, transport, post and state services in Ukraine — Diia, YASNO, Naftogaz of Ukraine, Kyivvodokanal and 4 more",
+        "ru": "Коммунальные платежи, транспорт, почта и госуслуги Украины — Дия, YASNO, Нафтогаз Украины, Киевводоканал и ещё 4"
+      },
+      "tags": ["ukraine", "utilities", "government"],
+      "entity_count": 8,
+      "pack_url": "https://catalog.kazna.app/packs/ua-utilities/pack.json",
+      "preview_logos": [
+        "https://catalog.kazna.app/packs/ua-utilities/logos/diia.png",
+        "https://catalog.kazna.app/packs/ua-utilities/logos/yasno.png",
+        "https://catalog.kazna.app/packs/ua-utilities/logos/naftogaz.png",
+        "https://catalog.kazna.app/packs/ua-utilities/logos/kyivvodokanal.png"
+      ]
+    },
+    {
+      "id": "ru-brokers",
+      "type": "payees",
+      "version": 1,
+      "name": {
+        "en": "Brokers & Investments",
+        "ru": "Брокеры и инвестиции"
+      },
+      "description": {
+        "en": "Brokerage and investment apps in Russia — T-Investments, Sber Investments, Alfa-Investments, VTB My Investments and 3 more",
+        "ru": "Брокеры и инвестиционные приложения — Т-Инвестиции, СберИнвестиции, Альфа-Инвестиции, ВТБ Мои Инвестиции и ещё 3"
+      },
+      "tags": ["russia", "investments", "finance"],
+      "entity_count": 7,
+      "pack_url": "https://catalog.kazna.app/packs/ru-brokers/pack.json",
+      "preview_logos": [
+        "https://catalog.kazna.app/packs/ru-brokers/logos/tbank-invest.png",
+        "https://catalog.kazna.app/packs/ru-brokers/logos/sber-invest.png",
+        "https://catalog.kazna.app/packs/ru-brokers/logos/alfa-invest.png",
+        "https://catalog.kazna.app/packs/ru-brokers/logos/vtb-invest.png"
+      ]
+    },
+    {
+      "id": "ru-books",
+      "type": "payees",
+      "version": 1,
+      "name": {
+        "en": "Books",
+        "ru": "Книги"
+      },
+      "description": {
+        "en": "Bookstores and e-book services in Russia — Chitai-gorod, Bukvoed, Litres, Labirint and 2 more",
+        "ru": "Книжные магазины и сервисы электронных книг — Читай-город, Буквоед, Литрес, Лабиринт и ещё 2"
+      },
+      "tags": ["russia", "books", "retail"],
+      "entity_count": 6,
+      "pack_url": "https://catalog.kazna.app/packs/ru-books/pack.json",
+      "preview_logos": [
+        "https://catalog.kazna.app/packs/ru-books/logos/chitai-gorod.png",
+        "https://catalog.kazna.app/packs/ru-books/logos/bukvoed.png",
+        "https://catalog.kazna.app/packs/ru-books/logos/litres.png",
+        "https://catalog.kazna.app/packs/ru-books/logos/labirint.png"
+      ]
+    },
+    {
+      "id": "cloud-storage",
+      "type": "payees",
+      "version": 1,
+      "name": {
+        "en": "Cloud Storage",
+        "ru": "Облачные хранилища"
+      },
+      "description": {
+        "en": "Personal cloud storage subscriptions — Google One, iCloud+, Microsoft OneDrive, Dropbox and 4 more",
+        "ru": "Подписки на облачные хранилища — Google One, iCloud+, Microsoft OneDrive, Dropbox и ещё 4"
+      },
+      "tags": ["global", "cloud", "subscriptions"],
+      "entity_count": 8,
+      "pack_url": "https://catalog.kazna.app/packs/cloud-storage/pack.json",
+      "preview_logos": [
+        "https://catalog.kazna.app/packs/cloud-storage/logos/google-one.png",
+        "https://catalog.kazna.app/packs/cloud-storage/logos/icloud.png",
+        "https://catalog.kazna.app/packs/cloud-storage/logos/onedrive.png",
+        "https://catalog.kazna.app/packs/cloud-storage/logos/dropbox.png"
+      ]
     }
   ]
 }

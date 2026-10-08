@@ -1,0 +1,62 @@
+{
+  "google-one": {
+    "source": "https://ssl.gstatic.com/subscriptions/management/home/logo_one_48dp_1147f17d6d2f67ab3a9ce3c55600631b.svg",
+    "kind": "official CDN SVG",
+    "licence": "Trademark",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "icloud": {
+    "source": "https://commons.wikimedia.org/wiki/File:ICloud_logo.svg",
+    "kind": "Wikimedia Commons SVG",
+    "licence": "Public domain; trademark",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "onedrive": {
+    "source": "https://commons.wikimedia.org/wiki/File:Microsoft_OneDrive_Icon_(2025_-_present).svg",
+    "kind": "Wikimedia Commons SVG",
+    "licence": "Public domain; trademark",
+    "note": "2025 icon",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "dropbox": {
+    "source": "https://brand.dropbox.com/logo (inline SVG)",
+    "kind": "brand site inline SVG",
+    "licence": "trademark",
+    "note": "drawn in #0061FE; shared key, logo copied from work-tools",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "yandex-360": {
+    "source": "https://avatars.mds.yandex.net/get-bunker/118781/3de9fa0e488060ec805f3ca95aeb0f358252447f/orig",
+    "kind": "brand site SVG",
+    "licence": "Trademark",
+    "note": "360 badge only; covers Яндекс Диск",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "oblako-mail": {
+    "source": "https://cloud.imgsmail.ru/cloud.mail.ru/hashes/img/54cbc3d30f0b1da1d208.svg",
+    "kind": "brand site SVG",
+    "licence": "Trademark",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "mega": {
+    "source": "https://mega.io/wp-content/themes/megapages/megalib/icons/logos/mega.svg",
+    "kind": "brand site SVG",
+    "licence": "Trademark",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "pcloud": {
+    "source": "https://pcdn-www.pcloud.com/ZWjdL/images/logo/pcloud.svg",
+    "kind": "brand site SVG",
+    "licence": "Trademark",
+    "note": "symbol only",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  }
+}

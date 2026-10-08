@@ -1,0 +1,67 @@
+{
+  "id": "cloud-storage",
+  "version": 1,
+  "type": "payees",
+  "name": {
+    "en": "Cloud Storage",
+    "ru": "Облачные хранилища"
+  },
+  "payees": [
+    {
+      "key": "google-one",
+      "name": { "en": "Google One", "ru": "Google One" },
+      "logo": "https://catalog.kazna.app/packs/cloud-storage/logos/google-one.png",
+      "mcc": [5818,  7372],
+      "website": "https://one.google.com"
+    },
+    {
+      "key": "icloud",
+      "name": { "en": "iCloud+", "ru": "iCloud+" },
+      "logo": "https://catalog.kazna.app/packs/cloud-storage/logos/icloud.png",
+      "mcc": [5818,  7372],
+      "website": "https://www.apple.com/icloud/"
+    },
+    {
+      "key": "onedrive",
+      "name": { "en": "Microsoft OneDrive", "ru": "Microsoft OneDrive" },
+      "logo": "https://catalog.kazna.app/packs/cloud-storage/logos/onedrive.png",
+      "mcc": [5818,  7372],
+      "website": "https://www.microsoft.com/microsoft-365/onedrive"
+    },
+    {
+      "key": "dropbox",
+      "name": { "en": "Dropbox", "ru": "Dropbox" },
+      "logo": "https://catalog.kazna.app/packs/cloud-storage/logos/dropbox.png",
+      "mcc": [5734,  7372],
+      "website": "https://www.dropbox.com"
+    },
+    {
+      "key": "yandex-360",
+      "name": { "en": "Yandex 360", "ru": "Яндекс 360" },
+      "logo": "https://catalog.kazna.app/packs/cloud-storage/logos/yandex-360.png",
+      "mcc": [5818,  7372,  4816],
+      "website": "https://360.yandex.ru"
+    },
+    {
+      "key": "oblako-mail",
+      "name": { "en": "Cloud Mail", "ru": "Облако Mail" },
+      "logo": "https://catalog.kazna.app/packs/cloud-storage/logos/oblako-mail.png",
+      "mcc": [5818,  7372],
+      "website": "https://cloud.mail.ru"
+    },
+    {
+      "key": "mega",
+      "name": { "en": "MEGA", "ru": "MEGA" },
+      "logo": "https://catalog.kazna.app/packs/cloud-storage/logos/mega.png",
+      "mcc": [5818,  7372],
+      "website": "https://mega.io"
+    },
+    {
+      "key": "pcloud",
+      "name": { "en": "pCloud", "ru": "pCloud" },
+      "logo": "https://catalog.kazna.app/packs/cloud-storage/logos/pcloud.png",
+      "mcc": [5818,  7372],
+      "website": "https://www.pcloud.com"
+    }
+  ]
+}

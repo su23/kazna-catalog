@@ -1,0 +1,47 @@
+{
+  "chitai-gorod": {
+    "source": "https://www.chitai-gorod.ru/",
+    "kind": "brand site inline SVG",
+    "licence": "Trademark",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "bukvoed": {
+    "source": "https://static.bookvoed.ru/_nuxt/logo-with-text.CPm3iVnS.svg",
+    "kind": "brand site SVG",
+    "licence": "Trademark",
+    "note": "wordmark, tagline removed",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "litres": {
+    "source": "https://cdn2.litres.ru/static/litres/logo/logo_ru.svg",
+    "kind": "brand site SVG",
+    "licence": "Trademark",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "labirint": {
+    "source": "https://img.labirint.ru/design/header/header-logo-sprite-02112017.svg",
+    "kind": "brand site SVG sprite",
+    "licence": "Trademark",
+    "note": "white header variant recoloured #2B2B2B",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "mybook": {
+    "source": "https://mybook.ru/",
+    "kind": "brand site inline SVG",
+    "licence": "Trademark",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "kion-stroki": {
+    "source": "https://stroki.mts.ru/",
+    "kind": "brand site inline SVG",
+    "licence": "Trademark",
+    "note": "formerly МТС Строки; symbol only",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  }
+}

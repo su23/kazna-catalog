@@ -1,0 +1,54 @@
+{
+  "tbank-invest": {
+    "source": "https://static.rustore.ru/2026/9/9/00/apk/231103/content/ICON/9e950775-94b2-4a87-adaa-933facf4d8a5.png",
+    "kind": "RuStore app icon (developer АО «ТБанк»)",
+    "licence": "Trademark",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "sber-invest": {
+    "source": "https://static.rustore.ru/2026/1/13/86/apk/466879/content/ICON/e341dc76-fe4a-4ed6-a38d-672137899a64.png",
+    "kind": "RuStore app icon (developer ПАО Сбербанк)",
+    "licence": "Trademark",
+    "note": "white tile removed",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "alfa-invest": {
+    "source": "https://static.rustore.ru/1cc2598a-48a0-4764-bbd4-75ff201f0549",
+    "kind": "RuStore app icon (developer АО «Альфа-Банк»)",
+    "licence": "Trademark",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "vtb-invest": {
+    "source": "https://static.rustore.ru/2025/12/2/6d/apk/603327/content/ICON/ffaac23f-50f9-45ab-bf98-c04764a40c20.jpg",
+    "kind": "RuStore app icon (developer Банк ВТБ (ПАО))",
+    "licence": "Trademark",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "bcs": {
+    "source": "https://bcs.ru/favicon.svg",
+    "kind": "brand site SVG",
+    "licence": "Trademark",
+    "note": "sphere symbol",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "gpb-invest": {
+    "source": "https://gazprombank.investments/local/templates/main/images/logo.svg#header-default",
+    "kind": "brand site SVG sprite symbol",
+    "licence": "Trademark",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "finam": {
+    "source": "https://www.finam.ru/",
+    "kind": "brand site CSS data-URI SVG",
+    "licence": "Trademark",
+    "note": "symbol only",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "id": "by-utilities",
+  "version": 1,
+  "type": "payees",
+  "name": {
+    "en": "Belarus: Bills & Taxes",
+    "ru": "Беларусь: платежи и налоги"
+  },
+  "payees": [
+    {
+      "key": "erip",
+      "name": { "en": "ERIP", "ru": "ЕРИП" },
+      "logo": "https://catalog.kazna.app/packs/by-utilities/logos/erip.png",
+      "mcc": [4900,  9399],
+      "website": "https://raschet.by"
+    },
+    {
+      "key": "belenergo",
+      "name": { "en": "Belenergo (Energosbyt)", "ru": "Белэнерго (Энергосбыт)" },
+      "logo": "https://catalog.kazna.app/packs/by-utilities/logos/belenergo.png",
+      "mcc": [4900],
+      "website": "https://energo.by"
+    },
+    {
+      "key": "mingaz",
+      "name": { "en": "Mingaz", "ru": "Мингаз" },
+      "logo": "https://catalog.kazna.app/packs/by-utilities/logos/mingaz.png",
+      "mcc": [4900],
+      "website": "https://mingas.by"
+    },
+    {
+      "key": "minskvodokanal",
+      "name": { "en": "Minskvodokanal", "ru": "Минскводоканал" },
+      "logo": "https://catalog.kazna.app/packs/by-utilities/logos/minskvodokanal.png",
+      "mcc": [4900],
+      "website": "https://minskvodokanal.by"
+    },
+    {
+      "key": "beltelecom",
+      "name": { "en": "Beltelecom", "ru": "Белтелеком" },
+      "logo": "https://catalog.kazna.app/packs/by-utilities/logos/beltelecom.png",
+      "mcc": [4814,  4899],
+      "website": "https://beltelecom.by"
+    },
+    {
+      "key": "mns-by",
+      "name": { "en": "Ministry of Taxes and Duties", "ru": "МНС Беларуси" },
+      "logo": "https://catalog.kazna.app/packs/by-utilities/logos/mns-by.png",
+      "mcc": [9311],
+      "website": "https://nalog.gov.by"
+    }
+  ]
+}
