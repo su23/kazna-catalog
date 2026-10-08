@@ -1,0 +1,119 @@
+{
+  "migros-tr": {
+    "source": "https://commons.wikimedia.org/wiki/File:MiGROS Logo.svg",
+    "kind": "Wikimedia Commons SVG",
+    "licence": "Public domain; trademark",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "bim": {
+    "source": "https://commons.wikimedia.org/wiki/File:Bim (company) logo.svg",
+    "kind": "Wikimedia Commons SVG",
+    "licence": "Public domain; trademark",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "a101": {
+    "source": "https://www.a101.com.tr/",
+    "kind": "brand site inline SVG",
+    "licence": "Trademark",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "sok": {
+    "source": "https://commons.wikimedia.org/wiki/File:ŞOK Market logo.svg",
+    "kind": "Wikimedia Commons SVG",
+    "licence": "Public domain; trademark",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "carrefoursa": {
+    "source": "https://apps.apple.com/app/id1460593315",
+    "kind": "App Store icon (seller CarrefourSA Carrefour Sabanci Ticaret Merkezi A.S.)",
+    "licence": "Trademark",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "trendyol": {
+    "source": "https://cdn.dsmcdn.com/sfweb-browsing/images/trendyol-logo_1761301016237.svg",
+    "kind": "brand site SVG",
+    "licence": "Trademark",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin",
+    "note": "shared key, logo copied from online-shopping"
+  },
+  "hepsiburada": {
+    "source": "https://images.hepsiburada.net/storefront/storefront/www/assets/images/hepsiburada.svg",
+    "kind": "brand site SVG",
+    "licence": "Trademark",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "getir": {
+    "source": "https://commons.wikimedia.org/wiki/File:Getir wordmark.svg",
+    "kind": "Wikimedia Commons SVG",
+    "licence": "Public domain; trademark",
+    "note": "yellow recoloured to Getir purple #5D3EBC for the light plate",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "yemeksepeti": {
+    "source": "https://apps.apple.com/app/id373034841",
+    "kind": "App Store icon (seller YEMEK SEPETI)",
+    "licence": "Trademark",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "mediamarkt": {
+    "source": "https://www.mediamarkt.com.tr/",
+    "kind": "brand site inline SVG",
+    "licence": "Trademark",
+    "note": "2023 swirl, recoloured red #DF0000",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "teknosa": {
+    "source": "https://img-teknosa-sap.mncdn.com/_ui/responsive/theme-teknosa/assets/images/logo.svg",
+    "kind": "brand site SVG",
+    "licence": "Trademark",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "turkcell": {
+    "source": "https://apps.apple.com/app/id335162906",
+    "kind": "App Store icon (seller Turkcell Teknoloji)",
+    "licence": "Trademark",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "vodafone-tr": {
+    "source": "https://www.vodafone.ua/assets/logos/vf-red-logo.svg",
+    "kind": "brand site SVG",
+    "licence": "trademark",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin",
+    "note": "same Vodafone speechmark, logo copied from ua-retail/vodafone-ua"
+  },
+  "turk-telekom": {
+    "source": "https://commons.wikimedia.org/wiki/File:Türk Telekom logo.svg",
+    "kind": "Wikimedia Commons SVG",
+    "licence": "Public domain; trademark",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "opet": {
+    "source": "https://commons.wikimedia.org/wiki/File:Opet logo.svg",
+    "kind": "Wikimedia Commons SVG",
+    "licence": "Public domain; trademark",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "petrol-ofisi": {
+    "source": "https://www.petrolofisi.com.tr/_assets/images/petrol-ofisi-picto2.svg",
+    "kind": "brand site SVG",
+    "licence": "Trademark",
+    "note": "pictogram, white recoloured to site red #ED1D24",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  }
+}

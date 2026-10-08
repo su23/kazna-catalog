@@ -1,0 +1,56 @@
+{
+  "ddx-fitness": {
+    "source": "https://ddxfitness.ru/",
+    "kind": "brand site inline SVG",
+    "licence": "Trademark",
+    "note": "orange DDX part only",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "xfit": {
+    "source": "https://www.xfit.ru/svgs/logo.svg",
+    "kind": "brand site SVG",
+    "licence": "Trademark",
+    "note": "white letters recoloured dark grey",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "world-class": {
+    "source": "https://static.tildacdn.com/tild3962-6264-4534-a132-623234373637/W_Logo_Circle.png",
+    "kind": "brand site PNG (800 px)",
+    "licence": "Trademark",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "spirit-fitness": {
+    "source": "https://spiritfit.ru/images/logo_white.svg",
+    "kind": "brand site SVG",
+    "licence": "Trademark",
+    "note": "white \"fitness\" recoloured dark",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "fitness-house": {
+    "source": "https://www.fitnesshouse.ru/assets/templates/fh2023/img/logo-brand.svg",
+    "kind": "brand site SVG",
+    "licence": "Trademark",
+    "note": "centre emblem only, recoloured #42474D",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "alex-fitness": {
+    "source": "https://alexfitness.ru/assets/images/vac/logo.svg",
+    "kind": "brand site SVG",
+    "licence": "Trademark",
+    "note": "white recoloured #323233",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "terfit": {
+    "source": "https://terfit.ru/local/frontend/img/logo.svg",
+    "kind": "brand site SVG",
+    "licence": "Trademark",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "id": "online-shopping",
+  "version": 1,
+  "type": "payees",
+  "name": {
+    "en": "Online Shopping",
+    "ru": "Интернет-магазины"
+  },
+  "payees": [
+    {
+      "key": "aliexpress",
+      "name": { "en": "AliExpress", "ru": "АлиЭкспресс" },
+      "logo": "https://catalog.kazna.app/packs/online-shopping/logos/aliexpress.png",
+      "mcc": [5999,  5399],
+      "website": "https://aliexpress.ru"
+    },
+    {
+      "key": "temu",
+      "name": { "en": "Temu", "ru": "Temu" },
+      "logo": "https://catalog.kazna.app/packs/online-shopping/logos/temu.png",
+      "mcc": [5999,  5399],
+      "website": "https://www.temu.com"
+    },
+    {
+      "key": "shein",
+      "name": { "en": "SHEIN", "ru": "SHEIN" },
+      "logo": "https://catalog.kazna.app/packs/online-shopping/logos/shein.png",
+      "mcc": [5651,  5999],
+      "website": "https://www.shein.com"
+    },
+    {
+      "key": "ebay",
+      "name": { "en": "eBay", "ru": "иБей" },
+      "logo": "https://catalog.kazna.app/packs/online-shopping/logos/ebay.png",
+      "mcc": [5999],
+      "website": "https://ebay.com"
+    },
+    {
+      "key": "etsy",
+      "name": { "en": "Etsy", "ru": "Etsy" },
+      "logo": "https://catalog.kazna.app/packs/online-shopping/logos/etsy.png",
+      "mcc": [5999],
+      "website": "https://www.etsy.com"
+    },
+    {
+      "key": "joom",
+      "name": { "en": "Joom", "ru": "Joom" },
+      "logo": "https://catalog.kazna.app/packs/online-shopping/logos/joom.png",
+      "mcc": [5999],
+      "website": "https://www.joom.com"
+    },
+    {
+      "key": "iherb",
+      "name": { "en": "iHerb", "ru": "iHerb" },
+      "logo": "https://catalog.kazna.app/packs/online-shopping/logos/iherb.png",
+      "mcc": [5912,  5499],
+      "website": "https://www.iherb.com"
+    },
+    {
+      "key": "trendyol",
+      "name": { "en": "Trendyol", "ru": "Trendyol" },
+      "logo": "https://catalog.kazna.app/packs/online-shopping/logos/trendyol.png",
+      "mcc": [5999,  5651],
+      "website": "https://www.trendyol.com"
+    },
+    {
+      "key": "zalando",
+      "name": { "en": "Zalando", "ru": "Zalando" },
+      "logo": "https://catalog.kazna.app/packs/online-shopping/logos/zalando.png",
+      "mcc": [5651,  5661],
+      "website": "https://www.zalando.com"
+    },
+    {
+      "key": "asos",
+      "name": { "en": "ASOS", "ru": "ASOS" },
+      "logo": "https://catalog.kazna.app/packs/online-shopping/logos/asos.png",
+      "mcc": [5651],
+      "website": "https://www.asos.com"
+    }
+  ]
+}

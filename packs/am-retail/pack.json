@@ -1,0 +1,102 @@
+{
+  "id": "am-retail",
+  "version": 1,
+  "type": "payees",
+  "name": {
+    "en": "Armenia: Shops & Services",
+    "ru": "Армения: магазины и сервисы"
+  },
+  "payees": [
+    {
+      "key": "sas-am",
+      "name": { "en": "SAS Supermarket", "ru": "САС" },
+      "logo": "https://catalog.kazna.app/packs/am-retail/logos/sas-am.png",
+      "mcc": [5411],
+      "website": "https://www.sas.am"
+    },
+    {
+      "key": "yerevan-city",
+      "name": { "en": "Yerevan City", "ru": "Ереван Сити" },
+      "logo": "https://catalog.kazna.app/packs/am-retail/logos/yerevan-city.png",
+      "mcc": [5411],
+      "website": "https://yerevan-city.am"
+    },
+    {
+      "key": "carrefour",
+      "name": { "en": "Carrefour", "ru": "Карфур" },
+      "logo": "https://catalog.kazna.app/packs/am-retail/logos/carrefour.png",
+      "mcc": [5411],
+      "website": "https://www.carrefour.am"
+    },
+    {
+      "key": "zigzag",
+      "name": { "en": "Zigzag", "ru": "Зигзаг" },
+      "logo": "https://catalog.kazna.app/packs/am-retail/logos/zigzag.png",
+      "mcc": [5732],
+      "website": "https://www.zigzag.am"
+    },
+    {
+      "key": "vega-am",
+      "name": { "en": "Vega", "ru": "Вега" },
+      "logo": "https://catalog.kazna.app/packs/am-retail/logos/vega-am.png",
+      "mcc": [5732],
+      "website": "https://vega.am"
+    },
+    {
+      "key": "glovo",
+      "name": { "en": "Glovo", "ru": "Glovo" },
+      "logo": "https://catalog.kazna.app/packs/am-retail/logos/glovo.png",
+      "mcc": [5814,  4215],
+      "website": "https://glovoapp.com"
+    },
+    {
+      "key": "yandex-go",
+      "name": { "en": "Yandex Go", "ru": "Яндекс Go" },
+      "logo": "https://catalog.kazna.app/packs/am-retail/logos/yandex-go.png",
+      "mcc": [4121],
+      "website": "https://go.yandex"
+    },
+    {
+      "key": "yandex-eda",
+      "name": { "en": "Yandex Eda", "ru": "Яндекс Еда" },
+      "logo": "https://catalog.kazna.app/packs/am-retail/logos/yandex-eda.png",
+      "mcc": [5814],
+      "website": "https://eda.yandex.ru"
+    },
+    {
+      "key": "team-am",
+      "name": { "en": "Team", "ru": "Тим" },
+      "logo": "https://catalog.kazna.app/packs/am-retail/logos/team-am.png",
+      "mcc": [4814,  4899],
+      "website": "https://www.telecomarmenia.am"
+    },
+    {
+      "key": "viva-am",
+      "name": { "en": "Viva", "ru": "Вива" },
+      "logo": "https://catalog.kazna.app/packs/am-retail/logos/viva-am.png",
+      "mcc": [4814],
+      "website": "https://www.viva.am"
+    },
+    {
+      "key": "ucom",
+      "name": { "en": "Ucom", "ru": "Юком" },
+      "logo": "https://catalog.kazna.app/packs/am-retail/logos/ucom.png",
+      "mcc": [4814,  4899],
+      "website": "https://www.ucom.am"
+    },
+    {
+      "key": "natali-pharm",
+      "name": { "en": "Natali Pharm", "ru": "Натали Фарм" },
+      "logo": "https://catalog.kazna.app/packs/am-retail/logos/natali-pharm.png",
+      "mcc": [5912],
+      "website": "https://natalipharm.am"
+    },
+    {
+      "key": "alfa-pharm",
+      "name": { "en": "Alfa Pharm", "ru": "Альфа Фарм" },
+      "logo": "https://catalog.kazna.app/packs/am-retail/logos/alfa-pharm.png",
+      "mcc": [5912],
+      "website": "https://www.alfapharm.am"
+    }
+  ]
+}

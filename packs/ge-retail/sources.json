@@ -1,0 +1,123 @@
+{
+  "carrefour": {
+    "source": "https://cdnprod.mafretailproxy.com/mafrp-web/assets/en/images/default/logo.svg",
+    "kind": "brand site SVG (Majid Al Futtaim)",
+    "licence": "Trademark",
+    "note": "MAF Carrefour symbol",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "nikora": {
+    "source": "https://nikoraltd.ge/",
+    "kind": "brand site inline SVG",
+    "licence": "Trademark",
+    "note": "filled with site red #D20017",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "spar-ge": {
+    "source": "https://commons.wikimedia.org/wiki/File:Spar-logo.svg",
+    "kind": "Wikimedia Commons SVG",
+    "licence": "Public domain; trademark",
+    "note": "tree symbol",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "2-nabiji": {
+    "source": "https://2nabiji.ge/",
+    "kind": "brand site inline SVG",
+    "licence": "Trademark",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "agrohub": {
+    "source": "https://agrohub.ge/images/main-logo-en.svg",
+    "kind": "brand site SVG",
+    "licence": "Trademark",
+    "note": "cart symbol",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "glovo": {
+    "source": "https://commons.wikimedia.org/wiki/File:Glovo_teal_logo.svg",
+    "kind": "Wikimedia Commons SVG",
+    "licence": "Public domain; trademark",
+    "note": "current teal wordmark; shared key, logo copied from kz-retail",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "wolt": {
+    "source": "https://wolt.com/",
+    "kind": "brand site inline SVG",
+    "licence": "Trademark",
+    "note": "filled with site cyan #00C2E8",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "bolt": {
+    "source": "https://commons.wikimedia.org/wiki/File:Bolt Technology logo.svg",
+    "kind": "Wikimedia Commons SVG",
+    "licence": "Public domain; trademark",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "yandex-go": {
+    "source": "https://commons.wikimedia.org/wiki/File:Yandex_Go_icon.svg",
+    "kind": "Wikimedia Commons SVG",
+    "licence": "Public domain; trademark",
+    "note": "uncropped; shared key, logo copied from ru-transport",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "magti": {
+    "source": "https://apps.apple.com/app/id1005596171",
+    "kind": "App Store icon (seller Magticom LTD)",
+    "licence": "Trademark",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "silknet": {
+    "source": "https://silknet.com/",
+    "kind": "brand site inline SVG",
+    "licence": "Trademark",
+    "note": "symbol only",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "cellfie": {
+    "source": "https://cellfie.ge/",
+    "kind": "brand site inline SVG",
+    "licence": "Trademark",
+    "note": "symbol only",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "gpc": {
+    "source": "https://gpc.ge/images/logo_en.svg",
+    "kind": "brand site SVG",
+    "licence": "Trademark",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "psp-ge": {
+    "source": "https://apps.apple.com/app/id1638514214",
+    "kind": "App Store icon (seller PSP PHARMA LLC)",
+    "licence": "Trademark",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "wissol": {
+    "source": "https://wissol.ge/images/Wissol.svg",
+    "kind": "brand site SVG",
+    "licence": "Trademark",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "gulf-ge": {
+    "source": "https://commons.wikimedia.org/wiki/File:Gulf Oil logo.svg",
+    "kind": "Wikimedia Commons SVG",
+    "licence": "Public domain; trademark",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  }
+}

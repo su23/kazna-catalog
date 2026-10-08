@@ -1,0 +1,116 @@
+{
+  "id": "ae-retail",
+  "version": 1,
+  "type": "payees",
+  "name": {
+    "en": "UAE: Shops & Services",
+    "ru": "ОАЭ: магазины и сервисы"
+  },
+  "payees": [
+    {
+      "key": "carrefour",
+      "name": { "en": "Carrefour", "ru": "Карфур" },
+      "logo": "https://catalog.kazna.app/packs/ae-retail/logos/carrefour.png",
+      "mcc": [5411],
+      "website": "https://www.carrefouruae.com"
+    },
+    {
+      "key": "lulu",
+      "name": { "en": "LuLu Hypermarket", "ru": "Лулу" },
+      "logo": "https://catalog.kazna.app/packs/ae-retail/logos/lulu.png",
+      "mcc": [5411],
+      "website": "https://www.luluhypermarket.com"
+    },
+    {
+      "key": "spinneys",
+      "name": { "en": "Spinneys", "ru": "Спиннис" },
+      "logo": "https://catalog.kazna.app/packs/ae-retail/logos/spinneys.png",
+      "mcc": [5411],
+      "website": "https://www.spinneys.com"
+    },
+    {
+      "key": "union-coop",
+      "name": { "en": "Union Coop", "ru": "Юнион Кооп" },
+      "logo": "https://catalog.kazna.app/packs/ae-retail/logos/union-coop.png",
+      "mcc": [5411],
+      "website": "https://www.unioncoop.ae"
+    },
+    {
+      "key": "noon",
+      "name": { "en": "noon", "ru": "noon" },
+      "logo": "https://catalog.kazna.app/packs/ae-retail/logos/noon.png",
+      "mcc": [5399],
+      "website": "https://www.noon.com"
+    },
+    {
+      "key": "amazon",
+      "name": { "en": "Amazon", "ru": "Амазон" },
+      "logo": "https://catalog.kazna.app/packs/ae-retail/logos/amazon.png",
+      "mcc": [5999],
+      "website": "https://www.amazon.ae"
+    },
+    {
+      "key": "talabat",
+      "name": { "en": "talabat", "ru": "Талабат" },
+      "logo": "https://catalog.kazna.app/packs/ae-retail/logos/talabat.png",
+      "mcc": [5814],
+      "website": "https://www.talabat.com"
+    },
+    {
+      "key": "careem",
+      "name": { "en": "Careem", "ru": "Карим" },
+      "logo": "https://catalog.kazna.app/packs/ae-retail/logos/careem.png",
+      "mcc": [4121,  5814],
+      "website": "https://www.careem.com"
+    },
+    {
+      "key": "sharaf-dg",
+      "name": { "en": "Sharaf DG", "ru": "Sharaf DG" },
+      "logo": "https://catalog.kazna.app/packs/ae-retail/logos/sharaf-dg.png",
+      "mcc": [5732],
+      "website": "https://www.sharafdg.com"
+    },
+    {
+      "key": "etisalat",
+      "name": { "en": "etisalat", "ru": "Этисалат" },
+      "logo": "https://catalog.kazna.app/packs/ae-retail/logos/etisalat.png",
+      "mcc": [4814],
+      "website": "https://www.etisalat.ae"
+    },
+    {
+      "key": "du",
+      "name": { "en": "du", "ru": "du" },
+      "logo": "https://catalog.kazna.app/packs/ae-retail/logos/du.png",
+      "mcc": [4814],
+      "website": "https://www.du.ae"
+    },
+    {
+      "key": "adnoc",
+      "name": { "en": "ADNOC", "ru": "ADNOC" },
+      "logo": "https://catalog.kazna.app/packs/ae-retail/logos/adnoc.png",
+      "mcc": [5541],
+      "website": "https://www.adnocdistribution.ae"
+    },
+    {
+      "key": "enoc",
+      "name": { "en": "ENOC", "ru": "ENOC" },
+      "logo": "https://catalog.kazna.app/packs/ae-retail/logos/enoc.png",
+      "mcc": [5541],
+      "website": "https://www.enoc.com"
+    },
+    {
+      "key": "dewa",
+      "name": { "en": "DEWA", "ru": "DEWA" },
+      "logo": "https://catalog.kazna.app/packs/ae-retail/logos/dewa.png",
+      "mcc": [4900],
+      "website": "https://www.dewa.gov.ae"
+    },
+    {
+      "key": "nol",
+      "name": { "en": "nol (RTA)", "ru": "nol (RTA)" },
+      "logo": "https://catalog.kazna.app/packs/ae-retail/logos/nol.png",
+      "mcc": [4111,  4131],
+      "website": "https://www.rta.ae"
+    }
+  ]
+}

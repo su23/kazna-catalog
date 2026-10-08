@@ -1,0 +1,98 @@
+{
+  "sas-am": {
+    "source": "https://www.sas.am/local/assets/images/markup-images/logo.svg",
+    "kind": "brand site SVG",
+    "licence": "Trademark",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "yerevan-city": {
+    "source": "https://yerevan-city.am/assets/images/logo.svg",
+    "kind": "brand site SVG",
+    "licence": "Trademark",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "carrefour": {
+    "source": "https://cdnprod.mafretailproxy.com/mafrp-web/assets/en/images/default/logo.svg",
+    "kind": "brand site SVG (Majid Al Futtaim)",
+    "licence": "Trademark",
+    "note": "MAF Carrefour symbol; shared key, logo copied from ge-retail",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "zigzag": {
+    "source": "https://www.zigzag.am/static/version1790774800/frontend/Magento/zigzag/hy_AM/images/zigzaglogo_am.svg",
+    "kind": "brand site SVG",
+    "licence": "Trademark",
+    "note": "Z symbol",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "vega-am": {
+    "source": "https://vega.am/image/catalog/vega-logoo.svg",
+    "kind": "brand site SVG",
+    "licence": "Trademark",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "glovo": {
+    "source": "https://commons.wikimedia.org/wiki/File:Glovo_teal_logo.svg",
+    "kind": "Wikimedia Commons SVG",
+    "licence": "Public domain; trademark",
+    "note": "current teal wordmark; shared key, logo copied from kz-retail",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "yandex-go": {
+    "source": "https://commons.wikimedia.org/wiki/File:Yandex_Go_icon.svg",
+    "kind": "Wikimedia Commons SVG",
+    "licence": "Public domain; trademark",
+    "note": "uncropped; shared key, logo copied from ru-transport",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "yandex-eda": {
+    "source": "https://catalog.kazna.app/packs/ru-food-delivery/logos/yandex-eda.png",
+    "kind": "same logo as ru-food-delivery",
+    "licence": "Trademark",
+    "note": "shared key, logo copied from ru-food-delivery; took over Menu.am"
+  },
+  "team-am": {
+    "source": "https://commons.wikimedia.org/wiki/File:Telecom Armenia.svg",
+    "kind": "Wikimedia Commons SVG",
+    "licence": "CC BY-SA 4.0; trademark",
+    "note": "beige background removed",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "viva-am": {
+    "source": "https://apps.apple.com/app/id932795438",
+    "kind": "App Store icon (seller Viva Armenia CJSC)",
+    "licence": "Trademark",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "ucom": {
+    "source": "https://www.ucom.am/images/short_logo.svg",
+    "kind": "brand site SVG",
+    "licence": "Trademark",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "natali-pharm": {
+    "source": "https://apps.apple.com/app/id1205145148",
+    "kind": "App Store icon (seller Natali Farm LLC)",
+    "licence": "Trademark",
+    "note": "white tile removed",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "alfa-pharm": {
+    "source": "https://www.alfapharm.am/assets/logo.png",
+    "kind": "brand site PNG",
+    "licence": "Trademark",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  }
+}

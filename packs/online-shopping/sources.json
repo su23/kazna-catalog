@@ -1,0 +1,74 @@
+{
+  "aliexpress": {
+    "source": "https://apps.apple.com/app/id1516453498",
+    "kind": "App Store icon (seller Alibaba.com (RU), LLC)",
+    "licence": "Trademark",
+    "note": "current plain red tile; shared key, logo copied from ru-marketplaces",
+    "fetched": "2026-10-08",
+    "processing": "fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "temu": {
+    "source": "https://apps.apple.com/app/id1641486558",
+    "kind": "App Store icon (seller Whaleco Inc.)",
+    "licence": "Trademark",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "shein": {
+    "source": "https://de.shein.com/",
+    "kind": "brand site inline SVG",
+    "licence": "Trademark",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "ebay": {
+    "source": "https://catalog.kazna.app/packs/global-brands/logos/ebay.png",
+    "kind": "same logo as global-brands",
+    "licence": "Trademark",
+    "note": "shared key, logo copied from global-brands"
+  },
+  "etsy": {
+    "source": "https://www.etsy.com/",
+    "kind": "brand site inline SVG",
+    "licence": "Trademark",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "joom": {
+    "source": "https://web-client.joomcdn.net/web-client/028a76bca44d63aa.svg",
+    "kind": "brand site SVG",
+    "licence": "Trademark",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "iherb": {
+    "source": "https://de.iherb.com/",
+    "kind": "brand site inline symbol",
+    "licence": "Trademark",
+    "note": "site header green #458500, (R) removed",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "trendyol": {
+    "source": "https://cdn.dsmcdn.com/sfweb-browsing/images/trendyol-logo_1761301016237.svg",
+    "kind": "brand site SVG",
+    "licence": "Trademark",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "zalando": {
+    "source": "https://en.zalando.de/",
+    "kind": "brand site inline SVG",
+    "licence": "Trademark",
+    "note": "2024 symbol only",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "asos": {
+    "source": "https://www.asos.com/",
+    "kind": "brand site header SVG (data URI)",
+    "licence": "Trademark",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  }
+}

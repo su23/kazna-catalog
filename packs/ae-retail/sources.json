@@ -1,0 +1,111 @@
+{
+  "carrefour": {
+    "source": "https://cdnprod.mafretailproxy.com/mafrp-web/assets/en/images/default/logo.svg",
+    "kind": "brand site SVG (Majid Al Futtaim)",
+    "licence": "Trademark",
+    "note": "MAF Carrefour symbol; shared key, logo copied from ge-retail",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "lulu": {
+    "source": "https://gcc.luluhypermarket.com/akn-logo-mark.svg",
+    "kind": "brand site SVG",
+    "licence": "Trademark",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "spinneys": {
+    "source": "https://apps.apple.com/app/id1518538261",
+    "kind": "App Store icon (seller FINE FARE FOOD MARKET L L C)",
+    "licence": "Trademark",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "union-coop": {
+    "source": "https://www.unioncoop.ae/static/version1791412910/frontend/Ktpl/unioncoop/default/images/logo.svg",
+    "kind": "brand site SVG",
+    "licence": "Trademark",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "noon": {
+    "source": "https://f.nooncdn.com/s/app/com/noon/design-system/logos/revamp-logo-en-smaller.svg",
+    "kind": "brand site SVG",
+    "licence": "Trademark",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "amazon": {
+    "source": "https://catalog.kazna.app/packs/global-brands/logos/amazon.png",
+    "kind": "same logo as global-brands",
+    "licence": "Trademark",
+    "note": "shared key, logo copied from global-brands"
+  },
+  "talabat": {
+    "source": "https://www.talabat.com/assets/images/remix-logo.svg",
+    "kind": "brand site SVG",
+    "licence": "Trademark",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "careem": {
+    "source": "https://commons.wikimedia.org/wiki/File:Careem Logo.svg",
+    "kind": "Wikimedia Commons SVG",
+    "licence": "Public domain; trademark",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "sharaf-dg": {
+    "source": "https://apps.apple.com/app/id834006624",
+    "kind": "App Store icon (seller SHARAF DG (L. L. C))",
+    "licence": "Trademark",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "etisalat": {
+    "source": "https://commons.wikimedia.org/wiki/File:Etisalat EN Logo.svg",
+    "kind": "Wikimedia Commons SVG",
+    "licence": "Public domain; trademark",
+    "note": "2026 logo",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "du": {
+    "source": "https://www.du.ae/",
+    "kind": "brand site inline SVG",
+    "licence": "Trademark",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "adnoc": {
+    "source": "https://www.adnocdistribution.ae/-/media/adnoc-distribution-v3-images-consumer/common/bluelogo.svg",
+    "kind": "brand site SVG",
+    "licence": "Trademark",
+    "note": "falcon symbol",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "enoc": {
+    "source": "https://commons.wikimedia.org/wiki/File:ENOC DL logo.svg",
+    "kind": "Wikimedia Commons SVG",
+    "licence": "Public domain; trademark",
+    "note": "symbol only",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "dewa": {
+    "source": "https://apps.apple.com/app/id364928325",
+    "kind": "App Store icon (seller DEWA)",
+    "licence": "Trademark",
+    "note": "white tile removed",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "nol": {
+    "source": "https://apps.apple.com/app/id1541976471",
+    "kind": "App Store icon (seller Roads & Transport Authority)",
+    "licence": "Trademark",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  }
+}

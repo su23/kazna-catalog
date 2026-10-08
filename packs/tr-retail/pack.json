@@ -1,0 +1,123 @@
+{
+  "id": "tr-retail",
+  "version": 1,
+  "type": "payees",
+  "name": {
+    "en": "Turkey: Shops & Services",
+    "ru": "Турция: магазины и сервисы"
+  },
+  "payees": [
+    {
+      "key": "migros-tr",
+      "name": { "en": "Migros", "ru": "Мигрос" },
+      "logo": "https://catalog.kazna.app/packs/tr-retail/logos/migros-tr.png",
+      "mcc": [5411],
+      "website": "https://www.migros.com.tr"
+    },
+    {
+      "key": "bim",
+      "name": { "en": "BİM", "ru": "БИМ" },
+      "logo": "https://catalog.kazna.app/packs/tr-retail/logos/bim.png",
+      "mcc": [5411],
+      "website": "https://www.bim.com.tr"
+    },
+    {
+      "key": "a101",
+      "name": { "en": "A101", "ru": "A101" },
+      "logo": "https://catalog.kazna.app/packs/tr-retail/logos/a101.png",
+      "mcc": [5411],
+      "website": "https://www.a101.com.tr"
+    },
+    {
+      "key": "sok",
+      "name": { "en": "ŞOK", "ru": "ШОК" },
+      "logo": "https://catalog.kazna.app/packs/tr-retail/logos/sok.png",
+      "mcc": [5411],
+      "website": "https://www.sokmarket.com.tr"
+    },
+    {
+      "key": "carrefoursa",
+      "name": { "en": "CarrefourSA", "ru": "CarrefourSA" },
+      "logo": "https://catalog.kazna.app/packs/tr-retail/logos/carrefoursa.png",
+      "mcc": [5411],
+      "website": "https://www.carrefoursa.com"
+    },
+    {
+      "key": "trendyol",
+      "name": { "en": "Trendyol", "ru": "Trendyol" },
+      "logo": "https://catalog.kazna.app/packs/tr-retail/logos/trendyol.png",
+      "mcc": [5999,  5651],
+      "website": "https://www.trendyol.com"
+    },
+    {
+      "key": "hepsiburada",
+      "name": { "en": "Hepsiburada", "ru": "Hepsiburada" },
+      "logo": "https://catalog.kazna.app/packs/tr-retail/logos/hepsiburada.png",
+      "mcc": [5399],
+      "website": "https://www.hepsiburada.com"
+    },
+    {
+      "key": "getir",
+      "name": { "en": "Getir", "ru": "Getir" },
+      "logo": "https://catalog.kazna.app/packs/tr-retail/logos/getir.png",
+      "mcc": [5411,  5814],
+      "website": "https://getir.com"
+    },
+    {
+      "key": "yemeksepeti",
+      "name": { "en": "Yemeksepeti", "ru": "Yemeksepeti" },
+      "logo": "https://catalog.kazna.app/packs/tr-retail/logos/yemeksepeti.png",
+      "mcc": [5814],
+      "website": "https://www.yemeksepeti.com"
+    },
+    {
+      "key": "mediamarkt",
+      "name": { "en": "MediaMarkt", "ru": "MediaMarkt" },
+      "logo": "https://catalog.kazna.app/packs/tr-retail/logos/mediamarkt.png",
+      "mcc": [5732],
+      "website": "https://www.mediamarkt.com.tr"
+    },
+    {
+      "key": "teknosa",
+      "name": { "en": "Teknosa", "ru": "Teknosa" },
+      "logo": "https://catalog.kazna.app/packs/tr-retail/logos/teknosa.png",
+      "mcc": [5732],
+      "website": "https://www.teknosa.com"
+    },
+    {
+      "key": "turkcell",
+      "name": { "en": "Turkcell", "ru": "Turkcell" },
+      "logo": "https://catalog.kazna.app/packs/tr-retail/logos/turkcell.png",
+      "mcc": [4814],
+      "website": "https://www.turkcell.com.tr"
+    },
+    {
+      "key": "vodafone-tr",
+      "name": { "en": "Vodafone", "ru": "Vodafone" },
+      "logo": "https://catalog.kazna.app/packs/tr-retail/logos/vodafone-tr.png",
+      "mcc": [4814],
+      "website": "https://www.vodafone.com.tr"
+    },
+    {
+      "key": "turk-telekom",
+      "name": { "en": "Türk Telekom", "ru": "Türk Telekom" },
+      "logo": "https://catalog.kazna.app/packs/tr-retail/logos/turk-telekom.png",
+      "mcc": [4814,  4899],
+      "website": "https://www.turktelekom.com.tr"
+    },
+    {
+      "key": "opet",
+      "name": { "en": "Opet", "ru": "Opet" },
+      "logo": "https://catalog.kazna.app/packs/tr-retail/logos/opet.png",
+      "mcc": [5541],
+      "website": "https://www.opet.com.tr"
+    },
+    {
+      "key": "petrol-ofisi",
+      "name": { "en": "Petrol Ofisi", "ru": "Petrol Ofisi" },
+      "logo": "https://catalog.kazna.app/packs/tr-retail/logos/petrol-ofisi.png",
+      "mcc": [5541],
+      "website": "https://www.petrolofisi.com.tr"
+    }
+  ]
+}

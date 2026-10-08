@@ -93,7 +93,7 @@
     {
       "id": "ru-marketplaces",
       "type": "payees",
-      "version": 2,
+      "version": 3,
       "name": {
         "en": "Russian Marketplaces",
         "ru": "Маркетплейсы"
@@ -946,6 +946,182 @@
         "https://catalog.kazna.app/packs/travel-stay/logos/hilton.png",
         "https://catalog.kazna.app/packs/travel-stay/logos/accor.png",
         "https://catalog.kazna.app/packs/travel-stay/logos/ihg.png"
+      ]
+    },
+    {
+      "id": "ru-alcohol",
+      "type": "payees",
+      "version": 1,
+      "name": {
+        "en": "Russian Liquor Stores",
+        "ru": "Алкомаркеты"
+      },
+      "description": {
+        "en": "Liquor and wine stores in Russia — Krasnoe & Beloe, Bristol, WineLab, Aromatny Mir and 1 more",
+        "ru": "Алкомаркеты и винные магазины России — Красное&Белое, Бристоль, ВинЛаб, Ароматный мир и ещё 1"
+      },
+      "tags": ["russia", "alcohol", "retail"],
+      "entity_count": 5,
+      "pack_url": "https://catalog.kazna.app/packs/ru-alcohol/pack.json",
+      "preview_logos": [
+        "https://catalog.kazna.app/packs/ru-alcohol/logos/krasnoe-beloe.png",
+        "https://catalog.kazna.app/packs/ru-alcohol/logos/bristol.png",
+        "https://catalog.kazna.app/packs/ru-alcohol/logos/winelab.png",
+        "https://catalog.kazna.app/packs/ru-alcohol/logos/aromatny-mir.png"
+      ]
+    },
+    {
+      "id": "ru-fitness",
+      "type": "payees",
+      "version": 1,
+      "name": {
+        "en": "Russian Fitness Clubs",
+        "ru": "Фитнес-клубы"
+      },
+      "description": {
+        "en": "Fitness club chains in Russia — DDX Fitness, XFIT, World Class, Spirit Fitness and 3 more",
+        "ru": "Сети фитнес-клубов России — DDX Fitness, XFIT, World Class, Spirit Fitness и ещё 3"
+      },
+      "tags": ["russia", "fitness", "sport"],
+      "entity_count": 7,
+      "pack_url": "https://catalog.kazna.app/packs/ru-fitness/pack.json",
+      "preview_logos": [
+        "https://catalog.kazna.app/packs/ru-fitness/logos/ddx-fitness.png",
+        "https://catalog.kazna.app/packs/ru-fitness/logos/xfit.png",
+        "https://catalog.kazna.app/packs/ru-fitness/logos/world-class.png",
+        "https://catalog.kazna.app/packs/ru-fitness/logos/spirit-fitness.png"
+      ]
+    },
+    {
+      "id": "online-shopping",
+      "type": "payees",
+      "version": 1,
+      "name": {
+        "en": "Online Shopping",
+        "ru": "Интернет-магазины"
+      },
+      "description": {
+        "en": "Global online stores — AliExpress, Temu, SHEIN, eBay and 6 more",
+        "ru": "Зарубежные интернет-магазины — АлиЭкспресс, Temu, SHEIN, иБей и ещё 6"
+      },
+      "tags": ["global", "shopping", "ecommerce"],
+      "entity_count": 10,
+      "pack_url": "https://catalog.kazna.app/packs/online-shopping/pack.json",
+      "preview_logos": [
+        "https://catalog.kazna.app/packs/online-shopping/logos/aliexpress.png",
+        "https://catalog.kazna.app/packs/online-shopping/logos/temu.png",
+        "https://catalog.kazna.app/packs/online-shopping/logos/shein.png",
+        "https://catalog.kazna.app/packs/online-shopping/logos/ebay.png"
+      ]
+    },
+    {
+      "id": "ge-retail",
+      "type": "payees",
+      "version": 1,
+      "name": {
+        "en": "Georgia: Shops & Services",
+        "ru": "Грузия: магазины и сервисы"
+      },
+      "description": {
+        "en": "Shops, delivery, telecoms and fuel in Georgia — Carrefour, Nikora, SPAR, 2 Nabiji and 12 more",
+        "ru": "Магазины, доставка, связь и заправки Грузии — Карфур, Никора, Спар, 2 Набиджи и ещё 12"
+      },
+      "tags": ["georgia", "retail", "telecom"],
+      "entity_count": 16,
+      "pack_url": "https://catalog.kazna.app/packs/ge-retail/pack.json",
+      "preview_logos": [
+        "https://catalog.kazna.app/packs/ge-retail/logos/carrefour.png",
+        "https://catalog.kazna.app/packs/ge-retail/logos/nikora.png",
+        "https://catalog.kazna.app/packs/ge-retail/logos/spar-ge.png",
+        "https://catalog.kazna.app/packs/ge-retail/logos/2-nabiji.png"
+      ]
+    },
+    {
+      "id": "am-retail",
+      "type": "payees",
+      "version": 1,
+      "name": {
+        "en": "Armenia: Shops & Services",
+        "ru": "Армения: магазины и сервисы"
+      },
+      "description": {
+        "en": "Shops, delivery, telecoms and pharmacies in Armenia — SAS Supermarket, Yerevan City, Carrefour, Zigzag and 9 more",
+        "ru": "Магазины, доставка, связь и аптеки Армении — САС, Ереван Сити, Карфур, Зигзаг и ещё 9"
+      },
+      "tags": ["armenia", "retail", "telecom"],
+      "entity_count": 13,
+      "pack_url": "https://catalog.kazna.app/packs/am-retail/pack.json",
+      "preview_logos": [
+        "https://catalog.kazna.app/packs/am-retail/logos/sas-am.png",
+        "https://catalog.kazna.app/packs/am-retail/logos/yerevan-city.png",
+        "https://catalog.kazna.app/packs/am-retail/logos/carrefour.png",
+        "https://catalog.kazna.app/packs/am-retail/logos/zigzag.png"
+      ]
+    },
+    {
+      "id": "uz-retail",
+      "type": "payees",
+      "version": 1,
+      "name": {
+        "en": "Uzbekistan: Shops & Services",
+        "ru": "Узбекистан: магазины и сервисы"
+      },
+      "description": {
+        "en": "Shops, delivery and telecoms in Uzbekistan — Korzinka, Makro, Havas, Uzum Market and 8 more",
+        "ru": "Магазины, доставка и связь Узбекистана — Корзинка, Макро, Хавас, Узум Маркет и ещё 8"
+      },
+      "tags": ["uzbekistan", "retail", "telecom"],
+      "entity_count": 12,
+      "pack_url": "https://catalog.kazna.app/packs/uz-retail/pack.json",
+      "preview_logos": [
+        "https://catalog.kazna.app/packs/uz-retail/logos/korzinka.png",
+        "https://catalog.kazna.app/packs/uz-retail/logos/makro-uz.png",
+        "https://catalog.kazna.app/packs/uz-retail/logos/havas.png",
+        "https://catalog.kazna.app/packs/uz-retail/logos/uzum-market.png"
+      ]
+    },
+    {
+      "id": "tr-retail",
+      "type": "payees",
+      "version": 1,
+      "name": {
+        "en": "Turkey: Shops & Services",
+        "ru": "Турция: магазины и сервисы"
+      },
+      "description": {
+        "en": "Shops, delivery, telecoms and fuel in Turkey — Migros, BİM, A101, ŞOK and 12 more",
+        "ru": "Магазины, доставка, связь и заправки Турции — Мигрос, БИМ, A101, ШОК и ещё 12"
+      },
+      "tags": ["turkey", "retail", "telecom"],
+      "entity_count": 16,
+      "pack_url": "https://catalog.kazna.app/packs/tr-retail/pack.json",
+      "preview_logos": [
+        "https://catalog.kazna.app/packs/tr-retail/logos/migros-tr.png",
+        "https://catalog.kazna.app/packs/tr-retail/logos/bim.png",
+        "https://catalog.kazna.app/packs/tr-retail/logos/a101.png",
+        "https://catalog.kazna.app/packs/tr-retail/logos/sok.png"
+      ]
+    },
+    {
+      "id": "ae-retail",
+      "type": "payees",
+      "version": 1,
+      "name": {
+        "en": "UAE: Shops & Services",
+        "ru": "ОАЭ: магазины и сервисы"
+      },
+      "description": {
+        "en": "Shops, delivery, telecoms, fuel and utilities in the UAE — Carrefour, LuLu Hypermarket, Spinneys, Union Coop and 11 more",
+        "ru": "Магазины, доставка, связь, топливо и коммунальные услуги ОАЭ — Карфур, Лулу, Спиннис, Юнион Кооп и ещё 11"
+      },
+      "tags": ["uae", "retail", "telecom"],
+      "entity_count": 15,
+      "pack_url": "https://catalog.kazna.app/packs/ae-retail/pack.json",
+      "preview_logos": [
+        "https://catalog.kazna.app/packs/ae-retail/logos/carrefour.png",
+        "https://catalog.kazna.app/packs/ae-retail/logos/lulu.png",
+        "https://catalog.kazna.app/packs/ae-retail/logos/spinneys.png",
+        "https://catalog.kazna.app/packs/ae-retail/logos/union-coop.png"
       ]
     }
   ]

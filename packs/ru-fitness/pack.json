@@ -1,0 +1,60 @@
+{
+  "id": "ru-fitness",
+  "version": 1,
+  "type": "payees",
+  "name": {
+    "en": "Russian Fitness Clubs",
+    "ru": "Фитнес-клубы"
+  },
+  "payees": [
+    {
+      "key": "ddx-fitness",
+      "name": { "en": "DDX Fitness", "ru": "DDX Fitness" },
+      "logo": "https://catalog.kazna.app/packs/ru-fitness/logos/ddx-fitness.png",
+      "mcc": [7997],
+      "website": "https://ddxfitness.ru"
+    },
+    {
+      "key": "xfit",
+      "name": { "en": "XFIT", "ru": "XFIT" },
+      "logo": "https://catalog.kazna.app/packs/ru-fitness/logos/xfit.png",
+      "mcc": [7997],
+      "website": "https://www.xfit.ru"
+    },
+    {
+      "key": "world-class",
+      "name": { "en": "World Class", "ru": "World Class" },
+      "logo": "https://catalog.kazna.app/packs/ru-fitness/logos/world-class.png",
+      "mcc": [7997],
+      "website": "https://www.worldclass.ru"
+    },
+    {
+      "key": "spirit-fitness",
+      "name": { "en": "Spirit Fitness", "ru": "Spirit Fitness" },
+      "logo": "https://catalog.kazna.app/packs/ru-fitness/logos/spirit-fitness.png",
+      "mcc": [7997],
+      "website": "https://spiritfit.ru"
+    },
+    {
+      "key": "fitness-house",
+      "name": { "en": "Fitness House", "ru": "Fitness House" },
+      "logo": "https://catalog.kazna.app/packs/ru-fitness/logos/fitness-house.png",
+      "mcc": [7997],
+      "website": "https://www.fitnesshouse.ru"
+    },
+    {
+      "key": "alex-fitness",
+      "name": { "en": "Alex Fitness", "ru": "Alex Fitness" },
+      "logo": "https://catalog.kazna.app/packs/ru-fitness/logos/alex-fitness.png",
+      "mcc": [7997],
+      "website": "https://alexfitness.ru"
+    },
+    {
+      "key": "terfit",
+      "name": { "en": "Territory of Fitness", "ru": "Территория фитнеса" },
+      "logo": "https://catalog.kazna.app/packs/ru-fitness/logos/terfit.png",
+      "mcc": [7997],
+      "website": "https://terfit.ru"
+    }
+  ]
+}

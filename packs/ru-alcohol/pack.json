@@ -1,0 +1,46 @@
+{
+  "id": "ru-alcohol",
+  "version": 1,
+  "type": "payees",
+  "name": {
+    "en": "Russian Liquor Stores",
+    "ru": "Алкомаркеты"
+  },
+  "payees": [
+    {
+      "key": "krasnoe-beloe",
+      "name": { "en": "Krasnoe & Beloe", "ru": "Красное&Белое" },
+      "logo": "https://catalog.kazna.app/packs/ru-alcohol/logos/krasnoe-beloe.png",
+      "mcc": [5921,  5411],
+      "website": "https://krasnoeibeloe.ru"
+    },
+    {
+      "key": "bristol",
+      "name": { "en": "Bristol", "ru": "Бристоль" },
+      "logo": "https://catalog.kazna.app/packs/ru-alcohol/logos/bristol.png",
+      "mcc": [5921,  5411],
+      "website": "https://bristol.ru"
+    },
+    {
+      "key": "winelab",
+      "name": { "en": "WineLab", "ru": "ВинЛаб" },
+      "logo": "https://catalog.kazna.app/packs/ru-alcohol/logos/winelab.png",
+      "mcc": [5921],
+      "website": "https://www.winelab.ru"
+    },
+    {
+      "key": "aromatny-mir",
+      "name": { "en": "Aromatny Mir", "ru": "Ароматный мир" },
+      "logo": "https://catalog.kazna.app/packs/ru-alcohol/logos/aromatny-mir.png",
+      "mcc": [5921],
+      "website": "https://amwine.ru"
+    },
+    {
+      "key": "simplewine",
+      "name": { "en": "SimpleWine", "ru": "SimpleWine" },
+      "logo": "https://catalog.kazna.app/packs/ru-alcohol/logos/simplewine.png",
+      "mcc": [5921],
+      "website": "https://simplewine.ru"
+    }
+  ]
+}

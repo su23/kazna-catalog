@@ -1,0 +1,90 @@
+{
+  "korzinka": {
+    "source": "https://apps.apple.com/app/id1454827930",
+    "kind": "App Store icon (seller Anglesey Food ShK)",
+    "licence": "Trademark",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "makro-uz": {
+    "source": "https://makromarket.uz/logo.svg",
+    "kind": "brand site SVG",
+    "licence": "Trademark",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "havas": {
+    "source": "https://havasfood.uz/wp-content/themes/havas/assets/images/logo.svg",
+    "kind": "brand site SVG",
+    "licence": "Trademark",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "uzum-market": {
+    "source": "https://uzum.com/",
+    "kind": "brand site inline SVG",
+    "licence": "Trademark",
+    "note": "tab-bar mark recoloured Uzum purple #7000FF",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "uzum-tezkor": {
+    "source": "https://uzum.com/images/services/tezkor.png",
+    "kind": "brand site PNG",
+    "licence": "Trademark",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "yandex-go": {
+    "source": "https://commons.wikimedia.org/wiki/File:Yandex_Go_icon.svg",
+    "kind": "Wikimedia Commons SVG",
+    "licence": "Public domain; trademark",
+    "note": "uncropped; shared key, logo copied from ru-transport",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "texnomart": {
+    "source": "https://texnomart.uz/_nuxt/img/texnomart-logo.3b2791c.svg",
+    "kind": "brand site SVG",
+    "licence": "Trademark",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "mediapark": {
+    "source": "https://apps.apple.com/app/id1671707947",
+    "kind": "App Store icon (seller MEDIAPARK GROUP)",
+    "licence": "Trademark",
+    "note": "white tile removed",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "beeline-uz": {
+    "source": "https://beeline.uz/icons/header/logo-mobile.svg",
+    "kind": "brand site SVG",
+    "licence": "Trademark",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "ucell": {
+    "source": "https://ucell.uz/_next/static/media/logo.8b108bb1.svg",
+    "kind": "brand site SVG",
+    "licence": "Trademark",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "mobiuz": {
+    "source": "https://commons.wikimedia.org/wiki/File:Mobiuz.svg",
+    "kind": "Wikimedia Commons SVG",
+    "licence": "Public domain; trademark",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "uztelecom": {
+    "source": "https://commons.wikimedia.org/wiki/File:Uztelecom-primary-logotype-RGB.svg",
+    "kind": "Wikimedia Commons SVG",
+    "licence": "CC0; trademark",
+    "note": "arc symbol only",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  }
+}

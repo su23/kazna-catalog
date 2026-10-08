@@ -1,0 +1,95 @@
+{
+  "id": "uz-retail",
+  "version": 1,
+  "type": "payees",
+  "name": {
+    "en": "Uzbekistan: Shops & Services",
+    "ru": "Узбекистан: магазины и сервисы"
+  },
+  "payees": [
+    {
+      "key": "korzinka",
+      "name": { "en": "Korzinka", "ru": "Корзинка" },
+      "logo": "https://catalog.kazna.app/packs/uz-retail/logos/korzinka.png",
+      "mcc": [5411],
+      "website": "https://korzinka.uz"
+    },
+    {
+      "key": "makro-uz",
+      "name": { "en": "Makro", "ru": "Макро" },
+      "logo": "https://catalog.kazna.app/packs/uz-retail/logos/makro-uz.png",
+      "mcc": [5411],
+      "website": "https://makromarket.uz"
+    },
+    {
+      "key": "havas",
+      "name": { "en": "Havas", "ru": "Хавас" },
+      "logo": "https://catalog.kazna.app/packs/uz-retail/logos/havas.png",
+      "mcc": [5411],
+      "website": "https://havasfood.uz"
+    },
+    {
+      "key": "uzum-market",
+      "name": { "en": "Uzum Market", "ru": "Узум Маркет" },
+      "logo": "https://catalog.kazna.app/packs/uz-retail/logos/uzum-market.png",
+      "mcc": [5399],
+      "website": "https://uzum.uz"
+    },
+    {
+      "key": "uzum-tezkor",
+      "name": { "en": "Uzum Tezkor", "ru": "Узум Тезкор" },
+      "logo": "https://catalog.kazna.app/packs/uz-retail/logos/uzum-tezkor.png",
+      "mcc": [5814],
+      "website": "https://uzumtezkor.uz"
+    },
+    {
+      "key": "yandex-go",
+      "name": { "en": "Yandex Go", "ru": "Яндекс Go" },
+      "logo": "https://catalog.kazna.app/packs/uz-retail/logos/yandex-go.png",
+      "mcc": [4121],
+      "website": "https://go.yandex"
+    },
+    {
+      "key": "texnomart",
+      "name": { "en": "Texnomart", "ru": "Техномарт" },
+      "logo": "https://catalog.kazna.app/packs/uz-retail/logos/texnomart.png",
+      "mcc": [5732],
+      "website": "https://texnomart.uz"
+    },
+    {
+      "key": "mediapark",
+      "name": { "en": "Mediapark", "ru": "Медиапарк" },
+      "logo": "https://catalog.kazna.app/packs/uz-retail/logos/mediapark.png",
+      "mcc": [5732],
+      "website": "https://mediapark.uz"
+    },
+    {
+      "key": "beeline-uz",
+      "name": { "en": "Beeline", "ru": "Билайн" },
+      "logo": "https://catalog.kazna.app/packs/uz-retail/logos/beeline-uz.png",
+      "mcc": [4814],
+      "website": "https://beeline.uz"
+    },
+    {
+      "key": "ucell",
+      "name": { "en": "Ucell", "ru": "Ucell" },
+      "logo": "https://catalog.kazna.app/packs/uz-retail/logos/ucell.png",
+      "mcc": [4814],
+      "website": "https://ucell.uz"
+    },
+    {
+      "key": "mobiuz",
+      "name": { "en": "Mobiuz", "ru": "Mobiuz" },
+      "logo": "https://catalog.kazna.app/packs/uz-retail/logos/mobiuz.png",
+      "mcc": [4814],
+      "website": "https://mobi.uz"
+    },
+    {
+      "key": "uztelecom",
+      "name": { "en": "Uztelecom", "ru": "Узтелеком" },
+      "logo": "https://catalog.kazna.app/packs/uz-retail/logos/uztelecom.png",
+      "mcc": [4814,  4899],
+      "website": "https://uztelecom.uz"
+    }
+  ]
+}
