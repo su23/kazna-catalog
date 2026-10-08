@@ -1,0 +1,102 @@
+{
+  "booking": {
+    "source": "https://catalog.kazna.app/packs/global-brands/logos/booking.png",
+    "kind": "same logo as global-brands",
+    "licence": "Trademark",
+    "note": "shared key, logo copied from global-brands"
+  },
+  "airbnb": {
+    "source": "https://catalog.kazna.app/packs/global-brands/logos/airbnb.png",
+    "kind": "same logo as global-brands",
+    "licence": "Trademark",
+    "note": "shared key, logo copied from global-brands"
+  },
+  "aviasales": {
+    "source": "https://static.aviasales.com/selene-static/spa/favicons/AS-icon.svg",
+    "kind": "brand site SVG",
+    "licence": "trademark",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin",
+    "note": "shared key, logo copied from ru-transport"
+  },
+  "ostrovok": {
+    "source": "https://commons.wikimedia.org/wiki/File:Ostrovok_logo_2024.svg",
+    "kind": "Wikimedia Commons SVG",
+    "licence": "Public domain; trademark",
+    "note": "wordmark; shared key, logo copied from ru-transport",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "tutu": {
+    "source": "https://cdn1.tu-tu.ru/lib-assets/@tutu-react/favicon@1.3.2/favicon.svg",
+    "kind": "brand site SVG",
+    "licence": "trademark",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin",
+    "note": "shared key, logo copied from ru-transport"
+  },
+  "trip-com": {
+    "source": "https://commons.wikimedia.org/wiki/File:Trip.com logo.svg",
+    "kind": "Wikimedia Commons SVG",
+    "licence": "Public domain; trademark",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "agoda": {
+    "source": "https://commons.wikimedia.org/wiki/File:Agoda Logo 2022.svg",
+    "kind": "Wikimedia Commons SVG",
+    "licence": "Public domain; trademark",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "expedia": {
+    "source": "https://commons.wikimedia.org/wiki/File:Expedia Icon 2022.svg",
+    "kind": "Wikimedia Commons SVG",
+    "licence": "Public domain; trademark",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "skyscanner": {
+    "source": "https://commons.wikimedia.org/wiki/File:Skyscanner Icon 2020.svg",
+    "kind": "Wikimedia Commons SVG",
+    "licence": "CC0; trademark",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "hotels-com": {
+    "source": "https://commons.wikimedia.org/wiki/File:Hotels.com Icon 2022.svg",
+    "kind": "Wikimedia Commons SVG",
+    "licence": "CC0; trademark",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "yandex-travel": {
+    "source": "https://yastatic.net/s3/travel-frontend-illustrations/RuLight-04251c74bb2c4063.svg",
+    "kind": "brand site SVG",
+    "licence": "Trademark",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "sutochno": {
+    "source": "https://sutochno.ru/",
+    "kind": "brand site CSS data-URI SVG",
+    "licence": "Trademark",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "onetwotrip": {
+    "source": "https://www.onetwotrip.com/",
+    "kind": "brand site inline SVG",
+    "licence": "Trademark",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "kiwi-com": {
+    "source": "https://www.kiwi.com/",
+    "kind": "brand site inline SVG",
+    "licence": "Trademark",
+    "note": "footer logo",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "id": "vpn",
+  "version": 1,
+  "type": "payees",
+  "name": {
+    "en": "VPN Services",
+    "ru": "VPN-сервисы"
+  },
+  "payees": [
+    {
+      "key": "nordvpn",
+      "name": { "en": "NordVPN", "ru": "NordVPN" },
+      "logo": "https://catalog.kazna.app/packs/vpn/logos/nordvpn.png",
+      "mcc": [4816,  5817,  7372],
+      "website": "https://nordvpn.com"
+    },
+    {
+      "key": "expressvpn",
+      "name": { "en": "ExpressVPN", "ru": "ExpressVPN" },
+      "logo": "https://catalog.kazna.app/packs/vpn/logos/expressvpn.png",
+      "mcc": [4816,  5817,  7372],
+      "website": "https://www.expressvpn.com"
+    },
+    {
+      "key": "surfshark",
+      "name": { "en": "Surfshark", "ru": "Surfshark" },
+      "logo": "https://catalog.kazna.app/packs/vpn/logos/surfshark.png",
+      "mcc": [4816,  5817,  7372],
+      "website": "https://surfshark.com"
+    },
+    {
+      "key": "proton-vpn",
+      "name": { "en": "Proton VPN", "ru": "Proton VPN" },
+      "logo": "https://catalog.kazna.app/packs/vpn/logos/proton-vpn.png",
+      "mcc": [4816,  5817,  7372],
+      "website": "https://protonvpn.com"
+    },
+    {
+      "key": "mullvad",
+      "name": { "en": "Mullvad VPN", "ru": "Mullvad VPN" },
+      "logo": "https://catalog.kazna.app/packs/vpn/logos/mullvad.png",
+      "mcc": [4816,  5817,  7372],
+      "website": "https://mullvad.net"
+    },
+    {
+      "key": "adguard-vpn",
+      "name": { "en": "AdGuard VPN", "ru": "AdGuard VPN" },
+      "logo": "https://catalog.kazna.app/packs/vpn/logos/adguard-vpn.png",
+      "mcc": [4816,  5817,  7372],
+      "website": "https://adguard-vpn.com"
+    },
+    {
+      "key": "pia",
+      "name": { "en": "Private Internet Access", "ru": "Private Internet Access" },
+      "logo": "https://catalog.kazna.app/packs/vpn/logos/pia.png",
+      "mcc": [4816,  5817,  7372],
+      "website": "https://www.privateinternetaccess.com"
+    },
+    {
+      "key": "amnezia-vpn",
+      "name": { "en": "Amnezia VPN", "ru": "Amnezia VPN" },
+      "logo": "https://catalog.kazna.app/packs/vpn/logos/amnezia-vpn.png",
+      "mcc": [4816,  5817,  7372],
+      "website": "https://amnezia.org"
+    }
+  ]
+}

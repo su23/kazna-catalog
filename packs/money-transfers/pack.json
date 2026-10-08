@@ -1,0 +1,74 @@
+{
+  "id": "money-transfers",
+  "version": 1,
+  "type": "payees",
+  "name": {
+    "en": "Money Transfers",
+    "ru": "Денежные переводы"
+  },
+  "payees": [
+    {
+      "key": "western-union",
+      "name": { "en": "Western Union", "ru": "Western Union" },
+      "logo": "https://catalog.kazna.app/packs/money-transfers/logos/western-union.png",
+      "mcc": [4829],
+      "website": "https://www.westernunion.com"
+    },
+    {
+      "key": "moneygram",
+      "name": { "en": "MoneyGram", "ru": "MoneyGram" },
+      "logo": "https://catalog.kazna.app/packs/money-transfers/logos/moneygram.png",
+      "mcc": [4829],
+      "website": "https://www.moneygram.com"
+    },
+    {
+      "key": "paypal",
+      "name": { "en": "PayPal", "ru": "ПейПал" },
+      "logo": "https://catalog.kazna.app/packs/money-transfers/logos/paypal.png",
+      "mcc": [4829,  6051],
+      "website": "https://paypal.com"
+    },
+    {
+      "key": "zolotaya-korona",
+      "name": { "en": "Korona", "ru": "Золотая Корона" },
+      "logo": "https://catalog.kazna.app/packs/money-transfers/logos/zolotaya-korona.png",
+      "mcc": [4829],
+      "website": "https://koronapay.com"
+    },
+    {
+      "key": "paysend",
+      "name": { "en": "Paysend", "ru": "Paysend" },
+      "logo": "https://catalog.kazna.app/packs/money-transfers/logos/paysend.png",
+      "mcc": [4829],
+      "website": "https://paysend.com"
+    },
+    {
+      "key": "payoneer",
+      "name": { "en": "Payoneer", "ru": "Payoneer" },
+      "logo": "https://catalog.kazna.app/packs/money-transfers/logos/payoneer.png",
+      "mcc": [4829,  6051],
+      "website": "https://www.payoneer.com"
+    },
+    {
+      "key": "remitly",
+      "name": { "en": "Remitly", "ru": "Remitly" },
+      "logo": "https://catalog.kazna.app/packs/money-transfers/logos/remitly.png",
+      "mcc": [4829],
+      "website": "https://www.remitly.com"
+    },
+    {
+      "key": "ria",
+      "name": { "en": "Ria Money Transfer", "ru": "Ria" },
+      "logo": "https://catalog.kazna.app/packs/money-transfers/logos/ria.png",
+      "mcc": [4829],
+      "website": "https://www.riamoneytransfer.com"
+    },
+    {
+      "key": "skrill",
+      "name": { "en": "Skrill", "ru": "Skrill" },
+      "logo": "https://catalog.kazna.app/packs/money-transfers/logos/skrill.png",
+      "mcc": [4829,  6051],
+      "website": "https://www.skrill.com"
+    }
+  ]
+}

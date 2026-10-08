@@ -1,0 +1,67 @@
+{
+  "id": "ru-education",
+  "version": 1,
+  "type": "payees",
+  "name": {
+    "en": "Online Education",
+    "ru": "Онлайн-образование"
+  },
+  "payees": [
+    {
+      "key": "skyeng",
+      "name": { "en": "Skyeng", "ru": "Skyeng" },
+      "logo": "https://catalog.kazna.app/packs/ru-education/logos/skyeng.png",
+      "mcc": [8299],
+      "website": "https://skyeng.ru"
+    },
+    {
+      "key": "yandex-practicum",
+      "name": { "en": "Yandex Practicum", "ru": "Яндекс Практикум" },
+      "logo": "https://catalog.kazna.app/packs/ru-education/logos/yandex-practicum.png",
+      "mcc": [8299],
+      "website": "https://practicum.yandex.ru"
+    },
+    {
+      "key": "skillbox",
+      "name": { "en": "Skillbox", "ru": "Skillbox" },
+      "logo": "https://catalog.kazna.app/packs/ru-education/logos/skillbox.png",
+      "mcc": [8299],
+      "website": "https://skillbox.ru"
+    },
+    {
+      "key": "netology",
+      "name": { "en": "Netology", "ru": "Нетология" },
+      "logo": "https://catalog.kazna.app/packs/ru-education/logos/netology.png",
+      "mcc": [8299],
+      "website": "https://netology.ru"
+    },
+    {
+      "key": "geekbrains",
+      "name": { "en": "GeekBrains", "ru": "GeekBrains" },
+      "logo": "https://catalog.kazna.app/packs/ru-education/logos/geekbrains.png",
+      "mcc": [8299],
+      "website": "https://gb.ru"
+    },
+    {
+      "key": "uchi-ru",
+      "name": { "en": "Uchi.ru", "ru": "Учи.ру" },
+      "logo": "https://catalog.kazna.app/packs/ru-education/logos/uchi-ru.png",
+      "mcc": [8299],
+      "website": "https://uchi.ru"
+    },
+    {
+      "key": "umskul",
+      "name": { "en": "Umschool", "ru": "Умскул" },
+      "logo": "https://catalog.kazna.app/packs/ru-education/logos/umskul.png",
+      "mcc": [8299],
+      "website": "https://umschool.net"
+    },
+    {
+      "key": "tetrika",
+      "name": { "en": "Tetrika", "ru": "Тетрика" },
+      "logo": "https://catalog.kazna.app/packs/ru-education/logos/tetrika.png",
+      "mcc": [8299],
+      "website": "https://tetrika-school.ru"
+    }
+  ]
+}

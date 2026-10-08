@@ -1,0 +1,62 @@
+{
+  "skyeng": {
+    "source": "https://cdn-user84632.skyeng.ru/shared/large-media/skysmart/layout/logo/skyeng-logo-dark.svg",
+    "kind": "brand site SVG",
+    "licence": "Trademark",
+    "note": "chevron symbol",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "yandex-practicum": {
+    "source": "https://practicum.yandex.ru/",
+    "kind": "brand site inline SVG",
+    "licence": "Trademark",
+    "note": "2026 symbol, background tile dropped, #1E1E1E",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "skillbox": {
+    "source": "https://commons.wikimedia.org/wiki/File:Skillbox logo.svg",
+    "kind": "Wikimedia Commons SVG",
+    "licence": "Public domain; trademark",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "netology": {
+    "source": "https://netology.ru/_next/static/media/logo-color.ca4ded3f.svg",
+    "kind": "brand site SVG",
+    "licence": "Trademark",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "geekbrains": {
+    "source": "https://frontend-scripts.hb.bizmrg.com/assets/logo/geekbrains-logo-short.svg",
+    "kind": "brand site SVG",
+    "licence": "Trademark",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "uchi-ru": {
+    "source": "https://apps.apple.com/app/id1536189561",
+    "kind": "App Store icon (seller Uchi.ru, OOO)",
+    "licence": "Trademark",
+    "note": "mascot app icon; site logo blocked",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "umskul": {
+    "source": "https://umschool.net/images/app/logotype.svg",
+    "kind": "brand site SVG",
+    "licence": "Trademark",
+    "note": "symbol only, CSS variables resolved",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "tetrika": {
+    "source": "https://tetrika-school.ru/s3/landings_service/landings/25915340/images/tild3033-6466-4265-a535-326262303130_____.svg",
+    "kind": "brand site SVG",
+    "licence": "Trademark",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  }
+}

@@ -1123,6 +1123,94 @@
         "https://catalog.kazna.app/packs/ae-retail/logos/spinneys.png",
         "https://catalog.kazna.app/packs/ae-retail/logos/union-coop.png"
       ]
+    },
+    {
+      "id": "ru-education",
+      "type": "payees",
+      "version": 1,
+      "name": {
+        "en": "Online Education",
+        "ru": "Онлайн-образование"
+      },
+      "description": {
+        "en": "Online schools and courses in Russia — Skyeng, Yandex Practicum, Skillbox, Netology and 4 more",
+        "ru": "Онлайн-школы и курсы — Skyeng, Яндекс Практикум, Skillbox, Нетология и ещё 4"
+      },
+      "tags": ["russia", "education"],
+      "entity_count": 8,
+      "pack_url": "https://catalog.kazna.app/packs/ru-education/pack.json",
+      "preview_logos": [
+        "https://catalog.kazna.app/packs/ru-education/logos/skyeng.png",
+        "https://catalog.kazna.app/packs/ru-education/logos/yandex-practicum.png",
+        "https://catalog.kazna.app/packs/ru-education/logos/skillbox.png",
+        "https://catalog.kazna.app/packs/ru-education/logos/netology.png"
+      ]
+    },
+    {
+      "id": "travel-booking",
+      "type": "payees",
+      "version": 1,
+      "name": {
+        "en": "Travel Booking",
+        "ru": "Бронирование путешествий"
+      },
+      "description": {
+        "en": "Flight, hotel and rail booking — Booking.com, Airbnb, Aviasales, Ostrovok and 10 more",
+        "ru": "Бронирование билетов и жилья — Букинг, Эйрбнб, Авиасейлс, Островок и ещё 10"
+      },
+      "tags": ["global", "travel", "booking"],
+      "entity_count": 14,
+      "pack_url": "https://catalog.kazna.app/packs/travel-booking/pack.json",
+      "preview_logos": [
+        "https://catalog.kazna.app/packs/travel-booking/logos/booking.png",
+        "https://catalog.kazna.app/packs/travel-booking/logos/airbnb.png",
+        "https://catalog.kazna.app/packs/travel-booking/logos/aviasales.png",
+        "https://catalog.kazna.app/packs/travel-booking/logos/ostrovok.png"
+      ]
+    },
+    {
+      "id": "vpn",
+      "type": "payees",
+      "version": 1,
+      "name": {
+        "en": "VPN Services",
+        "ru": "VPN-сервисы"
+      },
+      "description": {
+        "en": "VPN and privacy subscriptions — NordVPN, ExpressVPN, Surfshark, Proton VPN and 4 more",
+        "ru": "VPN и сервисы приватности — NordVPN, ExpressVPN, Surfshark, Proton VPN и ещё 4"
+      },
+      "tags": ["global", "vpn", "subscriptions"],
+      "entity_count": 8,
+      "pack_url": "https://catalog.kazna.app/packs/vpn/pack.json",
+      "preview_logos": [
+        "https://catalog.kazna.app/packs/vpn/logos/nordvpn.png",
+        "https://catalog.kazna.app/packs/vpn/logos/expressvpn.png",
+        "https://catalog.kazna.app/packs/vpn/logos/surfshark.png",
+        "https://catalog.kazna.app/packs/vpn/logos/proton-vpn.png"
+      ]
+    },
+    {
+      "id": "money-transfers",
+      "type": "payees",
+      "version": 1,
+      "name": {
+        "en": "Money Transfers",
+        "ru": "Денежные переводы"
+      },
+      "description": {
+        "en": "International money transfer services — Western Union, MoneyGram, PayPal, Korona and 5 more",
+        "ru": "Сервисы международных переводов — Western Union, MoneyGram, ПейПал, Золотая Корона и ещё 5"
+      },
+      "tags": ["global", "transfers", "finance"],
+      "entity_count": 9,
+      "pack_url": "https://catalog.kazna.app/packs/money-transfers/pack.json",
+      "preview_logos": [
+        "https://catalog.kazna.app/packs/money-transfers/logos/western-union.png",
+        "https://catalog.kazna.app/packs/money-transfers/logos/moneygram.png",
+        "https://catalog.kazna.app/packs/money-transfers/logos/paypal.png",
+        "https://catalog.kazna.app/packs/money-transfers/logos/zolotaya-korona.png"
+      ]
     }
   ]
 }

@@ -1,0 +1,109 @@
+{
+  "id": "travel-booking",
+  "version": 1,
+  "type": "payees",
+  "name": {
+    "en": "Travel Booking",
+    "ru": "Бронирование путешествий"
+  },
+  "payees": [
+    {
+      "key": "booking",
+      "name": { "en": "Booking.com", "ru": "Букинг" },
+      "logo": "https://catalog.kazna.app/packs/travel-booking/logos/booking.png",
+      "mcc": [4722,  7011],
+      "website": "https://booking.com"
+    },
+    {
+      "key": "airbnb",
+      "name": { "en": "Airbnb", "ru": "Эйрбнб" },
+      "logo": "https://catalog.kazna.app/packs/travel-booking/logos/airbnb.png",
+      "mcc": [7011],
+      "website": "https://airbnb.com"
+    },
+    {
+      "key": "aviasales",
+      "name": { "en": "Aviasales", "ru": "Авиасейлс" },
+      "logo": "https://catalog.kazna.app/packs/travel-booking/logos/aviasales.png",
+      "mcc": [4722],
+      "website": "https://www.aviasales.ru"
+    },
+    {
+      "key": "ostrovok",
+      "name": { "en": "Ostrovok", "ru": "Островок" },
+      "logo": "https://catalog.kazna.app/packs/travel-booking/logos/ostrovok.png",
+      "mcc": [4722,  7011],
+      "website": "https://ostrovok.ru"
+    },
+    {
+      "key": "tutu",
+      "name": { "en": "Tutu", "ru": "Туту" },
+      "logo": "https://catalog.kazna.app/packs/travel-booking/logos/tutu.png",
+      "mcc": [4722,  4112],
+      "website": "https://www.tutu.ru"
+    },
+    {
+      "key": "trip-com",
+      "name": { "en": "Trip.com", "ru": "Trip.com" },
+      "logo": "https://catalog.kazna.app/packs/travel-booking/logos/trip-com.png",
+      "mcc": [4722],
+      "website": "https://www.trip.com"
+    },
+    {
+      "key": "agoda",
+      "name": { "en": "Agoda", "ru": "Agoda" },
+      "logo": "https://catalog.kazna.app/packs/travel-booking/logos/agoda.png",
+      "mcc": [4722,  7011],
+      "website": "https://www.agoda.com"
+    },
+    {
+      "key": "expedia",
+      "name": { "en": "Expedia", "ru": "Expedia" },
+      "logo": "https://catalog.kazna.app/packs/travel-booking/logos/expedia.png",
+      "mcc": [4722],
+      "website": "https://www.expedia.com"
+    },
+    {
+      "key": "skyscanner",
+      "name": { "en": "Skyscanner", "ru": "Skyscanner" },
+      "logo": "https://catalog.kazna.app/packs/travel-booking/logos/skyscanner.png",
+      "mcc": [4722],
+      "website": "https://www.skyscanner.net"
+    },
+    {
+      "key": "hotels-com",
+      "name": { "en": "Hotels.com", "ru": "Hotels.com" },
+      "logo": "https://catalog.kazna.app/packs/travel-booking/logos/hotels-com.png",
+      "mcc": [7011,  4722],
+      "website": "https://www.hotels.com"
+    },
+    {
+      "key": "yandex-travel",
+      "name": { "en": "Yandex Travel", "ru": "Яндекс Путешествия" },
+      "logo": "https://catalog.kazna.app/packs/travel-booking/logos/yandex-travel.png",
+      "mcc": [4722],
+      "website": "https://travel.yandex.ru"
+    },
+    {
+      "key": "sutochno",
+      "name": { "en": "Sutochno.ru", "ru": "Суточно.ру" },
+      "logo": "https://catalog.kazna.app/packs/travel-booking/logos/sutochno.png",
+      "mcc": [7011,  4722],
+      "website": "https://sutochno.ru"
+    },
+    {
+      "key": "onetwotrip",
+      "name": { "en": "OneTwoTrip", "ru": "OneTwoTrip" },
+      "logo": "https://catalog.kazna.app/packs/travel-booking/logos/onetwotrip.png",
+      "mcc": [4722],
+      "website": "https://www.onetwotrip.com"
+    },
+    {
+      "key": "kiwi-com",
+      "name": { "en": "Kiwi.com", "ru": "Kiwi.com" },
+      "logo": "https://catalog.kazna.app/packs/travel-booking/logos/kiwi-com.png",
+      "mcc": [4722],
+      "website": "https://www.kiwi.com"
+    }
+  ]
+}

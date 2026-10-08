@@ -1,0 +1,65 @@
+{
+  "nordvpn": {
+    "source": "https://nordvpn.com/press-area/",
+    "kind": "brand site inline SVG",
+    "licence": "Trademark",
+    "note": "mountain mark #3E5FFF",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "expressvpn": {
+    "source": "https://www.expressvpn.com/press",
+    "kind": "brand site inline SVG",
+    "licence": "Trademark",
+    "note": "mark #DA3940",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "surfshark": {
+    "source": "https://surfshark.com/press",
+    "kind": "brand site inline SVG",
+    "licence": "Trademark",
+    "note": "mark only",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "proton-vpn": {
+    "source": "https://pmecdn.protonweb.com/image-transformation/?s=c&image=image/upload/v1776940263/static/logos/vpn/vpn-badge.svg",
+    "kind": "official CDN SVG",
+    "licence": "Trademark",
+    "note": "white tile removed",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "mullvad": {
+    "source": "https://mullvad.net/press/MullvadVPN_logo_Round_RGB_Color_positive.svg",
+    "kind": "press kit SVG",
+    "licence": "Trademark",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "adguard-vpn": {
+    "source": "https://adguard-vpn.com/",
+    "kind": "brand site inline SVG",
+    "licence": "Trademark",
+    "note": "mark only, head #292A32",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "pia": {
+    "source": "https://assets-cms.privateinternetaccess.com/img/frontend/pia_menu_logo_light.svg",
+    "kind": "brand site SVG",
+    "licence": "Trademark",
+    "note": "robot mark only",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "amnezia-vpn": {
+    "source": "https://apps.apple.com/app/id1600529900",
+    "kind": "App Store icon (seller Privacy Technologies OU, seller URL amnezia.org)",
+    "licence": "Trademark",
+    "note": "site symbol uses blur filters the renderer cannot draw",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  }
+}

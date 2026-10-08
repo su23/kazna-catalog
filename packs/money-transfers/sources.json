@@ -1,0 +1,70 @@
+{
+  "western-union": {
+    "source": "https://www.westernunion.com/staticassets/media/logo_symbol_mobile.svg",
+    "kind": "brand site SVG",
+    "licence": "Trademark",
+    "note": "black box removed",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "moneygram": {
+    "source": "https://images.ctfassets.net/toryt1tt0roy/4aB0enlewq5jCf8lvwg8Bi/84c92b9b8bbf2701a2d97265b934430b/logo_mobile.svg",
+    "kind": "brand site SVG",
+    "licence": "Trademark",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "paypal": {
+    "source": "https://catalog.kazna.app/packs/global-brands/logos/paypal.png",
+    "kind": "same logo as global-brands",
+    "licence": "Trademark",
+    "note": "shared key, logo copied from global-brands"
+  },
+  "zolotaya-korona": {
+    "source": "https://koronapay.com/",
+    "kind": "brand site inline SVG",
+    "licence": "Trademark",
+    "note": "squircle symbol only",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "paysend": {
+    "source": "https://paysend.com/about-us",
+    "kind": "brand site inline SVG",
+    "licence": "Trademark",
+    "note": "#141414 for the light plate",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "payoneer": {
+    "source": "https://commons.wikimedia.org/wiki/File:Payoneer logo.svg",
+    "kind": "Wikimedia Commons SVG",
+    "licence": "Public domain; trademark",
+    "note": "ring only",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "remitly": {
+    "source": "https://www.remitly.com/us/en",
+    "kind": "brand site inline SVG",
+    "licence": "Trademark",
+    "note": "symbol only",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "ria": {
+    "source": "https://www.riamoneytransfer.com/",
+    "kind": "brand site inline SVG",
+    "licence": "Trademark",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "skrill": {
+    "source": "https://www.skrill.com/en/",
+    "kind": "brand site CSS data-URI SVG",
+    "licence": "Trademark",
+    "note": "2025 symbol only",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  }
+}
