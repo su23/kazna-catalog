@@ -5,5 +5,23 @@
     "note": "symbol; usage rules in the brand book PDF",
     "fetched": "2026-10-07",
     "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "gulf-air": {
+    "note": "white background removed 2026-10-08"
+  },
+  "aeroflot": {
+    "note": "white background removed 2026-10-08"
+  },
+  "american": {
+    "note": "white background removed 2026-10-08"
+  },
+  "finnair": {
+    "note": "white background removed 2026-10-08"
+  },
+  "virgin-atlantic": {
+    "note": "white background removed 2026-10-08"
+  },
+  "china-airlines": {
+    "note": "white background removed 2026-10-08"
   }
 }

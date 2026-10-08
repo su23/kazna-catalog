@@ -109,5 +109,8 @@
     "source": null,
     "kind": "none found",
     "note": "site redirects to VTB since the 2026-05-01 merger; shown by its initial"
+  },
+  "sdm": {
+    "note": "white background removed 2026-10-08"
   }
 }

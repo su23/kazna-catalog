@@ -97,7 +97,7 @@
     "licence": "trademark",
     "note": "no SVG on giga.chat",
     "fetched": "2026-10-08",
-    "processing": "resized to 128x128"
+    "processing": "resized to 128x128; white background removed 2026-10-08"
   },
   "alice-ai": {
     "source": "https://yastatic.net/s3/alicestatic/_/v2/static/media/favicon.ab465454.svg",

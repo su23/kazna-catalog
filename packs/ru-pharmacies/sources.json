@@ -12,7 +12,7 @@
     "kind": "Wikimedia Commons SVG",
     "licence": "Public domain; trademark",
     "fetched": "2026-10-08",
-    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin; white background removed 2026-10-08"
   },
   "gorzdrav": {
     "source": "https://gorzdrav.org/ (header, inline SVG)",

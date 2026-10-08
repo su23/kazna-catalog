@@ -115,7 +115,7 @@
     {
       "id": "ru-mobile-operators",
       "type": "payees",
-      "version": 1,
+      "version": 2,
       "name": {
         "en": "Russian Mobile Operators",
         "ru": "Мобильные операторы"
@@ -137,7 +137,7 @@
     {
       "id": "global-brands",
       "type": "payees",
-      "version": 1,
+      "version": 2,
       "name": {
         "en": "Global Brands",
         "ru": "Мировые бренды"
@@ -159,7 +159,7 @@
     {
       "id": "ru-banks",
       "type": "banks",
-      "version": 4,
+      "version": 5,
       "name": {
         "en": "Russian Banks",
         "ru": "Банки России"
@@ -268,7 +268,7 @@
     {
       "id": "airlines",
       "type": "payees",
-      "version": 2,
+      "version": 3,
       "name": {
         "en": "Airlines",
         "ru": "Авиакомпании"
@@ -290,7 +290,7 @@
     {
       "id": "ai-services",
       "type": "payees",
-      "version": 1,
+      "version": 2,
       "name": {
         "en": "AI Assistants",
         "ru": "ИИ-ассистенты"
@@ -378,7 +378,7 @@
     {
       "id": "ru-pharmacies",
       "type": "payees",
-      "version": 1,
+      "version": 2,
       "name": {
         "en": "Russian Pharmacies",
         "ru": "Аптеки"
@@ -422,7 +422,7 @@
     {
       "id": "ge-banks",
       "type": "banks",
-      "version": 1,
+      "version": 2,
       "name": {
         "en": "Georgian Banks",
         "ru": "Банки Грузии"
