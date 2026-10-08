@@ -1,0 +1,115 @@
+{
+  "github": {
+    "source": "https://commons.wikimedia.org/wiki/File:GitHub_Invertocat_Logo.svg",
+    "kind": "Wikimedia Commons SVG",
+    "licence": "Public domain; trademark",
+    "note": "Invertocat",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "gitlab": {
+    "source": "https://about.gitlab.com/images/press/gitlab-logo-500-rgb.svg",
+    "kind": "press kit SVG",
+    "licence": "trademark",
+    "note": "logomark",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "jetbrains": {
+    "source": "https://www.jetbrains.com/ (header, inline SVG)",
+    "kind": "brand site inline SVG",
+    "licence": "trademark",
+    "note": "mark cropped from the lockup",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "figma": {
+    "source": "https://commons.wikimedia.org/wiki/File:Figma-logo.svg",
+    "kind": "Wikimedia Commons SVG",
+    "licence": "Public domain; trademark",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "notion": {
+    "source": "https://commons.wikimedia.org/wiki/File:Notion-logo.svg",
+    "kind": "Wikimedia Commons SVG",
+    "licence": "Public domain; trademark",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "slack": {
+    "source": "https://commons.wikimedia.org/wiki/File:Slack_icon_2019.svg",
+    "kind": "Wikimedia Commons SVG",
+    "licence": "Public domain; trademark",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "atlassian": {
+    "source": "https://atlassian.design/assets/273fec49e572/logos/atlassian_logo.zip (Atlassian mark brand RGB.svg)",
+    "kind": "press kit SVG",
+    "licence": "trademark",
+    "note": "covers Jira and Confluence",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "zoom": {
+    "source": "App Store icon id546505307 (Zoom Workplace)",
+    "kind": "App Store icon",
+    "licence": "trademark",
+    "fetched": "2026-10-08",
+    "processing": "white wordmark taken from the app icon and drawn in Zoom blue #0B5CFF on transparent"
+  },
+  "dropbox": {
+    "source": "https://brand.dropbox.com/logo (inline SVG)",
+    "kind": "brand site inline SVG",
+    "licence": "trademark",
+    "note": "drawn in #0061FE",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "1password": {
+    "source": "https://1password.com/favicon/icon-v2.svg",
+    "kind": "brand site SVG",
+    "licence": "trademark",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "canva": {
+    "source": "App Store icon id897446215 (Canva)",
+    "kind": "App Store icon",
+    "licence": "trademark",
+    "note": "the site blocks access",
+    "fetched": "2026-10-08",
+    "processing": "app-icon gradient clipped to a circle, as in the Canva logo"
+  },
+  "miro": {
+    "source": "https://miro.com/ (header, inline SVG)",
+    "kind": "brand site inline SVG",
+    "licence": "trademark",
+    "note": "mark cropped from the lockup",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "microsoft-365": {
+    "source": "https://commons.wikimedia.org/wiki/File:Microsoft_365_(2022).svg",
+    "kind": "Wikimedia Commons SVG",
+    "licence": "Public domain; trademark",
+    "note": "2022 icon",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "linear": {
+    "source": "https://linear.app/static/favicon.svg",
+    "kind": "brand site SVG",
+    "licence": "trademark",
+    "fetched": "2026-10-08",
+    "processing": "white mark taken from the favicon tile and drawn near-black on transparent"
+  },
+  "postman": {
+    "source": "https://voyager.postman.com/logo/postman-logo-icon-orange.svg",
+    "kind": "brand site SVG",
+    "licence": "trademark",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  }
+}

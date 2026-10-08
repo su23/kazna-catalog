@@ -1,0 +1,46 @@
+{
+  "id": "ru-gov",
+  "version": 1,
+  "type": "payees",
+  "name": {
+    "en": "Russian Government Payments",
+    "ru": "Госплатежи"
+  },
+  "payees": [
+    {
+      "key": "fns",
+      "name": { "en": "Federal Tax Service", "ru": "ФНС России" },
+      "logo": "https://catalog.kazna.app/packs/ru-gov/logos/fns.png",
+      "mcc": [9311],
+      "website": "https://www.nalog.gov.ru"
+    },
+    {
+      "key": "gibdd",
+      "name": { "en": "State Traffic Inspectorate (GIBDD)", "ru": "Госавтоинспекция (ГИБДД)" },
+      "logo": "https://catalog.kazna.app/packs/ru-gov/logos/gibdd.png",
+      "mcc": [9222],
+      "website": "https://госавтоинспекция.рф"
+    },
+    {
+      "key": "fssp",
+      "name": { "en": "Federal Bailiffs Service", "ru": "ФССП России" },
+      "logo": "https://catalog.kazna.app/packs/ru-gov/logos/fssp.png",
+      "mcc": [9222, 9399],
+      "website": "https://fssp.gov.ru"
+    },
+    {
+      "key": "rosreestr",
+      "name": { "en": "Rosreestr", "ru": "Росреестр" },
+      "logo": "https://catalog.kazna.app/packs/ru-gov/logos/rosreestr.png",
+      "mcc": [9399],
+      "website": "https://rosreestr.gov.ru"
+    },
+    {
+      "key": "sfr",
+      "name": { "en": "Social Fund of Russia", "ru": "Социальный фонд России" },
+      "logo": "https://catalog.kazna.app/packs/ru-gov/logos/sfr.png",
+      "mcc": [9399, 9311],
+      "website": "https://sfr.gov.ru"
+    }
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "rozetka": {
+    "source": "https://content1.rozetka.com.ua/logo/site_mini_logo/original/559597093.svg",
+    "kind": "brand site SVG",
+    "licence": "trademark",
+    "note": "smile symbol",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "silpo": {
+    "source": "https://static.silpo.ua/content/Logotype.svg",
+    "kind": "brand site SVG",
+    "licence": "trademark",
+    "note": "wordmark",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "atb": {
+    "source": "App Store icon id527294224 (ATB-Market LLC)",
+    "kind": "App Store icon",
+    "licence": "trademark",
+    "note": "the site was under maintenance; white background removed",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "novus": {
+    "source": "https://commons.wikimedia.org/wiki/File:Novus_Ukraina_logo.svg",
+    "kind": "Wikimedia Commons SVG",
+    "licence": "Public domain; trademark",
+    "note": "wordmark",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "fora": {
+    "source": "https://commons.wikimedia.org/wiki/File:Fora_logo.svg",
+    "kind": "Wikimedia Commons SVG",
+    "licence": "Public domain; trademark",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "nova-poshta": {
+    "source": "https://novaposhta.ua/_np-app-static/favicon.svg",
+    "kind": "brand site SVG",
+    "licence": "trademark",
+    "note": "white square removed",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "epicentr": {
+    "source": "https://commons.wikimedia.org/wiki/File:Epicentrk.svg",
+    "kind": "Wikimedia Commons SVG",
+    "licence": "Public domain; trademark",
+    "note": "circle symbol, wordmark dropped",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "comfy": {
+    "source": "https://cdn.comfy.ua/media/media/icons/comfy-logo-mbl.svg",
+    "kind": "brand site SVG",
+    "licence": "trademark",
+    "note": "compact mark",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "foxtrot": {
+    "source": "https://commons.wikimedia.org/wiki/File:Foxtrot_logo.svg",
+    "kind": "Wikimedia Commons SVG",
+    "licence": "Public domain; trademark",
+    "note": "wordmark",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "kyivstar": {
+    "source": "https://commons.wikimedia.org/wiki/File:Kyivstar_2015_logo_-_Brandmark.svg",
+    "kind": "Wikimedia Commons SVG",
+    "licence": "Public domain; trademark",
+    "note": "star",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "vodafone-ua": {
+    "source": "https://www.vodafone.ua/assets/logos/vf-red-logo.svg",
+    "kind": "brand site SVG",
+    "licence": "trademark",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "lifecell": {
+    "source": "https://commons.wikimedia.org/wiki/File:Lifecell-logo-2025-blue-on-yellow.svg",
+    "kind": "Wikimedia Commons SVG",
+    "licence": "Public domain; trademark",
+    "note": "2025 logo",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "wog": {
+    "source": "https://commons.wikimedia.org/wiki/File:WOG_Logo.svg",
+    "kind": "Wikimedia Commons SVG",
+    "licence": "Public domain; trademark",
+    "note": "W symbol cropped",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "glovo": {
+    "source": "(copied from kz-retail)",
+    "kind": "copied from kz-retail",
+    "licence": "trademark",
+    "note": "same key as kz-retail: one payee in both packs",
+    "fetched": "2026-10-08",
+    "processing": "unchanged"
+  },
+  "bolt-food": {
+    "source": "https://commons.wikimedia.org/wiki/File:Bolt_Food_logo_2025.svg",
+    "kind": "Wikimedia Commons SVG",
+    "licence": "Public domain; trademark",
+    "note": "wordmark",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  }
+}

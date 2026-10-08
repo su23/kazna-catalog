@@ -1,0 +1,117 @@
+{
+  "id": "ua-retail",
+  "version": 1,
+  "type": "payees",
+  "name": {
+    "en": "Ukraine Shops & Services",
+    "ru": "Магазины и сервисы Украины",
+    "uk": "Магазини та сервіси України"
+  },
+  "payees": [
+    {
+      "key": "rozetka",
+      "name": { "en": "Rozetka", "ru": "Розетка", "uk": "Розетка" },
+      "logo": "https://catalog.kazna.app/packs/ua-retail/logos/rozetka.png",
+      "mcc": [5311],
+      "website": "https://rozetka.com.ua"
+    },
+    {
+      "key": "silpo",
+      "name": { "en": "Silpo", "ru": "Сильпо", "uk": "Сільпо" },
+      "logo": "https://catalog.kazna.app/packs/ua-retail/logos/silpo.png",
+      "mcc": [5411],
+      "website": "https://silpo.ua"
+    },
+    {
+      "key": "atb",
+      "name": { "en": "ATB", "ru": "АТБ", "uk": "АТБ" },
+      "logo": "https://catalog.kazna.app/packs/ua-retail/logos/atb.png",
+      "mcc": [5411],
+      "website": "https://www.atbmarket.com"
+    },
+    {
+      "key": "novus",
+      "name": { "en": "Novus", "ru": "Новус", "uk": "Novus" },
+      "logo": "https://catalog.kazna.app/packs/ua-retail/logos/novus.png",
+      "mcc": [5411],
+      "website": "https://novus.ua"
+    },
+    {
+      "key": "fora",
+      "name": { "en": "Fora", "ru": "Фора", "uk": "Фора" },
+      "logo": "https://catalog.kazna.app/packs/ua-retail/logos/fora.png",
+      "mcc": [5411],
+      "website": "https://fora.ua"
+    },
+    {
+      "key": "nova-poshta",
+      "name": { "en": "Nova Poshta", "ru": "Новая почта", "uk": "Нова пошта" },
+      "logo": "https://catalog.kazna.app/packs/ua-retail/logos/nova-poshta.png",
+      "mcc": [4215],
+      "website": "https://novaposhta.ua"
+    },
+    {
+      "key": "epicentr",
+      "name": { "en": "Epicentr", "ru": "Эпицентр", "uk": "Епіцентр" },
+      "logo": "https://catalog.kazna.app/packs/ua-retail/logos/epicentr.png",
+      "mcc": [5200, 5211],
+      "website": "https://epicentrk.ua"
+    },
+    {
+      "key": "comfy",
+      "name": { "en": "Comfy", "ru": "Комфи", "uk": "Comfy" },
+      "logo": "https://catalog.kazna.app/packs/ua-retail/logos/comfy.png",
+      "mcc": [5732],
+      "website": "https://comfy.ua"
+    },
+    {
+      "key": "foxtrot",
+      "name": { "en": "Foxtrot", "ru": "Фокстрот", "uk": "Фокстрот" },
+      "logo": "https://catalog.kazna.app/packs/ua-retail/logos/foxtrot.png",
+      "mcc": [5732],
+      "website": "https://www.foxtrot.com.ua"
+    },
+    {
+      "key": "kyivstar",
+      "name": { "en": "Kyivstar", "ru": "Киевстар", "uk": "Київстар" },
+      "logo": "https://catalog.kazna.app/packs/ua-retail/logos/kyivstar.png",
+      "mcc": [4814],
+      "website": "https://kyivstar.ua"
+    },
+    {
+      "key": "vodafone-ua",
+      "name": { "en": "Vodafone Ukraine", "ru": "Vodafone Украина", "uk": "Vodafone Україна" },
+      "logo": "https://catalog.kazna.app/packs/ua-retail/logos/vodafone-ua.png",
+      "mcc": [4814],
+      "website": "https://www.vodafone.ua"
+    },
+    {
+      "key": "lifecell",
+      "name": { "en": "lifecell", "ru": "lifecell", "uk": "lifecell" },
+      "logo": "https://catalog.kazna.app/packs/ua-retail/logos/lifecell.png",
+      "mcc": [4814],
+      "website": "https://www.lifecell.ua"
+    },
+    {
+      "key": "wog",
+      "name": { "en": "WOG", "ru": "WOG", "uk": "WOG" },
+      "logo": "https://catalog.kazna.app/packs/ua-retail/logos/wog.png",
+      "mcc": [5541, 5542],
+      "website": "https://wog.ua"
+    },
+    {
+      "key": "glovo",
+      "name": { "en": "Glovo", "ru": "Glovo", "uk": "Glovo" },
+      "logo": "https://catalog.kazna.app/packs/ua-retail/logos/glovo.png",
+      "mcc": [5814, 4215],
+      "website": "https://glovoapp.com"
+    },
+    {
+      "key": "bolt-food",
+      "name": { "en": "Bolt Food", "ru": "Bolt Food", "uk": "Bolt Food" },
+      "logo": "https://catalog.kazna.app/packs/ua-retail/logos/bolt-food.png",
+      "mcc": [5814, 4215],
+      "website": "https://food.bolt.eu"
+    }
+  ]
+}

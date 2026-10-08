@@ -1,0 +1,41 @@
+{
+  "fns": {
+    "source": "https://commons.wikimedia.org/wiki/File:Emblem_of_the_Federal_Tax_Service.svg",
+    "kind": "Wikimedia Commons SVG",
+    "licence": "Public domain; trademark",
+    "note": "emblem",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "gibdd": {
+    "source": "https://commons.wikimedia.org/wiki/File:Emblem_of_the_traffic_police_of_Russia.svg",
+    "kind": "Wikimedia Commons SVG",
+    "licence": "Public domain; trademark",
+    "note": "emblem; renamed Госавтоинспекция in 2023",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "fssp": {
+    "source": "https://commons.wikimedia.org/wiki/File:New_Emblem_of_the_Federal_Bailiffs_Service.svg",
+    "kind": "Wikimedia Commons SVG",
+    "licence": "Public domain; trademark",
+    "note": "2021 emblem",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "rosreestr": {
+    "source": "https://commons.wikimedia.org/wiki/File:Emblem_of_Federal_Service_for_State_Registration,_Cadastre_and_Cartography.svg",
+    "kind": "Wikimedia Commons SVG",
+    "licence": "Public domain; trademark",
+    "note": "2024 logo",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "sfr": {
+    "source": "https://commons.wikimedia.org/wiki/File:Logo_SFR.svg",
+    "kind": "Wikimedia Commons SVG",
+    "licence": "Public domain; trademark",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  }
+}

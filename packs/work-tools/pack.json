@@ -1,0 +1,116 @@
+{
+  "id": "work-tools",
+  "version": 1,
+  "type": "payees",
+  "name": {
+    "en": "Work Tools",
+    "ru": "Рабочие сервисы"
+  },
+  "payees": [
+    {
+      "key": "github",
+      "name": { "en": "GitHub", "ru": "GitHub" },
+      "logo": "https://catalog.kazna.app/packs/work-tools/logos/github.png",
+      "mcc": [5734, 7372],
+      "website": "https://github.com"
+    },
+    {
+      "key": "gitlab",
+      "name": { "en": "GitLab", "ru": "GitLab" },
+      "logo": "https://catalog.kazna.app/packs/work-tools/logos/gitlab.png",
+      "mcc": [5734, 7372],
+      "website": "https://about.gitlab.com"
+    },
+    {
+      "key": "jetbrains",
+      "name": { "en": "JetBrains", "ru": "JetBrains" },
+      "logo": "https://catalog.kazna.app/packs/work-tools/logos/jetbrains.png",
+      "mcc": [5734, 7372],
+      "website": "https://www.jetbrains.com"
+    },
+    {
+      "key": "figma",
+      "name": { "en": "Figma", "ru": "Figma" },
+      "logo": "https://catalog.kazna.app/packs/work-tools/logos/figma.png",
+      "mcc": [5734, 7372],
+      "website": "https://www.figma.com"
+    },
+    {
+      "key": "notion",
+      "name": { "en": "Notion", "ru": "Notion" },
+      "logo": "https://catalog.kazna.app/packs/work-tools/logos/notion.png",
+      "mcc": [5734, 7372, 5817],
+      "website": "https://www.notion.com"
+    },
+    {
+      "key": "slack",
+      "name": { "en": "Slack", "ru": "Slack" },
+      "logo": "https://catalog.kazna.app/packs/work-tools/logos/slack.png",
+      "mcc": [5734, 7372],
+      "website": "https://slack.com"
+    },
+    {
+      "key": "atlassian",
+      "name": { "en": "Atlassian", "ru": "Atlassian" },
+      "logo": "https://catalog.kazna.app/packs/work-tools/logos/atlassian.png",
+      "mcc": [5734, 7372],
+      "website": "https://www.atlassian.com"
+    },
+    {
+      "key": "zoom",
+      "name": { "en": "Zoom", "ru": "Zoom" },
+      "logo": "https://catalog.kazna.app/packs/work-tools/logos/zoom.png",
+      "mcc": [5734, 7372, 5817],
+      "website": "https://www.zoom.com"
+    },
+    {
+      "key": "dropbox",
+      "name": { "en": "Dropbox", "ru": "Dropbox" },
+      "logo": "https://catalog.kazna.app/packs/work-tools/logos/dropbox.png",
+      "mcc": [5734, 7372],
+      "website": "https://www.dropbox.com"
+    },
+    {
+      "key": "1password",
+      "name": { "en": "1Password", "ru": "1Password" },
+      "logo": "https://catalog.kazna.app/packs/work-tools/logos/1password.png",
+      "mcc": [5734, 7372, 5817],
+      "website": "https://1password.com"
+    },
+    {
+      "key": "canva",
+      "name": { "en": "Canva", "ru": "Canva" },
+      "logo": "https://catalog.kazna.app/packs/work-tools/logos/canva.png",
+      "mcc": [5734, 7372, 5817],
+      "website": "https://www.canva.com"
+    },
+    {
+      "key": "miro",
+      "name": { "en": "Miro", "ru": "Miro" },
+      "logo": "https://catalog.kazna.app/packs/work-tools/logos/miro.png",
+      "mcc": [5734, 7372],
+      "website": "https://miro.com"
+    },
+    {
+      "key": "microsoft-365",
+      "name": { "en": "Microsoft 365", "ru": "Microsoft 365" },
+      "logo": "https://catalog.kazna.app/packs/work-tools/logos/microsoft-365.png",
+      "mcc": [5734, 7372],
+      "website": "https://www.microsoft.com/microsoft-365"
+    },
+    {
+      "key": "linear",
+      "name": { "en": "Linear", "ru": "Linear" },
+      "logo": "https://catalog.kazna.app/packs/work-tools/logos/linear.png",
+      "mcc": [5734, 7372],
+      "website": "https://linear.app"
+    },
+    {
+      "key": "postman",
+      "name": { "en": "Postman", "ru": "Postman" },
+      "logo": "https://catalog.kazna.app/packs/work-tools/logos/postman.png",
+      "mcc": [5734, 7372],
+      "website": "https://www.postman.com"
+    }
+  ]
+}

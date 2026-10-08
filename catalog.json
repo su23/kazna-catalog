@@ -792,6 +792,73 @@
         "https://catalog.kazna.app/packs/by-retail/logos/gippo.png",
         "https://catalog.kazna.app/packs/by-retail/logos/green-by.png"
       ]
+    },
+    {
+      "id": "ua-retail",
+      "type": "payees",
+      "version": 1,
+      "name": {
+        "en": "Ukraine Shops & Services",
+        "ru": "Магазины и сервисы Украины",
+        "uk": "Магазини та сервіси України"
+      },
+      "description": {
+        "en": "Shops, delivery, telecoms and fuel in Ukraine — Rozetka, Silpo, ATB, Nova Poshta and 11 more",
+        "ru": "Магазины, доставка, связь и АЗС Украины — Розетка, Сильпо, АТБ, Новая почта и ещё 11"
+      },
+      "tags": ["ukraine", "retail", "telecom"],
+      "entity_count": 15,
+      "pack_url": "https://catalog.kazna.app/packs/ua-retail/pack.json",
+      "preview_logos": [
+        "https://catalog.kazna.app/packs/ua-retail/logos/rozetka.png",
+        "https://catalog.kazna.app/packs/ua-retail/logos/silpo.png",
+        "https://catalog.kazna.app/packs/ua-retail/logos/atb.png",
+        "https://catalog.kazna.app/packs/ua-retail/logos/nova-poshta.png"
+      ]
+    },
+    {
+      "id": "ru-gov",
+      "type": "payees",
+      "version": 1,
+      "name": {
+        "en": "Russian Government Payments",
+        "ru": "Госплатежи"
+      },
+      "description": {
+        "en": "Taxes, fines and state fees in Russia — Federal Tax Service, Traffic Inspectorate, Bailiffs, Rosreestr and 1 more",
+        "ru": "Налоги, штрафы и госпошлины — ФНС, Госавтоинспекция, ФССП, Росреестр и ещё 1"
+      },
+      "tags": ["russia", "government", "taxes"],
+      "entity_count": 5,
+      "pack_url": "https://catalog.kazna.app/packs/ru-gov/pack.json",
+      "preview_logos": [
+        "https://catalog.kazna.app/packs/ru-gov/logos/fns.png",
+        "https://catalog.kazna.app/packs/ru-gov/logos/gibdd.png",
+        "https://catalog.kazna.app/packs/ru-gov/logos/fssp.png",
+        "https://catalog.kazna.app/packs/ru-gov/logos/rosreestr.png"
+      ]
+    },
+    {
+      "id": "work-tools",
+      "type": "payees",
+      "version": 1,
+      "name": {
+        "en": "Work Tools",
+        "ru": "Рабочие сервисы"
+      },
+      "description": {
+        "en": "Software people pay for at work — GitHub, JetBrains, Figma, Notion and 11 more",
+        "ru": "Сервисы для работы по подписке — GitHub, JetBrains, Figma, Notion и ещё 11"
+      },
+      "tags": ["global", "tech", "work"],
+      "entity_count": 15,
+      "pack_url": "https://catalog.kazna.app/packs/work-tools/pack.json",
+      "preview_logos": [
+        "https://catalog.kazna.app/packs/work-tools/logos/github.png",
+        "https://catalog.kazna.app/packs/work-tools/logos/jetbrains.png",
+        "https://catalog.kazna.app/packs/work-tools/logos/figma.png",
+        "https://catalog.kazna.app/packs/work-tools/logos/notion.png"
+      ]
     }
   ]
 }
