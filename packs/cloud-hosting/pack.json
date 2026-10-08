@@ -1,0 +1,158 @@
+{
+  "id": "cloud-hosting",
+  "version": 1,
+  "type": "payees",
+  "name": {
+    "en": "Cloud & Hosting",
+    "ru": "Облака и хостинг"
+  },
+  "payees": [
+    {
+      "key": "aws",
+      "name": { "en": "AWS", "ru": "AWS" },
+      "logo": "https://catalog.kazna.app/packs/cloud-hosting/logos/aws.png",
+      "mcc": [4816, 7372],
+      "website": "https://aws.amazon.com"
+    },
+    {
+      "key": "google-cloud",
+      "name": { "en": "Google Cloud", "ru": "Google Cloud" },
+      "logo": "https://catalog.kazna.app/packs/cloud-hosting/logos/google-cloud.png",
+      "mcc": [4816, 7372],
+      "website": "https://cloud.google.com"
+    },
+    {
+      "key": "azure",
+      "name": { "en": "Microsoft Azure", "ru": "Microsoft Azure" },
+      "logo": "https://catalog.kazna.app/packs/cloud-hosting/logos/azure.png",
+      "mcc": [4816, 7372],
+      "website": "https://azure.microsoft.com"
+    },
+    {
+      "key": "digitalocean",
+      "name": { "en": "DigitalOcean", "ru": "DigitalOcean" },
+      "logo": "https://catalog.kazna.app/packs/cloud-hosting/logos/digitalocean.png",
+      "mcc": [4816, 7372],
+      "website": "https://www.digitalocean.com"
+    },
+    {
+      "key": "hetzner",
+      "name": { "en": "Hetzner", "ru": "Hetzner" },
+      "logo": "https://catalog.kazna.app/packs/cloud-hosting/logos/hetzner.png",
+      "mcc": [4816, 7372],
+      "website": "https://www.hetzner.com"
+    },
+    {
+      "key": "ovhcloud",
+      "name": { "en": "OVHcloud", "ru": "OVHcloud" },
+      "logo": "https://catalog.kazna.app/packs/cloud-hosting/logos/ovhcloud.png",
+      "mcc": [4816, 7372],
+      "website": "https://www.ovhcloud.com"
+    },
+    {
+      "key": "akamai",
+      "name": { "en": "Akamai Cloud (Linode)", "ru": "Akamai Cloud (Linode)" },
+      "logo": "https://catalog.kazna.app/packs/cloud-hosting/logos/akamai.png",
+      "mcc": [4816, 7372],
+      "website": "https://www.linode.com"
+    },
+    {
+      "key": "oracle-cloud",
+      "name": { "en": "Oracle Cloud", "ru": "Oracle Cloud" },
+      "logo": "https://catalog.kazna.app/packs/cloud-hosting/logos/oracle-cloud.png",
+      "mcc": [4816, 7372],
+      "website": "https://www.oracle.com/cloud"
+    },
+    {
+      "key": "cloudflare",
+      "name": { "en": "Cloudflare", "ru": "Cloudflare" },
+      "logo": "https://catalog.kazna.app/packs/cloud-hosting/logos/cloudflare.png",
+      "mcc": [4816, 7372],
+      "website": "https://www.cloudflare.com"
+    },
+    {
+      "key": "vercel",
+      "name": { "en": "Vercel", "ru": "Vercel" },
+      "logo": "https://catalog.kazna.app/packs/cloud-hosting/logos/vercel.png",
+      "mcc": [4816, 7372],
+      "website": "https://vercel.com"
+    },
+    {
+      "key": "netlify",
+      "name": { "en": "Netlify", "ru": "Netlify" },
+      "logo": "https://catalog.kazna.app/packs/cloud-hosting/logos/netlify.png",
+      "mcc": [4816, 7372],
+      "website": "https://www.netlify.com"
+    },
+    {
+      "key": "heroku",
+      "name": { "en": "Heroku", "ru": "Heroku" },
+      "logo": "https://catalog.kazna.app/packs/cloud-hosting/logos/heroku.png",
+      "mcc": [4816, 7372],
+      "website": "https://www.heroku.com"
+    },
+    {
+      "key": "hostinger",
+      "name": { "en": "Hostinger", "ru": "Hostinger" },
+      "logo": "https://catalog.kazna.app/packs/cloud-hosting/logos/hostinger.png",
+      "mcc": [4816, 7372],
+      "website": "https://www.hostinger.com"
+    },
+    {
+      "key": "bluehost",
+      "name": { "en": "Bluehost", "ru": "Bluehost" },
+      "logo": "https://catalog.kazna.app/packs/cloud-hosting/logos/bluehost.png",
+      "mcc": [4816, 7372],
+      "website": "https://www.bluehost.com"
+    },
+    {
+      "key": "godaddy",
+      "name": { "en": "GoDaddy", "ru": "GoDaddy" },
+      "logo": "https://catalog.kazna.app/packs/cloud-hosting/logos/godaddy.png",
+      "mcc": [4816, 7372],
+      "website": "https://www.godaddy.com"
+    },
+    {
+      "key": "namecheap",
+      "name": { "en": "Namecheap", "ru": "Namecheap" },
+      "logo": "https://catalog.kazna.app/packs/cloud-hosting/logos/namecheap.png",
+      "mcc": [4816, 7372],
+      "website": "https://www.namecheap.com"
+    },
+    {
+      "key": "vultr",
+      "name": { "en": "Vultr", "ru": "Vultr" },
+      "logo": "https://catalog.kazna.app/packs/cloud-hosting/logos/vultr.png",
+      "mcc": [4816, 7372],
+      "website": "https://www.vultr.com"
+    },
+    {
+      "key": "scaleway",
+      "name": { "en": "Scaleway", "ru": "Scaleway" },
+      "logo": "https://catalog.kazna.app/packs/cloud-hosting/logos/scaleway.png",
+      "mcc": [4816, 7372],
+      "website": "https://www.scaleway.com"
+    },
+    {
+      "key": "fly-io",
+      "name": { "en": "Fly.io", "ru": "Fly.io" },
+      "logo": "https://catalog.kazna.app/packs/cloud-hosting/logos/fly-io.png",
+      "mcc": [4816, 7372],
+      "website": "https://fly.io"
+    },
+    {
+      "key": "render",
+      "name": { "en": "Render", "ru": "Render" },
+      "logo": "https://catalog.kazna.app/packs/cloud-hosting/logos/render.png",
+      "mcc": [4816, 7372],
+      "website": "https://render.com"
+    },
+    {
+      "key": "railway",
+      "name": { "en": "Railway", "ru": "Railway" },
+      "logo": "https://catalog.kazna.app/packs/cloud-hosting/logos/railway.png",
+      "mcc": [4816, 7372],
+      "website": "https://railway.com"
+    }
+  ]
+}

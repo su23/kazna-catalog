@@ -1,0 +1,81 @@
+{
+  "id": "ru-hosting",
+  "version": 1,
+  "type": "payees",
+  "name": {
+    "en": "Russian Hosting",
+    "ru": "Хостинг и облака России"
+  },
+  "payees": [
+    {
+      "key": "selectel",
+      "name": { "en": "Selectel", "ru": "Selectel" },
+      "logo": "https://catalog.kazna.app/packs/ru-hosting/logos/selectel.png",
+      "mcc": [4816, 7372],
+      "website": "https://selectel.ru"
+    },
+    {
+      "key": "timeweb-cloud",
+      "name": { "en": "Timeweb Cloud", "ru": "Timeweb Cloud" },
+      "logo": "https://catalog.kazna.app/packs/ru-hosting/logos/timeweb-cloud.png",
+      "mcc": [4816, 7372],
+      "website": "https://timeweb.cloud"
+    },
+    {
+      "key": "beget",
+      "name": { "en": "Beget", "ru": "Beget" },
+      "logo": "https://catalog.kazna.app/packs/ru-hosting/logos/beget.png",
+      "mcc": [4816, 7372],
+      "website": "https://beget.com"
+    },
+    {
+      "key": "regru",
+      "name": { "en": "REG.RU", "ru": "РЕГ.РУ" },
+      "logo": "https://catalog.kazna.app/packs/ru-hosting/logos/regru.png",
+      "mcc": [4816, 7372],
+      "website": "https://www.reg.ru"
+    },
+    {
+      "key": "ru-center",
+      "name": { "en": "RU-CENTER", "ru": "РУ-ЦЕНТР" },
+      "logo": "https://catalog.kazna.app/packs/ru-hosting/logos/ru-center.png",
+      "mcc": [4816, 7372],
+      "website": "https://www.nic.ru"
+    },
+    {
+      "key": "cloud-ru",
+      "name": { "en": "Cloud.ru", "ru": "Cloud.ru" },
+      "logo": "https://catalog.kazna.app/packs/ru-hosting/logos/cloud-ru.png",
+      "mcc": [4816, 7372],
+      "website": "https://cloud.ru"
+    },
+    {
+      "key": "yandex-cloud",
+      "name": { "en": "Yandex Cloud", "ru": "Яндекс Облако" },
+      "logo": "https://catalog.kazna.app/packs/ru-hosting/logos/yandex-cloud.png",
+      "mcc": [7372],
+      "website": "https://cloud.yandex.ru"
+    },
+    {
+      "key": "vk-cloud",
+      "name": { "en": "VK Cloud", "ru": "VK Cloud" },
+      "logo": "https://catalog.kazna.app/packs/ru-hosting/logos/vk-cloud.png",
+      "mcc": [4816, 7372],
+      "website": "https://cloud.vk.com"
+    },
+    {
+      "key": "sprinthost",
+      "name": { "en": "SprintHost", "ru": "Спринтхост" },
+      "logo": "https://catalog.kazna.app/packs/ru-hosting/logos/sprinthost.png",
+      "mcc": [4816, 7372],
+      "website": "https://sprinthost.ru"
+    },
+    {
+      "key": "firstvds",
+      "name": { "en": "FirstVDS", "ru": "FirstVDS" },
+      "logo": "https://catalog.kazna.app/packs/ru-hosting/logos/firstvds.png",
+      "mcc": [4816, 7372],
+      "website": "https://firstvds.ru"
+    }
+  ]
+}

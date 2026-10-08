@@ -308,6 +308,50 @@
         "https://catalog.kazna.app/packs/ai-services/logos/gemini.png",
         "https://catalog.kazna.app/packs/ai-services/logos/deepseek.png"
       ]
+    },
+    {
+      "id": "cloud-hosting",
+      "type": "payees",
+      "version": 1,
+      "name": {
+        "en": "Cloud & Hosting",
+        "ru": "Облака и хостинг"
+      },
+      "description": {
+        "en": "Cloud platforms, hosting and domain registrars — AWS, Google Cloud, Azure, DigitalOcean and 17 more",
+        "ru": "Облачные платформы, хостинг и регистраторы доменов — AWS, Google Cloud, Azure, DigitalOcean и ещё 17"
+      },
+      "tags": ["global", "tech", "hosting"],
+      "entity_count": 21,
+      "pack_url": "https://catalog.kazna.app/packs/cloud-hosting/pack.json",
+      "preview_logos": [
+        "https://catalog.kazna.app/packs/cloud-hosting/logos/aws.png",
+        "https://catalog.kazna.app/packs/cloud-hosting/logos/google-cloud.png",
+        "https://catalog.kazna.app/packs/cloud-hosting/logos/azure.png",
+        "https://catalog.kazna.app/packs/cloud-hosting/logos/digitalocean.png"
+      ]
+    },
+    {
+      "id": "ru-hosting",
+      "type": "payees",
+      "version": 1,
+      "name": {
+        "en": "Russian Hosting",
+        "ru": "Хостинг и облака России"
+      },
+      "description": {
+        "en": "Russian cloud, hosting and domain providers — Selectel, Timeweb Cloud, Yandex Cloud, REG.RU and 6 more",
+        "ru": "Российские облака, хостинг и регистраторы доменов — Selectel, Timeweb Cloud, Яндекс Облако, РЕГ.РУ и ещё 6"
+      },
+      "tags": ["russia", "tech", "hosting"],
+      "entity_count": 10,
+      "pack_url": "https://catalog.kazna.app/packs/ru-hosting/pack.json",
+      "preview_logos": [
+        "https://catalog.kazna.app/packs/ru-hosting/logos/selectel.png",
+        "https://catalog.kazna.app/packs/ru-hosting/logos/timeweb-cloud.png",
+        "https://catalog.kazna.app/packs/ru-hosting/logos/yandex-cloud.png",
+        "https://catalog.kazna.app/packs/ru-hosting/logos/regru.png"
+      ]
     }
   ]
 }
