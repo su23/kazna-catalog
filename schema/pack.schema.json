@@ -2,82 +2,85 @@
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "$id": "pack.schema.json",
   "title": "Kazna Pack",
+  "description": "packs/{id}/pack.json, the file the app installs a pack from. validate.py checks every pack against this schema.",
   "type": "object",
   "required": ["id", "version", "type", "name"],
   "additionalProperties": false,
   "properties": {
-    "id": { "type": "string", "pattern": "^[a-z0-9-]+$" },
+    "id": { "$ref": "#/$defs/slug" },
     "version": { "type": "integer", "minimum": 1 },
-    "type": { "type": "string", "enum": ["payees", "banks", "categories", "mixed"] },
+    "type": { "enum": ["payees", "banks"] },
     "name": { "$ref": "#/$defs/localizedString" },
-    "payees": {
-      "type": "array",
-      "items": {
-        "type": "object",
-        "required": ["key", "name", "logo"],
-        "additionalProperties": false,
-        "properties": {
-          "key": { "type": "string", "pattern": "^[a-z0-9-]+$" },
-          "name": { "$ref": "#/$defs/localizedString" },
-          "logo": { "type": "string", "format": "uri" },
-          "mcc": { "type": "array", "items": { "type": "integer", "minimum": 1, "maximum": 9999 } },
-          "website": { "type": "string", "format": "uri" }
-        }
-      }
-    },
-    "banks": {
-      "type": "array",
-      "items": {
-        "type": "object",
-        "required": ["key", "name", "logo"],
-        "additionalProperties": false,
-        "properties": {
-          "key": { "type": "string", "pattern": "^[a-z0-9-]+$" },
-          "name": { "$ref": "#/$defs/localizedString" },
-          "logo": { "type": "string", "format": "uri" },
-          "country": { "type": "string" },
-          "website": { "type": "string", "format": "uri" }
-        }
-      }
-    },
-    "categories": {
-      "type": "array",
-      "items": {
-        "type": "object",
-        "required": ["key", "name", "symbol"],
-        "additionalProperties": false,
-        "properties": {
-          "key": { "type": "string", "pattern": "^[a-z0-9-]+$" },
-          "name": { "$ref": "#/$defs/localizedString" },
-          "symbol": { "type": "string" },
-          "parent_key": { "type": "string" },
-          "mcc": { "type": "array", "items": { "type": "integer", "minimum": 1, "maximum": 9999 } }
-        }
-      }
-    }
+    "payees": { "type": "array", "items": { "$ref": "#/$defs/payee" } },
+    "banks": { "type": "array", "items": { "$ref": "#/$defs/bank" } }
   },
   "allOf": [
     {
       "if": { "properties": { "type": { "const": "payees" } }, "required": ["type"] },
-      "then": { "required": ["payees"] }
+      "then": { "required": ["payees"], "properties": { "banks": false } }
     },
     {
       "if": { "properties": { "type": { "const": "banks" } }, "required": ["type"] },
-      "then": { "required": ["banks"] }
-    },
-    {
-      "if": { "properties": { "type": { "const": "categories" } }, "required": ["type"] },
-      "then": { "required": ["categories"] }
+      "then": { "required": ["banks"], "properties": { "payees": false } }
     }
   ],
   "$defs": {
+    "slug": { "type": "string", "pattern": "^[a-z0-9-]+$" },
+    "pinnedBankKey": {
+      "description": "Six global-banks keys from before keys were kebab-case. The app's seed pins them, so they can never be renamed. New keys use the slug pattern.",
+      "enum": ["bank_of_america", "wells_fargo", "deutsche_bank", "bnp_paribas", "credit_agricole", "societe_generale"]
+    },
     "localizedString": {
+      "description": "Text by language code. English is required; the app falls back to it for any language the map lacks.",
       "type": "object",
       "required": ["en"],
+      "propertyNames": { "pattern": "^[a-z]{2,3}(-[A-Za-z0-9]{2,8})*$" },
+      "additionalProperties": { "type": "string", "minLength": 1 }
+    },
+    "url": { "type": "string", "format": "uri" },
+    "country": { "type": "string", "pattern": "^[A-Z]{2}$" },
+    "payee": {
+      "type": "object",
+      "required": ["key", "name", "logo"],
       "additionalProperties": false,
       "properties": {
-        "en": { "type": "string" },
-        "ru": { "type": "string" }
+        "key": { "$ref": "#/$defs/slug" },
+        "name": { "$ref": "#/$defs/localizedString" },
+        "logo": { "$ref": "#/$defs/url" },
+        "mcc": { "type": "array", "items": { "type": "integer", "minimum": 1, "maximum": 9999 } },
+        "website": { "$ref": "#/$defs/url" }
+      }
+    },
+    "bank": {
+      "type": "object",
+      "required": ["key", "name"],
+      "additionalProperties": false,
+      "properties": {
+        "key": { "anyOf": [{ "$ref": "#/$defs/slug" }, { "$ref": "#/$defs/pinnedBankKey" }] },
+        "name": { "$ref": "#/$defs/localizedString" },
+        "logo": {
+          "description": "Optional: a bank with no usable logo (a closed one, say) is shown by its initial.",
+          "$ref": "#/$defs/url"
+        },
+        "countries": {
+          "description": "ISO 3166-1 alpha-2 codes. null means an international bank with no home country.",
+          "type": ["array", "null"],
+          "items": { "$ref": "#/$defs/country" },
+          "minItems": 1,
+          "uniqueItems": true
+        },
+        "website": { "$ref": "#/$defs/url" },
+        "card_background": {
+          "description": "The colour of the bank's cards, applied to a new account's card.",
+          "type": "string",
+          "pattern": "^solid:#[0-9A-Fa-f]{6}$"
+        },
+        "accent_color": { "type": "string", "pattern": "^#[0-9A-Fa-f]{6}$" },
+        "closed": { "type": "boolean" },
+        "brand": {
+          "description": "The bank group this entry is one country of (\"raiffeisen\" for raiffeisen-ru). The app shows each brand as one bank.",
+          "$ref": "#/$defs/slug"
+        }
       }
     }
   }

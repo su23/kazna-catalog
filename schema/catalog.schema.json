@@ -2,6 +2,7 @@
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "$id": "catalog.schema.json",
   "title": "Kazna Catalog Index",
+  "description": "catalog.json, the index the app fetches to list the packs. validate.py checks it against this schema.",
   "type": "object",
   "required": ["schema_version", "generated_at", "base_url", "packs"],
   "additionalProperties": false,
@@ -9,38 +10,37 @@
     "schema_version": { "type": "integer", "minimum": 1 },
     "generated_at": { "type": "string", "format": "date" },
     "base_url": { "type": "string", "format": "uri" },
-    "packs": {
-      "type": "array",
-      "items": {
-        "type": "object",
-        "required": ["id", "type", "version", "name", "entity_count", "pack_url"],
-        "additionalProperties": false,
-        "properties": {
-          "id": { "type": "string", "pattern": "^[a-z0-9-]+$" },
-          "type": { "type": "string", "enum": ["payees", "banks", "categories", "mixed"] },
-          "version": { "type": "integer", "minimum": 1 },
-          "name": { "$ref": "#/$defs/localizedString" },
-          "description": { "$ref": "#/$defs/localizedString" },
-          "tags": { "type": "array", "items": { "type": "string" } },
-          "entity_count": { "type": "integer", "minimum": 0 },
-          "pack_url": { "type": "string", "format": "uri" },
-          "preview_logos": {
-            "type": "array",
-            "items": { "type": "string", "format": "uri" },
-            "maxItems": 4
-          }
-        }
-      }
-    }
+    "packs": { "type": "array", "items": { "$ref": "#/$defs/packEntry" } }
   },
   "$defs": {
+    "slug": { "type": "string", "pattern": "^[a-z0-9-]+$" },
     "localizedString": {
+      "description": "Text by language code. English is required; the app falls back to it for any language the map lacks.",
       "type": "object",
       "required": ["en"],
+      "propertyNames": { "pattern": "^[a-z]{2,3}(-[A-Za-z0-9]{2,8})*$" },
+      "additionalProperties": { "type": "string", "minLength": 1 }
+    },
+    "url": { "type": "string", "format": "uri" },
+    "packEntry": {
+      "type": "object",
+      "required": ["id", "type", "version", "name", "entity_count", "pack_url"],
       "additionalProperties": false,
       "properties": {
-        "en": { "type": "string" },
-        "ru": { "type": "string" }
+        "id": { "$ref": "#/$defs/slug" },
+        "type": { "enum": ["payees", "banks"] },
+        "version": { "type": "integer", "minimum": 1 },
+        "name": { "$ref": "#/$defs/localizedString" },
+        "description": { "$ref": "#/$defs/localizedString" },
+        "tags": { "type": "array", "items": { "$ref": "#/$defs/slug" } },
+        "entity_count": { "type": "integer", "minimum": 0 },
+        "pack_url": { "$ref": "#/$defs/url" },
+        "preview_logos": {
+          "type": "array",
+          "items": { "$ref": "#/$defs/url" },
+          "maxItems": 4,
+          "uniqueItems": true
+        }
       }
     }
   }
