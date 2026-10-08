@@ -1,0 +1,81 @@
+{
+  "id": "ru-health",
+  "version": 1,
+  "type": "payees",
+  "name": {
+    "en": "Russian Labs & Clinics",
+    "ru": "Анализы и клиники"
+  },
+  "payees": [
+    {
+      "key": "invitro",
+      "name": { "en": "Invitro", "ru": "Инвитро" },
+      "logo": "https://catalog.kazna.app/packs/ru-health/logos/invitro.png",
+      "mcc": [8071, 8011],
+      "website": "https://www.invitro.ru"
+    },
+    {
+      "key": "gemotest",
+      "name": { "en": "Gemotest", "ru": "Гемотест" },
+      "logo": "https://catalog.kazna.app/packs/ru-health/logos/gemotest.png",
+      "mcc": [8071],
+      "website": "https://gemotest.ru"
+    },
+    {
+      "key": "helix",
+      "name": { "en": "Helix", "ru": "Хеликс" },
+      "logo": "https://catalog.kazna.app/packs/ru-health/logos/helix.png",
+      "mcc": [8071, 8011],
+      "website": "https://helix.ru"
+    },
+    {
+      "key": "cmd",
+      "name": { "en": "CMD", "ru": "CMD" },
+      "logo": "https://catalog.kazna.app/packs/ru-health/logos/cmd.png",
+      "mcc": [8071],
+      "website": "https://www.cmd-online.ru"
+    },
+    {
+      "key": "kdl",
+      "name": { "en": "KDL", "ru": "KDL" },
+      "logo": "https://catalog.kazna.app/packs/ru-health/logos/kdl.png",
+      "mcc": [8071],
+      "website": "https://kdl.ru"
+    },
+    {
+      "key": "medsi",
+      "name": { "en": "Medsi", "ru": "Медси" },
+      "logo": "https://catalog.kazna.app/packs/ru-health/logos/medsi.png",
+      "mcc": [8011, 8062],
+      "website": "https://medsi.ru"
+    },
+    {
+      "key": "mat-i-ditya",
+      "name": { "en": "Mother and Child", "ru": "Мать и дитя" },
+      "logo": "https://catalog.kazna.app/packs/ru-health/logos/mat-i-ditya.png",
+      "mcc": [8011, 8062],
+      "website": "https://mamadeti.ru"
+    },
+    {
+      "key": "emc",
+      "name": { "en": "European Medical Center", "ru": "Европейский медицинский центр" },
+      "logo": "https://catalog.kazna.app/packs/ru-health/logos/emc.png",
+      "mcc": [8011, 8062],
+      "website": "https://www.emcmos.ru"
+    },
+    {
+      "key": "sm-clinic",
+      "name": { "en": "SM-Clinic", "ru": "СМ-Клиника" },
+      "logo": "https://catalog.kazna.app/packs/ru-health/logos/sm-clinic.png",
+      "mcc": [8011, 8099],
+      "website": "https://www.smclinic.ru"
+    },
+    {
+      "key": "citilab",
+      "name": { "en": "Citilab", "ru": "Ситилаб" },
+      "logo": "https://catalog.kazna.app/packs/ru-health/logos/citilab.png",
+      "mcc": [8071],
+      "website": "https://citilab.ru"
+    }
+  ]
+}

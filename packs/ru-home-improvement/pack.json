@@ -1,6 +1,6 @@
 {
   "id": "ru-home-improvement",
-  "version": 1,
+  "version": 2,
   "type": "payees",
   "name": {
     "en": "Russian Home Improvement",
@@ -15,7 +15,7 @@
       },
       "logo": "https://catalog.kazna.app/packs/ru-home-improvement/logos/lemana-pro.png",
       "mcc": [5211, 5251],
-      "website": "https://leroymerlin.ru"
+      "website": "https://lemanapro.ru"
     },
     {
       "key": "dom-lenta",

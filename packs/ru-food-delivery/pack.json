@@ -1,6 +1,6 @@
 {
   "id": "ru-food-delivery",
-  "version": 2,
+  "version": 3,
   "type": "payees",
   "name": {
     "en": "Russian Food Delivery",
@@ -19,13 +19,10 @@
     },
     {
       "key": "delivery-club",
-      "name": {
-        "en": "Delivery Club",
-        "ru": "Деливери Клаб"
-      },
+      "name": {"en": "Delivery", "ru": "Деливери"},
       "logo": "https://catalog.kazna.app/packs/ru-food-delivery/logos/delivery-club.png",
       "mcc": [5812, 7299],
-      "website": "https://delivery-club.ru"
+      "website": "https://market-delivery.yandex.ru"
     },
     {
       "key": "samokat",
@@ -36,16 +33,6 @@
       "logo": "https://catalog.kazna.app/packs/ru-food-delivery/logos/samokat.png",
       "mcc": [5411, 7299],
       "website": "https://samokat.ru"
-    },
-    {
-      "key": "sbermarket",
-      "name": {
-        "en": "SberMarket",
-        "ru": "СберМаркет"
-      },
-      "logo": "https://catalog.kazna.app/packs/ru-food-delivery/logos/sbermarket.png",
-      "mcc": [5411, 7299],
-      "website": "https://sbermarket.ru"
     },
     {
       "key": "yandex-lavka",

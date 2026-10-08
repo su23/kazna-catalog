@@ -1,0 +1,82 @@
+{
+  "magnit": {
+    "source": "https://commons.wikimedia.org/wiki/File:Magnit_logo.svg",
+    "kind": "Wikimedia Commons SVG",
+    "licence": "Public domain; trademark",
+    "note": "replaces the photo app icon",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "lenta": {
+    "source": "https://commons.wikimedia.org/wiki/File:New_logo_of_Lenta.svg",
+    "kind": "Wikimedia Commons SVG",
+    "licence": "CC BY 4.0 (attribution: Wikimedia Commons); trademark",
+    "note": "sunflower cropped",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "dixy": {
+    "source": "https://commons.wikimedia.org/wiki/File:Diksi_logo_(rebranded).svg",
+    "kind": "Wikimedia Commons SVG",
+    "licence": "Public domain; trademark",
+    "note": "2024 Д badge cropped",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "krasnoe-beloe": {
+    "source": "App Store icon id933816701 (KILOBAIT)",
+    "kind": "App Store icon, opaque tile",
+    "licence": "trademark",
+    "note": "the site 2024 SVG wraps a raster",
+    "fetched": "2026-10-08",
+    "processing": "resized to 128x128"
+  },
+  "bristol": {
+    "source": "App Store icon id1352895878 (ALBION-2002)",
+    "kind": "App Store icon, opaque tile",
+    "licence": "trademark",
+    "note": "site geo-blocked",
+    "fetched": "2026-10-08",
+    "processing": "resized to 128x128"
+  },
+  "fix-price": {
+    "source": "https://fix-price.com/ (header, inline SVG)",
+    "kind": "brand site inline SVG",
+    "licence": "trademark",
+    "note": "F emblem cropped from the pill",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "monetka": {
+    "source": "https://commons.wikimedia.org/wiki/File:Монетка_лого.png",
+    "kind": "Wikimedia Commons PNG",
+    "licence": "Public domain; trademark",
+    "note": "green pin cropped",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "chizhik": {
+    "source": "App Store icon id1604205783 (Perekrestok)",
+    "kind": "App Store icon, opaque tile",
+    "licence": "trademark",
+    "note": "X5 discounter",
+    "fetched": "2026-10-08",
+    "processing": "resized to 128x128"
+  },
+  "verny": {
+    "source": "https://verno-info.ru/img/logo.png",
+    "kind": "brand site PNG",
+    "licence": "trademark",
+    "note": "",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "maria-ra": {
+    "source": "https://www.maria-ra.ru/local/templates/main/design/build/img/svg/symbol/sprite-styled.svg#mariya-logo",
+    "kind": "brand site SVG sprite",
+    "licence": "trademark",
+    "note": "sun symbol cropped",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  }
+}

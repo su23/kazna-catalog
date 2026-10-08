@@ -1,6 +1,6 @@
 {
   "id": "ru-supermarkets",
-  "version": 2,
+  "version": 3,
   "type": "payees",
   "name": {
     "en": "Russian Supermarkets",
@@ -106,6 +106,55 @@
       "logo": "https://catalog.kazna.app/packs/ru-supermarkets/logos/metro.png",
       "mcc": [5411, 5300],
       "website": "https://metro-cc.ru"
+    },
+    {
+      "key": "krasnoe-beloe",
+      "name": { "en": "Krasnoe & Beloe", "ru": "Красное&Белое" },
+      "logo": "https://catalog.kazna.app/packs/ru-supermarkets/logos/krasnoe-beloe.png",
+      "mcc": [5921, 5411],
+      "website": "https://krasnoeibeloe.ru"
+    },
+    {
+      "key": "bristol",
+      "name": { "en": "Bristol", "ru": "Бристоль" },
+      "logo": "https://catalog.kazna.app/packs/ru-supermarkets/logos/bristol.png",
+      "mcc": [5921, 5411],
+      "website": "https://bristol.ru"
+    },
+    {
+      "key": "fix-price",
+      "name": { "en": "Fix Price", "ru": "Fix Price" },
+      "logo": "https://catalog.kazna.app/packs/ru-supermarkets/logos/fix-price.png",
+      "mcc": [5331],
+      "website": "https://fix-price.com"
+    },
+    {
+      "key": "monetka",
+      "name": { "en": "Monetka", "ru": "Монетка" },
+      "logo": "https://catalog.kazna.app/packs/ru-supermarkets/logos/monetka.png",
+      "mcc": [5411],
+      "website": "https://monetka.ru"
+    },
+    {
+      "key": "chizhik",
+      "name": { "en": "Chizhik", "ru": "Чижик" },
+      "logo": "https://catalog.kazna.app/packs/ru-supermarkets/logos/chizhik.png",
+      "mcc": [5411],
+      "website": "https://chizhik.club"
+    },
+    {
+      "key": "verny",
+      "name": { "en": "Verny", "ru": "Верный" },
+      "logo": "https://catalog.kazna.app/packs/ru-supermarkets/logos/verny.png",
+      "mcc": [5411],
+      "website": "https://verno-info.ru"
+    },
+    {
+      "key": "maria-ra",
+      "name": { "en": "Maria-Ra", "ru": "Мария-Ра" },
+      "logo": "https://catalog.kazna.app/packs/ru-supermarkets/logos/maria-ra.png",
+      "mcc": [5411],
+      "website": "https://www.maria-ra.ru"
     }
   ]
 }

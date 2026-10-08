@@ -1,6 +1,6 @@
 {
   "id": "ru-mobile-operators",
-  "version": 2,
+  "version": 3,
   "type": "payees",
   "name": {
     "en": "Russian Mobile Operators",
@@ -39,13 +39,10 @@
     },
     {
       "key": "tele2",
-      "name": {
-        "en": "Tele2",
-        "ru": "Теле2"
-      },
+      "name": {"en": "t2", "ru": "t2"},
       "logo": "https://catalog.kazna.app/packs/ru-mobile-operators/logos/tele2.png",
       "mcc": [4814],
-      "website": "https://tele2.ru"
+      "website": "https://t2.ru"
     },
     {
       "key": "yota",
@@ -59,13 +56,10 @@
     },
     {
       "key": "tinkoff-mobile",
-      "name": {
-        "en": "Tinkoff Mobile",
-        "ru": "Тинькофф Мобайл"
-      },
+      "name": {"en": "T-Mobile", "ru": "Т-Мобайл"},
       "logo": "https://catalog.kazna.app/packs/ru-mobile-operators/logos/tinkoff-mobile.png",
       "mcc": [4814],
-      "website": "https://tinkoff.ru/mobile-operator/"
+      "website": "https://www.tbank.ru/mobile-operator/"
     },
     {
       "key": "sbermobile",
@@ -85,7 +79,7 @@
       },
       "logo": "https://catalog.kazna.app/packs/ru-mobile-operators/logos/gpb-mobile.png",
       "mcc": [4814],
-      "website": "https://gpb-mobile.ru"
+      "website": "https://www.gazprombank.ru/mobile/"
     },
     {
       "key": "vtb-mobile",

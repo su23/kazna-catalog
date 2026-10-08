@@ -1,6 +1,6 @@
 {
   "id": "ru-banks",
-  "version": 7,
+  "version": 8,
   "type": "banks",
   "name": {
     "en": "Russian Banks",
@@ -129,7 +129,7 @@
       "name": {"en": "Yandex Bank", "ru": "Яндекс Банк"},
       "logo": "https://catalog.kazna.app/packs/ru-banks/logos/yandexbank.png",
       "countries": ["RU"],
-      "website": "https://pay.yandex.ru",
+      "website": "https://bank.yandex.ru",
       "card_background": "solid:#1C1C1E",
       "accent_color": "#FFCC00"
     },
@@ -289,7 +289,7 @@
     },
     {
       "key": "solid",
-      "name": {"en": "Solid", "ru": "Солид"},
+      "name": {"en": "Solidarnost Bank", "ru": "Банк «Солидарность»"},
       "logo": "https://catalog.kazna.app/packs/ru-banks/logos/solid.png",
       "countries": ["RU"],
       "website": "https://solid.ru"

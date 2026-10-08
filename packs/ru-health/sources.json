@@ -1,0 +1,82 @@
+{
+  "invitro": {
+    "source": "https://www.invitro.ru/local/templates/invitro_main/src/image/elements/main-logo.svg",
+    "kind": "brand site SVG",
+    "licence": "trademark",
+    "note": "wordmark",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "gemotest": {
+    "source": "https://gemotest.ru/local/templates/main/img/header-new/gemotest-logo.svg",
+    "kind": "brand site SVG",
+    "licence": "trademark",
+    "note": "wordmark",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "helix": {
+    "source": "https://helix.ru/ (header, inline SVG)",
+    "kind": "brand site inline SVG",
+    "licence": "trademark",
+    "note": "spiral mark cropped",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "cmd": {
+    "source": "https://www.cmd-online.ru/local/templates/delement/frontend/assets/images/logo_mob.svg",
+    "kind": "brand site SVG",
+    "licence": "trademark",
+    "note": "the pill is the logo",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "kdl": {
+    "source": "https://kdl.ru/images/logo-medscan.svg",
+    "kind": "brand site SVG",
+    "licence": "trademark",
+    "note": "KDL wordmark cropped from the KDL | Медскан lockup",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "medsi": {
+    "source": "https://medsi.ru/ (sprite symbol #logo)",
+    "kind": "brand site inline SVG",
+    "licence": "trademark",
+    "note": "tagline dropped",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "mat-i-ditya": {
+    "source": "https://mamadeti.ru/ (sprite symbol #logo-image)",
+    "kind": "brand site inline SVG",
+    "licence": "trademark",
+    "note": "",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "emc": {
+    "source": "https://www.emcmos.ru/local/templates/emc-itech/frontend/sources/svg/h-logo.svg",
+    "kind": "brand site SVG",
+    "licence": "trademark",
+    "note": "full lockup",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "sm-clinic": {
+    "source": "https://smclinic-spb.ru/favicon.svg",
+    "kind": "brand site SVG",
+    "licence": "trademark",
+    "note": "the green square is the logo",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "citilab": {
+    "source": "App Store icon (Ситилаб)",
+    "kind": "App Store icon",
+    "licence": "trademark",
+    "note": "site refused access; white background removed",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  }
+}

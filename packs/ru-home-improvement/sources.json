@@ -5,5 +5,13 @@
     "note": "DOM Лента, the 2026 name of OBI Russia",
     "fetched": "2026-10-07",
     "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "lemana-pro": {
+    "source": "App Store icon (Лемана ПРО, Leroy Merlin)",
+    "kind": "App Store icon",
+    "licence": "trademark",
+    "note": "white background removed; uncropped",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
   }
 }

@@ -1,0 +1,60 @@
+{
+  "id": "ru-auto",
+  "version": 1,
+  "type": "payees",
+  "name": {
+    "en": "Russian Car Costs",
+    "ru": "Автомобиль"
+  },
+  "payees": [
+    {
+      "key": "avtodor",
+      "name": { "en": "Avtodor Toll Roads", "ru": "Автодор — Платные дороги" },
+      "logo": "https://catalog.kazna.app/packs/ru-auto/logos/avtodor.png",
+      "mcc": [4784],
+      "website": "https://avtodor-tr.ru"
+    },
+    {
+      "key": "mos-parking",
+      "name": { "en": "Moscow Parking", "ru": "Московский паркинг" },
+      "logo": "https://catalog.kazna.app/packs/ru-auto/logos/mos-parking.png",
+      "mcc": [7523],
+      "website": "https://parking.mos.ru"
+    },
+    {
+      "key": "yandex-zapravki",
+      "name": { "en": "Yandex Fuel", "ru": "Яндекс Заправки" },
+      "logo": "https://catalog.kazna.app/packs/ru-auto/logos/yandex-zapravki.png",
+      "mcc": [5541, 5542],
+      "website": "https://zapravki.yandex.ru"
+    },
+    {
+      "key": "fit-service",
+      "name": { "en": "FIT SERVICE", "ru": "ФИТ СЕРВИС" },
+      "logo": "https://catalog.kazna.app/packs/ru-auto/logos/fit-service.png",
+      "mcc": [7538],
+      "website": "https://fitauto.ru"
+    },
+    {
+      "key": "exist",
+      "name": { "en": "Exist.ru", "ru": "Exist.ru" },
+      "logo": "https://catalog.kazna.app/packs/ru-auto/logos/exist.png",
+      "mcc": [5533],
+      "website": "https://exist.ru"
+    },
+    {
+      "key": "autodoc",
+      "name": { "en": "Autodoc", "ru": "Автодок" },
+      "logo": "https://catalog.kazna.app/packs/ru-auto/logos/autodoc.png",
+      "mcc": [5533],
+      "website": "https://www.autodoc.ru"
+    },
+    {
+      "key": "emex",
+      "name": { "en": "Emex", "ru": "Emex" },
+      "logo": "https://catalog.kazna.app/packs/ru-auto/logos/emex.png",
+      "mcc": [5533],
+      "website": "https://emex.ru"
+    }
+  ]
+}

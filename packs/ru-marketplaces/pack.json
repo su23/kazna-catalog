@@ -1,6 +1,6 @@
 {
   "id": "ru-marketplaces",
-  "version": 1,
+  "version": 2,
   "type": "payees",
   "name": {
     "en": "Russian Marketplaces",
@@ -79,13 +79,10 @@
     },
     {
       "key": "kazanexpress",
-      "name": {
-        "en": "KazanExpress",
-        "ru": "КазаньЭкспресс"
-      },
+      "name": {"en": "Magnit Market", "ru": "Магнит Маркет"},
       "logo": "https://catalog.kazna.app/packs/ru-marketplaces/logos/kazanexpress.png",
       "mcc": [5999],
-      "website": "https://kazanexpress.ru"
+      "website": "https://mm.ru"
     }
   ]
 }

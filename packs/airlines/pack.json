@@ -1,6 +1,6 @@
 {
   "id": "airlines",
-  "version": 4,
+  "version": 5,
   "type": "payees",
   "name": {
     "en": "Airlines",
@@ -149,7 +149,7 @@
     },
     {
       "key": "easyjet",
-      "name": { "en": "EasyJet", "ru": "Изиджет" },
+      "name": { "en": "easyJet", "ru": "Изиджет" },
       "logo": "https://catalog.kazna.app/packs/airlines/logos/easyjet.png",
       "mcc": [4511],
       "website": "https://easyjet.com"

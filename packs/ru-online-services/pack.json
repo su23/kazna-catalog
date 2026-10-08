@@ -1,6 +1,6 @@
 {
   "id": "ru-online-services",
-  "version": 1,
+  "version": 2,
   "type": "payees",
   "name": {
     "en": "Russian Online Services",
@@ -139,13 +139,10 @@
     },
     {
       "key": "yandex-cloud",
-      "name": {
-        "en": "Yandex Cloud",
-        "ru": "Яндекс Облако"
-      },
+      "name": {"en": "Yandex Cloud", "ru": "Yandex Cloud"},
       "logo": "https://catalog.kazna.app/packs/ru-online-services/logos/yandex-cloud.png",
       "mcc": [7372],
-      "website": "https://cloud.yandex.ru"
+      "website": "https://yandex.cloud"
     },
     {
       "key": "rutube",

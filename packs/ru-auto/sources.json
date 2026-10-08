@@ -1,0 +1,58 @@
+{
+  "avtodor": {
+    "source": "https://avtodor-tr.ru/ (header, inline SVG)",
+    "kind": "brand site inline SVG",
+    "licence": "trademark",
+    "note": "stripes symbol",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "mos-parking": {
+    "source": "https://parking.mos.ru/local/templates/mosparking/img/logo.svg",
+    "kind": "brand site SVG",
+    "licence": "trademark",
+    "note": "pin mark cropped",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "yandex-zapravki": {
+    "source": "https://avatars.mds.yandex.net/get-lpc/9736426/fbe0eea2-ce89-46e5-a420-9cd468cdf576/orig",
+    "kind": "brand site PNG",
+    "licence": "trademark",
+    "note": "symbol",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "fit-service": {
+    "source": "https://spb.fitauto.ru/static/img/fav/fav.svg",
+    "kind": "brand site SVG",
+    "licence": "trademark",
+    "note": "favicon tile",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "exist": {
+    "source": "https://s.exist.ru/img2/logo/logo-large-ru.svg",
+    "kind": "brand site SVG",
+    "licence": "trademark",
+    "note": "gear symbol cropped",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "autodoc": {
+    "source": "App Store icon id661575194 (AVTODOK OOO)",
+    "kind": "App Store icon, opaque tile",
+    "licence": "trademark",
+    "note": "no SVG on the site",
+    "fetched": "2026-10-08",
+    "processing": "resized to 128x128"
+  },
+  "emex": {
+    "source": "https://emex.ru/static/safariPinnedTab.svg",
+    "kind": "brand site SVG",
+    "licence": "trademark",
+    "note": "pinned-tab e",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  }
+}

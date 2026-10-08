@@ -6,7 +6,7 @@
     {
       "id": "ru-home-improvement",
       "type": "payees",
-      "version": 1,
+      "version": 2,
       "name": {
         "en": "Russian Home Improvement",
         "ru": "Строительные магазины"
@@ -28,7 +28,7 @@
     {
       "id": "ru-online-services",
       "type": "payees",
-      "version": 1,
+      "version": 2,
       "name": {
         "en": "Russian Online Services",
         "ru": "Онлайн-сервисы России"
@@ -50,7 +50,7 @@
     {
       "id": "ru-supermarkets",
       "type": "payees",
-      "version": 2,
+      "version": 3,
       "name": {
         "en": "Russian Supermarkets",
         "ru": "Супермаркеты"
@@ -60,7 +60,7 @@
         "ru": "Крупные сети продуктовых магазинов с логотипами — Пятёрочка, Магнит, Перекрёсток, ВкусВилл и другие"
       },
       "tags": ["russia", "groceries", "retail"],
-      "entity_count": 10,
+      "entity_count": 17,
       "pack_url": "https://catalog.kazna.app/packs/ru-supermarkets/pack.json",
       "preview_logos": [
         "https://catalog.kazna.app/packs/ru-supermarkets/logos/pyaterochka.png",
@@ -71,17 +71,17 @@
     {
       "id": "ru-food-delivery",
       "type": "payees",
-      "version": 2,
+      "version": 3,
       "name": {
         "en": "Russian Food Delivery",
         "ru": "Доставка еды"
       },
       "description": {
-        "en": "Food delivery services operating in Russia — Yandex Eda, Delivery Club, Samokat and more",
-        "ru": "Сервисы доставки еды в России — Яндекс Еда, Деливери Клаб, Самокат и другие"
+        "en": "Food delivery services operating in Russia — Yandex Eda, Delivery, Samokat and more",
+        "ru": "Сервисы доставки еды в России — Яндекс Еда, Деливери, Самокат и другие"
       },
       "tags": ["russia", "food-delivery", "apps"],
-      "entity_count": 8,
+      "entity_count": 7,
       "pack_url": "https://catalog.kazna.app/packs/ru-food-delivery/pack.json",
       "preview_logos": [
         "https://catalog.kazna.app/packs/ru-food-delivery/logos/yandex-eda.png",
@@ -93,7 +93,7 @@
     {
       "id": "ru-marketplaces",
       "type": "payees",
-      "version": 1,
+      "version": 2,
       "name": {
         "en": "Russian Marketplaces",
         "ru": "Маркетплейсы"
@@ -115,14 +115,14 @@
     {
       "id": "ru-mobile-operators",
       "type": "payees",
-      "version": 2,
+      "version": 3,
       "name": {
         "en": "Russian Mobile Operators",
         "ru": "Мобильные операторы"
       },
       "description": {
-        "en": "Russian mobile operators and MVNOs — MTS, Beeline, Megafon, Tele2, Yota and more",
-        "ru": "Российские мобильные операторы и MVNO — МТС, Билайн, МегаФон, Теле2, Йота и другие"
+        "en": "Russian mobile operators and MVNOs — MTS, Beeline, Megafon, t2, Yota and more",
+        "ru": "Российские мобильные операторы и MVNO — МТС, Билайн, МегаФон, t2, Йота и другие"
       },
       "tags": ["russia", "mobile", "telecom"],
       "entity_count": 9,
@@ -159,7 +159,7 @@
     {
       "id": "ru-banks",
       "type": "banks",
-      "version": 7,
+      "version": 8,
       "name": {
         "en": "Russian Banks",
         "ru": "Банки России"
@@ -246,14 +246,14 @@
     {
       "id": "global-banks",
       "type": "banks",
-      "version": 3,
+      "version": 4,
       "name": {
         "en": "Global Banks",
         "ru": "Мировые банки"
       },
       "description": {
-        "en": "Major international banks — Revolut, Wise, HSBC, Chase, Barclays, Santander and 16 more",
-        "ru": "Крупные международные банки — Revolut, Wise, HSBC, Chase, Barclays, Santander и ещё 16"
+        "en": "Major international banks — Revolut, Wise, HSBC, Chase, Barclays, Santander and 18 more",
+        "ru": "Крупные международные банки — Revolut, Wise, HSBC, Chase, Barclays, Santander и ещё 18"
       },
       "tags": ["global", "banks"],
       "entity_count": 22,
@@ -268,7 +268,7 @@
     {
       "id": "airlines",
       "type": "payees",
-      "version": 4,
+      "version": 5,
       "name": {
         "en": "Airlines",
         "ru": "Авиакомпании"
@@ -334,7 +334,7 @@
     {
       "id": "ru-hosting",
       "type": "payees",
-      "version": 1,
+      "version": 2,
       "name": {
         "en": "Russian Hosting",
         "ru": "Хостинг и облака России"
@@ -488,7 +488,7 @@
     {
       "id": "ru-electronics",
       "type": "payees",
-      "version": 1,
+      "version": 2,
       "name": {
         "en": "Russian Electronics Stores",
         "ru": "Магазины электроники"
@@ -532,7 +532,7 @@
     {
       "id": "ru-transport",
       "type": "payees",
-      "version": 1,
+      "version": 2,
       "name": {
         "en": "Russian Transport & Travel",
         "ru": "Транспорт и поездки"
@@ -659,6 +659,50 @@
         "https://catalog.kazna.app/packs/kz-retail/logos/small-kz.png",
         "https://catalog.kazna.app/packs/kz-retail/logos/sulpak.png",
         "https://catalog.kazna.app/packs/kz-retail/logos/technodom.png"
+      ]
+    },
+    {
+      "id": "ru-health",
+      "type": "payees",
+      "version": 1,
+      "name": {
+        "en": "Russian Labs & Clinics",
+        "ru": "Анализы и клиники"
+      },
+      "description": {
+        "en": "Labs and clinics in Russia — Invitro, Gemotest, Helix, Medsi and 6 more",
+        "ru": "Лаборатории и клиники России — Инвитро, Гемотест, Хеликс, Медси и ещё 6"
+      },
+      "tags": ["russia", "health", "medical"],
+      "entity_count": 10,
+      "pack_url": "https://catalog.kazna.app/packs/ru-health/pack.json",
+      "preview_logos": [
+        "https://catalog.kazna.app/packs/ru-health/logos/invitro.png",
+        "https://catalog.kazna.app/packs/ru-health/logos/gemotest.png",
+        "https://catalog.kazna.app/packs/ru-health/logos/helix.png",
+        "https://catalog.kazna.app/packs/ru-health/logos/medsi.png"
+      ]
+    },
+    {
+      "id": "ru-auto",
+      "type": "payees",
+      "version": 1,
+      "name": {
+        "en": "Russian Car Costs",
+        "ru": "Автомобиль"
+      },
+      "description": {
+        "en": "Toll roads, parking, fuel apps, car service and parts in Russia — Avtodor, Moscow Parking, Yandex Fuel, FIT SERVICE and 3 more",
+        "ru": "Платные дороги, парковки, заправки, автосервис и запчасти — Автодор, Московский паркинг, Яндекс Заправки, ФИТ СЕРВИС и ещё 3"
+      },
+      "tags": ["russia", "auto", "transport"],
+      "entity_count": 7,
+      "pack_url": "https://catalog.kazna.app/packs/ru-auto/pack.json",
+      "preview_logos": [
+        "https://catalog.kazna.app/packs/ru-auto/logos/avtodor.png",
+        "https://catalog.kazna.app/packs/ru-auto/logos/mos-parking.png",
+        "https://catalog.kazna.app/packs/ru-auto/logos/yandex-zapravki.png",
+        "https://catalog.kazna.app/packs/ru-auto/logos/fit-service.png"
       ]
     }
   ]

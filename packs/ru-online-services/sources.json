@@ -1,0 +1,26 @@
+{
+  "gosuslugi": {
+    "source": "https://commons.wikimedia.org/wiki/File:Gosuslugi.svg",
+    "kind": "Wikimedia Commons SVG",
+    "licence": "Public domain; trademark",
+    "note": "",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "yandex-plus": {
+    "source": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/cd/dd/3e/cddd3e3d-ab0d-494c-ee7e-9600a31e570d/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/512x512bb.png",
+    "kind": "App Store icon (Яндекс Плюс), opaque tile",
+    "licence": "trademark",
+    "note": "",
+    "fetched": "2026-10-08",
+    "processing": "resized to 128x128"
+  },
+  "yandex-go": {
+    "source": "https://commons.wikimedia.org/wiki/File:Yandex_Go_icon.svg",
+    "kind": "Wikimedia Commons SVG",
+    "licence": "Public domain; trademark",
+    "note": "uncropped",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  }
+}
