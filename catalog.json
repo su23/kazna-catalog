@@ -159,7 +159,7 @@
     {
       "id": "ru-banks",
       "type": "banks",
-      "version": 6,
+      "version": 7,
       "name": {
         "en": "Russian Banks",
         "ru": "Банки России"
@@ -225,7 +225,7 @@
     {
       "id": "ua-banks",
       "type": "banks",
-      "version": 2,
+      "version": 3,
       "name": {
         "en": "Ukrainian Banks",
         "ru": "Банки Украины",
@@ -422,7 +422,7 @@
     {
       "id": "ge-banks",
       "type": "banks",
-      "version": 2,
+      "version": 3,
       "name": {
         "en": "Georgian Banks",
         "ru": "Банки Грузии"
@@ -466,7 +466,7 @@
     {
       "id": "uz-banks",
       "type": "banks",
-      "version": 1,
+      "version": 2,
       "name": {
         "en": "Uzbek Banks",
         "ru": "Банки Узбекистана"

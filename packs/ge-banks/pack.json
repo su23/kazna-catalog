@@ -1,6 +1,6 @@
 {
   "id": "ge-banks",
-  "version": 2,
+  "version": 3,
   "type": "banks",
   "name": {
     "en": "Georgian Banks",
@@ -14,7 +14,8 @@
       "countries": ["GE"],
       "website": "https://tbcbank.ge",
       "card_background": "solid:#00ADEE",
-      "accent_color": "#00ADEE"
+      "accent_color": "#00ADEE",
+      "brand": "tbc"
     },
     {
       "key": "bankofgeorgia",

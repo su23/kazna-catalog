@@ -1,6 +1,6 @@
 {
   "id": "uz-banks",
-  "version": 1,
+  "version": 2,
   "type": "banks",
   "name": {
     "en": "Uzbek Banks",
@@ -23,7 +23,8 @@
       "countries": ["UZ"],
       "website": "https://tbcbank.uz",
       "card_background": "solid:#110C30",
-      "accent_color": "#110C30"
+      "accent_color": "#110C30",
+      "brand": "tbc"
     },
     {
       "key": "uzumbank",

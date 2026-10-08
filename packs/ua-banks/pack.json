@@ -1,6 +1,6 @@
 {
   "id": "ua-banks",
-  "version": 2,
+  "version": 3,
   "type": "banks",
   "name": {
     "en": "Ukrainian Banks",
@@ -42,7 +42,8 @@
       "countries": ["UA"],
       "website": "https://raiffeisen.ua",
       "card_background": "solid:#FFED00",
-      "accent_color": "#FFED00"
+      "accent_color": "#FFED00",
+      "brand": "raiffeisen"
     },
     {
       "key": "pumb",
@@ -87,7 +88,8 @@
       "countries": ["UA"],
       "website": "https://otpbank.com.ua",
       "card_background": "solid:#009A44",
-      "accent_color": "#009A44"
+      "accent_color": "#009A44",
+      "brand": "otpbank"
     }
   ]
 }
