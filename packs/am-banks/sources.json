@@ -1,0 +1,55 @@
+{
+  "ameriabank": {
+    "source": "https://ameriabank.am/Portals/0/Logo/Ameriabank%20green.svg",
+    "kind": "brand site SVG",
+    "licence": "trademark",
+    "note": "symbol cropped from the lockup",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "ardshinbank": {
+    "source": "https://ardshinbank.am/favicon.svg",
+    "kind": "brand site SVG",
+    "licence": "trademark",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "acba": {
+    "source": "https://acba.am/assets/img/acba-logo-quadratic.svg",
+    "kind": "brand site SVG",
+    "licence": "trademark",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "inecobank": {
+    "source": "https://www.inecobank.am/static/assets/images/small-logo.svg",
+    "kind": "brand site SVG",
+    "licence": "trademark",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "evocabank": {
+    "source": "https://commons.wikimedia.org/wiki/File:Evocabank_logo.png",
+    "kind": "Wikimedia Commons PNG",
+    "licence": "CC BY-SA 4.0; trademark",
+    "note": "wordmark",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "idbank": {
+    "source": "https://idbank.am/images/m-logo.svg",
+    "kind": "brand site SVG",
+    "licence": "trademark",
+    "note": "symbol cropped from the lockup",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "conversebank": {
+    "source": "https://conversebank.am/ (header, inline SVG)",
+    "kind": "brand site inline SVG",
+    "licence": "trademark",
+    "note": "current navy/orange logo, symbol only; main_logo.svg in the bundle is the old blue one",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  }
+}

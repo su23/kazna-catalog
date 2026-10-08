@@ -1,0 +1,47 @@
+{
+  "tbc-ge": {
+    "source": "https://images.eu.ctfassets.net/psnuheg7hu1m/2naQr5wRk6zwV8nxO2EgFf/debc16ae60c6dd82b8d83b74863a80dc/tbcge-logo.svg",
+    "kind": "brand site SVG",
+    "licence": "trademark",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "bankofgeorgia": {
+    "source": "https://bankofgeorgia.ge/assets/manifest/favicon.svg",
+    "kind": "brand site SVG",
+    "licence": "trademark",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "liberty-ge": {
+    "source": "https://libertybank.ge/m/i/favicons/safari-pinned-tab.svg",
+    "kind": "brand site SVG",
+    "licence": "trademark",
+    "note": "single-colour mask drawn in the brand red",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "credo-ge": {
+    "source": "https://imagedelivery.net/d_EE26O5eWcJDRYn-qMBOg/536c7168-93e8-49cb-2ea0-555f4b2a4e00/public",
+    "kind": "brand site SVG",
+    "licence": "trademark",
+    "note": "symbol cropped from the lockup",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "procredit-ge": {
+    "source": "https://commons.wikimedia.org/wiki/File:Logo_ProCredit_Bank.svg",
+    "kind": "Wikimedia Commons SVG",
+    "licence": "Public domain; trademark",
+    "note": "symbol cropped from the wordmark",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "basisbank": {
+    "source": "https://bb.ge/ (header, inline SVG)",
+    "kind": "brand site inline SVG",
+    "licence": "trademark",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  }
+}

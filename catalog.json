@@ -352,6 +352,138 @@
         "https://catalog.kazna.app/packs/ru-hosting/logos/yandex-cloud.png",
         "https://catalog.kazna.app/packs/ru-hosting/logos/regru.png"
       ]
+    },
+    {
+      "id": "ru-fuel",
+      "type": "payees",
+      "version": 1,
+      "name": {
+        "en": "Russian Fuel Stations",
+        "ru": "АЗС"
+      },
+      "description": {
+        "en": "Fuel station chains in Russia — Lukoil, Gazprom Neft, Rosneft, Tatneft and 2 more",
+        "ru": "Сети АЗС России — Лукойл, Газпромнефть, Роснефть, Татнефть и ещё 2"
+      },
+      "tags": ["russia", "fuel", "auto"],
+      "entity_count": 6,
+      "pack_url": "https://catalog.kazna.app/packs/ru-fuel/pack.json",
+      "preview_logos": [
+        "https://catalog.kazna.app/packs/ru-fuel/logos/lukoil.png",
+        "https://catalog.kazna.app/packs/ru-fuel/logos/gazpromneft.png",
+        "https://catalog.kazna.app/packs/ru-fuel/logos/rosneft.png",
+        "https://catalog.kazna.app/packs/ru-fuel/logos/tatneft.png"
+      ]
+    },
+    {
+      "id": "ru-pharmacies",
+      "type": "payees",
+      "version": 1,
+      "name": {
+        "en": "Russian Pharmacies",
+        "ru": "Аптеки"
+      },
+      "description": {
+        "en": "Pharmacy chains in Russia — Rigla, 36.6, Gorzdrav, April and 4 more",
+        "ru": "Аптечные сети России — Ригла, 36,6, Горздрав, Апрель и ещё 4"
+      },
+      "tags": ["russia", "pharmacy", "health"],
+      "entity_count": 8,
+      "pack_url": "https://catalog.kazna.app/packs/ru-pharmacies/pack.json",
+      "preview_logos": [
+        "https://catalog.kazna.app/packs/ru-pharmacies/logos/rigla.png",
+        "https://catalog.kazna.app/packs/ru-pharmacies/logos/apteka-366.png",
+        "https://catalog.kazna.app/packs/ru-pharmacies/logos/gorzdrav.png",
+        "https://catalog.kazna.app/packs/ru-pharmacies/logos/aprel.png"
+      ]
+    },
+    {
+      "id": "ru-cafes",
+      "type": "payees",
+      "version": 1,
+      "name": {
+        "en": "Russian Cafés & Fast Food",
+        "ru": "Кафе и фастфуд"
+      },
+      "description": {
+        "en": "Fast food and coffee chains in Russia — Vkusno & tochka, Rostic's, Dodo Pizza, Teremok and 4 more",
+        "ru": "Фастфуд и кофейни России — Вкусно — и точка, Ростикс, Додо Пицца, Теремок и ещё 4"
+      },
+      "tags": ["russia", "food", "cafes"],
+      "entity_count": 8,
+      "pack_url": "https://catalog.kazna.app/packs/ru-cafes/pack.json",
+      "preview_logos": [
+        "https://catalog.kazna.app/packs/ru-cafes/logos/vkusno-i-tochka.png",
+        "https://catalog.kazna.app/packs/ru-cafes/logos/rostics.png",
+        "https://catalog.kazna.app/packs/ru-cafes/logos/dodo-pizza.png",
+        "https://catalog.kazna.app/packs/ru-cafes/logos/teremok.png"
+      ]
+    },
+    {
+      "id": "ge-banks",
+      "type": "banks",
+      "version": 1,
+      "name": {
+        "en": "Georgian Banks",
+        "ru": "Банки Грузии"
+      },
+      "description": {
+        "en": "Major Georgian banks with card colors — TBC Bank, Bank of Georgia, Liberty Bank, Credo Bank and 2 more",
+        "ru": "Крупные банки Грузии с цветами карт — ТБС Банк, Банк Грузии, Либерти Банк, Кредо Банк и ещё 2"
+      },
+      "tags": ["georgia", "banks"],
+      "entity_count": 6,
+      "pack_url": "https://catalog.kazna.app/packs/ge-banks/pack.json",
+      "preview_logos": [
+        "https://catalog.kazna.app/packs/ge-banks/logos/tbc-ge.png",
+        "https://catalog.kazna.app/packs/ge-banks/logos/bankofgeorgia.png",
+        "https://catalog.kazna.app/packs/ge-banks/logos/liberty-ge.png",
+        "https://catalog.kazna.app/packs/ge-banks/logos/credo-ge.png"
+      ]
+    },
+    {
+      "id": "am-banks",
+      "type": "banks",
+      "version": 1,
+      "name": {
+        "en": "Armenian Banks",
+        "ru": "Банки Армении"
+      },
+      "description": {
+        "en": "Major Armenian banks with card colors — Ameriabank, Ardshinbank, ACBA Bank, Inecobank and 3 more",
+        "ru": "Крупные банки Армении с цветами карт — Америабанк, Ардшинбанк, АКБА Банк, Инекобанк и ещё 3"
+      },
+      "tags": ["armenia", "banks"],
+      "entity_count": 7,
+      "pack_url": "https://catalog.kazna.app/packs/am-banks/pack.json",
+      "preview_logos": [
+        "https://catalog.kazna.app/packs/am-banks/logos/ameriabank.png",
+        "https://catalog.kazna.app/packs/am-banks/logos/ardshinbank.png",
+        "https://catalog.kazna.app/packs/am-banks/logos/acba.png",
+        "https://catalog.kazna.app/packs/am-banks/logos/inecobank.png"
+      ]
+    },
+    {
+      "id": "uz-banks",
+      "type": "banks",
+      "version": 1,
+      "name": {
+        "en": "Uzbek Banks",
+        "ru": "Банки Узбекистана"
+      },
+      "description": {
+        "en": "Major Uzbek banks with card colors — Kapitalbank, TBC Bank, Uzum Bank, Hamkorbank and 4 more",
+        "ru": "Крупные банки Узбекистана с цветами карт — Капиталбанк, ТБС Банк, Узум Банк, Хамкорбанк и ещё 4"
+      },
+      "tags": ["uzbekistan", "banks"],
+      "entity_count": 8,
+      "pack_url": "https://catalog.kazna.app/packs/uz-banks/pack.json",
+      "preview_logos": [
+        "https://catalog.kazna.app/packs/uz-banks/logos/kapitalbank.png",
+        "https://catalog.kazna.app/packs/uz-banks/logos/tbc-uz.png",
+        "https://catalog.kazna.app/packs/uz-banks/logos/uzumbank.png",
+        "https://catalog.kazna.app/packs/uz-banks/logos/hamkorbank.png"
+      ]
     }
   ]
 }

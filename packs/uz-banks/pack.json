@@ -1,0 +1,83 @@
+{
+  "id": "uz-banks",
+  "version": 1,
+  "type": "banks",
+  "name": {
+    "en": "Uzbek Banks",
+    "ru": "Банки Узбекистана"
+  },
+  "banks": [
+    {
+      "key": "kapitalbank",
+      "name": { "en": "Kapitalbank", "ru": "Капиталбанк" },
+      "logo": "https://catalog.kazna.app/packs/uz-banks/logos/kapitalbank.png",
+      "countries": ["UZ"],
+      "website": "https://kapitalbank.uz",
+      "card_background": "solid:#FBC200",
+      "accent_color": "#FBC200"
+    },
+    {
+      "key": "tbc-uz",
+      "name": { "en": "TBC Bank Uzbekistan", "ru": "ТБС Банк Узбекистан" },
+      "logo": "https://catalog.kazna.app/packs/uz-banks/logos/tbc-uz.png",
+      "countries": ["UZ"],
+      "website": "https://tbcbank.uz",
+      "card_background": "solid:#110C30",
+      "accent_color": "#110C30"
+    },
+    {
+      "key": "uzumbank",
+      "name": { "en": "Uzum Bank", "ru": "Узум Банк" },
+      "logo": "https://catalog.kazna.app/packs/uz-banks/logos/uzumbank.png",
+      "countries": ["UZ"],
+      "website": "https://uzumbank.uz",
+      "card_background": "solid:#7000FF",
+      "accent_color": "#7000FF"
+    },
+    {
+      "key": "hamkorbank",
+      "name": { "en": "Hamkorbank", "ru": "Хамкорбанк" },
+      "logo": "https://catalog.kazna.app/packs/uz-banks/logos/hamkorbank.png",
+      "countries": ["UZ"],
+      "website": "https://hamkorbank.uz",
+      "card_background": "solid:#1CCA59",
+      "accent_color": "#1CCA59"
+    },
+    {
+      "key": "anorbank",
+      "name": { "en": "Anorbank", "ru": "Анорбанк" },
+      "logo": "https://catalog.kazna.app/packs/uz-banks/logos/anorbank.png",
+      "countries": ["UZ"],
+      "website": "https://anorbank.uz",
+      "card_background": "solid:#A30041",
+      "accent_color": "#A30041"
+    },
+    {
+      "key": "ipotekabank",
+      "name": { "en": "Ipoteka Bank", "ru": "Ипотека-банк" },
+      "logo": "https://catalog.kazna.app/packs/uz-banks/logos/ipotekabank.png",
+      "countries": ["UZ"],
+      "website": "https://www.ipotekabank.uz",
+      "card_background": "solid:#52AE30",
+      "accent_color": "#52AE30"
+    },
+    {
+      "key": "nbu-uz",
+      "name": { "en": "National Bank of Uzbekistan", "ru": "Национальный банк Узбекистана" },
+      "logo": "https://catalog.kazna.app/packs/uz-banks/logos/nbu-uz.png",
+      "countries": ["UZ"],
+      "website": "https://nbu.uz",
+      "card_background": "solid:#B08860",
+      "accent_color": "#B08860"
+    },
+    {
+      "key": "asakabank",
+      "name": { "en": "Asakabank", "ru": "Асакабанк" },
+      "logo": "https://catalog.kazna.app/packs/uz-banks/logos/asakabank.png",
+      "countries": ["UZ"],
+      "website": "https://asakabank.uz",
+      "card_background": "solid:#E41D32",
+      "accent_color": "#E41D32"
+    }
+  ]
+}

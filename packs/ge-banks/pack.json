@@ -1,0 +1,65 @@
+{
+  "id": "ge-banks",
+  "version": 1,
+  "type": "banks",
+  "name": {
+    "en": "Georgian Banks",
+    "ru": "Банки Грузии"
+  },
+  "banks": [
+    {
+      "key": "tbc-ge",
+      "name": { "en": "TBC Bank", "ru": "ТБС Банк" },
+      "logo": "https://catalog.kazna.app/packs/ge-banks/logos/tbc-ge.png",
+      "countries": ["GE"],
+      "website": "https://tbcbank.ge",
+      "card_background": "solid:#00ADEE",
+      "accent_color": "#00ADEE"
+    },
+    {
+      "key": "bankofgeorgia",
+      "name": { "en": "Bank of Georgia", "ru": "Банк Грузии" },
+      "logo": "https://catalog.kazna.app/packs/ge-banks/logos/bankofgeorgia.png",
+      "countries": ["GE"],
+      "website": "https://bankofgeorgia.ge",
+      "card_background": "solid:#FC6719",
+      "accent_color": "#FC6719"
+    },
+    {
+      "key": "liberty-ge",
+      "name": { "en": "Liberty Bank", "ru": "Либерти Банк" },
+      "logo": "https://catalog.kazna.app/packs/ge-banks/logos/liberty-ge.png",
+      "countries": ["GE"],
+      "website": "https://libertybank.ge",
+      "card_background": "solid:#DB0011",
+      "accent_color": "#DB0011"
+    },
+    {
+      "key": "credo-ge",
+      "name": { "en": "Credo Bank", "ru": "Кредо Банк" },
+      "logo": "https://catalog.kazna.app/packs/ge-banks/logos/credo-ge.png",
+      "countries": ["GE"],
+      "website": "https://credobank.ge",
+      "card_background": "solid:#EA4C38",
+      "accent_color": "#EA4C38"
+    },
+    {
+      "key": "procredit-ge",
+      "name": { "en": "ProCredit Bank", "ru": "ПроКредит Банк" },
+      "logo": "https://catalog.kazna.app/packs/ge-banks/logos/procredit-ge.png",
+      "countries": ["GE"],
+      "website": "https://procreditbank.ge",
+      "card_background": "solid:#D40E14",
+      "accent_color": "#D40E14"
+    },
+    {
+      "key": "basisbank",
+      "name": { "en": "Basisbank", "ru": "Базисбанк" },
+      "logo": "https://catalog.kazna.app/packs/ge-banks/logos/basisbank.png",
+      "countries": ["GE"],
+      "website": "https://bb.ge",
+      "card_background": "solid:#0054CD",
+      "accent_color": "#0054CD"
+    }
+  ]
+}

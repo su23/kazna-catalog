@@ -1,0 +1,74 @@
+{
+  "id": "am-banks",
+  "version": 1,
+  "type": "banks",
+  "name": {
+    "en": "Armenian Banks",
+    "ru": "Банки Армении"
+  },
+  "banks": [
+    {
+      "key": "ameriabank",
+      "name": { "en": "Ameriabank", "ru": "Америабанк" },
+      "logo": "https://catalog.kazna.app/packs/am-banks/logos/ameriabank.png",
+      "countries": ["AM"],
+      "website": "https://ameriabank.am",
+      "card_background": "solid:#72BF44",
+      "accent_color": "#72BF44"
+    },
+    {
+      "key": "ardshinbank",
+      "name": { "en": "Ardshinbank", "ru": "Ардшинбанк" },
+      "logo": "https://catalog.kazna.app/packs/am-banks/logos/ardshinbank.png",
+      "countries": ["AM"],
+      "website": "https://ardshinbank.am",
+      "card_background": "solid:#0A64C8",
+      "accent_color": "#0A64C8"
+    },
+    {
+      "key": "acba",
+      "name": { "en": "ACBA Bank", "ru": "АКБА Банк" },
+      "logo": "https://catalog.kazna.app/packs/am-banks/logos/acba.png",
+      "countries": ["AM"],
+      "website": "https://acba.am",
+      "card_background": "solid:#00A688",
+      "accent_color": "#00A688"
+    },
+    {
+      "key": "inecobank",
+      "name": { "en": "Inecobank", "ru": "Инекобанк" },
+      "logo": "https://catalog.kazna.app/packs/am-banks/logos/inecobank.png",
+      "countries": ["AM"],
+      "website": "https://www.inecobank.am",
+      "card_background": "solid:#168F51",
+      "accent_color": "#168F51"
+    },
+    {
+      "key": "evocabank",
+      "name": { "en": "Evocabank", "ru": "Эвокабанк" },
+      "logo": "https://catalog.kazna.app/packs/am-banks/logos/evocabank.png",
+      "countries": ["AM"],
+      "website": "https://evoca.am",
+      "card_background": "solid:#6400DC",
+      "accent_color": "#6400DC"
+    },
+    {
+      "key": "idbank",
+      "name": { "en": "IDBank", "ru": "АйДи Банк" },
+      "logo": "https://catalog.kazna.app/packs/am-banks/logos/idbank.png",
+      "countries": ["AM"],
+      "website": "https://idbank.am",
+      "card_background": "solid:#F5821E",
+      "accent_color": "#F5821E"
+    },
+    {
+      "key": "conversebank",
+      "name": { "en": "Converse Bank", "ru": "Конверс Банк" },
+      "logo": "https://catalog.kazna.app/packs/am-banks/logos/conversebank.png",
+      "countries": ["AM"],
+      "website": "https://conversebank.am",
+      "card_background": "solid:#002366",
+      "accent_color": "#002366"
+    }
+  ]
+}

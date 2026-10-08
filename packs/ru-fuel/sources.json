@@ -1,0 +1,49 @@
+{
+  "lukoil": {
+    "source": "https://commons.wikimedia.org/wiki/File:LUK_OIL_Logo.svg",
+    "kind": "Wikimedia Commons SVG",
+    "licence": "Public domain; trademark",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "gazpromneft": {
+    "source": "https://www.gazprom-neft.ru/images/z-template/logo-gpn_ru.svg",
+    "kind": "brand site SVG",
+    "licence": "trademark",
+    "note": "flame cropped from the lockup",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "rosneft": {
+    "source": "https://commons.wikimedia.org/wiki/File:Rosneft.svg",
+    "kind": "Wikimedia Commons SVG",
+    "licence": "Public domain; trademark",
+    "note": "symbol cropped above the wordmark",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "tatneft": {
+    "source": "https://azs.tatneft.ru/ (header CSS, inline SVG)",
+    "kind": "brand site inline SVG",
+    "licence": "trademark",
+    "note": "white flame drawn on the site header colour #363D4B as a tile",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "teboil": {
+    "source": "https://teboil.ru/favicon.svg",
+    "kind": "brand site SVG",
+    "licence": "trademark",
+    "note": "Russian Teboil (Lukoil), not the Finnish-era artwork",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "bashneft": {
+    "source": "https://commons.wikimedia.org/wiki/File:Bashneft_logo.svg",
+    "kind": "Wikimedia Commons SVG",
+    "licence": "Public domain; trademark",
+    "note": "symbol cropped above the wordmark",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  }
+}

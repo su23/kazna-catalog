@@ -1,0 +1,67 @@
+{
+  "id": "ru-cafes",
+  "version": 1,
+  "type": "payees",
+  "name": {
+    "en": "Russian Cafés & Fast Food",
+    "ru": "Кафе и фастфуд"
+  },
+  "payees": [
+    {
+      "key": "vkusno-i-tochka",
+      "name": { "en": "Vkusno & tochka", "ru": "Вкусно — и точка" },
+      "logo": "https://catalog.kazna.app/packs/ru-cafes/logos/vkusno-i-tochka.png",
+      "mcc": [5814, 5812],
+      "website": "https://vkusnoitochka.ru"
+    },
+    {
+      "key": "rostics",
+      "name": { "en": "Rostic's", "ru": "Ростикс" },
+      "logo": "https://catalog.kazna.app/packs/ru-cafes/logos/rostics.png",
+      "mcc": [5814, 5812],
+      "website": "https://rostics.ru"
+    },
+    {
+      "key": "dodo-pizza",
+      "name": { "en": "Dodo Pizza", "ru": "Додо Пицца" },
+      "logo": "https://catalog.kazna.app/packs/ru-cafes/logos/dodo-pizza.png",
+      "mcc": [5814, 5812],
+      "website": "https://dodopizza.ru"
+    },
+    {
+      "key": "teremok",
+      "name": { "en": "Teremok", "ru": "Теремок" },
+      "logo": "https://catalog.kazna.app/packs/ru-cafes/logos/teremok.png",
+      "mcc": [5814, 5812],
+      "website": "https://teremok.ru"
+    },
+    {
+      "key": "shokoladnitsa",
+      "name": { "en": "Shokoladnitsa", "ru": "Шоколадница" },
+      "logo": "https://catalog.kazna.app/packs/ru-cafes/logos/shokoladnitsa.png",
+      "mcc": [5814, 5812],
+      "website": "https://shoko.ru"
+    },
+    {
+      "key": "cofix",
+      "name": { "en": "Cofix", "ru": "Cofix" },
+      "logo": "https://catalog.kazna.app/packs/ru-cafes/logos/cofix.png",
+      "mcc": [5814, 5812],
+      "website": "https://cofix.global"
+    },
+    {
+      "key": "coffee-house",
+      "name": { "en": "Coffee House", "ru": "Кофе Хауз" },
+      "logo": "https://catalog.kazna.app/packs/ru-cafes/logos/coffee-house.png",
+      "mcc": [5814, 5812],
+      "website": "https://coffeehouse.ru"
+    },
+    {
+      "key": "stars-coffee",
+      "name": { "en": "Stars Coffee", "ru": "Stars Coffee" },
+      "logo": "https://catalog.kazna.app/packs/ru-cafes/logos/stars-coffee.png",
+      "mcc": [5814, 5812],
+      "website": "https://stars-coffee.ru"
+    }
+  ]
+}

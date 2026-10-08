@@ -1,0 +1,65 @@
+{
+  "kapitalbank": {
+    "source": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b5/f9/f0/b5f9f049-928f-8f8a-c122-1d7160fd262f/AppIcon-0-0-1x_U007ephone-0-1-0-sRGB-85-220.png/512x512bb.png",
+    "kind": "App Store icon (Kapitalbank, JSCB), opaque tile",
+    "licence": "trademark",
+    "note": "the site has only a wide PNG wordmark",
+    "fetched": "2026-10-08",
+    "processing": "resized to 128x128"
+  },
+  "tbc-uz": {
+    "source": "https://tbcbank.uz/ (header, inline SVG)",
+    "kind": "brand site inline SVG",
+    "licence": "trademark",
+    "note": "currentColor set to the computed #110C30",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "uzumbank": {
+    "source": "https://uzumbank.uz/uzumbank-logo-dark.svg",
+    "kind": "brand site SVG",
+    "licence": "trademark",
+    "note": "symbol cropped from the lockup",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "hamkorbank": {
+    "source": "https://hamkorbank.uz/assets/images/static/logo.svg",
+    "kind": "brand site SVG",
+    "licence": "trademark",
+    "note": "symbol cropped from the lockup",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "anorbank": {
+    "source": "https://anorbank.uz/images/logo.svg",
+    "kind": "brand site SVG",
+    "licence": "trademark",
+    "note": "symbol cropped from the lockup",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "ipotekabank": {
+    "source": "https://www.ipotekabank.uz/local/templates/ipotekatmpl/images/brand_logo.svg",
+    "kind": "brand site SVG",
+    "licence": "trademark",
+    "note": "OTP Group owns ~74%; brand is still Ipoteka Bank. Mark cropped from the lockup",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "nbu-uz": {
+    "source": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/1f/46/9a/1f469ae1-f230-fcd7-ffd5-84e422060086/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/512x512bb.png",
+    "kind": "App Store icon (Milliy app, NBU), opaque tile",
+    "licence": "trademark",
+    "note": "nbu.uz unreachable from outside Uzbekistan; colour sampled from the icon",
+    "fetched": "2026-10-08",
+    "processing": "resized to 128x128"
+  },
+  "asakabank": {
+    "source": "https://asakabank.uz/images/logo.svg",
+    "kind": "brand site SVG",
+    "licence": "trademark",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  }
+}

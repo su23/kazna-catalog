@@ -1,0 +1,67 @@
+{
+  "id": "ru-pharmacies",
+  "version": 1,
+  "type": "payees",
+  "name": {
+    "en": "Russian Pharmacies",
+    "ru": "Аптеки"
+  },
+  "payees": [
+    {
+      "key": "rigla",
+      "name": { "en": "Rigla", "ru": "Ригла" },
+      "logo": "https://catalog.kazna.app/packs/ru-pharmacies/logos/rigla.png",
+      "mcc": [5912],
+      "website": "https://www.rigla.ru"
+    },
+    {
+      "key": "apteka-366",
+      "name": { "en": "36.6", "ru": "36,6" },
+      "logo": "https://catalog.kazna.app/packs/ru-pharmacies/logos/apteka-366.png",
+      "mcc": [5912],
+      "website": "https://366.ru"
+    },
+    {
+      "key": "gorzdrav",
+      "name": { "en": "Gorzdrav", "ru": "Горздрав" },
+      "logo": "https://catalog.kazna.app/packs/ru-pharmacies/logos/gorzdrav.png",
+      "mcc": [5912],
+      "website": "https://gorzdrav.org"
+    },
+    {
+      "key": "aprel",
+      "name": { "en": "April", "ru": "Апрель" },
+      "logo": "https://catalog.kazna.app/packs/ru-pharmacies/logos/aprel.png",
+      "mcc": [5912],
+      "website": "https://apteka-april.ru"
+    },
+    {
+      "key": "eapteka",
+      "name": { "en": "Eapteka", "ru": "Еаптека" },
+      "logo": "https://catalog.kazna.app/packs/ru-pharmacies/logos/eapteka.png",
+      "mcc": [5912],
+      "website": "https://www.eapteka.ru"
+    },
+    {
+      "key": "planeta-zdorovya",
+      "name": { "en": "Planeta Zdorovya", "ru": "Планета Здоровья" },
+      "logo": "https://catalog.kazna.app/packs/ru-pharmacies/logos/planeta-zdorovya.png",
+      "mcc": [5912],
+      "website": "https://planetazdorovo.ru"
+    },
+    {
+      "key": "stolichki",
+      "name": { "en": "Stolichki", "ru": "Столички" },
+      "logo": "https://catalog.kazna.app/packs/ru-pharmacies/logos/stolichki.png",
+      "mcc": [5912],
+      "website": "https://stolichki.ru"
+    },
+    {
+      "key": "maksavit",
+      "name": { "en": "Maksavit", "ru": "Максавит" },
+      "logo": "https://catalog.kazna.app/packs/ru-pharmacies/logos/maksavit.png",
+      "mcc": [5912],
+      "website": "https://maksavit.ru"
+    }
+  ]
+}

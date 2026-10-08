@@ -1,0 +1,53 @@
+{
+  "id": "ru-fuel",
+  "version": 1,
+  "type": "payees",
+  "name": {
+    "en": "Russian Fuel Stations",
+    "ru": "АЗС"
+  },
+  "payees": [
+    {
+      "key": "lukoil",
+      "name": { "en": "Lukoil", "ru": "Лукойл" },
+      "logo": "https://catalog.kazna.app/packs/ru-fuel/logos/lukoil.png",
+      "mcc": [5541, 5542],
+      "website": "https://lukoil.ru"
+    },
+    {
+      "key": "gazpromneft",
+      "name": { "en": "Gazprom Neft", "ru": "Газпромнефть" },
+      "logo": "https://catalog.kazna.app/packs/ru-fuel/logos/gazpromneft.png",
+      "mcc": [5541, 5542],
+      "website": "https://www.gazprom-neft.ru"
+    },
+    {
+      "key": "rosneft",
+      "name": { "en": "Rosneft", "ru": "Роснефть" },
+      "logo": "https://catalog.kazna.app/packs/ru-fuel/logos/rosneft.png",
+      "mcc": [5541, 5542],
+      "website": "https://rosneft.ru"
+    },
+    {
+      "key": "tatneft",
+      "name": { "en": "Tatneft", "ru": "Татнефть" },
+      "logo": "https://catalog.kazna.app/packs/ru-fuel/logos/tatneft.png",
+      "mcc": [5541, 5542],
+      "website": "https://azs.tatneft.ru"
+    },
+    {
+      "key": "teboil",
+      "name": { "en": "Teboil", "ru": "Teboil" },
+      "logo": "https://catalog.kazna.app/packs/ru-fuel/logos/teboil.png",
+      "mcc": [5541, 5542],
+      "website": "https://teboil.ru"
+    },
+    {
+      "key": "bashneft",
+      "name": { "en": "Bashneft", "ru": "Башнефть" },
+      "logo": "https://catalog.kazna.app/packs/ru-fuel/logos/bashneft.png",
+      "mcc": [5541, 5542],
+      "website": "https://bashneft.ru"
+    }
+  ]
+}
