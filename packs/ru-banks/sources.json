@@ -14,5 +14,100 @@
     "note": "interim: the DOM.RF group mark; the bank rebranded on 2026-09-14 and its new logo is not yet published",
     "fetched": "2026-10-07",
     "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "mtsbank": {
+    "source": "https://www.mtsbank.ru/upload/static/favicons/icon.svg",
+    "kind": "bank site SVG (favicon), white square removed",
+    "fetched": "2026-10-08",
+    "processing": "fitted to 128x128 RGBA"
+  },
+  "uralsib": {
+    "source": "https://uralsib.ru/favicon.svg",
+    "kind": "bank site SVG (favicon), white background removed",
+    "fetched": "2026-10-08",
+    "processing": "fitted to 128x128 RGBA"
+  },
+  "lockobank": {
+    "source": "https://www.lockobank.ru/120x120_Locko_Favicon.svg",
+    "kind": "bank site SVG",
+    "fetched": "2026-10-08",
+    "processing": "fitted to 128x128 RGBA"
+  },
+  "metallinvestbank": {
+    "source": "https://www.metallinvestbank.ru/favicon.svg",
+    "kind": "bank site SVG",
+    "fetched": "2026-10-08",
+    "processing": "fitted to 128x128 RGBA"
+  },
+  "centrinvest": {
+    "source": "https://www.centrinvest.ru/favicon.svg",
+    "kind": "bank site SVG",
+    "fetched": "2026-10-08",
+    "processing": "fitted to 128x128 RGBA"
+  },
+  "levoberezhny": {
+    "source": "https://www.nskbl.ru/local/templates/main/img/logo.svg",
+    "kind": "bank site SVG, wordmark removed",
+    "fetched": "2026-10-08",
+    "processing": "fitted to 128x128 RGBA"
+  },
+  "kubankredit": {
+    "source": "https://kk.ru/upload/app_logos/header_logo_6a75bd9ceb0c44.44929020.svg",
+    "kind": "bank site SVG, cropped to the mark",
+    "fetched": "2026-10-08",
+    "processing": "fitted to 128x128 RGBA"
+  },
+  "renaissance": {
+    "source": "https://commons.wikimedia.org/wiki/File:Логотип_Ренессанс_Банк.svg",
+    "kind": "Wikimedia Commons (960px render), mark cropped",
+    "fetched": "2026-10-08",
+    "processing": "fitted to 128x128 RGBA"
+  },
+  "rncb": {
+    "source": "https://commons.wikimedia.org/wiki/File:RNCB_logo.svg",
+    "kind": "Wikimedia Commons (960px render)",
+    "fetched": "2026-10-08",
+    "processing": "fitted to 128x128 RGBA"
+  },
+  "homebank": {
+    "source": "https://commons.wikimedia.org/wiki/File:Home_Credit_%26_Finance_Bank.svg",
+    "kind": "Wikimedia Commons (960px render); the pre-2023 Home Credit tile, opaque",
+    "fetched": "2026-10-08",
+    "processing": "fitted to 128x128 RGBA"
+  },
+  "zenit": {
+    "source": "https://commons.wikimedia.org/wiki/File:Bank_ZENIT.png",
+    "kind": "Wikimedia Commons (960px render), symbol cropped",
+    "fetched": "2026-10-08",
+    "processing": "fitted to 128x128 RGBA"
+  },
+  "absolutbank": {
+    "source": "https://static.rustore.ru/apk/2063529564/content/ICON/960f8040-07f5-45a9-9e32-d185bba426f8.png",
+    "kind": "RuStore app icon (opaque tile); colour sampled from it",
+    "fetched": "2026-10-08",
+    "processing": "fitted to 128x128 RGBA"
+  },
+  "avangard": {
+    "source": "https://static.rustore.ru/apk/2063548599/content/ICON/aea48fc5-123f-4394-9577-bcdbdbc61a61.png",
+    "kind": "RuStore app icon (opaque tile); colour sampled from it",
+    "fetched": "2026-10-08",
+    "processing": "fitted to 128x128 RGBA"
+  },
+  "primsotsbank": {
+    "source": "https://www.primsotsbank.ru/images/interface/pskb-new-logo.png",
+    "kind": "bank site PNG, emblem cropped",
+    "fetched": "2026-10-08",
+    "processing": "fitted to 128x128 RGBA"
+  },
+  "chelindbank": {
+    "source": "https://static.rustore.ru/2026/5/8/0f/apk/2063555326/content/ICON/02bc25fa-b30d-4784-b1b5-c683a625bd71.png",
+    "kind": "RuStore app icon (opaque tile); colour sampled from it",
+    "fetched": "2026-10-08",
+    "processing": "fitted to 128x128 RGBA"
+  },
+  "pochtabank": {
+    "source": null,
+    "kind": "none found",
+    "note": "site redirects to VTB since the 2026-05-01 merger; shown by its initial"
   }
 }

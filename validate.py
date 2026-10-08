@@ -79,6 +79,8 @@ for entry in catalog["packs"]:
     # pack logos must resolve to existing files
     for item in pack.get(array_key or "", []):
         logo_url = item.get("logo", "")
+        if not logo_url:
+            continue  # no logo: the app shows the initial
         if logo_url.startswith(base_url + "/"):
             logo_path = ROOT / logo_url[len(base_url) + 1:]
             if not logo_path.exists():

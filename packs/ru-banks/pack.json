@@ -1,6 +1,6 @@
 {
   "id": "ru-banks",
-  "version": 3,
+  "version": 4,
   "type": "banks",
   "name": {
     "en": "Russian Banks",
@@ -354,6 +354,22 @@
       "website": "https://megafonbank.ru",
       "accent_color": "#00B956",
       "closed": true
-    }
+    },
+    {"key": "mtsbank", "name": {"en": "MTS Bank", "ru": "МТС Банк"}, "logo": "https://catalog.kazna.app/packs/ru-banks/logos/mtsbank.png", "countries": ["RU"], "website": "https://www.mtsbank.ru", "card_background": "solid:#E30611", "accent_color": "#E30611"},
+    {"key": "renaissance", "name": {"en": "Renaissance Bank", "ru": "Ренессанс Банк"}, "logo": "https://catalog.kazna.app/packs/ru-banks/logos/renaissance.png", "countries": ["RU"], "website": "https://rencredit.ru", "card_background": "solid:#FF0078", "accent_color": "#FF0078"},
+    {"key": "uralsib", "name": {"en": "Uralsib", "ru": "Уралсиб"}, "logo": "https://catalog.kazna.app/packs/ru-banks/logos/uralsib.png", "countries": ["RU"], "website": "https://www.uralsib.ru", "card_background": "solid:#3B175C", "accent_color": "#3B175C"},
+    {"key": "zenit", "name": {"en": "Bank Zenit", "ru": "Банк Зенит"}, "logo": "https://catalog.kazna.app/packs/ru-banks/logos/zenit.png", "countries": ["RU"], "website": "https://www.zenit.ru", "card_background": "solid:#007882", "accent_color": "#007882"},
+    {"key": "absolutbank", "name": {"en": "Absolut Bank", "ru": "Абсолют Банк"}, "logo": "https://catalog.kazna.app/packs/ru-banks/logos/absolutbank.png", "countries": ["RU"], "website": "https://absolutbank.ru", "card_background": "solid:#FF5000", "accent_color": "#FF5000"},
+    {"key": "lockobank", "name": {"en": "Locko-Bank", "ru": "Локо-Банк"}, "logo": "https://catalog.kazna.app/packs/ru-banks/logos/lockobank.png", "countries": ["RU"], "website": "https://www.lockobank.ru", "card_background": "solid:#1E60FC", "accent_color": "#1E60FC"},
+    {"key": "metallinvestbank", "name": {"en": "Metallinvestbank", "ru": "Металлинвестбанк"}, "logo": "https://catalog.kazna.app/packs/ru-banks/logos/metallinvestbank.png", "countries": ["RU"], "website": "https://www.metallinvestbank.ru", "card_background": "solid:#003082", "accent_color": "#003082"},
+    {"key": "avangard", "name": {"en": "Avangard Bank", "ru": "Банк Авангард"}, "logo": "https://catalog.kazna.app/packs/ru-banks/logos/avangard.png", "countries": ["RU"], "website": "https://www.avangard.ru", "card_background": "solid:#28975F", "accent_color": "#28975F"},
+    {"key": "centrinvest", "name": {"en": "Center-invest", "ru": "Центр-инвест"}, "logo": "https://catalog.kazna.app/packs/ru-banks/logos/centrinvest.png", "countries": ["RU"], "website": "https://www.centrinvest.ru", "card_background": "solid:#50B848", "accent_color": "#50B848"},
+    {"key": "primsotsbank", "name": {"en": "Primsotsbank", "ru": "Примсоцбанк"}, "logo": "https://catalog.kazna.app/packs/ru-banks/logos/primsotsbank.png", "countries": ["RU"], "website": "https://www.primsotsbank.ru", "card_background": "solid:#428A37", "accent_color": "#428A37"},
+    {"key": "levoberezhny", "name": {"en": "Bank Levoberezhny", "ru": "Банк Левобережный"}, "logo": "https://catalog.kazna.app/packs/ru-banks/logos/levoberezhny.png", "countries": ["RU"], "website": "https://www.nskbl.ru", "card_background": "solid:#1EAAA2", "accent_color": "#1EAAA2"},
+    {"key": "kubankredit", "name": {"en": "Kuban Kredit", "ru": "Кубань Кредит"}, "logo": "https://catalog.kazna.app/packs/ru-banks/logos/kubankredit.png", "countries": ["RU"], "website": "https://kk.ru", "card_background": "solid:#354BCA", "accent_color": "#354BCA"},
+    {"key": "chelindbank", "name": {"en": "Chelindbank", "ru": "Челиндбанк"}, "logo": "https://catalog.kazna.app/packs/ru-banks/logos/chelindbank.png", "countries": ["RU"], "website": "https://www.chelindbank.ru", "card_background": "solid:#005E9E", "accent_color": "#005E9E"},
+    {"key": "rncb", "name": {"en": "RNCB", "ru": "РНКБ"}, "logo": "https://catalog.kazna.app/packs/ru-banks/logos/rncb.png", "countries": ["RU"], "website": "https://www.rncb.ru", "card_background": "solid:#00AEC7", "accent_color": "#00AEC7", "closed": true},
+    {"key": "homebank", "name": {"en": "Home Bank", "ru": "Хоум Банк"}, "logo": "https://catalog.kazna.app/packs/ru-banks/logos/homebank.png", "countries": ["RU"], "website": "https://home.bank", "card_background": "solid:#E2383F", "accent_color": "#E2383F", "closed": true},
+    {"key": "pochtabank", "name": {"en": "Pochta Bank", "ru": "Почта Банк"}, "countries": ["RU"], "website": "https://www.pochtabank.ru", "closed": true}
   ]
 }
