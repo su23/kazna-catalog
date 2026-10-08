@@ -1,0 +1,81 @@
+{
+  "id": "travel-stay",
+  "version": 1,
+  "type": "payees",
+  "name": {
+    "en": "Hotels & Car Rental",
+    "ru": "Отели и прокат авто"
+  },
+  "payees": [
+    {
+      "key": "marriott",
+      "name": { "en": "Marriott Bonvoy", "ru": "Marriott Bonvoy" },
+      "logo": "https://catalog.kazna.app/packs/travel-stay/logos/marriott.png",
+      "mcc": [7011,  3509],
+      "website": "https://www.marriott.com"
+    },
+    {
+      "key": "hilton",
+      "name": { "en": "Hilton", "ru": "Hilton" },
+      "logo": "https://catalog.kazna.app/packs/travel-stay/logos/hilton.png",
+      "mcc": [7011,  3504],
+      "website": "https://www.hilton.com"
+    },
+    {
+      "key": "accor",
+      "name": { "en": "Accor", "ru": "Accor" },
+      "logo": "https://catalog.kazna.app/packs/travel-stay/logos/accor.png",
+      "mcc": [7011],
+      "website": "https://all.accor.com"
+    },
+    {
+      "key": "ihg",
+      "name": { "en": "IHG Hotels & Resorts", "ru": "IHG Hotels & Resorts" },
+      "logo": "https://catalog.kazna.app/packs/travel-stay/logos/ihg.png",
+      "mcc": [7011],
+      "website": "https://www.ihg.com"
+    },
+    {
+      "key": "hyatt",
+      "name": { "en": "Hyatt", "ru": "Hyatt" },
+      "logo": "https://catalog.kazna.app/packs/travel-stay/logos/hyatt.png",
+      "mcc": [7011,  3640],
+      "website": "https://www.hyatt.com"
+    },
+    {
+      "key": "wyndham",
+      "name": { "en": "Wyndham", "ru": "Wyndham" },
+      "logo": "https://catalog.kazna.app/packs/travel-stay/logos/wyndham.png",
+      "mcc": [7011],
+      "website": "https://www.wyndhamhotels.com"
+    },
+    {
+      "key": "hertz",
+      "name": { "en": "Hertz", "ru": "Hertz" },
+      "logo": "https://catalog.kazna.app/packs/travel-stay/logos/hertz.png",
+      "mcc": [7512,  3357],
+      "website": "https://www.hertz.com"
+    },
+    {
+      "key": "avis",
+      "name": { "en": "Avis", "ru": "Avis" },
+      "logo": "https://catalog.kazna.app/packs/travel-stay/logos/avis.png",
+      "mcc": [7512,  3389],
+      "website": "https://www.avis.com"
+    },
+    {
+      "key": "sixt",
+      "name": { "en": "SIXT", "ru": "SIXT" },
+      "logo": "https://catalog.kazna.app/packs/travel-stay/logos/sixt.png",
+      "mcc": [7512],
+      "website": "https://www.sixt.com"
+    },
+    {
+      "key": "europcar",
+      "name": { "en": "Europcar", "ru": "Europcar" },
+      "logo": "https://catalog.kazna.app/packs/travel-stay/logos/europcar.png",
+      "mcc": [7512,  3381],
+      "website": "https://www.europcar.com"
+    }
+  ]
+}

@@ -881,6 +881,72 @@
         "https://catalog.kazna.app/packs/subscriptions/logos/disney-plus.png",
         "https://catalog.kazna.app/packs/subscriptions/logos/hbo-max.png"
       ]
+    },
+    {
+      "id": "ru-parcels",
+      "type": "payees",
+      "version": 1,
+      "name": {
+        "en": "Parcel Delivery",
+        "ru": "Доставка посылок"
+      },
+      "description": {
+        "en": "Parcel and post services in Russia — CDEK, Russian Post, DPD, Yandex Delivery and 2 more",
+        "ru": "Службы доставки посылок в России — СДЭК, Почта России, DPD, Яндекс Доставка и ещё 2"
+      },
+      "tags": ["russia", "delivery", "post"],
+      "entity_count": 6,
+      "pack_url": "https://catalog.kazna.app/packs/ru-parcels/pack.json",
+      "preview_logos": [
+        "https://catalog.kazna.app/packs/ru-parcels/logos/cdek.png",
+        "https://catalog.kazna.app/packs/ru-parcels/logos/russian-post.png",
+        "https://catalog.kazna.app/packs/ru-parcels/logos/dpd.png",
+        "https://catalog.kazna.app/packs/ru-parcels/logos/yandex-dostavka.png"
+      ]
+    },
+    {
+      "id": "gaming",
+      "type": "payees",
+      "version": 1,
+      "name": {
+        "en": "Gaming",
+        "ru": "Игры"
+      },
+      "description": {
+        "en": "Game stores and platforms — PlayStation, Xbox, Nintendo, Epic Games and 5 more",
+        "ru": "Игровые магазины и платформы — PlayStation, Xbox, Nintendo, Epic Games и ещё 5"
+      },
+      "tags": ["global", "games", "entertainment"],
+      "entity_count": 9,
+      "pack_url": "https://catalog.kazna.app/packs/gaming/pack.json",
+      "preview_logos": [
+        "https://catalog.kazna.app/packs/gaming/logos/playstation.png",
+        "https://catalog.kazna.app/packs/gaming/logos/xbox.png",
+        "https://catalog.kazna.app/packs/gaming/logos/nintendo.png",
+        "https://catalog.kazna.app/packs/gaming/logos/epic-games.png"
+      ]
+    },
+    {
+      "id": "travel-stay",
+      "type": "payees",
+      "version": 1,
+      "name": {
+        "en": "Hotels & Car Rental",
+        "ru": "Отели и прокат авто"
+      },
+      "description": {
+        "en": "Hotel chains and car rental — Marriott Bonvoy, Hilton, Accor, IHG Hotels & Resorts and 6 more",
+        "ru": "Гостиничные сети и прокат автомобилей — Marriott Bonvoy, Hilton, Accor, IHG Hotels & Resorts и ещё 6"
+      },
+      "tags": ["global", "travel", "hotels"],
+      "entity_count": 10,
+      "pack_url": "https://catalog.kazna.app/packs/travel-stay/pack.json",
+      "preview_logos": [
+        "https://catalog.kazna.app/packs/travel-stay/logos/marriott.png",
+        "https://catalog.kazna.app/packs/travel-stay/logos/hilton.png",
+        "https://catalog.kazna.app/packs/travel-stay/logos/accor.png",
+        "https://catalog.kazna.app/packs/travel-stay/logos/ihg.png"
+      ]
     }
   ]
 }

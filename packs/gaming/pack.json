@@ -1,0 +1,74 @@
+{
+  "id": "gaming",
+  "version": 1,
+  "type": "payees",
+  "name": {
+    "en": "Gaming",
+    "ru": "Игры"
+  },
+  "payees": [
+    {
+      "key": "playstation",
+      "name": { "en": "PlayStation", "ru": "PlayStation" },
+      "logo": "https://catalog.kazna.app/packs/gaming/logos/playstation.png",
+      "mcc": [5816,  5818],
+      "website": "https://www.playstation.com"
+    },
+    {
+      "key": "xbox",
+      "name": { "en": "Xbox", "ru": "Xbox" },
+      "logo": "https://catalog.kazna.app/packs/gaming/logos/xbox.png",
+      "mcc": [5816,  5818],
+      "website": "https://www.xbox.com"
+    },
+    {
+      "key": "nintendo",
+      "name": { "en": "Nintendo", "ru": "Nintendo" },
+      "logo": "https://catalog.kazna.app/packs/gaming/logos/nintendo.png",
+      "mcc": [5816,  5818],
+      "website": "https://www.nintendo.com"
+    },
+    {
+      "key": "epic-games",
+      "name": { "en": "Epic Games", "ru": "Epic Games" },
+      "logo": "https://catalog.kazna.app/packs/gaming/logos/epic-games.png",
+      "mcc": [5816],
+      "website": "https://store.epicgames.com"
+    },
+    {
+      "key": "roblox",
+      "name": { "en": "Roblox", "ru": "Roblox" },
+      "logo": "https://catalog.kazna.app/packs/gaming/logos/roblox.png",
+      "mcc": [5816],
+      "website": "https://www.roblox.com"
+    },
+    {
+      "key": "battle-net",
+      "name": { "en": "Battle.net", "ru": "Battle.net" },
+      "logo": "https://catalog.kazna.app/packs/gaming/logos/battle-net.png",
+      "mcc": [5816],
+      "website": "https://battle.net"
+    },
+    {
+      "key": "ea",
+      "name": { "en": "EA", "ru": "EA" },
+      "logo": "https://catalog.kazna.app/packs/gaming/logos/ea.png",
+      "mcc": [5816],
+      "website": "https://www.ea.com"
+    },
+    {
+      "key": "riot-games",
+      "name": { "en": "Riot Games", "ru": "Riot Games" },
+      "logo": "https://catalog.kazna.app/packs/gaming/logos/riot-games.png",
+      "mcc": [5816],
+      "website": "https://www.riotgames.com"
+    },
+    {
+      "key": "vk-play",
+      "name": { "en": "VK Play", "ru": "VK Play" },
+      "logo": "https://catalog.kazna.app/packs/gaming/logos/vk-play.png",
+      "mcc": [5816],
+      "website": "https://vkplay.ru"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "playstation": {
+    "source": "https://commons.wikimedia.org/wiki/File:PlayStation_logo_and_wordmark_(cropped).svg",
+    "kind": "Wikimedia Commons SVG",
+    "licence": "Public domain; trademark",
+    "note": "symbol",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "xbox": {
+    "source": "https://commons.wikimedia.org/wiki/File:Xbox_one_logo.svg",
+    "kind": "Wikimedia Commons SVG",
+    "licence": "Public domain; trademark",
+    "note": "sphere",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "nintendo": {
+    "source": "https://commons.wikimedia.org/wiki/File:Nintendo_logo.svg",
+    "kind": "Wikimedia Commons SVG",
+    "licence": "Public domain; trademark",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "epic-games": {
+    "source": "https://commons.wikimedia.org/wiki/File:Epic_Games_logo.svg",
+    "kind": "Wikimedia Commons SVG",
+    "licence": "Public domain; trademark",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "roblox": {
+    "source": "https://commons.wikimedia.org/wiki/File:Roblox_Corporation_2025_logo.svg",
+    "kind": "Wikimedia Commons SVG",
+    "licence": "Public domain; trademark",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "battle-net": {
+    "source": "https://download.battle.net/en-us",
+    "kind": "brand site inline SVG (header logo)",
+    "licence": "Trademark",
+    "note": "Battle.net glyph only",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "ea": {
+    "source": "https://www.ea.com/",
+    "kind": "brand site inline SVG (footer logo)",
+    "licence": "Trademark",
+    "note": "currentColor rendered black",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "riot-games": {
+    "source": "https://www.riotgames.com/en",
+    "kind": "brand site inline SVG (header logo)",
+    "licence": "Trademark",
+    "note": "fist, TM removed, site red #D13639",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "vk-play": {
+    "source": "https://commons.wikimedia.org/wiki/File:VK_Play_logo.svg",
+    "kind": "Wikimedia Commons SVG",
+    "licence": "Public domain; trademark",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  }
+}

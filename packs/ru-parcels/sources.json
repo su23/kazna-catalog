@@ -1,0 +1,48 @@
+{
+  "cdek": {
+    "source": "https://commons.wikimedia.org/wiki/File:CDEK_logo.svg",
+    "kind": "Wikimedia Commons SVG",
+    "licence": "Public domain; trademark",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "russian-post": {
+    "source": "https://commons.wikimedia.org/wiki/File:Russian_Post_wordmark.svg",
+    "kind": "Wikimedia Commons SVG",
+    "licence": "Public domain; trademark",
+    "note": "2023 wordmark",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "dpd": {
+    "source": "https://commons.wikimedia.org/wiki/File:DPD_logo_(2015).svg",
+    "kind": "Wikimedia Commons SVG",
+    "licence": "Public domain; trademark",
+    "note": "cropped to the cube",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "yandex-dostavka": {
+    "source": "https://dostavka.yandex.ru/",
+    "kind": "brand site inline SVG (header logo)",
+    "licence": "Trademark",
+    "note": "cube symbol, grey circle removed; Boxberry now runs under this brand",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "5post": {
+    "source": "https://fivepost.ru/",
+    "kind": "brand site inline SVG (header logo)",
+    "licence": "Trademark",
+    "note": "\"5\" symbol",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "pek": {
+    "source": "https://pecom.ru/",
+    "kind": "brand site inline SVG (header logo)",
+    "licence": "Trademark",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  }
+}

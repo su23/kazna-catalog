@@ -1,0 +1,76 @@
+{
+  "marriott": {
+    "source": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bf/ae/60/bfae608c-e708-1a29-72e9-e60721db3d8f/AppIcon-0-0-1x_U007epad-0-0-0-1-0-0-sRGB-0-85-220.png/512x512bb.png",
+    "kind": "App Store icon (seller Marriott International)",
+    "licence": "Trademark",
+    "note": "white tile removed",
+    "fetched": "2026-10-08",
+    "processing": "white tile removed, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "hilton": {
+    "source": "https://commons.wikimedia.org/wiki/File:HiltonHotelsIcon.svg",
+    "kind": "Wikimedia Commons SVG",
+    "licence": "CC0; trademark",
+    "note": "Hilton Hotels & Resorts symbol",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "accor": {
+    "source": "https://images.group.accor.com/yrj0orc8tx24/7AvkRurt3J3B5kzDA6r9SS/0979bd2c6c093a3fd4dfc33c3dd8ca8a/logo.svg",
+    "kind": "brand site SVG (group.accor.com header)",
+    "licence": "Trademark",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "ihg": {
+    "source": "https://commons.wikimedia.org/wiki/File:IHG_Hotels_&_Resorts_logo.svg",
+    "kind": "Wikimedia Commons SVG",
+    "licence": "Public domain; trademark",
+    "note": "cropped to IHG",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "hyatt": {
+    "source": "https://commons.wikimedia.org/wiki/File:Hyatt_Logo.svg",
+    "kind": "Wikimedia Commons SVG",
+    "licence": "Public domain; trademark",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "wyndham": {
+    "source": "https://commons.wikimedia.org/wiki/File:Wyndham_Hotels_&_Resorts_logo.svg",
+    "kind": "Wikimedia Commons SVG",
+    "licence": "Public domain; trademark",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "hertz": {
+    "source": "https://commons.wikimedia.org/wiki/File:Hertz-Logo.svg",
+    "kind": "Wikimedia Commons SVG",
+    "licence": "Public domain; trademark",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "avis": {
+    "source": "https://commons.wikimedia.org/wiki/File:AVIS_logo_2012.svg",
+    "kind": "Wikimedia Commons SVG",
+    "licence": "Public domain; trademark",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "sixt": {
+    "source": "https://commons.wikimedia.org/wiki/File:Sixt_Logo_2023.svg",
+    "kind": "Wikimedia Commons SVG",
+    "licence": "Public domain; trademark",
+    "note": "2023 logo",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "europcar": {
+    "source": "https://static.europcar.com/_nuxt/img/small-logo.0e819a5.svg",
+    "kind": "brand site SVG (footer small logo)",
+    "licence": "Trademark",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "id": "ru-parcels",
+  "version": 1,
+  "type": "payees",
+  "name": {
+    "en": "Parcel Delivery",
+    "ru": "Доставка посылок"
+  },
+  "payees": [
+    {
+      "key": "cdek",
+      "name": { "en": "CDEK", "ru": "СДЭК" },
+      "logo": "https://catalog.kazna.app/packs/ru-parcels/logos/cdek.png",
+      "mcc": [4215],
+      "website": "https://www.cdek.ru"
+    },
+    {
+      "key": "russian-post",
+      "name": { "en": "Russian Post", "ru": "Почта России" },
+      "logo": "https://catalog.kazna.app/packs/ru-parcels/logos/russian-post.png",
+      "mcc": [9402],
+      "website": "https://www.pochta.ru"
+    },
+    {
+      "key": "dpd",
+      "name": { "en": "DPD", "ru": "DPD" },
+      "logo": "https://catalog.kazna.app/packs/ru-parcels/logos/dpd.png",
+      "mcc": [4215],
+      "website": "https://www.dpd.ru"
+    },
+    {
+      "key": "yandex-dostavka",
+      "name": { "en": "Yandex Delivery", "ru": "Яндекс Доставка" },
+      "logo": "https://catalog.kazna.app/packs/ru-parcels/logos/yandex-dostavka.png",
+      "mcc": [4215],
+      "website": "https://dostavka.yandex.ru"
+    },
+    {
+      "key": "5post",
+      "name": { "en": "5Post", "ru": "5Post" },
+      "logo": "https://catalog.kazna.app/packs/ru-parcels/logos/5post.png",
+      "mcc": [4215],
+      "website": "https://fivepost.ru"
+    },
+    {
+      "key": "pek",
+      "name": { "en": "PEK", "ru": "ПЭК" },
+      "logo": "https://catalog.kazna.app/packs/ru-parcels/logos/pek.png",
+      "mcc": [4214,  4215],
+      "website": "https://pecom.ru"
+    }
+  ]
+}
