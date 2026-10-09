@@ -1,6 +1,6 @@
 {
   "id": "travel-booking",
-  "version": 1,
+  "version": 2,
   "type": "payees",
   "name": {
     "en": "Travel Booking",
@@ -11,7 +11,7 @@
       "key": "booking",
       "name": { "en": "Booking.com", "ru": "Букинг" },
       "logo": "https://catalog.kazna.app/packs/travel-booking/logos/booking.png",
-      "mcc": [4722,  7011],
+      "mcc": [7011],
       "website": "https://booking.com"
     },
     {
@@ -39,7 +39,7 @@
       "key": "tutu",
       "name": { "en": "Tutu", "ru": "Туту" },
       "logo": "https://catalog.kazna.app/packs/travel-booking/logos/tutu.png",
-      "mcc": [4722,  4112],
+      "mcc": [4722],
       "website": "https://www.tutu.ru"
     },
     {

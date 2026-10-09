@@ -1,6 +1,6 @@
 {
   "id": "online-shopping",
-  "version": 1,
+  "version": 2,
   "type": "payees",
   "name": {
     "en": "Online Shopping",
@@ -11,7 +11,7 @@
       "key": "aliexpress",
       "name": { "en": "AliExpress", "ru": "АлиЭкспресс" },
       "logo": "https://catalog.kazna.app/packs/online-shopping/logos/aliexpress.png",
-      "mcc": [5999,  5399],
+      "mcc": [5999],
       "website": "https://aliexpress.ru"
     },
     {

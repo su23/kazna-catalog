@@ -1,6 +1,6 @@
 {
   "id": "ge-retail",
-  "version": 1,
+  "version": 2,
   "type": "payees",
   "name": {
     "en": "Georgia: Shops & Services",
@@ -12,7 +12,7 @@
       "name": { "en": "Carrefour", "ru": "Карфур" },
       "logo": "https://catalog.kazna.app/packs/ge-retail/logos/carrefour.png",
       "mcc": [5411],
-      "website": "https://www.carrefour.ge"
+      "website": "https://www.majidalfuttaim.com"
     },
     {
       "key": "nikora",
@@ -68,7 +68,7 @@
       "name": { "en": "Yandex Go", "ru": "Яндекс Go" },
       "logo": "https://catalog.kazna.app/packs/ge-retail/logos/yandex-go.png",
       "mcc": [4121],
-      "website": "https://go.yandex"
+      "website": "https://go.yandex.ru"
     },
     {
       "key": "magti",

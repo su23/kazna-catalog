@@ -1,6 +1,6 @@
 {
   "id": "ae-retail",
-  "version": 1,
+  "version": 2,
   "type": "payees",
   "name": {
     "en": "UAE: Shops & Services",
@@ -12,7 +12,7 @@
       "name": { "en": "Carrefour", "ru": "Карфур" },
       "logo": "https://catalog.kazna.app/packs/ae-retail/logos/carrefour.png",
       "mcc": [5411],
-      "website": "https://www.carrefouruae.com"
+      "website": "https://www.majidalfuttaim.com"
     },
     {
       "key": "lulu",
@@ -47,7 +47,7 @@
       "name": { "en": "Amazon", "ru": "Амазон" },
       "logo": "https://catalog.kazna.app/packs/ae-retail/logos/amazon.png",
       "mcc": [5999],
-      "website": "https://www.amazon.ae"
+      "website": "https://amazon.com"
     },
     {
       "key": "talabat",

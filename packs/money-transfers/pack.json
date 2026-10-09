@@ -1,6 +1,6 @@
 {
   "id": "money-transfers",
-  "version": 1,
+  "version": 2,
   "type": "payees",
   "name": {
     "en": "Money Transfers",
@@ -25,7 +25,7 @@
       "key": "paypal",
       "name": { "en": "PayPal", "ru": "ПейПал" },
       "logo": "https://catalog.kazna.app/packs/money-transfers/logos/paypal.png",
-      "mcc": [4829,  6051],
+      "mcc": [6012],
       "website": "https://paypal.com"
     },
     {

@@ -1,6 +1,6 @@
 {
   "id": "am-retail",
-  "version": 1,
+  "version": 2,
   "type": "payees",
   "name": {
     "en": "Armenia: Shops & Services",
@@ -26,7 +26,7 @@
       "name": { "en": "Carrefour", "ru": "Карфур" },
       "logo": "https://catalog.kazna.app/packs/am-retail/logos/carrefour.png",
       "mcc": [5411],
-      "website": "https://www.carrefour.am"
+      "website": "https://www.majidalfuttaim.com"
     },
     {
       "key": "zigzag",
@@ -54,13 +54,13 @@
       "name": { "en": "Yandex Go", "ru": "Яндекс Go" },
       "logo": "https://catalog.kazna.app/packs/am-retail/logos/yandex-go.png",
       "mcc": [4121],
-      "website": "https://go.yandex"
+      "website": "https://go.yandex.ru"
     },
     {
       "key": "yandex-eda",
       "name": { "en": "Yandex Eda", "ru": "Яндекс Еда" },
       "logo": "https://catalog.kazna.app/packs/am-retail/logos/yandex-eda.png",
-      "mcc": [5814],
+      "mcc": [5812,  7299],
       "website": "https://eda.yandex.ru"
     },
     {

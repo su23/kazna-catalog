@@ -995,7 +995,7 @@
     {
       "id": "online-shopping",
       "type": "payees",
-      "version": 1,
+      "version": 2,
       "name": {
         "en": "Online Shopping",
         "ru": "Интернет-магазины"
@@ -1017,7 +1017,7 @@
     {
       "id": "ge-retail",
       "type": "payees",
-      "version": 1,
+      "version": 2,
       "name": {
         "en": "Georgia: Shops & Services",
         "ru": "Грузия: магазины и сервисы"
@@ -1039,7 +1039,7 @@
     {
       "id": "am-retail",
       "type": "payees",
-      "version": 1,
+      "version": 2,
       "name": {
         "en": "Armenia: Shops & Services",
         "ru": "Армения: магазины и сервисы"
@@ -1061,7 +1061,7 @@
     {
       "id": "uz-retail",
       "type": "payees",
-      "version": 1,
+      "version": 2,
       "name": {
         "en": "Uzbekistan: Shops & Services",
         "ru": "Узбекистан: магазины и сервисы"
@@ -1105,7 +1105,7 @@
     {
       "id": "ae-retail",
       "type": "payees",
-      "version": 1,
+      "version": 2,
       "name": {
         "en": "UAE: Shops & Services",
         "ru": "ОАЭ: магазины и сервисы"
@@ -1149,7 +1149,7 @@
     {
       "id": "travel-booking",
       "type": "payees",
-      "version": 1,
+      "version": 2,
       "name": {
         "en": "Travel Booking",
         "ru": "Бронирование путешествий"
@@ -1193,7 +1193,7 @@
     {
       "id": "money-transfers",
       "type": "payees",
-      "version": 1,
+      "version": 2,
       "name": {
         "en": "Money Transfers",
         "ru": "Денежные переводы"
