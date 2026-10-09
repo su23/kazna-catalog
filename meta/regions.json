@@ -1,0 +1,9 @@
+{
+  "reserve": ["USD", "EUR"],
+  "regions": {},
+  "country_names": {
+    "AE": { "en": "UAE", "ru": "ОАЭ", "de": "VAE", "es": "EAU", "fr": "EAU" },
+    "GB": { "ru": "Великобритания" },
+    "US": { "ru": "США" }
+  }
+}

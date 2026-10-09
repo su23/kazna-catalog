@@ -1,0 +1,54 @@
+# Runs the two checks every commit needs: validate.py (packs, catalog.json, version bumps,
+# published keys) and build.py --check (meta/, budgets, and that index/v2/ was rebuilt and
+# committed). Both compare with the commit before the push, or with the pull request's base.
+name: Check
+
+on:
+  push:
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          # The whole history: build.py dates the index by the last commit that touched packs/
+          # or meta/, and both scripts read the packs and the index as they were at the base.
+          fetch-depth: 0
+          persist-credentials: false
+
+      - uses: actions/setup-python@v7
+        with:
+          python-version: "3.12"
+
+      - name: Find the commit to compare with
+        env:
+          EVENT: ${{ github.event_name }}
+          PR_BASE: ${{ github.event.pull_request.base.sha }}
+          BEFORE: ${{ github.event.before }}
+          DEFAULT_BRANCH: ${{ github.event.repository.default_branch }}
+        run: |
+          if [ "$EVENT" = pull_request ]; then base="$PR_BASE"; else base="$BEFORE"; fi
+          # A new branch has no previous commit (all zeros), and a force-push's may be gone:
+          # then compare with where the branch left the default branch, or with the parent.
+          if ! git cat-file -e "$base^{commit}" 2>/dev/null; then
+            base=$(git merge-base HEAD "origin/$DEFAULT_BRANCH" 2>/dev/null || true)
+            if [ -z "$base" ] || [ "$base" = "$(git rev-parse HEAD)" ]; then
+              base=$(git rev-parse --verify --quiet 'HEAD^' || git rev-parse HEAD)
+            fi
+          fi
+          echo "Comparing with $base"
+          echo "BASE=$base" >> "$GITHUB_ENV"
+
+      - name: python3 validate.py
+        run: python3 validate.py --base "$BASE"
+
+      - name: python3 build.py --check
+        # Also when validate.py failed, so one run lists every problem.
+        if: ${{ !cancelled() }}
+        run: python3 build.py --check --base "$BASE"
