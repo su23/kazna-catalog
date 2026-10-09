@@ -86,5 +86,12 @@
     "note": "arc symbol only",
     "fetched": "2026-10-08",
     "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "oxymed": {
+    "source": "https://oxymed.uz/img/logo.png",
+    "kind": "brand site PNG",
+    "licence": "Trademark",
+    "fetched": "2026-10-09",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
   }
 }

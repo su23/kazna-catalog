@@ -642,17 +642,17 @@
     {
       "id": "kz-retail",
       "type": "payees",
-      "version": 1,
+      "version": 2,
       "name": {
         "en": "Kazakhstan Shops & Services",
         "ru": "Магазины и сервисы Казахстана"
       },
       "description": {
-        "en": "Shops, delivery and telecoms in Kazakhstan — Magnum, Small, Sulpak, Technodom and 9 more",
-        "ru": "Магазины, доставка и связь в Казахстане — Магнум, Смолл, Сулпак, Технодом и ещё 9"
+        "en": "Shops, delivery, telecoms and pharmacies in Kazakhstan — Magnum, Small, Sulpak, Technodom and 12 more",
+        "ru": "Магазины, доставка, связь и аптеки в Казахстане — Магнум, Смолл, Сулпак, Технодом и ещё 12"
       },
       "tags": ["kazakhstan", "retail", "telecom"],
-      "entity_count": 13,
+      "entity_count": 16,
       "pack_url": "https://catalog.kazna.app/packs/kz-retail/pack.json",
       "preview_logos": [
         "https://catalog.kazna.app/packs/kz-retail/logos/magnum.png",
@@ -774,17 +774,17 @@
     {
       "id": "by-retail",
       "type": "payees",
-      "version": 1,
+      "version": 2,
       "name": {
         "en": "Belarus Shops & Services",
         "ru": "Магазины и сервисы Беларуси"
       },
       "description": {
-        "en": "Shops, electronics and telecoms in Belarus — Evroopt, Korona, Gippo, Green and 7 more",
-        "ru": "Магазины, электроника и связь в Беларуси — Евроопт, Корона, Гиппо, Грин и ещё 7"
+        "en": "Shops, electronics, telecoms and pharmacies in Belarus — Evroopt, Korona, Gippo, Green and 9 more",
+        "ru": "Магазины, электроника, связь и аптеки в Беларуси — Евроопт, Корона, Гиппо, Грин и ещё 9"
       },
       "tags": ["belarus", "retail", "telecom"],
-      "entity_count": 11,
+      "entity_count": 13,
       "pack_url": "https://catalog.kazna.app/packs/by-retail/pack.json",
       "preview_logos": [
         "https://catalog.kazna.app/packs/by-retail/logos/evroopt.png",
@@ -796,18 +796,18 @@
     {
       "id": "ua-retail",
       "type": "payees",
-      "version": 2,
+      "version": 3,
       "name": {
         "en": "Ukraine Shops & Services",
         "ru": "Магазины и сервисы Украины",
         "uk": "Магазини та сервіси України"
       },
       "description": {
-        "en": "Shops, delivery, telecoms and fuel in Ukraine — Rozetka, Silpo, ATB, Nova Poshta and 11 more",
-        "ru": "Магазины, доставка, связь и АЗС Украины — Розетка, Сильпо, АТБ, Новая почта и ещё 11"
+        "en": "Shops, delivery, telecoms, fuel and pharmacies in Ukraine — Rozetka, Silpo, ATB, Nova Poshta and 15 more",
+        "ru": "Магазины, доставка, связь, АЗС и аптеки Украины — Розетка, Сильпо, АТБ, Новая почта и ещё 15"
       },
       "tags": ["ukraine", "retail", "telecom"],
-      "entity_count": 15,
+      "entity_count": 19,
       "pack_url": "https://catalog.kazna.app/packs/ua-retail/pack.json",
       "preview_logos": [
         "https://catalog.kazna.app/packs/ua-retail/logos/rozetka.png",
@@ -1061,17 +1061,17 @@
     {
       "id": "uz-retail",
       "type": "payees",
-      "version": 2,
+      "version": 3,
       "name": {
         "en": "Uzbekistan: Shops & Services",
         "ru": "Узбекистан: магазины и сервисы"
       },
       "description": {
-        "en": "Shops, delivery and telecoms in Uzbekistan — Korzinka, Makro, Havas, Uzum Market and 8 more",
-        "ru": "Магазины, доставка и связь Узбекистана — Корзинка, Макро, Хавас, Узум Маркет и ещё 8"
+        "en": "Shops, delivery, telecoms and pharmacies in Uzbekistan — Korzinka, Makro, Havas, Uzum Market and 9 more",
+        "ru": "Магазины, доставка, связь и аптеки Узбекистана — Корзинка, Макро, Хавас, Узум Маркет и ещё 9"
       },
       "tags": ["uzbekistan", "retail", "telecom"],
-      "entity_count": 12,
+      "entity_count": 13,
       "pack_url": "https://catalog.kazna.app/packs/uz-retail/pack.json",
       "preview_logos": [
         "https://catalog.kazna.app/packs/uz-retail/logos/korzinka.png",
@@ -1105,17 +1105,17 @@
     {
       "id": "ae-retail",
       "type": "payees",
-      "version": 2,
+      "version": 3,
       "name": {
         "en": "UAE: Shops & Services",
         "ru": "ОАЭ: магазины и сервисы"
       },
       "description": {
-        "en": "Shops, delivery, telecoms, fuel and utilities in the UAE — Carrefour, LuLu Hypermarket, Spinneys, Union Coop and 11 more",
-        "ru": "Магазины, доставка, связь, топливо и коммунальные услуги ОАЭ — Карфур, Лулу, Спиннис, Юнион Кооп и ещё 11"
+        "en": "Shops, delivery, telecoms, fuel, utilities and pharmacies in the UAE — Carrefour, LuLu Hypermarket, Spinneys, Union Coop and 14 more",
+        "ru": "Магазины, доставка, связь, топливо, коммунальные услуги и аптеки ОАЭ — Карфур, Лулу, Спиннис, Юнион Кооп и ещё 14"
       },
       "tags": ["uae", "retail", "telecom"],
-      "entity_count": 15,
+      "entity_count": 18,
       "pack_url": "https://catalog.kazna.app/packs/ae-retail/pack.json",
       "preview_logos": [
         "https://catalog.kazna.app/packs/ae-retail/logos/carrefour.png",
@@ -1430,6 +1430,138 @@
         "https://catalog.kazna.app/packs/antivirus/logos/drweb.png",
         "https://catalog.kazna.app/packs/antivirus/logos/eset.png",
         "https://catalog.kazna.app/packs/antivirus/logos/bitdefender.png"
+      ]
+    },
+    {
+      "id": "ge-utilities",
+      "type": "payees",
+      "version": 1,
+      "name": {
+        "en": "Georgia: Bills & Taxes",
+        "ru": "Грузия: платежи и налоги"
+      },
+      "description": {
+        "en": "Utility bills, taxes and state services in Georgia — Telmico, Energo-Pro Georgia, GWP, Tbilisi Energy and 2 more",
+        "ru": "Коммунальные платежи, налоги и госуслуги Грузии — Телмико, Энерго-Про Джорджия, GWP, Тбилиси Энерджи и ещё 2"
+      },
+      "tags": ["georgia", "utilities", "government"],
+      "entity_count": 6,
+      "pack_url": "https://catalog.kazna.app/packs/ge-utilities/pack.json",
+      "preview_logos": [
+        "https://catalog.kazna.app/packs/ge-utilities/logos/telmico.png",
+        "https://catalog.kazna.app/packs/ge-utilities/logos/ep-georgia.png",
+        "https://catalog.kazna.app/packs/ge-utilities/logos/gwp.png",
+        "https://catalog.kazna.app/packs/ge-utilities/logos/tbilisi-energy.png"
+      ]
+    },
+    {
+      "id": "am-utilities",
+      "type": "payees",
+      "version": 1,
+      "name": {
+        "en": "Armenia: Bills & Taxes",
+        "ru": "Армения: платежи и налоги"
+      },
+      "description": {
+        "en": "Utility bills, taxes and payment wallets in Armenia — Electric Networks of Armenia, Veolia Jur, Gazprom Armenia, State Revenue Committee and 2 more",
+        "ru": "Коммунальные платежи, налоги и кошельки Армении — Электрические сети Армении, Веолия Джур, Газпром Армения, КГД Армении и ещё 2"
+      },
+      "tags": ["armenia", "utilities", "government"],
+      "entity_count": 6,
+      "pack_url": "https://catalog.kazna.app/packs/am-utilities/pack.json",
+      "preview_logos": [
+        "https://catalog.kazna.app/packs/am-utilities/logos/ena-am.png",
+        "https://catalog.kazna.app/packs/am-utilities/logos/veolia-jur.png",
+        "https://catalog.kazna.app/packs/am-utilities/logos/gazprom-armenia.png",
+        "https://catalog.kazna.app/packs/am-utilities/logos/src-am.png"
+      ]
+    },
+    {
+      "id": "uz-utilities",
+      "type": "payees",
+      "version": 1,
+      "name": {
+        "en": "Uzbekistan: Bills & Taxes",
+        "ru": "Узбекистан: платежи и налоги"
+      },
+      "description": {
+        "en": "Utility bills, taxes and state services in Uzbekistan — my.gov.uz, Soliq (State Tax Committee), Regional Electric Networks, Uzsuvtaminot and 2 more",
+        "ru": "Коммунальные платежи, налоги и госуслуги Узбекистана — my.gov.uz, Солиқ, Региональные электросети (HET), Узсувтаъминот и ещё 2"
+      },
+      "tags": ["uzbekistan", "utilities", "government"],
+      "entity_count": 6,
+      "pack_url": "https://catalog.kazna.app/packs/uz-utilities/pack.json",
+      "preview_logos": [
+        "https://catalog.kazna.app/packs/uz-utilities/logos/mygov-uz.png",
+        "https://catalog.kazna.app/packs/uz-utilities/logos/soliq-uz.png",
+        "https://catalog.kazna.app/packs/uz-utilities/logos/het-uz.png",
+        "https://catalog.kazna.app/packs/uz-utilities/logos/uzsuvtaminot.png"
+      ]
+    },
+    {
+      "id": "tr-utilities",
+      "type": "payees",
+      "version": 1,
+      "name": {
+        "en": "Turkey: Bills & Taxes",
+        "ru": "Турция: платежи и налоги"
+      },
+      "description": {
+        "en": "Utility bills, taxes and state services in Turkey — e-Devlet, Revenue Administration (GİB), Enerjisa, CK Enerji and 2 more",
+        "ru": "Коммунальные платежи, налоги и госуслуги Турции — e-Devlet, GİB, Enerjisa, CK Enerji и ещё 2"
+      },
+      "tags": ["turkey", "utilities", "government"],
+      "entity_count": 6,
+      "pack_url": "https://catalog.kazna.app/packs/tr-utilities/pack.json",
+      "preview_logos": [
+        "https://catalog.kazna.app/packs/tr-utilities/logos/e-devlet.png",
+        "https://catalog.kazna.app/packs/tr-utilities/logos/gib-tr.png",
+        "https://catalog.kazna.app/packs/tr-utilities/logos/enerjisa.png",
+        "https://catalog.kazna.app/packs/tr-utilities/logos/ck-enerji.png"
+      ]
+    },
+    {
+      "id": "ae-utilities",
+      "type": "payees",
+      "version": 1,
+      "name": {
+        "en": "UAE: Bills & Services",
+        "ru": "ОАЭ: платежи и госуслуги"
+      },
+      "description": {
+        "en": "Utility bills, fines and state services in the UAE — DEWA, TAQA Distribution, SEWA, Etihad Water and Electricity and 3 more",
+        "ru": "Коммунальные платежи, штрафы и госуслуги ОАЭ — DEWA, TAQA Distribution, SEWA, Etihad WE и ещё 3"
+      },
+      "tags": ["uae", "utilities", "government"],
+      "entity_count": 7,
+      "pack_url": "https://catalog.kazna.app/packs/ae-utilities/pack.json",
+      "preview_logos": [
+        "https://catalog.kazna.app/packs/ae-utilities/logos/dewa.png",
+        "https://catalog.kazna.app/packs/ae-utilities/logos/taqa-distribution.png",
+        "https://catalog.kazna.app/packs/ae-utilities/logos/sewa.png",
+        "https://catalog.kazna.app/packs/ae-utilities/logos/etihad-we.png"
+      ]
+    },
+    {
+      "id": "global-fashion",
+      "type": "payees",
+      "version": 1,
+      "name": {
+        "en": "Fashion & Sport Brands",
+        "ru": "Одежда и спорт"
+      },
+      "description": {
+        "en": "International clothing, shoes and sport brands — Nike, Adidas, Puma, New Balance and 6 more",
+        "ru": "Международные бренды одежды, обуви и спорта — Найк, Адидас, Пума, New Balance и ещё 6"
+      },
+      "tags": ["global", "fashion", "retail"],
+      "entity_count": 10,
+      "pack_url": "https://catalog.kazna.app/packs/global-fashion/pack.json",
+      "preview_logos": [
+        "https://catalog.kazna.app/packs/global-fashion/logos/nike.png",
+        "https://catalog.kazna.app/packs/global-fashion/logos/adidas.png",
+        "https://catalog.kazna.app/packs/global-fashion/logos/puma.png",
+        "https://catalog.kazna.app/packs/global-fashion/logos/new-balance.png"
       ]
     }
   ]

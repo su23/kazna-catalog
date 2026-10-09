@@ -1,0 +1,81 @@
+{
+  "id": "global-fashion",
+  "version": 1,
+  "type": "payees",
+  "name": {
+    "en": "Fashion & Sport Brands",
+    "ru": "Одежда и спорт"
+  },
+  "payees": [
+    {
+      "key": "nike",
+      "name": { "en": "Nike", "ru": "Найк" },
+      "logo": "https://catalog.kazna.app/packs/global-fashion/logos/nike.png",
+      "mcc": [5655,  5661],
+      "website": "https://www.nike.com"
+    },
+    {
+      "key": "adidas",
+      "name": { "en": "Adidas", "ru": "Адидас" },
+      "logo": "https://catalog.kazna.app/packs/global-fashion/logos/adidas.png",
+      "mcc": [5655,  5661],
+      "website": "https://www.adidas.com"
+    },
+    {
+      "key": "puma",
+      "name": { "en": "Puma", "ru": "Пума" },
+      "logo": "https://catalog.kazna.app/packs/global-fashion/logos/puma.png",
+      "mcc": [5655,  5661],
+      "website": "https://eu.puma.com"
+    },
+    {
+      "key": "new-balance",
+      "name": { "en": "New Balance", "ru": "New Balance" },
+      "logo": "https://catalog.kazna.app/packs/global-fashion/logos/new-balance.png",
+      "mcc": [5655,  5661],
+      "website": "https://www.newbalance.com"
+    },
+    {
+      "key": "uniqlo",
+      "name": { "en": "Uniqlo", "ru": "Юникло" },
+      "logo": "https://catalog.kazna.app/packs/global-fashion/logos/uniqlo.png",
+      "mcc": [5651],
+      "website": "https://www.uniqlo.com"
+    },
+    {
+      "key": "decathlon",
+      "name": { "en": "Decathlon", "ru": "Декатлон" },
+      "logo": "https://catalog.kazna.app/packs/global-fashion/logos/decathlon.png",
+      "mcc": [5941,  5655],
+      "website": "https://www.decathlon.com"
+    },
+    {
+      "key": "skechers",
+      "name": { "en": "Skechers", "ru": "Скечерс" },
+      "logo": "https://catalog.kazna.app/packs/global-fashion/logos/skechers.png",
+      "mcc": [5661],
+      "website": "https://www.skechers.com"
+    },
+    {
+      "key": "lc-waikiki",
+      "name": { "en": "LC Waikiki", "ru": "LC Waikiki" },
+      "logo": "https://catalog.kazna.app/packs/global-fashion/logos/lc-waikiki.png",
+      "mcc": [5651],
+      "website": "https://www.lcw.com"
+    },
+    {
+      "key": "defacto",
+      "name": { "en": "DeFacto", "ru": "ДеФакто" },
+      "logo": "https://catalog.kazna.app/packs/global-fashion/logos/defacto.png",
+      "mcc": [5651],
+      "website": "https://www.defacto.com"
+    },
+    {
+      "key": "koton",
+      "name": { "en": "Koton", "ru": "Котон" },
+      "logo": "https://catalog.kazna.app/packs/global-fashion/logos/koton.png",
+      "mcc": [5651],
+      "website": "https://www.koton.com"
+    }
+  ]
+}

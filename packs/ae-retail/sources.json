@@ -107,5 +107,28 @@
     "licence": "Trademark",
     "fetched": "2026-10-08",
     "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "life-pharmacy": {
+    "source": "https://www.lifepharmacy.com/_assets/icons/logo.svg",
+    "kind": "brand site SVG",
+    "licence": "Trademark",
+    "note": "white mark recoloured to the site navy #002579; symbol only",
+    "fetched": "2026-10-09",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "aster-pharmacy": {
+    "source": "https://www.asterpharmacy.ae/fileadmin/user_upload/asterpharmacyLogo.svg",
+    "kind": "brand site SVG",
+    "licence": "Trademark",
+    "note": "white box removed",
+    "fetched": "2026-10-09",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "binsina": {
+    "source": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/50/a1/3e/50a13e75-9ca2-c885-7bca-97015b9e1b8c/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/512x512bb.png",
+    "kind": "App Store icon (seller AL KHAYYAT INVESTMENTS (L L C))",
+    "licence": "Trademark",
+    "fetched": "2026-10-09",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
   }
 }

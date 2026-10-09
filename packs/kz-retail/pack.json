@@ -1,6 +1,6 @@
 {
   "id": "kz-retail",
-  "version": 1,
+  "version": 2,
   "type": "payees",
   "name": {
     "en": "Kazakhstan Shops & Services",
@@ -97,6 +97,27 @@
       "logo": "https://catalog.kazna.app/packs/kz-retail/logos/kazakhtelecom.png",
       "mcc": [4814, 4899],
       "website": "https://telecom.kz"
+    },
+    {
+      "key": "europharma-kz",
+      "name": { "en": "Europharma", "ru": "Еврофарма" },
+      "logo": "https://catalog.kazna.app/packs/kz-retail/logos/europharma-kz.png",
+      "mcc": [5912],
+      "website": "https://europharma.kz"
+    },
+    {
+      "key": "biosfera-kz",
+      "name": { "en": "Biosfera", "ru": "Биосфера" },
+      "logo": "https://catalog.kazna.app/packs/kz-retail/logos/biosfera-kz.png",
+      "mcc": [5912],
+      "website": "https://biosfera.kz"
+    },
+    {
+      "key": "sadykhan",
+      "name": { "en": "Sadykhan", "ru": "Садыхан" },
+      "logo": "https://catalog.kazna.app/packs/kz-retail/logos/sadykhan.png",
+      "mcc": [5912],
+      "website": "https://sadykhan.kz"
     }
   ]
 }

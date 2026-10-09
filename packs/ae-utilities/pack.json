@@ -1,0 +1,60 @@
+{
+  "id": "ae-utilities",
+  "version": 1,
+  "type": "payees",
+  "name": {
+    "en": "UAE: Bills & Services",
+    "ru": "ОАЭ: платежи и госуслуги"
+  },
+  "payees": [
+    {
+      "key": "dewa",
+      "name": { "en": "DEWA", "ru": "DEWA" },
+      "logo": "https://catalog.kazna.app/packs/ae-utilities/logos/dewa.png",
+      "mcc": [4900],
+      "website": "https://www.dewa.gov.ae"
+    },
+    {
+      "key": "taqa-distribution",
+      "name": { "en": "TAQA Distribution", "ru": "TAQA Distribution" },
+      "logo": "https://catalog.kazna.app/packs/ae-utilities/logos/taqa-distribution.png",
+      "mcc": [4900],
+      "website": "https://taqadistribution.com"
+    },
+    {
+      "key": "sewa",
+      "name": { "en": "SEWA", "ru": "SEWA" },
+      "logo": "https://catalog.kazna.app/packs/ae-utilities/logos/sewa.png",
+      "mcc": [4900],
+      "website": "https://www.sewa.gov.ae"
+    },
+    {
+      "key": "etihad-we",
+      "name": { "en": "Etihad Water and Electricity", "ru": "Etihad WE" },
+      "logo": "https://catalog.kazna.app/packs/ae-utilities/logos/etihad-we.png",
+      "mcc": [4900],
+      "website": "https://www.etihadwe.ae"
+    },
+    {
+      "key": "empower",
+      "name": { "en": "Empower", "ru": "Empower" },
+      "logo": "https://catalog.kazna.app/packs/ae-utilities/logos/empower.png",
+      "mcc": [4900],
+      "website": "https://www.empower.ae"
+    },
+    {
+      "key": "dubai-police",
+      "name": { "en": "Dubai Police", "ru": "Полиция Дубая" },
+      "logo": "https://catalog.kazna.app/packs/ae-utilities/logos/dubai-police.png",
+      "mcc": [9399,  9222],
+      "website": "https://www.dubaipolice.gov.ae"
+    },
+    {
+      "key": "icp-uae",
+      "name": { "en": "ICP (Identity & Citizenship)", "ru": "ICP" },
+      "logo": "https://catalog.kazna.app/packs/ae-utilities/logos/icp-uae.png",
+      "mcc": [9399],
+      "website": "https://icp.gov.ae"
+    }
+  ]
+}

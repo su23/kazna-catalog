@@ -1,0 +1,79 @@
+{
+  "nike": {
+    "source": "https://www.nike.com/de/",
+    "kind": "brand site inline SVG",
+    "licence": "Trademark",
+    "note": "swoosh",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "adidas": {
+    "source": "https://www.adidas.com/us",
+    "kind": "brand site inline SVG",
+    "licence": "Trademark",
+    "note": "three bars",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "puma": {
+    "source": "https://eu.puma.com/_next/static/assets/icons/puma-logo.svg",
+    "kind": "brand site SVG",
+    "licence": "Trademark",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "new-balance": {
+    "source": "https://www.newbalance.com/",
+    "kind": "brand site inline SVG",
+    "licence": "Trademark",
+    "note": "NB mark",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "uniqlo": {
+    "source": "https://www.uniqlo.com/eu-at/",
+    "kind": "brand site inline SVG",
+    "licence": "Trademark",
+    "note": "Latin box only",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "decathlon": {
+    "source": "https://commons.wikimedia.org/wiki/File:Decathlon - logo (France, 2024).svg",
+    "kind": "Wikimedia Commons SVG",
+    "licence": "PD-textlogo; trademark",
+    "note": "2024 orbit symbol only",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "skechers": {
+    "source": "https://commons.wikimedia.org/wiki/File:Skechers S icon.svg",
+    "kind": "Wikimedia Commons SVG",
+    "licence": "Public domain; trademark",
+    "note": "S icon",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "lc-waikiki": {
+    "source": "https://www.lcw.com/",
+    "kind": "brand site inline SVG",
+    "licence": "Trademark",
+    "note": "LCW monogram",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "defacto": {
+    "source": "https://dfcdn.defacto.com.tr/AssetsV2/dist/img/defacto-logo-black.svg",
+    "kind": "brand site SVG",
+    "licence": "Trademark",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "koton": {
+    "source": "https://commons.wikimedia.org/wiki/File:Koton logo.svg",
+    "kind": "Wikimedia Commons SVG",
+    "licence": "Public domain; trademark",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  }
+}

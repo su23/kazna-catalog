@@ -1,6 +1,6 @@
 {
   "id": "ae-retail",
-  "version": 2,
+  "version": 3,
   "type": "payees",
   "name": {
     "en": "UAE: Shops & Services",
@@ -111,6 +111,27 @@
       "logo": "https://catalog.kazna.app/packs/ae-retail/logos/nol.png",
       "mcc": [4111,  4131],
       "website": "https://www.rta.ae"
+    },
+    {
+      "key": "life-pharmacy",
+      "name": { "en": "Life Pharmacy", "ru": "Лайф Фармаси" },
+      "logo": "https://catalog.kazna.app/packs/ae-retail/logos/life-pharmacy.png",
+      "mcc": [5912],
+      "website": "https://www.lifepharmacy.com"
+    },
+    {
+      "key": "aster-pharmacy",
+      "name": { "en": "Aster Pharmacy", "ru": "Астер Фармаси" },
+      "logo": "https://catalog.kazna.app/packs/ae-retail/logos/aster-pharmacy.png",
+      "mcc": [5912],
+      "website": "https://www.asterpharmacy.ae"
+    },
+    {
+      "key": "binsina",
+      "name": { "en": "BinSina Pharmacy", "ru": "Бин Сина" },
+      "logo": "https://catalog.kazna.app/packs/ae-retail/logos/binsina.png",
+      "mcc": [5912],
+      "website": "https://www.binsina.ae"
     }
   ]
 }

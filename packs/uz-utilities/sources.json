@@ -1,0 +1,49 @@
+{
+  "mygov-uz": {
+    "source": "https://my.gov.uz/",
+    "kind": "brand site inline SVG",
+    "licence": "Trademark",
+    "note": "white mark recoloured to the site blue #0068E0",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "soliq-uz": {
+    "source": "https://apps.apple.com/app/id1518038410",
+    "kind": "App Store icon (seller Scientific Information Center Of New Technologies, the tax committee IT centre)",
+    "licence": "Trademark",
+    "note": "white tile removed",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "het-uz": {
+    "source": "https://het.uz/img/logo.png",
+    "kind": "official site PNG",
+    "licence": "Trademark",
+    "note": "low resolution",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "uzsuvtaminot": {
+    "source": "https://uzsuv.uz/img/header-logo.svg",
+    "kind": "brand site SVG",
+    "licence": "Trademark",
+    "note": "white mark recoloured to the site blue #305AB6",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "veolia-tashkent": {
+    "source": "https://commons.wikimedia.org/wiki/File:Veolia logo.svg",
+    "kind": "Wikimedia Commons SVG",
+    "licence": "PD-textlogo; trademark",
+    "note": "Tashkent heating since 2022; Veolia symbol",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "paynet-uz": {
+    "source": "https://paynet.uz/",
+    "kind": "brand site inline SVG",
+    "licence": "Trademark",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  }
+}

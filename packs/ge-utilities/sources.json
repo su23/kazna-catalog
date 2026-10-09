@@ -1,0 +1,49 @@
+{
+  "telmico": {
+    "source": "https://commons.wikimedia.org/wiki/File:Telmiko-Logo.svg",
+    "kind": "Wikimedia Commons SVG",
+    "licence": "CC BY-SA 4.0; trademark",
+    "note": "Tbilisi electricity supplier since 2021; symbol only",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "ep-georgia": {
+    "source": "https://energo-pro.com/icons/logo/logo.svg",
+    "kind": "parent group site SVG",
+    "licence": "Trademark",
+    "note": "regional electricity (EP Georgia Supply)",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "gwp": {
+    "source": "https://apps.apple.com/app/id6740430371",
+    "kind": "App Store icon (seller Georgian Water & Power, LLC)",
+    "licence": "Trademark",
+    "note": "Tbilisi water; white tile removed",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "tbilisi-energy": {
+    "source": "https://apps.apple.com/app/id1556224427",
+    "kind": "App Store icon (seller Tbilisi Energy Ltd)",
+    "licence": "Trademark",
+    "note": "Tbilisi gas; white tile removed; app last updated 2021",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "revenue-service-ge": {
+    "source": "https://rs.ge/Media/Default/Images/Header/rs-logo-ge.png",
+    "kind": "official site PNG",
+    "licence": "Trademark",
+    "note": "symbol only, low resolution",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "public-service-hall-ge": {
+    "source": "https://commons.wikimedia.org/wiki/File:Public Service Hall.svg",
+    "kind": "Wikimedia Commons SVG",
+    "licence": "Public domain; trademark",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "id": "tr-utilities",
+  "version": 1,
+  "type": "payees",
+  "name": {
+    "en": "Turkey: Bills & Taxes",
+    "ru": "Турция: платежи и налоги"
+  },
+  "payees": [
+    {
+      "key": "e-devlet",
+      "name": { "en": "e-Devlet", "ru": "e-Devlet" },
+      "logo": "https://catalog.kazna.app/packs/tr-utilities/logos/e-devlet.png",
+      "mcc": [9399],
+      "website": "https://www.turkiye.gov.tr"
+    },
+    {
+      "key": "gib-tr",
+      "name": { "en": "Revenue Administration (GİB)", "ru": "GİB" },
+      "logo": "https://catalog.kazna.app/packs/tr-utilities/logos/gib-tr.png",
+      "mcc": [9311],
+      "website": "https://www.gib.gov.tr"
+    },
+    {
+      "key": "enerjisa",
+      "name": { "en": "Enerjisa", "ru": "Enerjisa" },
+      "logo": "https://catalog.kazna.app/packs/tr-utilities/logos/enerjisa.png",
+      "mcc": [4900],
+      "website": "https://www.enerjisa.com.tr"
+    },
+    {
+      "key": "ck-enerji",
+      "name": { "en": "CK Enerji", "ru": "CK Enerji" },
+      "logo": "https://catalog.kazna.app/packs/tr-utilities/logos/ck-enerji.png",
+      "mcc": [4900],
+      "website": "https://www.ckenerji.com.tr"
+    },
+    {
+      "key": "igdas",
+      "name": { "en": "İGDAŞ", "ru": "İGDAŞ" },
+      "logo": "https://catalog.kazna.app/packs/tr-utilities/logos/igdas.png",
+      "mcc": [4900],
+      "website": "https://www.igdas.istanbul"
+    },
+    {
+      "key": "iski",
+      "name": { "en": "İSKİ", "ru": "İSKİ" },
+      "logo": "https://catalog.kazna.app/packs/tr-utilities/logos/iski.png",
+      "mcc": [4900],
+      "website": "https://www.iski.istanbul"
+    }
+  ]
+}

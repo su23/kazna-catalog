@@ -116,5 +116,36 @@
     "note": "wordmark",
     "fetched": "2026-10-08",
     "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "podorozhnyk": {
+    "source": "https://i.podorozhnyk.ua/icons/logo-simple.svg",
+    "kind": "brand site SVG",
+    "licence": "Trademark",
+    "note": "symbol",
+    "fetched": "2026-10-09",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "anc-ua": {
+    "source": "https://commons.wikimedia.org/wiki/File:Аптека низьких цін (логотип-1).svg",
+    "kind": "Wikimedia Commons SVG",
+    "licence": "CC BY-SA 4.0; trademark",
+    "fetched": "2026-10-09",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "apteka-911": {
+    "source": "https://apps.apple.com/app/id1525720345",
+    "kind": "App Store icon (seller APTEKA911.UA, TOV)",
+    "licence": "Trademark",
+    "note": "site wordmark is white-only",
+    "fetched": "2026-10-09",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "bazhayemo-zdorovya": {
+    "source": "https://apteka.net.ua/themes/apteka_redesign/assets/img/logo.svg",
+    "kind": "brand site SVG",
+    "licence": "Trademark",
+    "note": "heart symbol only",
+    "fetched": "2026-10-09",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
   }
 }

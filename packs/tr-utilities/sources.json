@@ -1,0 +1,47 @@
+{
+  "e-devlet": {
+    "source": "https://commons.wikimedia.org/wiki/File:Turkiye.gov.tr logo.svg",
+    "kind": "Wikimedia Commons SVG",
+    "licence": "Public domain; trademark",
+    "note": "symbol only",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "gib-tr": {
+    "source": "https://www.gib.gov.tr/gib_logo_orijinal.svg",
+    "kind": "official site SVG",
+    "licence": "Trademark",
+    "note": "symbol only",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "enerjisa": {
+    "source": "https://commons.wikimedia.org/wiki/File:EnerjiSA logo.svg",
+    "kind": "Wikimedia Commons SVG",
+    "licence": "PD-textlogo; trademark",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "ck-enerji": {
+    "source": "https://www.ckenerji.com.tr/img/ck_enerji_bogazici_logolar_Renkli_Yatay-01.png",
+    "kind": "brand site PNG",
+    "licence": "Trademark",
+    "note": "CK symbol from the colour lockup",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "igdas": {
+    "source": "https://commons.wikimedia.org/wiki/File:İGDAŞ logo.svg",
+    "kind": "Wikimedia Commons SVG",
+    "licence": "Public domain; trademark",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "iski": {
+    "source": "https://apps.apple.com/app/id598588701",
+    "kind": "App Store icon (seller Istanbul Su ve Kanalizasyon Idaresi)",
+    "licence": "Trademark",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "id": "am-utilities",
+  "version": 1,
+  "type": "payees",
+  "name": {
+    "en": "Armenia: Bills & Taxes",
+    "ru": "Армения: платежи и налоги"
+  },
+  "payees": [
+    {
+      "key": "ena-am",
+      "name": { "en": "Electric Networks of Armenia", "ru": "Электрические сети Армении" },
+      "logo": "https://catalog.kazna.app/packs/am-utilities/logos/ena-am.png",
+      "mcc": [4900],
+      "website": "https://www.ena.am"
+    },
+    {
+      "key": "veolia-jur",
+      "name": { "en": "Veolia Jur", "ru": "Веолия Джур" },
+      "logo": "https://catalog.kazna.app/packs/am-utilities/logos/veolia-jur.png",
+      "mcc": [4900],
+      "website": "https://www.veolia.am"
+    },
+    {
+      "key": "gazprom-armenia",
+      "name": { "en": "Gazprom Armenia", "ru": "Газпром Армения" },
+      "logo": "https://catalog.kazna.app/packs/am-utilities/logos/gazprom-armenia.png",
+      "mcc": [4900],
+      "website": "https://armenia.gazprom.ru"
+    },
+    {
+      "key": "src-am",
+      "name": { "en": "State Revenue Committee", "ru": "КГД Армении" },
+      "logo": "https://catalog.kazna.app/packs/am-utilities/logos/src-am.png",
+      "mcc": [9311],
+      "website": "https://www.src.am"
+    },
+    {
+      "key": "idram",
+      "name": { "en": "Idram", "ru": "Idram" },
+      "logo": "https://catalog.kazna.app/packs/am-utilities/logos/idram.png",
+      "mcc": [6540,  4829],
+      "website": "https://www.idram.am"
+    },
+    {
+      "key": "telcell-am",
+      "name": { "en": "Telcell", "ru": "Телселл" },
+      "logo": "https://catalog.kazna.app/packs/am-utilities/logos/telcell-am.png",
+      "mcc": [6540,  4829],
+      "website": "https://www.telcell.am"
+    }
+  ]
+}

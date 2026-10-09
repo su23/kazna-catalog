@@ -97,5 +97,29 @@
     "note": "globe symbol cropped",
     "fetched": "2026-10-08",
     "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "europharma-kz": {
+    "source": "https://europharma.kz/images/europharma_ru.svg",
+    "kind": "brand site SVG",
+    "licence": "Trademark",
+    "note": "symbol only",
+    "fetched": "2026-10-09",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "biosfera-kz": {
+    "source": "https://biosfera.kz/favicon.svg",
+    "kind": "brand site SVG",
+    "licence": "Trademark",
+    "note": "symbol",
+    "fetched": "2026-10-09",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "sadykhan": {
+    "source": "https://sadykhan.kz/assets/sadykhan-logo-o_bkKYHL.png",
+    "kind": "brand site PNG",
+    "licence": "Trademark",
+    "note": "symbol only",
+    "fetched": "2026-10-09",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
   }
 }

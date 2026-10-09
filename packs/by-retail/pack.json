@@ -1,6 +1,6 @@
 {
   "id": "by-retail",
-  "version": 1,
+  "version": 2,
   "type": "payees",
   "name": {
     "en": "Belarus Shops & Services",
@@ -83,6 +83,20 @@
       "logo": "https://catalog.kazna.app/packs/by-retail/logos/life-by.png",
       "mcc": [4814],
       "website": "https://life.by"
+    },
+    {
+      "key": "belpharmacia",
+      "name": { "en": "Belpharmacia", "ru": "Белфармация" },
+      "logo": "https://catalog.kazna.app/packs/by-retail/logos/belpharmacia.png",
+      "mcc": [5912],
+      "website": "https://pharma.by"
+    },
+    {
+      "key": "adel-by",
+      "name": { "en": "ADEL", "ru": "Адель" },
+      "logo": "https://catalog.kazna.app/packs/by-retail/logos/adel-by.png",
+      "mcc": [5912],
+      "website": "https://apteka-adel.by"
     }
   ]
 }

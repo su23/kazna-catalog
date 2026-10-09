@@ -1,0 +1,56 @@
+{
+  "dewa": {
+    "source": "https://apps.apple.com/app/id364928325",
+    "kind": "App Store icon (seller DEWA)",
+    "licence": "Trademark",
+    "note": "white tile removed; shared key, logo copied from ae-retail",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "taqa-distribution": {
+    "source": "https://taqadistribution.com/assets/images/mainLogo.svg",
+    "kind": "brand site SVG",
+    "licence": "Trademark",
+    "note": "formerly ADDC/AADC; TAQA mark only",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "sewa": {
+    "source": "https://www.sewa.gov.ae/media/img/logo-icon.png",
+    "kind": "official site PNG",
+    "licence": "Trademark",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "etihad-we": {
+    "source": "https://apps.apple.com/app/id880606146",
+    "kind": "App Store icon (seller Etihad Water & Electricity)",
+    "licence": "Trademark",
+    "note": "formerly FEWA",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "empower": {
+    "source": "https://apps.apple.com/app/id6717020502",
+    "kind": "App Store icon (seller Emirates Central Cooling Systems Corporation PJSC)",
+    "licence": "Trademark",
+    "note": "district cooling; flag strip and tile removed",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "dubai-police": {
+    "source": "https://apps.apple.com/app/id384374316",
+    "kind": "App Store icon (seller Dubai Police General Head Quarter)",
+    "licence": "Trademark",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "icp-uae": {
+    "source": "https://apps.apple.com/app/id1374301965",
+    "kind": "App Store icon (seller Federal Authority for Identity and Citizenship)",
+    "licence": "Trademark",
+    "note": "white tile removed",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  }
+}

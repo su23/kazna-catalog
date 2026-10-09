@@ -1,6 +1,6 @@
 {
   "id": "uz-retail",
-  "version": 2,
+  "version": 3,
   "type": "payees",
   "name": {
     "en": "Uzbekistan: Shops & Services",
@@ -90,6 +90,13 @@
       "logo": "https://catalog.kazna.app/packs/uz-retail/logos/uztelecom.png",
       "mcc": [4814,  4899],
       "website": "https://uztelecom.uz"
+    },
+    {
+      "key": "oxymed",
+      "name": { "en": "OXYmed", "ru": "Оксимед" },
+      "logo": "https://catalog.kazna.app/packs/uz-retail/logos/oxymed.png",
+      "mcc": [5912],
+      "website": "https://oxymed.uz"
     }
   ]
 }

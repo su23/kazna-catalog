@@ -1,6 +1,6 @@
 {
   "id": "ua-retail",
-  "version": 2,
+  "version": 3,
   "type": "payees",
   "name": {
     "en": "Ukraine Shops & Services",
@@ -112,6 +112,34 @@
       "logo": "https://catalog.kazna.app/packs/ua-retail/logos/bolt-food.png",
       "mcc": [5814, 4215],
       "website": "https://food.bolt.eu"
+    },
+    {
+      "key": "podorozhnyk",
+      "name": { "en": "Podorozhnyk", "ru": "Подорожник", "uk": "Подорожник" },
+      "logo": "https://catalog.kazna.app/packs/ua-retail/logos/podorozhnyk.png",
+      "mcc": [5912],
+      "website": "https://podorozhnyk.ua"
+    },
+    {
+      "key": "anc-ua",
+      "name": { "en": "ANC", "ru": "АНЦ", "uk": "АНЦ" },
+      "logo": "https://catalog.kazna.app/packs/ua-retail/logos/anc-ua.png",
+      "mcc": [5912],
+      "website": "https://anc.ua"
+    },
+    {
+      "key": "apteka-911",
+      "name": { "en": "Apteka 9-1-1", "ru": "Аптека 9-1-1", "uk": "Аптека 9-1-1" },
+      "logo": "https://catalog.kazna.app/packs/ua-retail/logos/apteka-911.png",
+      "mcc": [5912],
+      "website": "https://apteka911.ua"
+    },
+    {
+      "key": "bazhayemo-zdorovya",
+      "name": { "en": "Bazhayemo Zdorovya", "ru": "Желаем здоровья", "uk": "Бажаємо здоров'я" },
+      "logo": "https://catalog.kazna.app/packs/ua-retail/logos/bazhayemo-zdorovya.png",
+      "mcc": [5912],
+      "website": "https://apteka.net.ua"
     }
   ]
 }

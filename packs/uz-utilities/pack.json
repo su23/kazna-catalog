@@ -1,0 +1,53 @@
+{
+  "id": "uz-utilities",
+  "version": 1,
+  "type": "payees",
+  "name": {
+    "en": "Uzbekistan: Bills & Taxes",
+    "ru": "Узбекистан: платежи и налоги"
+  },
+  "payees": [
+    {
+      "key": "mygov-uz",
+      "name": { "en": "my.gov.uz", "ru": "my.gov.uz" },
+      "logo": "https://catalog.kazna.app/packs/uz-utilities/logos/mygov-uz.png",
+      "mcc": [9399],
+      "website": "https://my.gov.uz"
+    },
+    {
+      "key": "soliq-uz",
+      "name": { "en": "Soliq (State Tax Committee)", "ru": "Солиқ" },
+      "logo": "https://catalog.kazna.app/packs/uz-utilities/logos/soliq-uz.png",
+      "mcc": [9311],
+      "website": "https://soliq.uz"
+    },
+    {
+      "key": "het-uz",
+      "name": { "en": "Regional Electric Networks", "ru": "Региональные электросети (HET)" },
+      "logo": "https://catalog.kazna.app/packs/uz-utilities/logos/het-uz.png",
+      "mcc": [4900],
+      "website": "https://het.uz"
+    },
+    {
+      "key": "uzsuvtaminot",
+      "name": { "en": "Uzsuvtaminot", "ru": "Узсувтаъминот" },
+      "logo": "https://catalog.kazna.app/packs/uz-utilities/logos/uzsuvtaminot.png",
+      "mcc": [4900],
+      "website": "https://uzsuv.uz"
+    },
+    {
+      "key": "veolia-tashkent",
+      "name": { "en": "Veolia Energy Tashkent", "ru": "Veolia Energy Tashkent" },
+      "logo": "https://catalog.kazna.app/packs/uz-utilities/logos/veolia-tashkent.png",
+      "mcc": [4900],
+      "website": "https://veoliaenergy.uz"
+    },
+    {
+      "key": "paynet-uz",
+      "name": { "en": "Paynet", "ru": "Paynet" },
+      "logo": "https://catalog.kazna.app/packs/uz-utilities/logos/paynet-uz.png",
+      "mcc": [6540,  4829],
+      "website": "https://paynet.uz"
+    }
+  ]
+}

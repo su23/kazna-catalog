@@ -1,0 +1,53 @@
+{
+  "id": "ge-utilities",
+  "version": 1,
+  "type": "payees",
+  "name": {
+    "en": "Georgia: Bills & Taxes",
+    "ru": "Грузия: платежи и налоги"
+  },
+  "payees": [
+    {
+      "key": "telmico",
+      "name": { "en": "Telmico", "ru": "Телмико" },
+      "logo": "https://catalog.kazna.app/packs/ge-utilities/logos/telmico.png",
+      "mcc": [4900],
+      "website": "https://www.telmico.ge"
+    },
+    {
+      "key": "ep-georgia",
+      "name": { "en": "Energo-Pro Georgia", "ru": "Энерго-Про Джорджия" },
+      "logo": "https://catalog.kazna.app/packs/ge-utilities/logos/ep-georgia.png",
+      "mcc": [4900],
+      "website": "https://energo-pro.ge"
+    },
+    {
+      "key": "gwp",
+      "name": { "en": "GWP", "ru": "GWP" },
+      "logo": "https://catalog.kazna.app/packs/ge-utilities/logos/gwp.png",
+      "mcc": [4900],
+      "website": "https://www.gwp.ge"
+    },
+    {
+      "key": "tbilisi-energy",
+      "name": { "en": "Tbilisi Energy", "ru": "Тбилиси Энерджи" },
+      "logo": "https://catalog.kazna.app/packs/ge-utilities/logos/tbilisi-energy.png",
+      "mcc": [4900],
+      "website": "https://te.ge"
+    },
+    {
+      "key": "revenue-service-ge",
+      "name": { "en": "Revenue Service", "ru": "Служба доходов Грузии" },
+      "logo": "https://catalog.kazna.app/packs/ge-utilities/logos/revenue-service-ge.png",
+      "mcc": [9311],
+      "website": "https://www.rs.ge"
+    },
+    {
+      "key": "public-service-hall-ge",
+      "name": { "en": "Public Service Hall", "ru": "Дом юстиции" },
+      "logo": "https://catalog.kazna.app/packs/ge-utilities/logos/public-service-hall-ge.png",
+      "mcc": [9399],
+      "website": "https://psh.gov.ge"
+    }
+  ]
+}
