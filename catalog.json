@@ -642,17 +642,17 @@
     {
       "id": "kz-retail",
       "type": "payees",
-      "version": 2,
+      "version": 3,
       "name": {
         "en": "Kazakhstan Shops & Services",
         "ru": "Магазины и сервисы Казахстана"
       },
       "description": {
-        "en": "Shops, delivery, telecoms and pharmacies in Kazakhstan — Magnum, Small, Sulpak, Technodom and 12 more",
-        "ru": "Магазины, доставка, связь и аптеки в Казахстане — Магнум, Смолл, Сулпак, Технодом и ещё 12"
+        "en": "Shops, delivery, telecoms, pharmacies and transport in Kazakhstan — Magnum, Small, Sulpak, Technodom and 15 more",
+        "ru": "Магазины, доставка, связь, аптеки и транспорт в Казахстане — Магнум, Смолл, Сулпак, Технодом и ещё 15"
       },
       "tags": ["kazakhstan", "retail", "telecom"],
-      "entity_count": 16,
+      "entity_count": 19,
       "pack_url": "https://catalog.kazna.app/packs/kz-retail/pack.json",
       "preview_logos": [
         "https://catalog.kazna.app/packs/kz-retail/logos/magnum.png",
@@ -774,17 +774,17 @@
     {
       "id": "by-retail",
       "type": "payees",
-      "version": 2,
+      "version": 3,
       "name": {
         "en": "Belarus Shops & Services",
         "ru": "Магазины и сервисы Беларуси"
       },
       "description": {
-        "en": "Shops, electronics, telecoms and pharmacies in Belarus — Evroopt, Korona, Gippo, Green and 9 more",
-        "ru": "Магазины, электроника, связь и аптеки в Беларуси — Евроопт, Корона, Гиппо, Грин и ещё 9"
+        "en": "Shops, electronics, telecoms, pharmacies and transport in Belarus — Evroopt, Korona, Gippo, Green and 12 more",
+        "ru": "Магазины, электроника, связь, аптеки и транспорт в Беларуси — Евроопт, Корона, Гиппо, Грин и ещё 12"
       },
       "tags": ["belarus", "retail", "telecom"],
-      "entity_count": 13,
+      "entity_count": 16,
       "pack_url": "https://catalog.kazna.app/packs/by-retail/pack.json",
       "preview_logos": [
         "https://catalog.kazna.app/packs/by-retail/logos/evroopt.png",
@@ -796,18 +796,18 @@
     {
       "id": "ua-retail",
       "type": "payees",
-      "version": 3,
+      "version": 4,
       "name": {
         "en": "Ukraine Shops & Services",
         "ru": "Магазины и сервисы Украины",
         "uk": "Магазини та сервіси України"
       },
       "description": {
-        "en": "Shops, delivery, telecoms, fuel and pharmacies in Ukraine — Rozetka, Silpo, ATB, Nova Poshta and 15 more",
-        "ru": "Магазины, доставка, связь, АЗС и аптеки Украины — Розетка, Сильпо, АТБ, Новая почта и ещё 15"
+        "en": "Shops, delivery, telecoms, fuel, pharmacies and transport in Ukraine — Rozetka, Silpo, ATB, Nova Poshta and 17 more",
+        "ru": "Магазины, доставка, связь, АЗС, аптеки и транспорт Украины — Розетка, Сильпо, АТБ, Новая почта и ещё 17"
       },
       "tags": ["ukraine", "retail", "telecom"],
-      "entity_count": 19,
+      "entity_count": 21,
       "pack_url": "https://catalog.kazna.app/packs/ua-retail/pack.json",
       "preview_logos": [
         "https://catalog.kazna.app/packs/ua-retail/logos/rozetka.png",
@@ -1017,17 +1017,17 @@
     {
       "id": "ge-retail",
       "type": "payees",
-      "version": 2,
+      "version": 3,
       "name": {
         "en": "Georgia: Shops & Services",
         "ru": "Грузия: магазины и сервисы"
       },
       "description": {
-        "en": "Shops, delivery, telecoms and fuel in Georgia — Carrefour, Nikora, SPAR, 2 Nabiji and 12 more",
-        "ru": "Магазины, доставка, связь и заправки Грузии — Карфур, Никора, Спар, 2 Набиджи и ещё 12"
+        "en": "Shops, delivery, telecoms, fuel and transport in Georgia — Carrefour, Nikora, SPAR, 2 Nabiji and 13 more",
+        "ru": "Магазины, доставка, связь, заправки и транспорт Грузии — Карфур, Никора, Спар, 2 Набиджи и ещё 13"
       },
       "tags": ["georgia", "retail", "telecom"],
-      "entity_count": 16,
+      "entity_count": 17,
       "pack_url": "https://catalog.kazna.app/packs/ge-retail/pack.json",
       "preview_logos": [
         "https://catalog.kazna.app/packs/ge-retail/logos/carrefour.png",
@@ -1039,17 +1039,17 @@
     {
       "id": "am-retail",
       "type": "payees",
-      "version": 2,
+      "version": 3,
       "name": {
         "en": "Armenia: Shops & Services",
         "ru": "Армения: магазины и сервисы"
       },
       "description": {
-        "en": "Shops, delivery, telecoms and pharmacies in Armenia — SAS Supermarket, Yerevan City, Carrefour, Zigzag and 9 more",
-        "ru": "Магазины, доставка, связь и аптеки Армении — САС, Ереван Сити, Карфур, Зигзаг и ещё 9"
+        "en": "Shops, delivery, telecoms, pharmacies and taxi in Armenia — SAS Supermarket, Yerevan City, Carrefour, Zigzag and 10 more",
+        "ru": "Магазины, доставка, связь, аптеки и такси Армении — САС, Ереван Сити, Карфур, Зигзаг и ещё 10"
       },
       "tags": ["armenia", "retail", "telecom"],
-      "entity_count": 13,
+      "entity_count": 14,
       "pack_url": "https://catalog.kazna.app/packs/am-retail/pack.json",
       "preview_logos": [
         "https://catalog.kazna.app/packs/am-retail/logos/sas-am.png",
@@ -1061,17 +1061,17 @@
     {
       "id": "uz-retail",
       "type": "payees",
-      "version": 3,
+      "version": 4,
       "name": {
         "en": "Uzbekistan: Shops & Services",
         "ru": "Узбекистан: магазины и сервисы"
       },
       "description": {
-        "en": "Shops, delivery, telecoms and pharmacies in Uzbekistan — Korzinka, Makro, Havas, Uzum Market and 9 more",
-        "ru": "Магазины, доставка, связь и аптеки Узбекистана — Корзинка, Макро, Хавас, Узум Маркет и ещё 9"
+        "en": "Shops, delivery, telecoms, pharmacies and transport in Uzbekistan — Korzinka, Makro, Havas, Uzum Market and 11 more",
+        "ru": "Магазины, доставка, связь, аптеки и транспорт Узбекистана — Корзинка, Макро, Хавас, Узум Маркет и ещё 11"
       },
       "tags": ["uzbekistan", "retail", "telecom"],
-      "entity_count": 13,
+      "entity_count": 15,
       "pack_url": "https://catalog.kazna.app/packs/uz-retail/pack.json",
       "preview_logos": [
         "https://catalog.kazna.app/packs/uz-retail/logos/korzinka.png",
@@ -1083,17 +1083,17 @@
     {
       "id": "tr-retail",
       "type": "payees",
-      "version": 1,
+      "version": 2,
       "name": {
         "en": "Turkey: Shops & Services",
         "ru": "Турция: магазины и сервисы"
       },
       "description": {
-        "en": "Shops, delivery, telecoms and fuel in Turkey — Migros, BİM, A101, ŞOK and 12 more",
-        "ru": "Магазины, доставка, связь и заправки Турции — Мигрос, БИМ, A101, ШОК и ещё 12"
+        "en": "Shops, delivery, telecoms, fuel and transport in Turkey — Migros, BİM, A101, ŞOK and 14 more",
+        "ru": "Магазины, доставка, связь, заправки и транспорт Турции — Мигрос, БИМ, A101, ШОК и ещё 14"
       },
       "tags": ["turkey", "retail", "telecom"],
-      "entity_count": 16,
+      "entity_count": 18,
       "pack_url": "https://catalog.kazna.app/packs/tr-retail/pack.json",
       "preview_logos": [
         "https://catalog.kazna.app/packs/tr-retail/logos/migros-tr.png",
@@ -1562,6 +1562,50 @@
         "https://catalog.kazna.app/packs/global-fashion/logos/adidas.png",
         "https://catalog.kazna.app/packs/global-fashion/logos/puma.png",
         "https://catalog.kazna.app/packs/global-fashion/logos/new-balance.png"
+      ]
+    },
+    {
+      "id": "crypto-exchanges",
+      "type": "payees",
+      "version": 1,
+      "name": {
+        "en": "Crypto Exchanges",
+        "ru": "Криптобиржи"
+      },
+      "description": {
+        "en": "Cryptocurrency exchanges, for tagging transfers — Binance, Bybit, OKX, KuCoin and 5 more",
+        "ru": "Криптобиржи — для разметки переводов — Бинанс, Байбит, OKX, KuCoin и ещё 5"
+      },
+      "tags": ["global", "crypto", "finance"],
+      "entity_count": 9,
+      "pack_url": "https://catalog.kazna.app/packs/crypto-exchanges/pack.json",
+      "preview_logos": [
+        "https://catalog.kazna.app/packs/crypto-exchanges/logos/binance.png",
+        "https://catalog.kazna.app/packs/crypto-exchanges/logos/bybit.png",
+        "https://catalog.kazna.app/packs/crypto-exchanges/logos/okx.png",
+        "https://catalog.kazna.app/packs/crypto-exchanges/logos/kucoin.png"
+      ]
+    },
+    {
+      "id": "esim",
+      "type": "payees",
+      "version": 1,
+      "name": {
+        "en": "Travel eSIM",
+        "ru": "eSIM для путешествий"
+      },
+      "description": {
+        "en": "Travel eSIM data providers — Airalo, Holafly, Yesim, Saily and 3 more",
+        "ru": "Провайдеры eSIM для поездок — Airalo, Holafly, Yesim, Saily и ещё 3"
+      },
+      "tags": ["global", "travel", "telecom"],
+      "entity_count": 7,
+      "pack_url": "https://catalog.kazna.app/packs/esim/pack.json",
+      "preview_logos": [
+        "https://catalog.kazna.app/packs/esim/logos/airalo.png",
+        "https://catalog.kazna.app/packs/esim/logos/holafly.png",
+        "https://catalog.kazna.app/packs/esim/logos/yesim.png",
+        "https://catalog.kazna.app/packs/esim/logos/saily.png"
       ]
     }
   ]

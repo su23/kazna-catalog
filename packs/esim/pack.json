@@ -1,0 +1,60 @@
+{
+  "id": "esim",
+  "version": 1,
+  "type": "payees",
+  "name": {
+    "en": "Travel eSIM",
+    "ru": "eSIM для путешествий"
+  },
+  "payees": [
+    {
+      "key": "airalo",
+      "name": { "en": "Airalo", "ru": "Airalo" },
+      "logo": "https://catalog.kazna.app/packs/esim/logos/airalo.png",
+      "mcc": [4814,  4812,  5818],
+      "website": "https://www.airalo.com"
+    },
+    {
+      "key": "holafly",
+      "name": { "en": "Holafly", "ru": "Holafly" },
+      "logo": "https://catalog.kazna.app/packs/esim/logos/holafly.png",
+      "mcc": [4814,  4812,  5818],
+      "website": "https://esim.holafly.com"
+    },
+    {
+      "key": "yesim",
+      "name": { "en": "Yesim", "ru": "Yesim" },
+      "logo": "https://catalog.kazna.app/packs/esim/logos/yesim.png",
+      "mcc": [4814,  4812,  5818],
+      "website": "https://yesim.app"
+    },
+    {
+      "key": "saily",
+      "name": { "en": "Saily", "ru": "Saily" },
+      "logo": "https://catalog.kazna.app/packs/esim/logos/saily.png",
+      "mcc": [4814,  4812,  5818],
+      "website": "https://saily.com"
+    },
+    {
+      "key": "ubigi",
+      "name": { "en": "Ubigi", "ru": "Ubigi" },
+      "logo": "https://catalog.kazna.app/packs/esim/logos/ubigi.png",
+      "mcc": [4814,  4812,  5818],
+      "website": "https://www.ubigi.com"
+    },
+    {
+      "key": "nomad",
+      "name": { "en": "Nomad", "ru": "Nomad" },
+      "logo": "https://catalog.kazna.app/packs/esim/logos/nomad.png",
+      "mcc": [4814,  4812,  5818],
+      "website": "https://www.nomadesim.com"
+    },
+    {
+      "key": "drimsim",
+      "name": { "en": "Drimsim", "ru": "Drimsim" },
+      "logo": "https://catalog.kazna.app/packs/esim/logos/drimsim.png",
+      "mcc": [4814,  4812,  5818],
+      "website": "https://drimsim.com"
+    }
+  ]
+}

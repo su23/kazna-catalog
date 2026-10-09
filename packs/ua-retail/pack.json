@@ -1,6 +1,6 @@
 {
   "id": "ua-retail",
-  "version": 3,
+  "version": 4,
   "type": "payees",
   "name": {
     "en": "Ukraine Shops & Services",
@@ -140,6 +140,20 @@
       "logo": "https://catalog.kazna.app/packs/ua-retail/logos/bazhayemo-zdorovya.png",
       "mcc": [5912],
       "website": "https://apteka.net.ua"
+    },
+    {
+      "key": "uklon",
+      "name": { "en": "Uklon", "ru": "Уклон", "uk": "Уклон" },
+      "logo": "https://catalog.kazna.app/packs/ua-retail/logos/uklon.png",
+      "mcc": [4121],
+      "website": "https://uklon.com.ua"
+    },
+    {
+      "key": "kyiv-digital",
+      "name": { "en": "Kyiv Digital", "ru": "Киев Цифровой", "uk": "Київ Цифровий" },
+      "logo": "https://catalog.kazna.app/packs/ua-retail/logos/kyiv-digital.png",
+      "mcc": [4111],
+      "website": "https://kyiv.digital"
     }
   ]
 }

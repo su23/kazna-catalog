@@ -1,0 +1,73 @@
+{
+  "binance": {
+    "source": "https://www.binance.com/en",
+    "kind": "brand site SVG sprite symbol",
+    "licence": "Trademark",
+    "note": "diamond, currentColor set to #F0B90B",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "bybit": {
+    "source": "https://www.bybit.com/en",
+    "kind": "brand site header SVG (data URI)",
+    "licence": "Trademark",
+    "note": "white letters recoloured #121214 for the light plate",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "okx": {
+    "source": "https://commons.wikimedia.org/wiki/File:OKX_Logo.svg",
+    "kind": "Wikimedia Commons SVG",
+    "licence": "CC BY-SA 4.0; trademark",
+    "note": "white canvas removed",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "kucoin": {
+    "source": "https://assets.staticimg.com/kc-v2-config/site-config/693bcdd4680db10001fa9856_logo_general_green.svg",
+    "kind": "brand site SVG",
+    "licence": "Trademark",
+    "note": "2025 K symbol only",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "bitget": {
+    "source": "https://commons.wikimedia.org/wiki/File:Bitget_logo_(2026).svg",
+    "kind": "Wikimedia Commons SVG",
+    "licence": "PD-textlogo; trademark",
+    "note": "symbol only; cyan #00F0FF darkened to #00B4C2 for the light plate",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "mexc": {
+    "source": "https://www.mexc.com/",
+    "kind": "brand site header SVG (data URI)",
+    "licence": "Trademark",
+    "note": "M symbol",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "gate": {
+    "source": "https://www.gate.com/cdn/fe/_next/static/media/gate-mark-color.01dd386a.svg",
+    "kind": "official media kit SVG",
+    "licence": "Trademark",
+    "note": "formerly Gate.io",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "coinbase": {
+    "source": "https://static-assets.coinbase.com/ui-infra/illustration/v1/pictogram/svg/light/coinbaseLogoNavigation-4.svg",
+    "kind": "brand site SVG",
+    "licence": "Trademark",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "kraken": {
+    "source": "https://assets-cms.kraken.com/images/51n36hrp/facade/4d67f3f4eac6aa0702c6ae62b1e0b1abc41b10cd-650x155.svg",
+    "kind": "brand site SVG",
+    "licence": "Trademark",
+    "note": "symbol only",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  }
+}

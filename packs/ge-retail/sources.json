@@ -119,5 +119,13 @@
     "licence": "Public domain; trademark",
     "fetched": "2026-10-08",
     "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "ttc-ge": {
+    "source": "https://commons.wikimedia.org/wiki/File:Tbilisi Transport Company logo.svg",
+    "kind": "Wikimedia Commons SVG",
+    "licence": "CC BY-SA 4.0; trademark",
+    "note": "symbol only; covers the Metromoney card",
+    "fetched": "2026-10-09",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
   }
 }

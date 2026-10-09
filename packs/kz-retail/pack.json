@@ -1,6 +1,6 @@
 {
   "id": "kz-retail",
-  "version": 2,
+  "version": 3,
   "type": "payees",
   "name": {
     "en": "Kazakhstan Shops & Services",
@@ -118,6 +118,27 @@
       "logo": "https://catalog.kazna.app/packs/kz-retail/logos/sadykhan.png",
       "mcc": [5912],
       "website": "https://sadykhan.kz"
+    },
+    {
+      "key": "onay-kz",
+      "name": { "en": "Onay", "ru": "Онай" },
+      "logo": "https://catalog.kazna.app/packs/kz-retail/logos/onay-kz.png",
+      "mcc": [4111],
+      "website": "https://onay.kz"
+    },
+    {
+      "key": "avtobys",
+      "name": { "en": "Avtobys", "ru": "Автобыс" },
+      "logo": "https://catalog.kazna.app/packs/kz-retail/logos/avtobys.png",
+      "mcc": [4131,  4111],
+      "website": "https://avtobys.kz"
+    },
+    {
+      "key": "indrive",
+      "name": { "en": "inDrive", "ru": "inDrive" },
+      "logo": "https://catalog.kazna.app/packs/kz-retail/logos/indrive.png",
+      "mcc": [4121],
+      "website": "https://indrive.com"
     }
   ]
 }

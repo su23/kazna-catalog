@@ -1,6 +1,6 @@
 {
   "id": "tr-retail",
-  "version": 1,
+  "version": 2,
   "type": "payees",
   "name": {
     "en": "Turkey: Shops & Services",
@@ -118,6 +118,20 @@
       "logo": "https://catalog.kazna.app/packs/tr-retail/logos/petrol-ofisi.png",
       "mcc": [5541],
       "website": "https://www.petrolofisi.com.tr"
+    },
+    {
+      "key": "istanbulkart",
+      "name": { "en": "İstanbulkart", "ru": "Истанбулкарт" },
+      "logo": "https://catalog.kazna.app/packs/tr-retail/logos/istanbulkart.png",
+      "mcc": [4111],
+      "website": "https://www.istanbulkart.istanbul"
+    },
+    {
+      "key": "bitaksi",
+      "name": { "en": "BiTaksi", "ru": "БиТакси" },
+      "logo": "https://catalog.kazna.app/packs/tr-retail/logos/bitaksi.png",
+      "mcc": [4121],
+      "website": "https://www.bitaksi.com"
     }
   ]
 }

@@ -1,0 +1,55 @@
+{
+  "airalo": {
+    "source": "https://commons.wikimedia.org/wiki/File:Airalo_logo.svg",
+    "kind": "Wikimedia Commons SVG",
+    "licence": "Public domain; trademark",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "holafly": {
+    "source": "https://commons.wikimedia.org/wiki/File:Holafly-logo.svg",
+    "kind": "Wikimedia Commons SVG",
+    "licence": "CC BY-SA 4.0; trademark",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "yesim": {
+    "source": "https://yesim.app/_next/static/media/yesim.0a4b30c9.svg",
+    "kind": "brand site SVG",
+    "licence": "Trademark",
+    "note": "symbol only",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "saily": {
+    "source": "https://apps.apple.com/app/id6475045151",
+    "kind": "App Store icon (seller Nordvpn S.A.)",
+    "licence": "Trademark",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "ubigi": {
+    "source": "https://www.ubigi.com/",
+    "kind": "brand site inline SVG",
+    "licence": "Trademark",
+    "note": "white parts recoloured #1E2A33; symbol only",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "nomad": {
+    "source": "https://www.nomadesim.com/assets/static/logo-full-light.DiuaXs0F.png",
+    "kind": "brand site PNG",
+    "licence": "Trademark",
+    "note": "symbol only",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "drimsim": {
+    "source": "https://apps.apple.com/app/id1075908840",
+    "kind": "App Store icon (seller Drimnano SL., seller URL drimsim.com)",
+    "licence": "Trademark",
+    "note": "white tile removed",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  }
+}

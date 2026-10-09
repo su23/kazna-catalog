@@ -1,6 +1,6 @@
 {
   "id": "by-retail",
-  "version": 2,
+  "version": 3,
   "type": "payees",
   "name": {
     "en": "Belarus Shops & Services",
@@ -97,6 +97,27 @@
       "logo": "https://catalog.kazna.app/packs/by-retail/logos/adel-by.png",
       "mcc": [5912],
       "website": "https://apteka-adel.by"
+    },
+    {
+      "key": "minsktrans",
+      "name": { "en": "Minsktrans", "ru": "Минсктранс" },
+      "logo": "https://catalog.kazna.app/packs/by-retail/logos/minsktrans.png",
+      "mcc": [4131,  4111],
+      "website": "https://minsktrans.by"
+    },
+    {
+      "key": "minsk-metro",
+      "name": { "en": "Minsk Metro", "ru": "Минский метрополитен" },
+      "logo": "https://catalog.kazna.app/packs/by-retail/logos/minsk-metro.png",
+      "mcc": [4111],
+      "website": "https://metropoliten.by"
+    },
+    {
+      "key": "belzhd",
+      "name": { "en": "Belarusian Railway", "ru": "БЖД" },
+      "logo": "https://catalog.kazna.app/packs/by-retail/logos/belzhd.png",
+      "mcc": [4112],
+      "website": "https://www.rw.by"
     }
   ]
 }

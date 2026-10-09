@@ -121,5 +121,27 @@
     "note": "symbol only",
     "fetched": "2026-10-09",
     "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "onay-kz": {
+    "source": "https://onay.kz/fonts/onay.svg",
+    "kind": "brand site SVG",
+    "licence": "Trademark",
+    "fetched": "2026-10-09",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "avtobys": {
+    "source": "https://avtobys.kz/logo.svg",
+    "kind": "brand site SVG",
+    "licence": "Trademark",
+    "fetched": "2026-10-09",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "indrive": {
+    "source": "https://indrive.com/images/logo/logo-icon.svg",
+    "kind": "brand site SVG",
+    "licence": "Trademark",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin",
+    "note": "shared key, logo copied from ru-taxi-services"
   }
 }

@@ -1,0 +1,74 @@
+{
+  "id": "crypto-exchanges",
+  "version": 1,
+  "type": "payees",
+  "name": {
+    "en": "Crypto Exchanges",
+    "ru": "Криптобиржи"
+  },
+  "payees": [
+    {
+      "key": "binance",
+      "name": { "en": "Binance", "ru": "Бинанс" },
+      "logo": "https://catalog.kazna.app/packs/crypto-exchanges/logos/binance.png",
+      "mcc": [6051],
+      "website": "https://www.binance.com"
+    },
+    {
+      "key": "bybit",
+      "name": { "en": "Bybit", "ru": "Байбит" },
+      "logo": "https://catalog.kazna.app/packs/crypto-exchanges/logos/bybit.png",
+      "mcc": [6051],
+      "website": "https://www.bybit.com"
+    },
+    {
+      "key": "okx",
+      "name": { "en": "OKX", "ru": "OKX" },
+      "logo": "https://catalog.kazna.app/packs/crypto-exchanges/logos/okx.png",
+      "mcc": [6051],
+      "website": "https://www.okx.com"
+    },
+    {
+      "key": "kucoin",
+      "name": { "en": "KuCoin", "ru": "KuCoin" },
+      "logo": "https://catalog.kazna.app/packs/crypto-exchanges/logos/kucoin.png",
+      "mcc": [6051],
+      "website": "https://www.kucoin.com"
+    },
+    {
+      "key": "bitget",
+      "name": { "en": "Bitget", "ru": "Bitget" },
+      "logo": "https://catalog.kazna.app/packs/crypto-exchanges/logos/bitget.png",
+      "mcc": [6051],
+      "website": "https://www.bitget.com"
+    },
+    {
+      "key": "mexc",
+      "name": { "en": "MEXC", "ru": "MEXC" },
+      "logo": "https://catalog.kazna.app/packs/crypto-exchanges/logos/mexc.png",
+      "mcc": [6051],
+      "website": "https://www.mexc.com"
+    },
+    {
+      "key": "gate",
+      "name": { "en": "Gate", "ru": "Gate" },
+      "logo": "https://catalog.kazna.app/packs/crypto-exchanges/logos/gate.png",
+      "mcc": [6051],
+      "website": "https://www.gate.com"
+    },
+    {
+      "key": "coinbase",
+      "name": { "en": "Coinbase", "ru": "Coinbase" },
+      "logo": "https://catalog.kazna.app/packs/crypto-exchanges/logos/coinbase.png",
+      "mcc": [6051,  6211],
+      "website": "https://www.coinbase.com"
+    },
+    {
+      "key": "kraken",
+      "name": { "en": "Kraken", "ru": "Kraken" },
+      "logo": "https://catalog.kazna.app/packs/crypto-exchanges/logos/kraken.png",
+      "mcc": [6051,  6211],
+      "website": "https://www.kraken.com"
+    }
+  ]
+}

@@ -1,6 +1,6 @@
 {
   "id": "am-retail",
-  "version": 2,
+  "version": 3,
   "type": "payees",
   "name": {
     "en": "Armenia: Shops & Services",
@@ -97,6 +97,13 @@
       "logo": "https://catalog.kazna.app/packs/am-retail/logos/alfa-pharm.png",
       "mcc": [5912],
       "website": "https://www.alfapharm.am"
+    },
+    {
+      "key": "gg-am",
+      "name": { "en": "gg", "ru": "gg" },
+      "logo": "https://catalog.kazna.app/packs/am-retail/logos/gg-am.png",
+      "mcc": [4121],
+      "website": "https://www.team.gg"
     }
   ]
 }

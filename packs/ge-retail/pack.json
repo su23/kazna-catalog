@@ -1,6 +1,6 @@
 {
   "id": "ge-retail",
-  "version": 2,
+  "version": 3,
   "type": "payees",
   "name": {
     "en": "Georgia: Shops & Services",
@@ -118,6 +118,13 @@
       "logo": "https://catalog.kazna.app/packs/ge-retail/logos/gulf-ge.png",
       "mcc": [5541],
       "website": "https://gulf.ge"
+    },
+    {
+      "key": "ttc-ge",
+      "name": { "en": "Tbilisi Transport Company", "ru": "Тбилисская транспортная компания" },
+      "logo": "https://catalog.kazna.app/packs/ge-retail/logos/ttc-ge.png",
+      "mcc": [4111],
+      "website": "https://ttc.com.ge"
     }
   ]
 }

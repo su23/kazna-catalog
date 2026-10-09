@@ -1,6 +1,6 @@
 {
   "id": "uz-retail",
-  "version": 3,
+  "version": 4,
   "type": "payees",
   "name": {
     "en": "Uzbekistan: Shops & Services",
@@ -97,6 +97,20 @@
       "logo": "https://catalog.kazna.app/packs/uz-retail/logos/oxymed.png",
       "mcc": [5912],
       "website": "https://oxymed.uz"
+    },
+    {
+      "key": "atto-uz",
+      "name": { "en": "ATTO", "ru": "АТТО" },
+      "logo": "https://catalog.kazna.app/packs/uz-retail/logos/atto-uz.png",
+      "mcc": [4111],
+      "website": "https://atto.uz"
+    },
+    {
+      "key": "mytaxi-uz",
+      "name": { "en": "MyTaxi", "ru": "MyTaxi" },
+      "logo": "https://catalog.kazna.app/packs/uz-retail/logos/mytaxi-uz.png",
+      "mcc": [4121],
+      "website": "https://mytaxi.uz"
     }
   ]
 }
