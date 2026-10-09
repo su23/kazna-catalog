@@ -58,5 +58,7 @@
   { "id": "work-tools", "rank": 29, "icon": "work", "color": "#D0582B",
     "n": { "en": "Work tools", "ru": "Рабочие сервисы", "de": "Arbeitstools", "es": "Herramientas de trabajo", "fr": "Outils de travail" } },
   { "id": "hosting", "rank": 30, "icon": "cloud", "color": "#32ADE6",
-    "n": { "en": "Cloud & hosting", "ru": "Облака и хостинг", "de": "Cloud & Hosting", "es": "Nube y hosting", "fr": "Cloud et hébergement" } }
+    "n": { "en": "Cloud & hosting", "ru": "Облака и хостинг", "de": "Cloud & Hosting", "es": "Nube y hosting", "fr": "Cloud et hébergement" } },
+  { "id": "charity", "rank": 31, "icon": "volunteer_activism", "color": "#D9486B",
+    "n": { "en": "Charity", "ru": "Благотворительность", "de": "Spenden", "es": "Donaciones", "fr": "Dons" } }
 ]
