@@ -1,0 +1,88 @@
+{
+  "podari-zhizn": {
+    "source": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c1/fa/66/c1fa667c-56e2-8bfe-918d-5977971bbb4d/AppIcon-0-0-1x_U007ephone-0-1-85-220.png/512x512bb.png",
+    "kind": "App Store icon (seller PODARI ZHIZN FOND)",
+    "licence": "Trademark",
+    "note": "site logo is a white wordmark; white tile removed",
+    "fetched": "2026-10-09",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "foodbank-rus": {
+    "source": "https://foodbankrus.ru/local/templates/foodbank/images/logo.svg",
+    "kind": "brand site SVG",
+    "licence": "Trademark",
+    "note": "wheat symbol only",
+    "fetched": "2026-10-09",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "nochlezhka": {
+    "source": "https://homeless.ru/assets/img/logo.svg",
+    "kind": "brand site SVG",
+    "licence": "Trademark",
+    "fetched": "2026-10-09",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "fond-vera": {
+    "source": "https://fondvera.ru/local/templates/main/img/logo-short.svg",
+    "kind": "brand site SVG",
+    "licence": "Trademark",
+    "note": "dandelion mark",
+    "fetched": "2026-10-09",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "rusfond": {
+    "source": "https://rusfond.ru/",
+    "kind": "brand site CSS data-URI SVG",
+    "licence": "Trademark",
+    "note": "circle symbol only",
+    "fetched": "2026-10-09",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "dom-s-mayakom": {
+    "source": "https://mayak.help/wp-content/themes/mayak/img/logo.png",
+    "kind": "brand site PNG",
+    "licence": "Trademark",
+    "note": "lighthouse symbol only",
+    "fetched": "2026-10-09",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "fond-khabenskogo": {
+    "source": "https://bfkh.ru/",
+    "kind": "brand site inline SVG sprite",
+    "licence": "Trademark",
+    "note": "figure symbol only, CSS fill #763f97",
+    "fetched": "2026-10-09",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "liniya-zhizni": {
+    "source": "https://www.life-line.ru/",
+    "kind": "brand site inline SVG",
+    "licence": "Trademark",
+    "fetched": "2026-10-09",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "unicef": {
+    "source": "https://commons.wikimedia.org/wiki/File:Logo of UNICEF (cropped).svg",
+    "kind": "Wikimedia Commons SVG",
+    "licence": "Public domain; trademark",
+    "note": "emblem",
+    "fetched": "2026-10-09",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "wikipedia": {
+    "source": "https://commons.wikimedia.org/wiki/File:Wikipedia-logo-v2.svg",
+    "kind": "Wikimedia Commons SVG",
+    "licence": "CC BY-SA 3.0; trademark of the Wikimedia Foundation",
+    "note": "donations go to the Wikimedia Foundation",
+    "fetched": "2026-10-09",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "msf": {
+    "source": "https://www.msf.org/",
+    "kind": "brand site inline SVG",
+    "licence": "Trademark",
+    "note": "red running man only",
+    "fetched": "2026-10-09",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  }
+}

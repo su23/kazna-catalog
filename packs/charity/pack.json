@@ -1,0 +1,88 @@
+{
+  "id": "charity",
+  "version": 1,
+  "type": "payees",
+  "name": {
+    "en": "Charity",
+    "ru": "Благотворительность"
+  },
+  "payees": [
+    {
+      "key": "podari-zhizn",
+      "name": { "en": "Podari Zhizn", "ru": "Подари жизнь" },
+      "logo": "https://catalog.kazna.app/packs/charity/logos/podari-zhizn.png",
+      "mcc": [8398],
+      "website": "https://podari-zhizn.ru"
+    },
+    {
+      "key": "foodbank-rus",
+      "name": { "en": "Food Bank Rus", "ru": "Банк еды «Русь»" },
+      "logo": "https://catalog.kazna.app/packs/charity/logos/foodbank-rus.png",
+      "mcc": [8398],
+      "website": "https://foodbankrus.ru"
+    },
+    {
+      "key": "nochlezhka",
+      "name": { "en": "Nochlezhka", "ru": "Ночлежка" },
+      "logo": "https://catalog.kazna.app/packs/charity/logos/nochlezhka.png",
+      "mcc": [8398],
+      "website": "https://homeless.ru"
+    },
+    {
+      "key": "fond-vera",
+      "name": { "en": "Vera Hospice Fund", "ru": "Фонд «Вера»" },
+      "logo": "https://catalog.kazna.app/packs/charity/logos/fond-vera.png",
+      "mcc": [8398],
+      "website": "https://fondvera.ru"
+    },
+    {
+      "key": "rusfond",
+      "name": { "en": "Rusfond", "ru": "Русфонд" },
+      "logo": "https://catalog.kazna.app/packs/charity/logos/rusfond.png",
+      "mcc": [8398],
+      "website": "https://rusfond.ru"
+    },
+    {
+      "key": "dom-s-mayakom",
+      "name": { "en": "Lighthouse Hospice", "ru": "Дом с маяком" },
+      "logo": "https://catalog.kazna.app/packs/charity/logos/dom-s-mayakom.png",
+      "mcc": [8398],
+      "website": "https://mayak.help"
+    },
+    {
+      "key": "fond-khabenskogo",
+      "name": { "en": "Khabensky Foundation", "ru": "Фонд Хабенского" },
+      "logo": "https://catalog.kazna.app/packs/charity/logos/fond-khabenskogo.png",
+      "mcc": [8398],
+      "website": "https://bfkh.ru"
+    },
+    {
+      "key": "liniya-zhizni",
+      "name": { "en": "Life Line", "ru": "Линия жизни" },
+      "logo": "https://catalog.kazna.app/packs/charity/logos/liniya-zhizni.png",
+      "mcc": [8398],
+      "website": "https://www.life-line.ru"
+    },
+    {
+      "key": "unicef",
+      "name": { "en": "UNICEF", "ru": "ЮНИСЕФ" },
+      "logo": "https://catalog.kazna.app/packs/charity/logos/unicef.png",
+      "mcc": [8398],
+      "website": "https://www.unicef.org"
+    },
+    {
+      "key": "wikipedia",
+      "name": { "en": "Wikipedia", "ru": "Википедия" },
+      "logo": "https://catalog.kazna.app/packs/charity/logos/wikipedia.png",
+      "mcc": [8398],
+      "website": "https://donate.wikimedia.org"
+    },
+    {
+      "key": "msf",
+      "name": { "en": "Doctors Without Borders (MSF)", "ru": "Врачи без границ" },
+      "logo": "https://catalog.kazna.app/packs/charity/logos/msf.png",
+      "mcc": [8398],
+      "website": "https://www.msf.org"
+    }
+  ]
+}

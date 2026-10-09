@@ -1,0 +1,141 @@
+{
+  "uber": {
+    "source": "https://catalog.kazna.app/packs/global-brands/logos/uber.png",
+    "kind": "same logo as global-brands",
+    "licence": "Trademark",
+    "note": "shared key, logo copied from global-brands"
+  },
+  "bolt": {
+    "source": "https://commons.wikimedia.org/wiki/File:Bolt Technology logo.svg",
+    "kind": "Wikimedia Commons SVG",
+    "licence": "Public domain; trademark",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin",
+    "note": "shared key, logo copied from ge-retail"
+  },
+  "lyft": {
+    "source": "https://commons.wikimedia.org/wiki/File:Lyft_logo_2025.svg",
+    "kind": "Wikimedia Commons SVG",
+    "licence": "Public domain; trademark",
+    "fetched": "2026-10-09",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "freenow": {
+    "source": "https://www.free-now.com/",
+    "kind": "brand site inline SVG",
+    "licence": "Trademark",
+    "note": "footer symbol, white recoloured to the brand red #E80046; now part of Lyft",
+    "fetched": "2026-10-09",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "cabify": {
+    "source": "https://brand.cabify.com/static/6134c2feabb9fe2431c45163_Cabify%20Logo.svg",
+    "kind": "official brand portal SVG",
+    "licence": "Trademark",
+    "note": "white wordmark recoloured to brand purple #7145D6",
+    "fetched": "2026-10-09",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "grab": {
+    "source": "https://commons.wikimedia.org/wiki/File:Grab_Logo.svg",
+    "kind": "Wikimedia Commons SVG",
+    "licence": "Public domain; trademark",
+    "fetched": "2026-10-09",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "gojek": {
+    "source": "https://commons.wikimedia.org/wiki/File:Gojek_logo_2022.svg",
+    "kind": "Wikimedia Commons SVG",
+    "licence": "Public domain; trademark",
+    "note": "symbol only",
+    "fetched": "2026-10-09",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "careem": {
+    "source": "https://commons.wikimedia.org/wiki/File:Careem Logo.svg",
+    "kind": "Wikimedia Commons SVG",
+    "licence": "Public domain; trademark",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin",
+    "note": "shared key, logo copied from ae-retail"
+  },
+  "uber-eats": {
+    "source": "https://commons.wikimedia.org/wiki/File:Uber_Eats_2020_logo.svg",
+    "kind": "Wikimedia Commons SVG",
+    "licence": "Public domain; trademark",
+    "fetched": "2026-10-09",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "deliveroo": {
+    "source": "https://commons.wikimedia.org/wiki/File:Deliveroo_logo.svg",
+    "kind": "Wikimedia Commons SVG",
+    "licence": "Public domain; trademark",
+    "note": "kangaroo only",
+    "fetched": "2026-10-09",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "just-eat": {
+    "source": "https://www.lieferando.de/",
+    "kind": "brand site inline SVG",
+    "licence": "Trademark",
+    "note": "Just Eat Takeaway symbol, currentColor #FF8000",
+    "fetched": "2026-10-09",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "lieferando": {
+    "source": "https://www.lieferando.de/",
+    "kind": "brand site inline SVG",
+    "licence": "Trademark",
+    "note": "same Just Eat Takeaway symbol",
+    "fetched": "2026-10-09",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "doordash": {
+    "source": "https://www.doordash.com/",
+    "kind": "brand site inline SVG",
+    "licence": "Trademark",
+    "note": "dash symbol, CSS var white recoloured to DoorDash red #FF3008",
+    "fetched": "2026-10-09",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "foodpanda": {
+    "source": "https://www.foodpanda.com/wp-content/uploads/2023/06/foodpanda_logo_2023.svg",
+    "kind": "corporate site SVG",
+    "licence": "Trademark",
+    "note": "panda box only",
+    "fetched": "2026-10-09",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "glovo": {
+    "source": "https://commons.wikimedia.org/wiki/File:Glovo_teal_logo.svg",
+    "kind": "Wikimedia Commons SVG",
+    "licence": "Public domain; trademark",
+    "note": "current teal wordmark; shared key, logo copied from kz-retail",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "wolt": {
+    "source": "https://wolt.com/",
+    "kind": "brand site inline SVG",
+    "licence": "Trademark",
+    "note": "filled with site cyan #00C2E8; shared key, logo copied from ge-retail",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "bolt-food": {
+    "source": "https://commons.wikimedia.org/wiki/File:Bolt_Food_logo_2025.svg",
+    "kind": "Wikimedia Commons SVG",
+    "licence": "Public domain; trademark",
+    "note": "wordmark; shared key, logo copied from ua-retail",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "talabat": {
+    "source": "https://www.talabat.com/assets/images/remix-logo.svg",
+    "kind": "brand site SVG",
+    "licence": "Trademark",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin",
+    "note": "shared key, logo copied from ae-retail"
+  }
+}

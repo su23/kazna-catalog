@@ -1607,6 +1607,50 @@
         "https://catalog.kazna.app/packs/esim/logos/yesim.png",
         "https://catalog.kazna.app/packs/esim/logos/saily.png"
       ]
+    },
+    {
+      "id": "charity",
+      "type": "payees",
+      "version": 1,
+      "name": {
+        "en": "Charity",
+        "ru": "Благотворительность"
+      },
+      "description": {
+        "en": "Charities and donation funds — Podari Zhizn, Food Bank Rus, Nochlezhka, Vera Hospice Fund and 7 more",
+        "ru": "Благотворительные фонды и пожертвования — Подари жизнь, Банк еды «Русь», Ночлежка, Фонд «Вера» и ещё 7"
+      },
+      "tags": ["russia", "global", "charity"],
+      "entity_count": 11,
+      "pack_url": "https://catalog.kazna.app/packs/charity/pack.json",
+      "preview_logos": [
+        "https://catalog.kazna.app/packs/charity/logos/podari-zhizn.png",
+        "https://catalog.kazna.app/packs/charity/logos/foodbank-rus.png",
+        "https://catalog.kazna.app/packs/charity/logos/nochlezhka.png",
+        "https://catalog.kazna.app/packs/charity/logos/fond-vera.png"
+      ]
+    },
+    {
+      "id": "delivery-taxi-abroad",
+      "type": "payees",
+      "version": 1,
+      "name": {
+        "en": "Taxi & Delivery Abroad",
+        "ru": "Такси и доставка за рубежом"
+      },
+      "description": {
+        "en": "Ride-hailing and food delivery outside Russia and the CIS — Uber, Bolt, Lyft, Freenow and 14 more",
+        "ru": "Такси и доставка еды за пределами России и СНГ — Убер, Bolt, Лифт, Фринау и ещё 14"
+      },
+      "tags": ["global", "taxi", "delivery"],
+      "entity_count": 18,
+      "pack_url": "https://catalog.kazna.app/packs/delivery-taxi-abroad/pack.json",
+      "preview_logos": [
+        "https://catalog.kazna.app/packs/delivery-taxi-abroad/logos/uber.png",
+        "https://catalog.kazna.app/packs/delivery-taxi-abroad/logos/bolt.png",
+        "https://catalog.kazna.app/packs/delivery-taxi-abroad/logos/lyft.png",
+        "https://catalog.kazna.app/packs/delivery-taxi-abroad/logos/freenow.png"
+      ]
     }
   ]
 }

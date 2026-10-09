@@ -1,0 +1,137 @@
+{
+  "id": "delivery-taxi-abroad",
+  "version": 1,
+  "type": "payees",
+  "name": {
+    "en": "Taxi & Delivery Abroad",
+    "ru": "Такси и доставка за рубежом"
+  },
+  "payees": [
+    {
+      "key": "uber",
+      "name": { "en": "Uber", "ru": "Убер" },
+      "logo": "https://catalog.kazna.app/packs/delivery-taxi-abroad/logos/uber.png",
+      "mcc": [4121],
+      "website": "https://uber.com"
+    },
+    {
+      "key": "bolt",
+      "name": { "en": "Bolt", "ru": "Bolt" },
+      "logo": "https://catalog.kazna.app/packs/delivery-taxi-abroad/logos/bolt.png",
+      "mcc": [4121],
+      "website": "https://bolt.eu"
+    },
+    {
+      "key": "lyft",
+      "name": { "en": "Lyft", "ru": "Лифт" },
+      "logo": "https://catalog.kazna.app/packs/delivery-taxi-abroad/logos/lyft.png",
+      "mcc": [4121],
+      "website": "https://www.lyft.com"
+    },
+    {
+      "key": "freenow",
+      "name": { "en": "Freenow", "ru": "Фринау" },
+      "logo": "https://catalog.kazna.app/packs/delivery-taxi-abroad/logos/freenow.png",
+      "mcc": [4121],
+      "website": "https://www.free-now.com"
+    },
+    {
+      "key": "cabify",
+      "name": { "en": "Cabify", "ru": "Кабифай" },
+      "logo": "https://catalog.kazna.app/packs/delivery-taxi-abroad/logos/cabify.png",
+      "mcc": [4121],
+      "website": "https://cabify.com"
+    },
+    {
+      "key": "grab",
+      "name": { "en": "Grab", "ru": "Grab" },
+      "logo": "https://catalog.kazna.app/packs/delivery-taxi-abroad/logos/grab.png",
+      "mcc": [4121,  5814],
+      "website": "https://www.grab.com"
+    },
+    {
+      "key": "gojek",
+      "name": { "en": "Gojek", "ru": "Gojek" },
+      "logo": "https://catalog.kazna.app/packs/delivery-taxi-abroad/logos/gojek.png",
+      "mcc": [4121,  5814],
+      "website": "https://www.gojek.com"
+    },
+    {
+      "key": "careem",
+      "name": { "en": "Careem", "ru": "Карим" },
+      "logo": "https://catalog.kazna.app/packs/delivery-taxi-abroad/logos/careem.png",
+      "mcc": [4121,  5814],
+      "website": "https://www.careem.com"
+    },
+    {
+      "key": "uber-eats",
+      "name": { "en": "Uber Eats", "ru": "Uber Eats" },
+      "logo": "https://catalog.kazna.app/packs/delivery-taxi-abroad/logos/uber-eats.png",
+      "mcc": [5814],
+      "website": "https://www.ubereats.com"
+    },
+    {
+      "key": "deliveroo",
+      "name": { "en": "Deliveroo", "ru": "Деливеру" },
+      "logo": "https://catalog.kazna.app/packs/delivery-taxi-abroad/logos/deliveroo.png",
+      "mcc": [5814],
+      "website": "https://deliveroo.com"
+    },
+    {
+      "key": "just-eat",
+      "name": { "en": "Just Eat", "ru": "Just Eat" },
+      "logo": "https://catalog.kazna.app/packs/delivery-taxi-abroad/logos/just-eat.png",
+      "mcc": [5814],
+      "website": "https://www.just-eat.com"
+    },
+    {
+      "key": "lieferando",
+      "name": { "en": "Lieferando", "ru": "Lieferando" },
+      "logo": "https://catalog.kazna.app/packs/delivery-taxi-abroad/logos/lieferando.png",
+      "mcc": [5814],
+      "website": "https://www.lieferando.de"
+    },
+    {
+      "key": "doordash",
+      "name": { "en": "DoorDash", "ru": "DoorDash" },
+      "logo": "https://catalog.kazna.app/packs/delivery-taxi-abroad/logos/doordash.png",
+      "mcc": [5814],
+      "website": "https://www.doordash.com"
+    },
+    {
+      "key": "foodpanda",
+      "name": { "en": "foodpanda", "ru": "Фудпанда" },
+      "logo": "https://catalog.kazna.app/packs/delivery-taxi-abroad/logos/foodpanda.png",
+      "mcc": [5814],
+      "website": "https://www.foodpanda.com"
+    },
+    {
+      "key": "glovo",
+      "name": { "en": "Glovo", "ru": "Glovo" },
+      "logo": "https://catalog.kazna.app/packs/delivery-taxi-abroad/logos/glovo.png",
+      "mcc": [5814,  4215],
+      "website": "https://glovoapp.com"
+    },
+    {
+      "key": "wolt",
+      "name": { "en": "Wolt", "ru": "Wolt" },
+      "logo": "https://catalog.kazna.app/packs/delivery-taxi-abroad/logos/wolt.png",
+      "mcc": [5814,  4215],
+      "website": "https://wolt.com"
+    },
+    {
+      "key": "bolt-food",
+      "name": { "en": "Bolt Food", "ru": "Bolt Food", "uk": "Bolt Food" },
+      "logo": "https://catalog.kazna.app/packs/delivery-taxi-abroad/logos/bolt-food.png",
+      "mcc": [5814,  4215],
+      "website": "https://food.bolt.eu"
+    },
+    {
+      "key": "talabat",
+      "name": { "en": "talabat", "ru": "Талабат" },
+      "logo": "https://catalog.kazna.app/packs/delivery-taxi-abroad/logos/talabat.png",
+      "mcc": [5814],
+      "website": "https://www.talabat.com"
+    }
+  ]
+}
