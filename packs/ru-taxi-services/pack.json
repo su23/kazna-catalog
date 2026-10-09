@@ -1,0 +1,60 @@
+{
+  "id": "ru-taxi-services",
+  "version": 1,
+  "type": "payees",
+  "name": {
+    "en": "Taxi & Services",
+    "ru": "Такси и услуги"
+  },
+  "payees": [
+    {
+      "key": "yandex-go",
+      "name": { "en": "Yandex Go", "ru": "Яндекс Go" },
+      "logo": "https://catalog.kazna.app/packs/ru-taxi-services/logos/yandex-go.png",
+      "mcc": [4121],
+      "website": "https://go.yandex.ru"
+    },
+    {
+      "key": "taxi-maxim",
+      "name": { "en": "Maxim", "ru": "Такси Максим" },
+      "logo": "https://catalog.kazna.app/packs/ru-taxi-services/logos/taxi-maxim.png",
+      "mcc": [4121],
+      "website": "https://taximaxim.ru"
+    },
+    {
+      "key": "indrive",
+      "name": { "en": "inDrive", "ru": "inDrive" },
+      "logo": "https://catalog.kazna.app/packs/ru-taxi-services/logos/indrive.png",
+      "mcc": [4121],
+      "website": "https://indrive.com"
+    },
+    {
+      "key": "citydrive",
+      "name": { "en": "Citydrive", "ru": "Ситидрайв" },
+      "logo": "https://catalog.kazna.app/packs/ru-taxi-services/logos/citydrive.png",
+      "mcc": [7512,  7519],
+      "website": "https://citydrive.ru"
+    },
+    {
+      "key": "profi-ru",
+      "name": { "en": "Profi.ru", "ru": "Профи.ру" },
+      "logo": "https://catalog.kazna.app/packs/ru-taxi-services/logos/profi-ru.png",
+      "mcc": [7299],
+      "website": "https://profi.ru"
+    },
+    {
+      "key": "youdo",
+      "name": { "en": "YouDo", "ru": "ЮДу" },
+      "logo": "https://catalog.kazna.app/packs/ru-taxi-services/logos/youdo.png",
+      "mcc": [7299],
+      "website": "https://youdo.com"
+    },
+    {
+      "key": "avito",
+      "name": { "en": "Avito", "ru": "Авито" },
+      "logo": "https://catalog.kazna.app/packs/ru-taxi-services/logos/avito.png",
+      "mcc": [5999,  7389],
+      "website": "https://avito.ru"
+    }
+  ]
+}

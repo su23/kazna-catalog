@@ -1,0 +1,59 @@
+{
+  "hoff": {
+    "source": "https://catalog.kazna.app/packs/ru-home-improvement/logos/hoff.png",
+    "kind": "same logo as ru-home-improvement",
+    "licence": "Trademark",
+    "note": "shared key, logo copied from ru-home-improvement"
+  },
+  "askona": {
+    "source": "https://cdn.askona.ru/local/templates/assets/img/header/logo.svg",
+    "kind": "brand site SVG",
+    "licence": "Trademark",
+    "note": "dotted ring symbol",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "ormatek": {
+    "source": "https://ieqpg7lls6.a.trbcdn.net/local/images/favicon/safari-pinned-tab.svg",
+    "kind": "brand site mask icon SVG",
+    "licence": "Trademark",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "divan-ru": {
+    "source": "https://cdn.servicecdn.ru/@eva/node/website/_next/static/media/rus.3oo-aa7di-95p.svg",
+    "kind": "brand site SVG",
+    "licence": "Trademark",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "mnogo-mebeli": {
+    "source": "https://mnogomebeli.com/local/templates/mm_2021/frontend/dist/assets/img/svg/logo_mm_new.svg",
+    "kind": "brand site SVG",
+    "licence": "Trademark",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "shatura": {
+    "source": "https://www.shatura.com/local/templates/page/images/logo.svg",
+    "kind": "brand site SVG",
+    "licence": "Trademark",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "stolplit": {
+    "source": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/ac/de/96/acde9615-58a7-837c-51ad-96c8be61cbcf/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.png",
+    "kind": "App Store icon (seller EcoComfort OOO)",
+    "licence": "Trademark",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "galamart": {
+    "source": "https://galamart.ru/",
+    "kind": "brand site inline SVG",
+    "licence": "Trademark",
+    "note": "cart-and-star symbol",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  }
+}

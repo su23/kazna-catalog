@@ -1343,6 +1343,94 @@
         "https://catalog.kazna.app/packs/cloud-storage/logos/onedrive.png",
         "https://catalog.kazna.app/packs/cloud-storage/logos/dropbox.png"
       ]
+    },
+    {
+      "id": "fast-food",
+      "type": "payees",
+      "version": 1,
+      "name": {
+        "en": "Fast Food & Coffee",
+        "ru": "Фастфуд и кофейни"
+      },
+      "description": {
+        "en": "Fast food and coffee chains worldwide — McDonald's, KFC, Burger King, Starbucks and 10 more",
+        "ru": "Сети фастфуда и кофеен по всему миру — Макдоналдс, КФС, Бургер Кинг, Старбакс и ещё 10"
+      },
+      "tags": ["global", "food", "cafes"],
+      "entity_count": 14,
+      "pack_url": "https://catalog.kazna.app/packs/fast-food/pack.json",
+      "preview_logos": [
+        "https://catalog.kazna.app/packs/fast-food/logos/mcdonalds.png",
+        "https://catalog.kazna.app/packs/fast-food/logos/kfc.png",
+        "https://catalog.kazna.app/packs/fast-food/logos/burger-king.png",
+        "https://catalog.kazna.app/packs/fast-food/logos/starbucks.png"
+      ]
+    },
+    {
+      "id": "ru-taxi-services",
+      "type": "payees",
+      "version": 1,
+      "name": {
+        "en": "Taxi & Services",
+        "ru": "Такси и услуги"
+      },
+      "description": {
+        "en": "Taxi, carsharing and home services in Russia — Yandex Go, Maxim, inDrive, Citydrive and 3 more",
+        "ru": "Такси, каршеринг и бытовые услуги — Яндекс Go, Такси Максим, inDrive, Ситидрайв и ещё 3"
+      },
+      "tags": ["russia", "taxi", "services"],
+      "entity_count": 7,
+      "pack_url": "https://catalog.kazna.app/packs/ru-taxi-services/pack.json",
+      "preview_logos": [
+        "https://catalog.kazna.app/packs/ru-taxi-services/logos/yandex-go.png",
+        "https://catalog.kazna.app/packs/ru-taxi-services/logos/taxi-maxim.png",
+        "https://catalog.kazna.app/packs/ru-taxi-services/logos/indrive.png",
+        "https://catalog.kazna.app/packs/ru-taxi-services/logos/citydrive.png"
+      ]
+    },
+    {
+      "id": "ru-furniture",
+      "type": "payees",
+      "version": 1,
+      "name": {
+        "en": "Furniture",
+        "ru": "Мебель"
+      },
+      "description": {
+        "en": "Furniture and home goods chains in Russia — Hoff, Askona, Ormatek, Divan.ru and 4 more",
+        "ru": "Мебель и товары для дома — Хофф, Аскона, Орматек, Divan.ru и ещё 4"
+      },
+      "tags": ["russia", "furniture", "retail"],
+      "entity_count": 8,
+      "pack_url": "https://catalog.kazna.app/packs/ru-furniture/pack.json",
+      "preview_logos": [
+        "https://catalog.kazna.app/packs/ru-furniture/logos/hoff.png",
+        "https://catalog.kazna.app/packs/ru-furniture/logos/askona.png",
+        "https://catalog.kazna.app/packs/ru-furniture/logos/ormatek.png",
+        "https://catalog.kazna.app/packs/ru-furniture/logos/divan-ru.png"
+      ]
+    },
+    {
+      "id": "antivirus",
+      "type": "payees",
+      "version": 1,
+      "name": {
+        "en": "Antivirus & Security",
+        "ru": "Антивирусы"
+      },
+      "description": {
+        "en": "Antivirus and security subscriptions — Kaspersky, Dr.Web, ESET, Bitdefender and 4 more",
+        "ru": "Подписки на антивирусы и защиту — Kaspersky, Dr.Web, ESET, Bitdefender и ещё 4"
+      },
+      "tags": ["global", "security", "software"],
+      "entity_count": 8,
+      "pack_url": "https://catalog.kazna.app/packs/antivirus/pack.json",
+      "preview_logos": [
+        "https://catalog.kazna.app/packs/antivirus/logos/kaspersky.png",
+        "https://catalog.kazna.app/packs/antivirus/logos/drweb.png",
+        "https://catalog.kazna.app/packs/antivirus/logos/eset.png",
+        "https://catalog.kazna.app/packs/antivirus/logos/bitdefender.png"
+      ]
     }
   ]
 }

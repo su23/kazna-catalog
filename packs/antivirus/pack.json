@@ -1,0 +1,67 @@
+{
+  "id": "antivirus",
+  "version": 1,
+  "type": "payees",
+  "name": {
+    "en": "Antivirus & Security",
+    "ru": "Антивирусы"
+  },
+  "payees": [
+    {
+      "key": "kaspersky",
+      "name": { "en": "Kaspersky", "ru": "Kaspersky" },
+      "logo": "https://catalog.kazna.app/packs/antivirus/logos/kaspersky.png",
+      "mcc": [5734,  5817,  7372],
+      "website": "https://www.kaspersky.ru"
+    },
+    {
+      "key": "drweb",
+      "name": { "en": "Dr.Web", "ru": "Dr.Web" },
+      "logo": "https://catalog.kazna.app/packs/antivirus/logos/drweb.png",
+      "mcc": [5734,  5817,  7372],
+      "website": "https://www.drweb.ru"
+    },
+    {
+      "key": "eset",
+      "name": { "en": "ESET", "ru": "ESET" },
+      "logo": "https://catalog.kazna.app/packs/antivirus/logos/eset.png",
+      "mcc": [5734,  5817,  7372],
+      "website": "https://www.eset.com"
+    },
+    {
+      "key": "bitdefender",
+      "name": { "en": "Bitdefender", "ru": "Bitdefender" },
+      "logo": "https://catalog.kazna.app/packs/antivirus/logos/bitdefender.png",
+      "mcc": [5734,  5817,  7372],
+      "website": "https://www.bitdefender.com"
+    },
+    {
+      "key": "norton",
+      "name": { "en": "Norton", "ru": "Norton" },
+      "logo": "https://catalog.kazna.app/packs/antivirus/logos/norton.png",
+      "mcc": [5734,  5817,  7372],
+      "website": "https://us.norton.com"
+    },
+    {
+      "key": "avast",
+      "name": { "en": "Avast", "ru": "Avast" },
+      "logo": "https://catalog.kazna.app/packs/antivirus/logos/avast.png",
+      "mcc": [5734,  5817,  7372],
+      "website": "https://www.avast.com"
+    },
+    {
+      "key": "mcafee",
+      "name": { "en": "McAfee", "ru": "McAfee" },
+      "logo": "https://catalog.kazna.app/packs/antivirus/logos/mcafee.png",
+      "mcc": [5734,  5817,  7372],
+      "website": "https://www.mcafee.com"
+    },
+    {
+      "key": "malwarebytes",
+      "name": { "en": "Malwarebytes", "ru": "Malwarebytes" },
+      "logo": "https://catalog.kazna.app/packs/antivirus/logos/malwarebytes.png",
+      "mcc": [5734,  5817,  7372],
+      "website": "https://www.malwarebytes.com"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "id": "ru-furniture",
+  "version": 1,
+  "type": "payees",
+  "name": {
+    "en": "Furniture",
+    "ru": "Мебель"
+  },
+  "payees": [
+    {
+      "key": "hoff",
+      "name": { "en": "Hoff", "ru": "Хофф" },
+      "logo": "https://catalog.kazna.app/packs/ru-furniture/logos/hoff.png",
+      "mcc": [5712,  5719],
+      "website": "https://hoff.ru"
+    },
+    {
+      "key": "askona",
+      "name": { "en": "Askona", "ru": "Аскона" },
+      "logo": "https://catalog.kazna.app/packs/ru-furniture/logos/askona.png",
+      "mcc": [5712,  5719],
+      "website": "https://www.askona.ru"
+    },
+    {
+      "key": "ormatek",
+      "name": { "en": "Ormatek", "ru": "Орматек" },
+      "logo": "https://catalog.kazna.app/packs/ru-furniture/logos/ormatek.png",
+      "mcc": [5712],
+      "website": "https://ormatek.com"
+    },
+    {
+      "key": "divan-ru",
+      "name": { "en": "Divan.ru", "ru": "Divan.ru" },
+      "logo": "https://catalog.kazna.app/packs/ru-furniture/logos/divan-ru.png",
+      "mcc": [5712],
+      "website": "https://www.divan.ru"
+    },
+    {
+      "key": "mnogo-mebeli",
+      "name": { "en": "Mnogo Mebeli", "ru": "Много Мебели" },
+      "logo": "https://catalog.kazna.app/packs/ru-furniture/logos/mnogo-mebeli.png",
+      "mcc": [5712],
+      "website": "https://mnogomebeli.com"
+    },
+    {
+      "key": "shatura",
+      "name": { "en": "Shatura", "ru": "Шатура" },
+      "logo": "https://catalog.kazna.app/packs/ru-furniture/logos/shatura.png",
+      "mcc": [5712],
+      "website": "https://www.shatura.com"
+    },
+    {
+      "key": "stolplit",
+      "name": { "en": "Stolplit", "ru": "Столплит" },
+      "logo": "https://catalog.kazna.app/packs/ru-furniture/logos/stolplit.png",
+      "mcc": [5712],
+      "website": "https://www.stolplit.ru"
+    },
+    {
+      "key": "galamart",
+      "name": { "en": "Galamart", "ru": "Галамарт" },
+      "logo": "https://catalog.kazna.app/packs/ru-furniture/logos/galamart.png",
+      "mcc": [5719,  5331],
+      "website": "https://galamart.ru"
+    }
+  ]
+}

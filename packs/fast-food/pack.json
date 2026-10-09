@@ -1,0 +1,109 @@
+{
+  "id": "fast-food",
+  "version": 1,
+  "type": "payees",
+  "name": {
+    "en": "Fast Food & Coffee",
+    "ru": "Фастфуд и кофейни"
+  },
+  "payees": [
+    {
+      "key": "mcdonalds",
+      "name": { "en": "McDonald's", "ru": "Макдоналдс" },
+      "logo": "https://catalog.kazna.app/packs/fast-food/logos/mcdonalds.png",
+      "mcc": [5814],
+      "website": "https://mcdonalds.com"
+    },
+    {
+      "key": "kfc",
+      "name": { "en": "KFC", "ru": "КФС" },
+      "logo": "https://catalog.kazna.app/packs/fast-food/logos/kfc.png",
+      "mcc": [5814],
+      "website": "https://kfc.com"
+    },
+    {
+      "key": "burger-king",
+      "name": { "en": "Burger King", "ru": "Бургер Кинг" },
+      "logo": "https://catalog.kazna.app/packs/fast-food/logos/burger-king.png",
+      "mcc": [5814],
+      "website": "https://burgerking.com"
+    },
+    {
+      "key": "starbucks",
+      "name": { "en": "Starbucks", "ru": "Старбакс" },
+      "logo": "https://catalog.kazna.app/packs/fast-food/logos/starbucks.png",
+      "mcc": [5814],
+      "website": "https://starbucks.com"
+    },
+    {
+      "key": "subway",
+      "name": { "en": "Subway", "ru": "Сабвей" },
+      "logo": "https://catalog.kazna.app/packs/fast-food/logos/subway.png",
+      "mcc": [5814],
+      "website": "https://subway.com"
+    },
+    {
+      "key": "dominos",
+      "name": { "en": "Domino's", "ru": "Домино'с Пицца" },
+      "logo": "https://catalog.kazna.app/packs/fast-food/logos/dominos.png",
+      "mcc": [5814,  5812],
+      "website": "https://www.dominos.com"
+    },
+    {
+      "key": "pizza-hut",
+      "name": { "en": "Pizza Hut", "ru": "Пицца Хат" },
+      "logo": "https://catalog.kazna.app/packs/fast-food/logos/pizza-hut.png",
+      "mcc": [5814,  5812],
+      "website": "https://www.pizzahut.com"
+    },
+    {
+      "key": "papa-johns",
+      "name": { "en": "Papa Johns", "ru": "Папа Джонс" },
+      "logo": "https://catalog.kazna.app/packs/fast-food/logos/papa-johns.png",
+      "mcc": [5814,  5812],
+      "website": "https://www.papajohns.com"
+    },
+    {
+      "key": "popeyes",
+      "name": { "en": "Popeyes", "ru": "Попайс" },
+      "logo": "https://catalog.kazna.app/packs/fast-food/logos/popeyes.png",
+      "mcc": [5814,  5812],
+      "website": "https://www.popeyes.com"
+    },
+    {
+      "key": "costa-coffee",
+      "name": { "en": "Costa Coffee", "ru": "Коста Кофе" },
+      "logo": "https://catalog.kazna.app/packs/fast-food/logos/costa-coffee.png",
+      "mcc": [5814,  5812],
+      "website": "https://www.costa.co.uk"
+    },
+    {
+      "key": "tim-hortons",
+      "name": { "en": "Tim Hortons", "ru": "Тим Хортонс" },
+      "logo": "https://catalog.kazna.app/packs/fast-food/logos/tim-hortons.png",
+      "mcc": [5814,  5812],
+      "website": "https://www.timhortons.com"
+    },
+    {
+      "key": "dunkin",
+      "name": { "en": "Dunkin'", "ru": "Данкин" },
+      "logo": "https://catalog.kazna.app/packs/fast-food/logos/dunkin.png",
+      "mcc": [5814,  5812],
+      "website": "https://www.dunkindonuts.com"
+    },
+    {
+      "key": "wendys",
+      "name": { "en": "Wendy's", "ru": "Вендис" },
+      "logo": "https://catalog.kazna.app/packs/fast-food/logos/wendys.png",
+      "mcc": [5814,  5812],
+      "website": "https://www.wendys.com"
+    },
+    {
+      "key": "five-guys",
+      "name": { "en": "Five Guys", "ru": "Файв Гайз" },
+      "logo": "https://catalog.kazna.app/packs/fast-food/logos/five-guys.png",
+      "mcc": [5814,  5812],
+      "website": "https://www.fiveguys.com"
+    }
+  ]
+}

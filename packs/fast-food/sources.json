@@ -1,0 +1,99 @@
+{
+  "mcdonalds": {
+    "source": "https://catalog.kazna.app/packs/global-brands/logos/mcdonalds.png",
+    "kind": "same logo as global-brands",
+    "licence": "Trademark",
+    "note": "shared key, logo copied from global-brands"
+  },
+  "kfc": {
+    "source": "https://catalog.kazna.app/packs/global-brands/logos/kfc.png",
+    "kind": "same logo as global-brands",
+    "licence": "Trademark",
+    "note": "shared key, logo copied from global-brands"
+  },
+  "burger-king": {
+    "source": "https://catalog.kazna.app/packs/global-brands/logos/burger-king.png",
+    "kind": "same logo as global-brands",
+    "licence": "Trademark",
+    "note": "shared key, logo copied from global-brands"
+  },
+  "starbucks": {
+    "source": "https://catalog.kazna.app/packs/global-brands/logos/starbucks.png",
+    "kind": "same logo as global-brands",
+    "licence": "Trademark",
+    "note": "shared key, logo copied from global-brands"
+  },
+  "subway": {
+    "source": "https://catalog.kazna.app/packs/global-brands/logos/subway.png",
+    "kind": "same logo as global-brands",
+    "licence": "Trademark",
+    "note": "shared key, logo copied from global-brands"
+  },
+  "dominos": {
+    "source": "https://commons.wikimedia.org/wiki/File:Domino's 2025 (symbol).svg",
+    "kind": "Wikimedia Commons SVG",
+    "licence": "PD-textlogo; trademark",
+    "note": "2025 tile",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "pizza-hut": {
+    "source": "https://commons.wikimedia.org/wiki/File:Pizza Hut 2025.svg",
+    "kind": "Wikimedia Commons SVG",
+    "licence": "PD-textlogo; trademark",
+    "note": "2025 logo",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "papa-johns": {
+    "source": "https://commons.wikimedia.org/wiki/File:Papa Johns logo.svg",
+    "kind": "Wikimedia Commons SVG",
+    "licence": "PD-textlogo; trademark",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "popeyes": {
+    "source": "https://www.popeyes.com/",
+    "kind": "brand site inline SVG",
+    "licence": "Trademark",
+    "note": "#FF7D00",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "costa-coffee": {
+    "source": "https://www.costa.co.uk/",
+    "kind": "brand site inline SVG",
+    "licence": "Trademark",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "tim-hortons": {
+    "source": "https://commons.wikimedia.org/wiki/File:Tim Hortons Logo.svg",
+    "kind": "Wikimedia Commons SVG",
+    "licence": "PD-textlogo; trademark",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "dunkin": {
+    "source": "https://commons.wikimedia.org/wiki/File:Dunkin' 2022.svg",
+    "kind": "Wikimedia Commons SVG",
+    "licence": "PD-textlogo; trademark",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "wendys": {
+    "source": "https://www.wendys.com/themes/custom/wendys_main/wendys-logo.svg",
+    "kind": "brand site SVG",
+    "licence": "Trademark",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "five-guys": {
+    "source": "https://www.fiveguys.com/wp-content/uploads/2024/11/logo-five-guys-square.svg",
+    "kind": "brand site SVG",
+    "licence": "Trademark",
+    "note": "square logo, red box kept",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  }
+}

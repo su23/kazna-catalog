@@ -1,0 +1,53 @@
+{
+  "yandex-go": {
+    "source": "https://commons.wikimedia.org/wiki/File:Yandex_Go_icon.svg",
+    "kind": "Wikimedia Commons SVG",
+    "licence": "Public domain; trademark",
+    "note": "uncropped; shared key, logo copied from ru-transport",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "taxi-maxim": {
+    "source": "https://commons.wikimedia.org/wiki/File:Maxim.svg",
+    "kind": "Wikimedia Commons SVG",
+    "licence": "Public domain; trademark",
+    "note": "white box removed",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "indrive": {
+    "source": "https://indrive.com/images/logo/logo-icon.svg",
+    "kind": "brand site SVG",
+    "licence": "Trademark",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "citydrive": {
+    "source": "https://citydrive.ru/",
+    "kind": "brand site inline SVG",
+    "licence": "Trademark",
+    "note": "«Сити» currentColor resolved to #6E00BE",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "profi-ru": {
+    "source": "https://profi.ru/_next/static/media/logo_red.0734934e.svg",
+    "kind": "brand site SVG",
+    "licence": "Trademark",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "youdo": {
+    "source": "https://assets.youdo.com/_next/static/media/logo.99e28821.svg",
+    "kind": "brand site SVG",
+    "licence": "Trademark",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "avito": {
+    "source": "https://catalog.kazna.app/packs/ru-marketplaces/logos/avito.png",
+    "kind": "same logo as ru-marketplaces",
+    "licence": "Trademark",
+    "note": "shared key, logo copied from ru-marketplaces; covers Авито Услуги"
+  }
+}

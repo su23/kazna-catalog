@@ -1,0 +1,65 @@
+{
+  "kaspersky": {
+    "source": "https://commons.wikimedia.org/wiki/File:Kaspersky icon.svg",
+    "kind": "Wikimedia Commons SVG",
+    "licence": "Public domain; trademark",
+    "note": "K pictogram; the official logo is a wordmark only",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "drweb": {
+    "source": "https://www.drweb.ru/",
+    "kind": "brand site SVG sprite",
+    "licence": "Trademark",
+    "note": "spider only",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "eset": {
+    "source": "https://www.eset.com/",
+    "kind": "brand site inline SVG",
+    "licence": "Trademark",
+    "note": "tagline and (R) removed",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "bitdefender": {
+    "source": "https://commons.wikimedia.org/wiki/File:BitdefenderLogoBlue.svg",
+    "kind": "Wikimedia Commons SVG",
+    "licence": "Public domain; trademark",
+    "note": "white box removed",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "norton": {
+    "source": "https://us.norton.com/content/dam/norton/logo/logo_norton_d.svg",
+    "kind": "brand site SVG",
+    "licence": "Trademark",
+    "note": "check-mark symbol",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "avast": {
+    "source": "https://www.avast.com/content/dam/avast/cb/favicon.svg",
+    "kind": "brand site SVG",
+    "licence": "Trademark",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "mcafee": {
+    "source": "https://media.mcafeeassets.com/etc.clientlibs/unified-ui/assets/resources/images/favicon.svg",
+    "kind": "brand site SVG",
+    "licence": "Trademark",
+    "note": "shield",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "malwarebytes": {
+    "source": "https://www.malwarebytes.com/",
+    "kind": "brand site inline SVG",
+    "licence": "Trademark",
+    "note": "2026 M symbol",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  }
+}
