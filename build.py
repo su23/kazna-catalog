@@ -12,7 +12,11 @@
 Both modes fail on: a pack missing from meta/packs.json, an unknown category, an override
 for a key no pack has, shared payee copies that differ, a missing logo, a budget exceeded,
 a key published in the committed index that vanished without a meta/renamed.json entry, a
-logo copy committed at the base that is gone, or a MIN_APP_BUILD that isn't on the app's scale.
+name published there that is gone from its entry (a brand keeps it in n, a, o or r, a bank in
+n or a), a translit brand whose names aren't one Latin name in every language, a logo copy
+committed at the base that is gone, or a MIN_APP_BUILD that isn't on the app's scale. They warn
+when a name override changes an en name, and when a brand that had countries at the base is
+international now.
 
 Packs stay the authoring format: pack.json and catalog.json v1 are read, never written. The
 index is generated, deterministic and committed, because GitHub Pages serves the repository as
@@ -28,6 +32,7 @@ import json
 import re
 import subprocess
 import sys
+import unicodedata
 from pathlib import Path, PurePosixPath
 
 ROOT = Path(__file__).resolve().parent
@@ -211,14 +216,38 @@ def check_names(where, value, languages=()):
     return ok
 
 
-def check_aliases(where, value):
+def check_aliases(where, value, field="aliases", noun="an alias"):
     if not isinstance(value, list) or not all(is_text(a) for a in value):
-        error(f"{where}: aliases must be a list of non-empty strings")
+        error(f"{where}: {field} must be a list of non-empty strings")
         return False
     if len(set(value)) != len(value):
-        error(f"{where}: an alias is listed twice")
+        error(f"{where}: {noun} is listed twice")
         return False
     return True
+
+
+def check_trimmed(where, texts):
+    """True when no text starts or ends with a space; names in meta/ are compared exactly."""
+    padded = [text for text in texts if text != text.strip()]
+    for text in padded:
+        error(f"{where}: «{text}» starts or ends with a space")
+    return not padded
+
+
+def _is_latin_letter(ch):
+    # Modifier letters (ʼ) carry no script of their own.
+    return unicodedata.category(ch) == "Lm" or unicodedata.name(ch, "").startswith("LATIN ")
+
+
+def is_latin_name(text):
+    """A name written in Latin letters: at least one letter, and every letter Latin ("S7 Airlines", "H&M")."""
+    letters = [ch for ch in text if ch.isalpha()]
+    return bool(letters) and all(_is_latin_letter(ch) for ch in letters)
+
+
+def has_other_script(text):
+    """Whether a name has a letter outside the Latin script («Эппл», «Узум Market»)."""
+    return any(ch.isalpha() and not _is_latin_letter(ch) for ch in text)
 
 
 # ---------------------------------------------------------------------------------------------
@@ -361,7 +390,10 @@ def load_pack_meta(packs, categories):
     return complete
 
 
-ENTITY_FIELDS = ("category", "countries", "aliases", "pick", "full_bleed")
+# name: names by language, merged over the pack's in the index only (pack.json, and so every build
+# that reads packs, keeps its own). former: the names a brand went by before a rebrand (`o`).
+# translit: true marks a name override as a Latinisation of names written in another script.
+ENTITY_FIELDS = ("category", "countries", "aliases", "pick", "full_bleed", "name", "former", "translit")
 
 
 def load_entity_meta(banks_by_key, brand_keys, categories):
@@ -392,14 +424,35 @@ def load_entity_meta(banks_by_key, brand_keys, categories):
             ok = check_countries(where, item["countries"]) and ok
         if "aliases" in item:
             ok = check_aliases(where, item["aliases"]) and ok
-        for flag in ("pick", "full_bleed"):
+        if "name" in item:
+            if check_names(f"{where}: name", item["name"]):
+                ok = check_trimmed(f"{where}: name", item["name"].values()) and ok
+            else:
+                ok = False
+        if "former" in item:
+            if not is_brand:
+                error(f"{where}: former is for brands, and this key is a bank; "
+                      "a bank's earlier names go in its aliases (banks.json has no o)")
+                ok = False
+            elif check_aliases(where, item["former"], "former", "a former name"):
+                ok = check_trimmed(f"{where}: former", item["former"]) and ok
+            else:
+                ok = False
+        for flag in ("pick", "full_bleed", "translit"):
             if flag in item and item[flag] is not True:
                 error(f"{where}: {flag} is either true or left out")
                 ok = False
         if "pick" in item and not is_brand:
             error(f"{where}: pick is for brands, and this key is a bank")
             ok = False
-        if is_bank and is_brand and set(item) & {"countries", "aliases", "full_bleed"}:
+        if "translit" in item:
+            if not is_brand:
+                error(f"{where}: translit is for brands, and this key is a bank")
+                ok = False
+            if "name" not in item:
+                error(f"{where}: translit: true marks a name override as a Latinisation, and there is no name")
+                ok = False
+        if is_bank and is_brand and set(item) & {"countries", "aliases", "full_bleed", "name"}:
             warn(f"{where}: the key is both a bank and a brand, so this applies to both")
         if ok:
             overrides[key] = item
@@ -502,13 +555,40 @@ def solid_color(background):
     return None
 
 
+def merge_names(key, noun, names, override):
+    """The pack's `names` with a meta/entities.json `name` override merged over them, by language,
+    and the pack names the override replaced that are none of the merged names: the brand's `r`.
+
+    The index is all that changes: pack.json, and every build that reads packs, keeps its names.
+    """
+    if not override:
+        return names, []
+    merged = dict(names)
+    merged.update(override)
+    replaced = []
+    for language, text in names.items():
+        if merged[language] != text and text not in merged.values() and text not in replaced:
+            replaced.append(text)
+    where = f"meta/entities.json: {key}"
+    if merged == names:
+        warn(f"{where}: the name override changes none of the {noun}'s names; drop it")
+    elif merged.get("en") != names.get("en"):
+        warn(f"{where}: the name override changes the {noun}'s en name, «{names.get('en')}» -> «{merged.get('en')}». "
+             "en is the name every language without its own shows, and builds that read packs keep the old one; "
+             "make sure that is meant")
+    return merged, replaced
+
+
 def build_banks(bank_packs, overrides, logos):
     banks = []
     for pack in bank_packs:
         for entity in pack.entities:
             key = entity["key"]
             override = overrides.get(key, {})
-            entry = {"k": key, "p": pack.id, "n": entity["name"]}
+            # Banks have no `r`: a name the override replaces stays searchable only as an alias,
+            # which the vanished-name check asks for once the old name has been published.
+            names, _ = merge_names(key, "bank", entity["name"], override.get("name"))
+            entry = {"k": key, "p": pack.id, "n": names}
             group = entity.get("brand")
             if group is not None and group != key:
                 entry["b"] = group
@@ -555,7 +635,9 @@ def check_bank_groups(banks):
             warn(f"bank group {group!r}: only {keys[0]} is in it, and no bank has the key {group!r}")
 
 
-def build_brands(payee_packs, overrides, categories, logos):
+def build_brands(payee_packs, overrides, categories, logos, international_why=None):
+    """The brand entries in index order. `international_why`, when given, gets each international
+    brand's key mapped to what made it international, for the lost-countries warning."""
     copies = {}
     for pack in payee_packs:
         for position, entity in enumerate(pack.entities):
@@ -589,23 +671,58 @@ def build_brands(payee_packs, overrides, categories, logos):
 
         if "countries" in override:
             countries = override["countries"]
+            why = "because meta/entities.json gives it countries []"
         elif "countries" in first:
             countries = first["countries"] or []
+            why = f"because packs/{first_pack.id} gives it countries {canonical(first['countries'])}"
         else:
             # The union over the packs; an international pack makes the brand international.
             countries = []
+            why = None
             for pack, _, _ in found:
                 if not pack.countries:
                     countries = []
+                    why = (f"because {pack.id}, an international pack, lists it: one international pack makes "
+                           "the brand international (the union rule)")
                     break
                 countries += [c for c in pack.countries if c not in countries]
+        if not countries and international_why is not None:
+            international_why[key] = why
 
-        entry = {"k": key, "p": first_pack.id, "n": first["name"], "g": category}
+        names, replaced = merge_names(key, "brand", first["name"], override.get("name"))
+        entry = {"k": key, "p": first_pack.id, "n": names, "g": category}
         if len(found) > 1:
             entry["ps"] = [pack.id for pack, _, _ in found]
         aliases = override.get("aliases", first.get("aliases"))
         if aliases:
             entry["a"] = aliases
+        former = override.get("former")
+        if former:
+            current = [text for text in former if text in names.values()]
+            if current:
+                error(f"meta/entities.json: {key}: «{current[0]}» is one of its names now, so it can't be a former one")
+            entry["o"] = former
+        if replaced:
+            entry["r"] = replaced
+        if override.get("translit"):
+            shown = set(names.values())
+            if len(shown) != 1 or not is_latin_name(next(iter(shown))):
+                named = ", ".join(f"{language} «{text}»" for language, text in sorted(names.items()))
+                # When the override itself is one Latin name, point at the pack's names that differ.
+                targets = set(override["name"].values())
+                target = next(iter(targets)) if len(targets) == 1 else None
+                from_pack = [language for language in sorted(names)
+                             if language not in override["name"] and names[language] != target] \
+                    if target is not None and is_latin_name(target) else []
+                hint = (f" ({', '.join(from_pack)} from the pack: override {'it' if len(from_pack) == 1 else 'them'}"
+                        " too)" if from_pack else "")
+                error(f"meta/entities.json: {key}: translit: true needs one Latin name, the same in every "
+                      f"language, and its names are {named}{hint}")
+            # The transliterations: replaced names written in another script. A Latin name it
+            # replaced (an en change, a spelling fix) stays in `r` only, so a rename never reads it.
+            transliterations = [text for text in replaced if has_other_script(text)]
+            if transliterations:
+                entry["t"] = transliterations
         if countries:
             entry["c"] = countries
         if first.get("mcc"):
@@ -684,21 +801,50 @@ def committed_index(base, name):
         return None
 
 
-def check_published_keys(base, documents):
-    """A key in the committed index never just disappears, and neither does a renamed entry."""
+# The names an entry published that must not just disappear from it, and the fields that keep
+# them. A brand keeps its former (o) and replaced (r) names for good, so a renamed brand is still
+# found by its old name, and a pack's payee still titled the old way still reads as the pack's.
+# Banks have no o or r: a bank's old name stays one of its aliases, which also keeps a bank of
+# the user's titled that way a shadow of the catalog's bank.
+PUBLISHED_NAMES = {"banks": ("n",), "brands": ("n", "o", "r")}
+KEPT_NAMES = {"banks": ("n", "a"), "brands": ("n", "a", "o", "r")}
+
+
+def entry_names(entry, fields):
+    """The texts of an index entry's name fields (`n` by language, the others lists), in order, each once."""
+    found = []
+    for field in fields:
+        value = entry.get(field)
+        texts = value.values() if isinstance(value, dict) else value if isinstance(value, list) else []
+        found += [text for text in texts if isinstance(text, str) and text not in found]
+    return found
+
+
+def listed(texts):
+    return ", ".join(f"«{text}»" for text in texts)
+
+
+def check_published(base, documents, international_why):
+    """Compared with the index committed at `base`: a key never just disappears, nor does a renamed
+    entry or a name; and a brand that had countries there and is international now is pointed out.
+
+    A key renamed since is followed to its new key, whose entry must keep the old key's names.
+    """
     notes = []
     for name, (document, list_name) in documents.items():
         old = committed_index(base, name)
         if old is False:
-            warn(f"{base!r} is not a commit here (or git is missing), so vanished keys were not checked")
+            warn(f"{base!r} is not a commit here (or git is missing), so vanished keys and names were not checked")
             return notes
         if old is None:
-            notes.append(f"{name}: no committed index at {base} yet, so no published keys to keep")
+            notes.append(f"{name}: no committed index at {base} yet, so no published keys or names to keep")
             continue
-        current = {entry["k"] for entry in document[list_name]}
+        by_key = {entry["k"]: entry for entry in document[list_name]}
         renamed = document["renamed"]
-        old_keys = {entry.get("k") for entry in old.get(list_name, []) if isinstance(entry, dict)}
-        for key in sorted(old_keys - current):
+        old_list = old.get(list_name)
+        old_entries = [entry for entry in (old_list if isinstance(old_list, list) else [])
+                       if isinstance(entry, dict) and isinstance(entry.get("k"), str)]
+        for key in sorted({entry["k"] for entry in old_entries} - set(by_key)):
             if key not in renamed:
                 error(f"{INDEX_REL}/{name}: {key!r} was published at {base} and is gone; "
                       "add it to meta/renamed.json with the key that replaced it")
@@ -706,6 +852,38 @@ def check_published_keys(base, documents):
         for key in sorted(set(old_renamed) - set(renamed)):
             error(f"{INDEX_REL}/{name}: the renamed entry {key!r} -> {old_renamed[key]!r} was published at {base} "
                   "and is gone; keep it in meta/renamed.json")
+
+        for entry in old_entries:
+            key = entry["k"]
+            now = by_key.get(key) or by_key.get(renamed.get(key))
+            if now is None:
+                continue  # a vanished key, an error of its own above
+            label = key if now["k"] == key else f"{key} (now {now['k']})"
+            kept = set(entry_names(now, KEPT_NAMES[list_name]))
+            gone = [text for text in entry_names(entry, PUBLISHED_NAMES[list_name]) if text not in kept]
+            if gone:
+                said = (f"the name {listed(gone)} published at {base} is gone" if len(gone) == 1
+                        else f"the names {listed(gone)} published at {base} are gone")
+                if list_name == "brands":
+                    advice = ("a brand keeps every name it published in its n, a, o or r. A name override in "
+                              "meta/entities.json puts the pack names it replaces in r by itself; otherwise add the "
+                              "old name to the brand's aliases there, or to its former names for a rebrand")
+                else:
+                    advice = ("a bank keeps every name it published in its n or a (banks.json has no o or r): "
+                              "add the old name to the bank's aliases in meta/entities.json")
+                error(f"{INDEX_REL}/{name}: {label}: {said}; {advice}")
+            if list_name == "banks":
+                lost = [text for text in entry_names(entry, ("a",)) if text not in kept]
+                if lost:
+                    said = (f"the alias {listed(lost)} published at {base} is gone" if len(lost) == 1
+                            else f"the aliases {listed(lost)} published at {base} are gone")
+                    warn(f"{INDEX_REL}/{name}: {label}: {said}. If it was the bank's name once, keep it: "
+                         "a bank of the user's titled so stops counting as the catalog bank's shadow")
+            had = entry.get("c")
+            if list_name == "brands" and isinstance(had, list) and had and not now.get("c"):
+                why = international_why.get(now["k"]) or "as it has no countries"
+                warn(f"{INDEX_REL}/{name}: {label} had countries ({', '.join(map(str, had))}) at {base} and is "
+                     f"international now, {why}. If that isn't meant, give it its countries in meta/entities.json")
     return notes
 
 
@@ -825,7 +1003,8 @@ def resolve():
     logos = Logos()
     banks = build_banks(bank_packs, overrides, logos)
     check_bank_groups(banks)
-    brands = build_brands(payee_packs, overrides, categories, logos)
+    international_why = {}
+    brands = build_brands(payee_packs, overrides, categories, logos, international_why)
     renamed_banks, renamed_brands = split_renamed(renamed, set(banks_by_key), brand_keys)
 
     used = {brand["g"] for brand in brands}
@@ -835,6 +1014,7 @@ def resolve():
     return Resolved(
         categories=categories, regions=regions, bank_packs=bank_packs, payee_packs=payee_packs,
         logos=logos, banks=banks, brands=brands, renamed_banks=renamed_banks, renamed_brands=renamed_brands,
+        international_why=international_why,
     ), None
 
 
@@ -873,7 +1053,7 @@ def main():
         document["rev"] = index_rev(document)
 
     documents = {"banks.json": (banks_doc, "banks"), "brands.json": (brands_doc, "brands")}
-    notes = check_published_keys(args.base, documents)
+    notes = check_published(args.base, documents, resolved.international_why)
     check_published_logos(args.base)
     check_min_app_build()
 
@@ -940,6 +1120,8 @@ def main():
         + f", {unreferenced} older copies kept",
         f"  {shared} brand keys are shared between packs; "
         f"renamed: {len(renamed_banks)} bank(s), {len(renamed_brands)} brand(s)",
+        "  Brands with replaced names (r): {}, with transliterations (t): {}, with former names (o): {}".format(
+            *(sum(1 for brand in brands if field in brand) for field in ("r", "t", "o"))),
         "  Brands by category: " + ", ".join(
             f"{cid} {by_category.get(cid, 0)}"
             for cid, _ in sorted(categories.items(), key=lambda pair: pair[1]["rank"])),

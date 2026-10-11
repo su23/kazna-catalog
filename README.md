@@ -94,7 +94,7 @@ A payee pack has `payees` and a bank pack has `banks`, never both. A pack's rank
 | `key`, `name`, `logo` | Required | every build |
 | `mcc` | Merchant category codes, 1–9999 | the v2 index only (builds parse it from pack.json but never use it) |
 | `website` | The brand's site | the v2 index only (likewise) |
-| `aliases` | Other names people search by: former names, short forms, other scripts | the v2 index only |
+| `aliases` | Other names people search by: short forms, other scripts, misspellings. A brand's earlier names go in `former` in `meta/entities.json` instead. | the v2 index only |
 | `countries` | ISO codes, or `null` for international; replaces the countries of the packs that list the key | the v2 index only |
 | `category` | A category id from `meta/categories.json`, in place of the pack's default | the v2 index only |
 | `match` | `"pick"` when the name is too generic (МЕТРО, Claude): the app suggests the brand but never links a payee of the user's to it by name alone | install and update, from 1.12.17 |
@@ -120,7 +120,7 @@ A payee pack has `payees` and a bank pack has `banks`, never both. A pack's rank
 | `brand` | The group this entry is one country of. The app shows each group as one bank. |
 | `aliases` | Other names people search by (Тинькофф for T-Bank). Read by the v2 index only. |
 
-`meta/entities.json` overrides `aliases`, `countries` and `category` (see [meta/](#meta)).
+`meta/entities.json` overrides `aliases`, `countries`, `category` and `name` (see [meta/](#meta)), in the v2 index only.
 
 ### Keys
 
@@ -165,9 +165,28 @@ What the v2 index adds to the packs. It overrides anything a pack.json says, and
 |---|---|
 | `meta/categories.json` | The brand categories: `id`, `rank`, `icon` (a short id the app maps to its own glyph), `color` (`#RRGGBB`) and `n`, names in en, ru, de, es and fr. |
 | `meta/packs.json` | **Every** pack: `rank`, `countries` (`[]` means international) and, for payee packs, the `category` its entries get unless they say otherwise. The build fails on a pack that is missing. |
-| `meta/entities.json` | Overrides by key: `category`, `countries`, `aliases`, `pick: true` (suggest, never link by name), `full_bleed: true` (a tile the app can't detect). An override for a key no pack has fails the build. A key that is both a bank and a brand (paypal) gets the override in both files. |
+| `meta/entities.json` | Overrides by key: `category`, `countries`, `aliases`, `pick: true` (suggest, never link by name), `full_bleed: true` (a tile the app can't detect), and the names below: `name`, `former`, `translit: true`. An override for a key no pack has fails the build. A key that is both a bank and a brand (paypal) gets the override in both files, except `former` and `translit`, which are for brands only. |
 | `meta/regions.json` | `reserve` currencies, currency → country `regions` overrides, and short `country_names`. |
 | `meta/renamed.json` | Old key → the key that replaced it, a key of the same kind. Entries are never removed. |
+
+### Names
+
+A name in the index is for good. Search finds a brand by every name it ever had, and the app tells a pack's untouched payee from one the user renamed by comparing its title with the brand's names, so `build.py --check` fails when a name published in the committed index (any language's `n`, and a brand's `o` and `r`) is gone from its entry, or from the entry of the key that replaced it: a brand must keep it in `n`, `a`, `o` or `r`, a bank in `n` or `a`. Aliases alone may go. It warns, though, when a bank alias published there is gone, since an alias is all that keeps a bank's old name.
+
+**Rename in `meta/entities.json`, not in pack.json.** `name` is merged over the pack's names by language, in the index only: pack.json keeps its names, so builds up to 1.12.17 see no change and no version bump is needed. Every pack name it replaces lands in the brand's `r` by itself, so «Эппл» needs no alias to stay searchable.
+
+```json
+"sas":             { "name": { "ru": "Скандинавские Авиалинии" } },
+"zolotaya-korona": { "name": { "en": "Zolotaya Korona" } },
+"apple":           { "name": { "ru": "Apple" }, "translit": true },
+"kuper":           { "former": ["СберМаркет", "SberMarket"] }
+```
+
+- **`name`**: names by language, merged over the pack's. It can add a language but not remove one. An override that changes nothing warns, and so does one that changes an `en` name: `en` is what every language without its own name shows. A bank's `name` replaces its names too, but banks.json has no `r`, so add the name it replaces to the bank's `aliases`, or the check fails.
+- **`former`** (brands only): the names the brand itself went by before a rebrand. They are published as `o`, searched and shown with the brand («Также»). A former name can't be one of its current names. A bank's earlier names go in its `aliases`.
+- **`translit: true`** (brands only, with `name`): the override Latinises a name written in another script (Эппл → Apple). The brand's names must then be one Latin name, the same in every language the brand has, `uk` or `kk` included, or the build fails. The replaced names that aren't Latin are also published as `t`.
+
+Edit a name in pack.json only for something builds up to 1.12.17 must see as well. That needs a version bump (see [Versions](#versions)), and the old name has to stay in `aliases` or `former`.
 
 ## Index v2
 
@@ -193,7 +212,7 @@ banks.json also has `reserve`, `regions` and `country_names` from `meta/regions.
 | `k` | Key | `key` |
 | `p` | Pack | the folder |
 | `b` | Brand group, only on entries whose key isn't the group's; the app groups by `b`, else `k` | `brand` |
-| `n` | Names by language | `name` |
+| `n` | Names by language | `name`, with `name` in `meta/entities.json` merged over it |
 | `a` | Aliases | `meta/entities.json`, else `aliases` |
 | `c` | Countries; absent means international | `meta/entities.json`, else `countries`, else `meta/packs.json` |
 | `h` | Logo hash; absent means no logo | the logo file |
@@ -207,10 +226,13 @@ banks.json also has `reserve`, `regions` and `country_names` from `meta/regions.
 | Field | Meaning | From |
 |---|---|---|
 | `k`, `n`, `a`, `h`, `f` | As for banks | the same |
+| `o` | Former names: what the brand went by before a rebrand. Searched, shown with the brand | `former` in `meta/entities.json` |
+| `r` | Replaced names: every pack name a `name` override replaced and the brand no longer shows. Searched, never shown | worked out by build.py |
+| `t` | Transliterations: the names in `r` that a `translit: true` override replaced and that aren't Latin. No app reads it yet | worked out by build.py |
 | `p` | The first pack, in rank order, that lists the key | |
 | `ps` | Every pack that lists the key, when there is more than one | |
 | `g` | Category id; always present | `meta/entities.json`, else `category`, else the first pack's category in `meta/packs.json` |
-| `c` | Countries; absent means international | `meta/entities.json`, else `countries`, else the union over the packs that list the key (an international pack makes it international) |
+| `c` | Countries; absent means international | `meta/entities.json`, else `countries`, else the union over the packs that list the key (an international pack makes it international, and build.py warns when that takes the countries away from a brand that had them) |
 | `m` | MCC codes | `mcc` |
 | `w` | Website without its scheme or final slash; a path stays (`www.tbank.ru/insurance`) | `website` |
 | `pick` | `1`: suggest, never link by name | `pick` in `meta/entities.json`, or `"match": "pick"` |
@@ -243,7 +265,7 @@ Both exit with status 1 on errors and list warnings separately.
 
 Its warnings:
 - A version went up although nothing builds up to 1.12.17 read changed.
-- Two banks, or two brands, have names or aliases that read the same in search (case, ё/е, Latin accents, punctuation and spaces ignored) in a country they share.
+- Two banks, or two brands, have names, aliases, former or replaced names that read the same in search (case, ё/е, Latin accents, punctuation and spaces ignored) in a country they share.
 - A logo is not 128×128, its URL is not `packs/{id}/logos/{key}.png`, or a file in `logos/` is used by no entity.
 - A pack folder is not listed in catalog.json.
 - A bank's `brand` is shared by no other bank and is no bank's key.
@@ -259,7 +281,16 @@ Without git, or with a `--base` that isn't a commit, the version and key checks 
 - a pack is missing from `meta/packs.json`, a category is unknown, an override names a key no pack has, or a `meta/` file has the wrong shape;
 - the copies of a shared payee differ;
 - a key in the index committed at `--base` (HEAD by default) is gone without a `meta/renamed.json` entry, or an old renamed entry is gone;
+- a name in the index committed at `--base` (an `n`, or a brand's `o` or `r`) is gone from its entry, or from the entry of the key that replaced it: a brand keeps it in `n`, `a`, `o` or `r`, a bank in `n` or `a` (see [Names](#names));
+- a `translit: true` brand's names aren't one Latin name, the same in every language; a former name is one of the brand's names; `former` or `translit` is set for a bank;
 - a file is over its size budget.
+
+It warns when:
+- a `name` override changes an `en` name, or changes nothing;
+- a brand that had countries in the index committed at `--base` is international now, which the union over its packs does when an international pack lists it;
+- a bank alias published at `--base` is gone;
+- an override applies to a key that is both a bank and a brand;
+- a file is over 80% of its budget.
 
 ## Adding a pack
 

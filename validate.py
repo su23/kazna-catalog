@@ -886,12 +886,19 @@ def shared_countries(a, b):
     return ", ".join(sorted(common)) if common else None
 
 
+# The fields of an index entry that search and linking by name read, besides `n`, and what a
+# warning calls a text from each. A brand's former (o) and replaced (r) names count like its
+# aliases: the app finds and links a brand by them too. An empty label names nothing extra.
+NAME_FIELDS = (("a", ""), ("o", "former name"), ("r", "replaced name"))
+
+
 def check_equal_names(broken):
     """Warns about two banks, or two brands, whose names fold to the same text in a country they share.
 
     Search can't tell such a pair apart, and a payee of that name could be linked to either. The
-    entries come from build.py's own reading of the packs and meta/, so their countries and
-    aliases are the ones the index publishes. That reading trusts the packs to fit the schema.
+    entries come from build.py's own reading of the packs and meta/, so their countries, aliases
+    and former and replaced names are the ones the index publishes. That reading trusts the packs
+    to fit the schema.
     """
     if broken:
         warn(f"names were not compared, because {len(broken)} pack(s) have errors")
@@ -907,22 +914,38 @@ def check_equal_names(broken):
     if resolved is None:
         return
     for noun, entries in (("banks", resolved.banks), ("brands", resolved.brands)):
-        by_name = defaultdict(dict)  # folded name -> {key: (entry, the name as written)}
+        by_name = defaultdict(dict)  # folded name -> {key: (entry, the name as written, its label)}
         for entry in entries:
-            for text in list(entry["n"].values()) + entry.get("a", []):
+            texts = [(text, "") for text in entry["n"].values()]
+            texts += [(text, label) for field, label in NAME_FIELDS for text in entry.get(field, [])]
+            for text, label in texts:
                 folded = fold_name(text)
                 if folded:
-                    by_name[folded].setdefault(entry["k"], (entry, text))
+                    by_name[folded].setdefault(entry["k"], (entry, text, label))
         reported = set()
         for folded, found in sorted(by_name.items()):
-            for (key, (a, text_a)), (other, (b, text_b)) in itertools.combinations(sorted(found.items()), 2):
+            for (key, (a, text_a, label_a)), (other, (b, text_b, label_b)) in \
+                    itertools.combinations(sorted(found.items()), 2):
                 where = shared_countries(a, b)
                 if where is None or (key, other) in reported:
                     continue
                 reported.add((key, other))
-                names = f"«{text_a}»" if text_a == text_b else f"«{text_a}» and «{text_b}»"
+                sides = ((text_a, key, label_a), (text_b, other, label_b))
+                if text_a == text_b:
+                    labels = ", ".join(f"{owner}'s {label}" for _, owner, label in sides if label)
+                    names = f"«{text_a}»" + (f" ({labels})" if labels else "")
+                else:
+                    names = " and ".join(f"«{text}»" + (f" ({owner}'s {label})" if label else "")
+                                         for text, owner, label in sides)
+                if "replaced name" in (label_a, label_b):
+                    # build.py writes r by itself, and the name stays for good: there is nothing to drop.
+                    advice = "a replaced name stays for good, so make sure both should answer to it"
+                elif "former name" in (label_a, label_b):
+                    advice = "rename one, or drop the alias or former name"
+                else:
+                    advice = "rename one, or drop the alias"
                 warn(f"{noun} {key} ({a['p']}) and {other} ({b['p']}) both go by {names} in {where}; "
-                     "search can't tell them apart (rename one, or drop the alias)")
+                     f"search can't tell them apart ({advice})")
 
 
 # ---------------------------------------------------------------------------------------------
