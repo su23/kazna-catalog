@@ -47,7 +47,7 @@
     "n": { "en": "Books", "ru": "Книги", "de": "Bücher", "es": "Libros", "fr": "Livres" } },
   { "id": "parcels", "rank": 24, "icon": "package", "color": "#C99A1E",
     "n": { "en": "Parcels & post", "ru": "Посылки и почта", "de": "Pakete & Post", "es": "Paquetería y correos", "fr": "Colis et poste" } },
-  { "id": "government", "rank": 25, "icon": "account_balance", "color": "#4F6378",
+  { "id": "government", "rank": 25, "icon": "gavel", "color": "#4F6378",
     "n": { "en": "Government & taxes", "ru": "Госуслуги и налоги", "de": "Behörden & Steuern", "es": "Trámites e impuestos", "fr": "Administration et impôts" } },
   { "id": "insurance", "rank": 26, "icon": "shield", "color": "#0E7C86",
     "n": { "en": "Insurance", "ru": "Страхование", "de": "Versicherungen", "es": "Seguros", "fr": "Assurances" } },

@@ -133,7 +133,7 @@
 {"ac":"#5700FF","bg":"#5700FF","c":["AE"],"h":"ba0e9503289e6632","k":"wio","n":{"en":"Wio Bank","ru":"Вио Банк"},"p":"ae-banks"},
 {"a":["Револют"],"ac":"#1C1C1E","bg":"#1C1C1E","h":"d73b5b2a7e4bd993","k":"revolut","n":{"en":"Revolut"},"p":"global-banks"},
 {"a":["TransferWise","Вайз"],"ac":"#9FE870","bg":"#163D00","h":"330fcf45280b8db8","k":"wise","n":{"en":"Wise"},"p":"global-banks"},
-{"ac":"#003087","bg":"#003087","h":"649397bbb28bb1e3","k":"paypal","n":{"en":"PayPal"},"p":"global-banks"},
+{"ac":"#003087","bg":"#003087","h":"649397bbb28bb1e3","k":"paypal","n":{"en":"PayPal","ru":"PayPal"},"p":"global-banks"},
 {"ac":"#48AC98","bg":"#191918","c":["DE","AT","FR","ES","IT"],"h":"0f228212169cdf67","k":"n26","n":{"en":"N26"},"p":"global-banks"},
 {"ac":"#FF5B5B","bg":"#FF5B5B","c":["GB"],"h":"6c0e265963eb7122","k":"monzo","n":{"en":"Monzo"},"p":"global-banks"},
 {"ac":"#DB0011","bg":"#DB0011","h":"97767211c84f9481","k":"hsbc","n":{"en":"HSBC"},"p":"global-banks"},
@@ -162,6 +162,6 @@
 "regions":{},
 "renamed":{},
 "reserve":["USD","EUR"],
-"rev":"ae17743adb331988",
-"updated":"2026-10-09"
+"rev":"022744f8e445e713",
+"updated":"2026-10-12"
 }
