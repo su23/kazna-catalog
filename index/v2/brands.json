@@ -64,7 +64,7 @@
 {"c":["AE"],"g":"groceries","h":"bffcd1bb86b971f8","k":"spinneys","m":[5411],"n":{"en":"Spinneys","ru":"Spinneys"},"p":"ae-retail","r":["Спиннис"],"t":["Спиннис"],"w":"www.spinneys.com"},
 {"c":["AE"],"g":"groceries","h":"86ed2d7b0fb4dee6","k":"union-coop","m":[5411],"n":{"en":"Union Coop","ru":"Union Coop"},"p":"ae-retail","r":["Юнион Кооп"],"t":["Юнион Кооп"],"w":"www.unioncoop.ae"},
 {"c":["RU","AM"],"g":"delivery","h":"0d379352cdce03b2","k":"yandex-eda","m":[5812,7299],"n":{"en":"Yandex Eda","ru":"Яндекс Еда"},"p":"ru-food-delivery","ps":["ru-food-delivery","am-retail"],"w":"eda.yandex.ru"},
-{"a":["Delivery Club","Деливери Клаб","Маркет Деливери"],"c":["RU"],"g":"delivery","h":"95e5c6a40f873db2","k":"delivery-club","m":[5812,7299],"n":{"en":"Delivery","ru":"Деливери"},"p":"ru-food-delivery","pick":1,"w":"market-delivery.yandex.ru"},
+{"a":["Маркет Деливери"],"c":["RU"],"g":"delivery","h":"95e5c6a40f873db2","k":"delivery-club","m":[5812,7299],"n":{"en":"Delivery","ru":"Деливери"},"o":["Delivery Club","Деливери Клаб"],"p":"ru-food-delivery","pick":1,"w":"market-delivery.yandex.ru"},
 {"c":["RU"],"g":"delivery","h":"0eafd4844c4c5a29","k":"samokat","m":[5411,7299],"n":{"en":"Samokat","ru":"Самокат"},"p":"ru-food-delivery","w":"samokat.ru"},
 {"c":["RU"],"g":"delivery","h":"7b9bb445d69ebc22","k":"yandex-lavka","m":[5411,7299],"n":{"en":"Yandex Lavka","ru":"Яндекс Лавка"},"p":"ru-food-delivery","w":"lavka.yandex.ru"},
 {"c":["RU"],"g":"delivery","h":"d054f2f859eaaf70","k":"kuper","m":[5411,7299],"n":{"en":"Kuper","ru":"Купер"},"o":["СберМаркет","SberMarket"],"p":"ru-food-delivery","w":"kuper.ru"},
@@ -296,7 +296,7 @@
 {"g":"travel","h":"8749148a71636aa0","k":"lot","m":[3182,4511],"n":{"en":"LOT Polish Airlines","ru":"ЛОТ Польские Авиалинии"},"p":"airlines","w":"lot.com"},
 {"g":"travel","h":"84a096bbc2fe3bc1","k":"virgin-atlantic","m":[3144,4511],"n":{"en":"Virgin Atlantic","ru":"Virgin Atlantic"},"p":"airlines","r":["Вёрджин Атлантик"],"t":["Вёрджин Атлантик"],"w":"virginatlantic.com"},
 {"g":"travel","h":"38ff7269b8e60d63","k":"ryanair","m":[4511],"n":{"en":"Ryanair","ru":"Ryanair"},"p":"airlines","r":["Райанэйр"],"t":["Райанэйр"],"w":"ryanair.com"},
-{"g":"travel","h":"cce500c340e07ca3","k":"easyjet","m":[4511],"n":{"en":"easyJet","ru":"easyJet"},"p":"airlines","r":["Изиджет"],"t":["Изиджет"],"w":"easyjet.com"},
+{"g":"travel","h":"cce500c340e07ca3","k":"easyjet","m":[4511],"n":{"en":"easyJet","ru":"easyJet"},"o":["EasyJet"],"p":"airlines","r":["Изиджет"],"t":["Изиджет"],"w":"easyjet.com"},
 {"g":"travel","h":"e4f576a6bd7af628","k":"emirates","m":[4511],"n":{"en":"Emirates","ru":"Emirates"},"p":"airlines","r":["Эмирейтс"],"t":["Эмирейтс"],"w":"emirates.com"},
 {"g":"travel","h":"5106f5d1d0931e9c","k":"turkish-airlines","m":[3047,4511],"n":{"en":"Turkish Airlines","ru":"Турецкие авиалинии"},"p":"airlines","w":"turkishairlines.com"},
 {"g":"travel","h":"e09742d716464d88","k":"gulf-air","m":[3040,4511],"n":{"en":"Gulf Air","ru":"Gulf Air"},"p":"airlines","r":["Галф Эйр"],"t":["Галф Эйр"],"w":"gulfair.com"},
@@ -611,7 +611,7 @@
 {"g":"work-tools","h":"d64a5f46408cc2df","k":"microsoft-365","m":[5734,7372],"n":{"en":"Microsoft 365","ru":"Microsoft 365"},"p":"work-tools","w":"www.microsoft.com/microsoft-365"},
 {"g":"work-tools","h":"26e136154e4cfa12","k":"linear","m":[5734,7372],"n":{"en":"Linear","ru":"Linear"},"p":"work-tools","w":"linear.app"},
 {"g":"work-tools","h":"dbe1a64cc4d80556","k":"postman","m":[5734,7372],"n":{"en":"Postman","ru":"Postman"},"p":"work-tools","w":"www.postman.com"},
-{"a":["Яндекс Облако","Яндекс Клауд"],"c":["RU"],"g":"hosting","h":"f4f9f227fe013eee","k":"yandex-cloud","m":[7372],"n":{"en":"Yandex Cloud","ru":"Yandex Cloud"},"p":"ru-online-services","ps":["ru-online-services","ru-hosting"],"w":"yandex.cloud"},
+{"a":["Яндекс Клауд"],"c":["RU"],"g":"hosting","h":"f4f9f227fe013eee","k":"yandex-cloud","m":[7372],"n":{"en":"Yandex Cloud","ru":"Yandex Cloud"},"o":["Яндекс Облако"],"p":"ru-online-services","ps":["ru-online-services","ru-hosting"],"w":"yandex.cloud"},
 {"a":["Селектел"],"c":["RU"],"g":"hosting","h":"fdb89097bd899088","k":"selectel","m":[4816,7372],"n":{"en":"Selectel","ru":"Selectel"},"p":"ru-hosting","w":"selectel.ru"},
 {"a":["Таймвеб"],"c":["RU"],"g":"hosting","h":"1c88eea2ac523ec6","k":"timeweb-cloud","m":[4816,7372],"n":{"en":"Timeweb Cloud","ru":"Timeweb Cloud"},"p":"ru-hosting","w":"timeweb.cloud"},
 {"a":["Бегет"],"c":["RU"],"g":"hosting","h":"c65d80544b23e369","k":"beget","m":[4816,7372],"n":{"en":"Beget","ru":"Beget"},"p":"ru-hosting","w":"beget.com"},
@@ -699,6 +699,6 @@
 "logo_path":"index/v2/logos/{h}.png",
 "min_app_build":0,
 "renamed":{"obi":"dom-lenta","sbermarket":"kuper"},
-"rev":"65eb7396416552f4",
-"updated":"2026-10-12"
+"rev":"805b8b586c345605",
+"updated":"2026-10-14"
 }
