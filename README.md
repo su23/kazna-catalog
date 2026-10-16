@@ -8,7 +8,7 @@ Served by GitHub Pages at `https://catalog.kazna.app`, straight from this reposi
 
 You edit `packs/` and `meta/`. The app reads them in two forms:
 
-- **catalog.json (v1) and the packs**, for app builds up to 1.12.17 and for anything later that still lists packs. They stay published, in the shape they have now. Never remove a field or change a type in them, and keep catalog.json up to date by hand.
+- **catalog.json (v1) and the packs**, for app builds before 1.12.18: 1.12.16 and older, as 1.12.17 never shipped. 1.12.18 and later read only the index. They stay published, in the shape they have now. Never remove a field or change a type in them, and keep catalog.json up to date by hand.
 - **index/v2/banks.json and brands.json**, for later builds: every bank and every brand in two files. `build.py` generates them from `packs/` and `meta/`, and they are committed like everything else.
 
 ## Layout
@@ -97,7 +97,7 @@ A payee pack has `payees` and a bank pack has `banks`, never both. A pack's rank
 | `aliases` | Other names people search by: short forms, other scripts, misspellings. A brand's earlier names go in `former` in `meta/entities.json` instead. | the v2 index only |
 | `countries` | ISO codes, or `null` for international; replaces the countries of the packs that list the key | the v2 index only |
 | `category` | A category id from `meta/categories.json`, in place of the pack's default | the v2 index only |
-| `match` | `"pick"` when the name is too generic (МЕТРО, Claude): the app suggests the brand but never links a payee of the user's to it by name alone | install and update, from 1.12.17 |
+| `match` | `"pick"` when the name is too generic (МЕТРО, Claude): the app suggests the brand but never links a payee of the user's to it by name alone. The catalog marks these with `pick: true` in `meta/entities.json` instead | the v2 index only, as `pick`: no released build reads it from pack.json |
 
 **Bank:**
 
@@ -133,7 +133,7 @@ A payee pack has `payees` and a bank pack has `banks`, never both. A pack's rank
 ## Versions
 
 - Each pack has one integer `version`, in pack.json and in its catalog.json entry.
-- Builds up to 1.12.17 download a pack again only when its version goes up, so bump it whenever something **they read** changes. That means the pack's `name`, entries added or removed, and these entry fields:
+- Builds up to 1.12.16 download a pack again only when its version goes up, so bump it whenever something **they read** changes. That means the pack's `name`, entries added or removed, and these entry fields:
   - payees: `key`, `name`, `logo`;
   - banks: `key`, `name`, `logo`, `countries`, `card_background`, `accent_color`, `closed`, `brand`;
   - the bytes of any logo file an entry uses, even for a logo-only fix.
@@ -173,7 +173,7 @@ What the v2 index adds to the packs. It overrides anything a pack.json says, and
 
 A name in the index is for good. Search finds a brand by every name it ever had, and the app tells a pack's untouched payee from one the user renamed by comparing its title with the brand's names, so `build.py --check` fails when a name published in the committed index (any language's `n`, and a brand's `o` and `r`) is gone from its entry, or from the entry of the key that replaced it: a brand must keep it in `n`, `a`, `o` or `r`, a bank in `n` or `a`. Aliases alone may go. It warns, though, when a bank alias published there is gone, since an alias is all that keeps a bank's old name.
 
-**Rename in `meta/entities.json`, not in pack.json.** `name` is merged over the pack's names by language, in the index only: pack.json keeps its names, so builds up to 1.12.17 see no change and no version bump is needed. Every pack name it replaces lands in the brand's `r` by itself, so «Эппл» needs no alias to stay searchable.
+**Rename in `meta/entities.json`, not in pack.json.** `name` is merged over the pack's names by language, in the index only: pack.json keeps its names, so builds up to 1.12.16 see no change and no version bump is needed. Every pack name it replaces lands in the brand's `r` by itself, so «Эппл» needs no alias to stay searchable.
 
 ```json
 "sas":             { "name": { "ru": "Скандинавские Авиалинии" } },
@@ -186,7 +186,7 @@ A name in the index is for good. Search finds a brand by every name it ever had,
 - **`former`** (brands only): the names the brand itself went by before a rebrand. They are published as `o`, searched and shown with the brand («Также»). A former name can't be one of its current names. A bank's earlier names go in its `aliases`.
 - **`translit: true`** (brands only, with `name`): the override Latinises a name written in another script (Эппл → Apple). The brand's names must then be one Latin name, the same in every language the brand has, `uk` or `kk` included, or the build fails. The replaced names that aren't Latin are also published as `t`.
 
-Edit a name in pack.json only for something builds up to 1.12.17 must see as well. That needs a version bump (see [Versions](#versions)), and the old name has to stay in `aliases` or `former`.
+Edit a name in pack.json only for something builds up to 1.12.16 must see as well. That needs a version bump (see [Versions](#versions)), and the old name has to stay in `aliases` or `former`.
 
 ## Index v2
 
@@ -260,11 +260,11 @@ Both exit with status 1 on errors and list warnings separately.
 - A key appears twice in one pack, or a bank key is in more than one pack.
 - The copies of a shared payee differ.
 - A logo file is missing, isn't a valid PNG, or is over 256 KB.
-- A pack changed since the base commit in what builds up to 1.12.17 read (see [Versions](#versions)) without a version bump, or its version went down.
+- A pack changed since the base commit in what builds up to 1.12.16 read (see [Versions](#versions)) without a version bump, or its version went down.
 - A bank or payee key in the packs at the base commit is in no pack of its kind now, and `meta/renamed.json` doesn't name the key that replaced it, or names one no pack of that kind has.
 
 Its warnings:
-- A version went up although nothing builds up to 1.12.17 read changed.
+- A version went up although nothing builds up to 1.12.16 read changed.
 - Two banks, or two brands, have names, aliases, former or replaced names that read the same in search (case, ё/е, Latin accents, punctuation and spaces ignored) in a country they share.
 - A logo is not 128×128, its URL is not `packs/{id}/logos/{key}.png`, or a file in `logos/` is used by no entity.
 - A pack folder is not listed in catalog.json.
@@ -305,6 +305,6 @@ A new country's bank pack installs itself for people in that country only after 
 ## Updating a pack
 
 1. Edit pack.json, or replace logos in place under the same file names.
-2. If something builds up to 1.12.17 read changed (see [Versions](#versions)), bump `version` in both pack.json and catalog.json. Update `entity_count`, `description` and `preview_logos` if they changed, and set `generated_at` to today.
+2. If something builds up to 1.12.16 read changed (see [Versions](#versions)), bump `version` in both pack.json and catalog.json. Update `entity_count`, `description` and `preview_logos` if they changed, and set `generated_at` to today.
 3. If you removed or renamed a key, add `"old-key": "new-key"` to `meta/renamed.json`.
 4. Run `python3 build.py`, then the checks. Commit the pack, catalog.json, `meta/` and `index/v2/` together, and push to `main`.

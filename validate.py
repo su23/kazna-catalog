@@ -4,7 +4,7 @@
     python3 validate.py                       compare the packs with the last commit (HEAD)
     python3 validate.py --base origin/main    or with another commit, such as before a push
 
-Checks the schemas, logos, keys and sources; that a pack changed in what builds up to 1.12.17
+Checks the schemas, logos, keys and sources; that a pack changed in what builds up to 1.12.16
 read has a higher version; that a published key never just disappears; and warns about two
 banks or two brands search can't tell apart. meta/ and the generated index/v2/ are checked by
 `python3 build.py --check`, which has to pass as well.
@@ -600,17 +600,17 @@ def check_sources(packs):
 # ---------------------------------------------------------------------------------------------
 # What was published: version bumps and keys
 
-# What builds up to 1.12.17 act on in an installed pack.json: the fields of PackDefinition,
+# What builds up to 1.12.16 act on in an installed pack.json: the fields of PackDefinition,
 # PackPayeeEntry and PackBankEntry in the app's model/CatalogModels.kt, each with the value the
 # app assumes when it is absent. Those builds read a pack again only when its version goes up, so
 # a change to any of these needs a bump. Nothing else does, and nothing else should get one: a
 # bump shows an update badge to everyone who installed the pack, and an update on 1.12.16 or
 # older retitles its payees. That leaves out aliases, a payee's category and countries (only the
-# v2 index reads them), match (read only at install and update, which download the pack anew), a
-# payee's mcc and website and a bank's website (parsed, never read: newer builds take mcc and
-# website from the v2 index) and the order of the entries (an update adds new ones, but never
-# reorders the ones a user has). Names count in every language: builds up to 1.12.15 pick a name
-# by the device's own language, not only the app's five.
+# v2 index reads them), match (no released build reads it: it came after 1.12.16, and the pack
+# downloads went in 1.12.18), a payee's mcc and website and a bank's website (parsed, never read:
+# newer builds take mcc and website from the v2 index) and the order of the entries (an update
+# adds new ones, but never reorders the ones a user has). Names count in every language: builds
+# up to 1.12.15 pick a name by the device's own language, not only the app's five.
 OLD_APP_PACK_FIELDS = ("id", "type", "name")
 OLD_APP_FIELDS = {
     "payees": {"key": None, "name": {}, "logo": ""},
@@ -678,7 +678,7 @@ def packs_at(base):
 
 
 def old_app_view(data):
-    """The parts of a pack.json that builds up to 1.12.17 act on, leaving out values they assume anyway.
+    """The parts of a pack.json that builds up to 1.12.16 act on, leaving out values they assume anyway.
 
     Entries are by key, as their order changes nothing for a user who has the pack.
     """
@@ -698,7 +698,7 @@ def old_app_view(data):
 
 
 def old_app_changes(old, new):
-    """What builds up to 1.12.17 would read differently in `new` than in `old`, in a few words each."""
+    """What builds up to 1.12.16 would read differently in `new` than in `old`, in a few words each."""
     before, after = old_app_view(old), old_app_view(new)
     changes = [f"the pack's {field}" for field in OLD_APP_PACK_FIELDS
                if not same_json(before["pack"][field], after["pack"][field])]
@@ -742,7 +742,7 @@ def changed_since(base):
 
 
 def check_version_bumps(packs, old_packs, base, base_url):
-    """A pack that changed since `base` in what builds up to 1.12.17 read has a higher version,
+    """A pack that changed since `base` in what builds up to 1.12.16 read has a higher version,
     and only such a pack has one.
 
     Those builds re-download a pack only when its version goes up, so a change without a bump
@@ -784,12 +784,12 @@ def check_version_bumps(packs, old_packs, base, base_url):
             error(f"packs/{pack_id}: version went down from {old_version} to {new_version} since {base}")
         elif content and new_version == old_version:
             shown = "; ".join(content[:4]) + ("; ..." if len(content) > 4 else "")
-            error(f"packs/{pack_id}: changed since {base} in what builds up to 1.12.17 read ({shown}) "
+            error(f"packs/{pack_id}: changed since {base} in what builds up to 1.12.16 read ({shown}) "
                   f"but version is still {new_version}; bump it in pack.json and catalog.json, "
                   "or those who installed the pack never get the change")
         elif not content and new_version > old_version:
             warn(f"packs/{pack_id}: version went from {old_version} to {new_version} since {base}, but nothing "
-                 "builds up to 1.12.17 read changed; the bump only shows everyone with the pack an update badge")
+                 "builds up to 1.12.16 read changed; the bump only shows everyone with the pack an update badge")
 
 
 def keys_by_kind(pack_data):

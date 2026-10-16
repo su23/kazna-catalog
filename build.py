@@ -45,7 +45,7 @@ INDEX_REL = "index/v2"
 FORMAT = 2
 # The oldest app that may read the index, counted on the version both platforms share:
 # major * 1,000,000 + minor * 1,000 + patch, so 1.13.0 is 1013000 (catalogAppBuild in the app).
-# 0 lets every build in. Not a store build number: 1.12.17 is 65 on Android and 49 on iOS, and
+# 0 lets every build in. Not a store build number: 1.12.18 is 66 on Android and 50 on iOS, and
 # every build that reads index v2 counts as 1012018 or more, so a 66 here would turn no one away.
 MIN_APP_BUILD = 0
 MIN_APP_VERSION_SCALE = 1_000_000
