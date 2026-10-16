@@ -1,0 +1,137 @@
+{
+  "id": "es-retail",
+  "version": 1,
+  "type": "payees",
+  "name": {
+    "en": "Spain: Shops & Services",
+    "ru": "Испания: магазины и сервисы"
+  },
+  "payees": [
+    {
+      "key": "mercadona",
+      "name": { "en": "Mercadona", "ru": "Mercadona" },
+      "logo": "https://catalog.kazna.app/packs/es-retail/logos/mercadona.png",
+      "mcc": [5411],
+      "website": "https://www.mercadona.es"
+    },
+    {
+      "key": "carrefour",
+      "name": { "en": "Carrefour", "ru": "Карфур" },
+      "logo": "https://catalog.kazna.app/packs/es-retail/logos/carrefour.png",
+      "mcc": [5411],
+      "website": "https://www.carrefour.com"
+    },
+    {
+      "key": "lidl",
+      "name": { "en": "Lidl", "ru": "Lidl" },
+      "logo": "https://catalog.kazna.app/packs/es-retail/logos/lidl.png",
+      "mcc": [5411],
+      "website": "https://www.lidl.de"
+    },
+    {
+      "key": "dia-es",
+      "name": { "en": "Dia", "ru": "Dia" },
+      "logo": "https://catalog.kazna.app/packs/es-retail/logos/dia-es.png",
+      "mcc": [5411],
+      "website": "https://www.dia.es"
+    },
+    {
+      "key": "alcampo",
+      "name": { "en": "Alcampo", "ru": "Alcampo" },
+      "logo": "https://catalog.kazna.app/packs/es-retail/logos/alcampo.png",
+      "mcc": [5411],
+      "website": "https://www.alcampo.es"
+    },
+    {
+      "key": "eroski",
+      "name": { "en": "Eroski", "ru": "Eroski" },
+      "logo": "https://catalog.kazna.app/packs/es-retail/logos/eroski.png",
+      "mcc": [5411],
+      "website": "https://www.eroski.es"
+    },
+    {
+      "key": "aldi-nord",
+      "name": { "en": "Aldi Nord", "ru": "Aldi Nord" },
+      "logo": "https://catalog.kazna.app/packs/es-retail/logos/aldi-nord.png",
+      "mcc": [5411],
+      "website": "https://www.aldi-nord.de"
+    },
+    {
+      "key": "el-corte-ingles",
+      "name": { "en": "El Corte Inglés", "ru": "El Corte Inglés" },
+      "logo": "https://catalog.kazna.app/packs/es-retail/logos/el-corte-ingles.png",
+      "mcc": [5311],
+      "website": "https://www.elcorteingles.es"
+    },
+    {
+      "key": "mediamarkt",
+      "name": { "en": "MediaMarkt", "ru": "MediaMarkt" },
+      "logo": "https://catalog.kazna.app/packs/es-retail/logos/mediamarkt.png",
+      "mcc": [5732],
+      "website": "https://www.mediamarkt.com.tr"
+    },
+    {
+      "key": "primark",
+      "name": { "en": "Primark", "ru": "Primark" },
+      "logo": "https://catalog.kazna.app/packs/es-retail/logos/primark.png",
+      "mcc": [5651],
+      "website": "https://www.primark.com"
+    },
+    {
+      "key": "costco",
+      "name": { "en": "Costco", "ru": "Costco" },
+      "logo": "https://catalog.kazna.app/packs/es-retail/logos/costco.png",
+      "mcc": [5300, 5542],
+      "website": "https://www.costco.com"
+    },
+    {
+      "key": "renfe",
+      "name": { "en": "Renfe", "ru": "Renfe" },
+      "logo": "https://catalog.kazna.app/packs/es-retail/logos/renfe.png",
+      "mcc": [4112],
+      "website": "https://www.renfe.com"
+    },
+    {
+      "key": "repsol",
+      "name": { "en": "Repsol", "ru": "Repsol" },
+      "logo": "https://catalog.kazna.app/packs/es-retail/logos/repsol.png",
+      "mcc": [5541, 5542],
+      "website": "https://www.repsol.es"
+    },
+    {
+      "key": "moeve",
+      "name": { "en": "Moeve", "ru": "Moeve" },
+      "logo": "https://catalog.kazna.app/packs/es-retail/logos/moeve.png",
+      "mcc": [5541, 5542],
+      "website": "https://www.moeve.es"
+    },
+    {
+      "key": "movistar",
+      "name": { "en": "Movistar", "ru": "Movistar" },
+      "logo": "https://catalog.kazna.app/packs/es-retail/logos/movistar.png",
+      "mcc": [4814, 4899],
+      "website": "https://www.movistar.es"
+    },
+    {
+      "key": "vodafone",
+      "name": { "en": "Vodafone", "ru": "Vodafone" },
+      "logo": "https://catalog.kazna.app/packs/es-retail/logos/vodafone.png",
+      "mcc": [4814],
+      "website": "https://www.vodafone.co.uk"
+    },
+    {
+      "key": "orange",
+      "name": { "en": "Orange", "ru": "Orange" },
+      "logo": "https://catalog.kazna.app/packs/es-retail/logos/orange.png",
+      "mcc": [4814, 4812, 4899],
+      "website": "https://www.orange.com"
+    },
+    {
+      "key": "telepizza",
+      "name": { "en": "Telepizza", "ru": "Telepizza" },
+      "logo": "https://catalog.kazna.app/packs/es-retail/logos/telepizza.png",
+      "mcc": [5814, 5812],
+      "website": "https://www.telepizza.es"
+    }
+  ]
+}

@@ -1,0 +1,156 @@
+{
+  "rewe": {
+    "source": "https://commons.wikimedia.org/wiki/File:Logo_REWE.svg",
+    "kind": "Wikimedia Commons SVG",
+    "licence": "Public domain; trademark",
+    "fetched": "2026-10-16",
+    "processing": "rendered, cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "edeka": {
+    "source": "https://commons.wikimedia.org/wiki/File:Edeka_Logo_Aktuell.svg",
+    "kind": "Wikimedia Commons SVG",
+    "licence": "Public domain; trademark",
+    "fetched": "2026-10-16",
+    "processing": "rendered, cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "lidl": {
+    "source": "https://commons.wikimedia.org/wiki/File:Lidl-Logo.svg",
+    "kind": "Wikimedia Commons SVG",
+    "licence": "Public domain; trademark",
+    "fetched": "2026-10-16",
+    "processing": "rendered; the thin white outline removed; the tile is the logo, so it fills 128x128 (full bleed)"
+  },
+  "aldi-sud": {
+    "source": "https://commons.wikimedia.org/wiki/File:Aldi_S%C3%BCd_2017_logo.svg",
+    "kind": "Wikimedia Commons SVG",
+    "licence": "Public domain; trademark",
+    "fetched": "2026-10-16",
+    "processing": "rendered, cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "aldi-nord": {
+    "source": "https://commons.wikimedia.org/wiki/File:Aldi_Nord_201x_logo.svg",
+    "kind": "Wikimedia Commons SVG",
+    "licence": "Public domain; trademark",
+    "fetched": "2026-10-16",
+    "processing": "rendered; the white border outside the red frame removed; fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "kaufland": {
+    "source": "https://commons.wikimedia.org/wiki/File:Kaufland_201x_logo.svg",
+    "kind": "Wikimedia Commons SVG",
+    "licence": "Public domain; trademark",
+    "fetched": "2026-10-16",
+    "processing": "rendered; the white box outside the red frame removed; fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "penny": {
+    "source": "https://commons.wikimedia.org/wiki/File:Penny-Logo.svg",
+    "kind": "Wikimedia Commons SVG",
+    "licence": "Public domain; trademark",
+    "fetched": "2026-10-16",
+    "processing": "rendered; the tile is the logo, so it fills 128x128 (full bleed)"
+  },
+  "netto-marken-discount": {
+    "source": "https://commons.wikimedia.org/wiki/File:Netto_Marken-Discount_2018_logo.svg",
+    "kind": "Wikimedia Commons SVG",
+    "licence": "Public domain; trademark",
+    "fetched": "2026-10-16",
+    "processing": "rendered, cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "dm": {
+    "source": "https://commons.wikimedia.org/wiki/File:Dm-drogerie_markt_logo.svg",
+    "kind": "Wikimedia Commons SVG",
+    "licence": "Public domain; trademark",
+    "fetched": "2026-10-16",
+    "processing": "rendered, cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "rossmann": {
+    "source": "https://commons.wikimedia.org/wiki/File:Logo_rossmann_2024.svg",
+    "kind": "Wikimedia Commons SVG",
+    "licence": "Public domain; trademark",
+    "fetched": "2026-10-16",
+    "processing": "rendered; cropped to the centaur roundel (the O of the wordmark), as the Rossmann app icon; fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "mediamarkt": {
+    "source": "https://www.mediamarkt.com.tr/",
+    "kind": "brand site inline SVG",
+    "licence": "Trademark",
+    "note": "shared key, logo copied from tr-retail",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "saturn": {
+    "source": "https://commons.wikimedia.org/wiki/File:Saturn-Logo.svg",
+    "kind": "Wikimedia Commons SVG",
+    "licence": "Public domain; trademark",
+    "fetched": "2026-10-16",
+    "processing": "rendered, recoloured to saturn.de's #000000 / #F07D00; the ring alone centred on a black square, as the Saturn app icon; full bleed"
+  },
+  "otto": {
+    "source": "https://www.otto.de/unternehmen/uploads/mediaLibrary/Otto_Logo_rgb_Schutzraum.png",
+    "kind": "press kit",
+    "licence": "Trademark",
+    "fetched": "2026-10-16",
+    "processing": "rendered, cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "primark": {
+    "source": "https://commons.wikimedia.org/wiki/File:Primark_Logo_2024.svg",
+    "kind": "Wikimedia Commons SVG",
+    "licence": "Public domain; trademark",
+    "fetched": "2026-10-16",
+    "processing": "rendered, cropped to the mark, fitted to 128x128 RGBA with a 6 px margin",
+    "note": "shared key, logo copied from gb-retail"
+  },
+  "chipotle": {
+    "source": "https://newsroom.chipotle.com/images/logo.svg",
+    "kind": "brand site SVG",
+    "licence": "Trademark",
+    "fetched": "2026-10-16",
+    "processing": "rendered without the embedded 30% raster drop shadow; fitted to 128x128 RGBA with a 6 px margin",
+    "note": "shared key, logo copied from us-retail"
+  },
+  "deutsche-bahn": {
+    "source": "https://commons.wikimedia.org/wiki/File:Deutsche_Bahn_AG-Logo.svg",
+    "kind": "Wikimedia Commons SVG",
+    "licence": "Public domain; trademark",
+    "fetched": "2026-10-16",
+    "processing": "rendered, cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "telekom": {
+    "source": "https://www.telekom.de/resources/images/974660/telekom-logo.svg",
+    "kind": "brand site SVG",
+    "licence": "Trademark",
+    "note": "the same design as the press kit's DL_Telekom-Logo-01 (a JPEG); the vector draws #E20074 exactly",
+    "fetched": "2026-10-16",
+    "processing": "rendered; the tile is the logo, so it fills 128x128 (full bleed)"
+  },
+  "vodafone": {
+    "source": "https://www.vodafone.co.uk/",
+    "kind": "brand site inline SVG",
+    "licence": "Trademark",
+    "note": "shared key, logo copied from gb-retail",
+    "fetched": "2026-10-16",
+    "processing": "rendered, cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "o2": {
+    "source": "https://commons.wikimedia.org/wiki/File:O2_Logo_2024.svg",
+    "kind": "Wikimedia Commons SVG",
+    "licence": "Public domain; trademark",
+    "fetched": "2026-10-16",
+    "processing": "rendered, cropped to the mark, fitted to 128x128 RGBA with a 6 px margin",
+    "note": "shared key, logo copied from gb-retail"
+  },
+  "aral": {
+    "source": "https://commons.wikimedia.org/wiki/File:Aral_Logo.svg",
+    "kind": "Wikimedia Commons SVG",
+    "licence": "Public domain; trademark",
+    "fetched": "2026-10-16",
+    "processing": "rendered, the diamond recoloured from #1670B9 to aral.de's #0058E0; fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "shell": {
+    "source": "https://www.shell.co.uk/",
+    "kind": "brand site inline SVG",
+    "licence": "Trademark",
+    "note": "shared key, logo copied from gb-retail",
+    "fetched": "2026-10-16",
+    "processing": "rendered, cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  }
+}

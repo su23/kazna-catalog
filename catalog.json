@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-08",
+  "generated_at": "2026-10-16",
   "base_url": "https://catalog.kazna.app",
   "packs": [
     {
@@ -1017,7 +1017,7 @@
     {
       "id": "ge-retail",
       "type": "payees",
-      "version": 3,
+      "version": 4,
       "name": {
         "en": "Georgia: Shops & Services",
         "ru": "Грузия: магазины и сервисы"
@@ -1039,7 +1039,7 @@
     {
       "id": "am-retail",
       "type": "payees",
-      "version": 3,
+      "version": 4,
       "name": {
         "en": "Armenia: Shops & Services",
         "ru": "Армения: магазины и сервисы"
@@ -1105,7 +1105,7 @@
     {
       "id": "ae-retail",
       "type": "payees",
-      "version": 3,
+      "version": 4,
       "name": {
         "en": "UAE: Shops & Services",
         "ru": "ОАЭ: магазины и сервисы"
@@ -1650,6 +1650,116 @@
         "https://catalog.kazna.app/packs/delivery-taxi-abroad/logos/bolt.png",
         "https://catalog.kazna.app/packs/delivery-taxi-abroad/logos/lyft.png",
         "https://catalog.kazna.app/packs/delivery-taxi-abroad/logos/freenow.png"
+      ]
+    },
+    {
+      "id": "us-retail",
+      "type": "payees",
+      "version": 1,
+      "name": {
+        "en": "USA: Shops & Services",
+        "ru": "США: магазины и сервисы"
+      },
+      "description": {
+        "en": "Shops, pharmacies, food, fuel and telecoms in the USA — Walmart, Target, Costco, Kroger and 18 more",
+        "ru": "Магазины, аптеки, еда, заправки и связь США — Walmart, Target, Costco, Kroger и ещё 18"
+      },
+      "tags": ["usa", "retail", "telecom"],
+      "entity_count": 22,
+      "pack_url": "https://catalog.kazna.app/packs/us-retail/pack.json",
+      "preview_logos": [
+        "https://catalog.kazna.app/packs/us-retail/logos/walmart.png",
+        "https://catalog.kazna.app/packs/us-retail/logos/target.png",
+        "https://catalog.kazna.app/packs/us-retail/logos/costco.png",
+        "https://catalog.kazna.app/packs/us-retail/logos/kroger.png"
+      ]
+    },
+    {
+      "id": "gb-retail",
+      "type": "payees",
+      "version": 1,
+      "name": {
+        "en": "UK: Shops & Services",
+        "ru": "Великобритания: магазины и сервисы"
+      },
+      "description": {
+        "en": "Shops, pharmacies, food, transport and telecoms in the UK — Tesco, Sainsbury's, Asda, Aldi Süd and 22 more",
+        "ru": "Магазины, аптеки, еда, транспорт и связь Великобритании — Tesco, Sainsbury's, Asda, Aldi Süd и ещё 22"
+      },
+      "tags": ["uk", "retail", "telecom"],
+      "entity_count": 26,
+      "pack_url": "https://catalog.kazna.app/packs/gb-retail/pack.json",
+      "preview_logos": [
+        "https://catalog.kazna.app/packs/gb-retail/logos/tesco.png",
+        "https://catalog.kazna.app/packs/gb-retail/logos/sainsburys.png",
+        "https://catalog.kazna.app/packs/gb-retail/logos/asda.png",
+        "https://catalog.kazna.app/packs/gb-retail/logos/aldi-sud.png"
+      ]
+    },
+    {
+      "id": "de-retail",
+      "type": "payees",
+      "version": 1,
+      "name": {
+        "en": "Germany: Shops & Services",
+        "ru": "Германия: магазины и сервисы"
+      },
+      "description": {
+        "en": "Shops, drugstores, transport, fuel and telecoms in Germany — Rewe, Edeka, Lidl, Aldi Süd and 17 more",
+        "ru": "Магазины, дрогерии, транспорт, заправки и связь Германии — Rewe, Edeka, Lidl, Aldi Süd и ещё 17"
+      },
+      "tags": ["germany", "retail", "telecom"],
+      "entity_count": 21,
+      "pack_url": "https://catalog.kazna.app/packs/de-retail/pack.json",
+      "preview_logos": [
+        "https://catalog.kazna.app/packs/de-retail/logos/rewe.png",
+        "https://catalog.kazna.app/packs/de-retail/logos/edeka.png",
+        "https://catalog.kazna.app/packs/de-retail/logos/lidl.png",
+        "https://catalog.kazna.app/packs/de-retail/logos/aldi-sud.png"
+      ]
+    },
+    {
+      "id": "fr-retail",
+      "type": "payees",
+      "version": 1,
+      "name": {
+        "en": "France: Shops & Services",
+        "ru": "Франция: магазины и сервисы"
+      },
+      "description": {
+        "en": "Shops, electronics, transport, fuel and telecoms in France — E.Leclerc, Carrefour, Intermarché, Auchan and 18 more",
+        "ru": "Магазины, электроника, транспорт, заправки и связь Франции — E.Leclerc, Карфур, Intermarché, Ашан и ещё 18"
+      },
+      "tags": ["france", "retail", "telecom"],
+      "entity_count": 22,
+      "pack_url": "https://catalog.kazna.app/packs/fr-retail/pack.json",
+      "preview_logos": [
+        "https://catalog.kazna.app/packs/fr-retail/logos/leclerc.png",
+        "https://catalog.kazna.app/packs/fr-retail/logos/carrefour.png",
+        "https://catalog.kazna.app/packs/fr-retail/logos/intermarche.png",
+        "https://catalog.kazna.app/packs/fr-retail/logos/auchan.png"
+      ]
+    },
+    {
+      "id": "es-retail",
+      "type": "payees",
+      "version": 1,
+      "name": {
+        "en": "Spain: Shops & Services",
+        "ru": "Испания: магазины и сервисы"
+      },
+      "description": {
+        "en": "Shops, transport, fuel, telecoms and food in Spain — Mercadona, Carrefour, Lidl, Dia and 14 more",
+        "ru": "Магазины, транспорт, заправки, связь и еда Испании — Mercadona, Карфур, Lidl, Dia и ещё 14"
+      },
+      "tags": ["spain", "retail", "telecom"],
+      "entity_count": 18,
+      "pack_url": "https://catalog.kazna.app/packs/es-retail/pack.json",
+      "preview_logos": [
+        "https://catalog.kazna.app/packs/es-retail/logos/mercadona.png",
+        "https://catalog.kazna.app/packs/es-retail/logos/carrefour.png",
+        "https://catalog.kazna.app/packs/es-retail/logos/lidl.png",
+        "https://catalog.kazna.app/packs/es-retail/logos/dia-es.png"
       ]
     }
   ]

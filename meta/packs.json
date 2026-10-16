@@ -76,5 +76,10 @@
   "tr-retail":           { "rank": 640, "countries": ["TR"], "category": "groceries" },
   "tr-utilities":        { "rank": 645, "countries": ["TR"], "category": "utilities" },
   "ae-retail":           { "rank": 650, "countries": ["AE"], "category": "groceries" },
-  "ae-utilities":        { "rank": 655, "countries": ["AE"], "category": "utilities" }
+  "ae-utilities":        { "rank": 655, "countries": ["AE"], "category": "utilities" },
+  "us-retail":           { "rank": 660, "countries": ["US"], "category": "groceries" },
+  "gb-retail":           { "rank": 670, "countries": ["GB"], "category": "groceries" },
+  "de-retail":           { "rank": 680, "countries": ["DE"], "category": "groceries" },
+  "fr-retail":           { "rank": 690, "countries": ["FR"], "category": "groceries" },
+  "es-retail":           { "rank": 700, "countries": ["ES"], "category": "groceries" }
 }

@@ -1,0 +1,165 @@
+{
+  "id": "fr-retail",
+  "version": 1,
+  "type": "payees",
+  "name": {
+    "en": "France: Shops & Services",
+    "ru": "Франция: магазины и сервисы"
+  },
+  "payees": [
+    {
+      "key": "leclerc",
+      "name": { "en": "E.Leclerc", "ru": "E.Leclerc" },
+      "logo": "https://catalog.kazna.app/packs/fr-retail/logos/leclerc.png",
+      "mcc": [5411, 5542],
+      "website": "https://www.e.leclerc"
+    },
+    {
+      "key": "carrefour",
+      "name": { "en": "Carrefour", "ru": "Карфур" },
+      "logo": "https://catalog.kazna.app/packs/fr-retail/logos/carrefour.png",
+      "mcc": [5411],
+      "website": "https://www.carrefour.com"
+    },
+    {
+      "key": "intermarche",
+      "name": { "en": "Intermarché", "ru": "Intermarché" },
+      "logo": "https://catalog.kazna.app/packs/fr-retail/logos/intermarche.png",
+      "mcc": [5411, 5542],
+      "website": "https://www.intermarche.com"
+    },
+    {
+      "key": "auchan",
+      "name": { "en": "Auchan", "ru": "Ашан" },
+      "logo": "https://catalog.kazna.app/packs/fr-retail/logos/auchan.png",
+      "mcc": [5411],
+      "website": "https://auchan.ru"
+    },
+    {
+      "key": "lidl",
+      "name": { "en": "Lidl", "ru": "Lidl" },
+      "logo": "https://catalog.kazna.app/packs/fr-retail/logos/lidl.png",
+      "mcc": [5411],
+      "website": "https://www.lidl.de"
+    },
+    {
+      "key": "aldi-nord",
+      "name": { "en": "Aldi Nord", "ru": "Aldi Nord" },
+      "logo": "https://catalog.kazna.app/packs/fr-retail/logos/aldi-nord.png",
+      "mcc": [5411],
+      "website": "https://www.aldi-nord.de"
+    },
+    {
+      "key": "monoprix",
+      "name": { "en": "Monoprix", "ru": "Monoprix" },
+      "logo": "https://catalog.kazna.app/packs/fr-retail/logos/monoprix.png",
+      "mcc": [5411, 5311],
+      "website": "https://www.monoprix.fr"
+    },
+    {
+      "key": "franprix",
+      "name": { "en": "Franprix", "ru": "Franprix" },
+      "logo": "https://catalog.kazna.app/packs/fr-retail/logos/franprix.png",
+      "mcc": [5411],
+      "website": "https://www.franprix.fr"
+    },
+    {
+      "key": "picard",
+      "name": { "en": "Picard", "ru": "Picard" },
+      "logo": "https://catalog.kazna.app/packs/fr-retail/logos/picard.png",
+      "mcc": [5499, 5411],
+      "website": "https://www.picard.fr"
+    },
+    {
+      "key": "costco",
+      "name": { "en": "Costco", "ru": "Costco" },
+      "logo": "https://catalog.kazna.app/packs/fr-retail/logos/costco.png",
+      "mcc": [5300, 5542],
+      "website": "https://www.costco.com"
+    },
+    {
+      "key": "fnac",
+      "name": { "en": "Fnac", "ru": "Fnac" },
+      "logo": "https://catalog.kazna.app/packs/fr-retail/logos/fnac.png",
+      "mcc": [5732, 5942, 5735],
+      "website": "https://www.fnac.com"
+    },
+    {
+      "key": "darty",
+      "name": { "en": "Darty", "ru": "Darty" },
+      "logo": "https://catalog.kazna.app/packs/fr-retail/logos/darty.png",
+      "mcc": [5722, 5732],
+      "website": "https://www.darty.com"
+    },
+    {
+      "key": "boulanger",
+      "name": { "en": "Boulanger", "ru": "Boulanger" },
+      "logo": "https://catalog.kazna.app/packs/fr-retail/logos/boulanger.png",
+      "mcc": [5732, 5722],
+      "website": "https://www.boulanger.com"
+    },
+    {
+      "key": "primark",
+      "name": { "en": "Primark", "ru": "Primark" },
+      "logo": "https://catalog.kazna.app/packs/fr-retail/logos/primark.png",
+      "mcc": [5651],
+      "website": "https://www.primark.com"
+    },
+    {
+      "key": "chipotle",
+      "name": { "en": "Chipotle", "ru": "Chipotle" },
+      "logo": "https://catalog.kazna.app/packs/fr-retail/logos/chipotle.png",
+      "mcc": [5814],
+      "website": "https://www.chipotle.com"
+    },
+    {
+      "key": "sncf",
+      "name": { "en": "SNCF", "ru": "SNCF" },
+      "logo": "https://catalog.kazna.app/packs/fr-retail/logos/sncf.png",
+      "mcc": [4112],
+      "website": "https://www.sncf-connect.com"
+    },
+    {
+      "key": "ratp",
+      "name": { "en": "RATP", "ru": "RATP" },
+      "logo": "https://catalog.kazna.app/packs/fr-retail/logos/ratp.png",
+      "mcc": [4111, 4131],
+      "website": "https://www.ratp.fr"
+    },
+    {
+      "key": "totalenergies",
+      "name": { "en": "TotalEnergies", "ru": "TotalEnergies" },
+      "logo": "https://catalog.kazna.app/packs/fr-retail/logos/totalenergies.png",
+      "mcc": [5541, 5542, 4900],
+      "website": "https://www.totalenergies.fr"
+    },
+    {
+      "key": "orange",
+      "name": { "en": "Orange", "ru": "Orange" },
+      "logo": "https://catalog.kazna.app/packs/fr-retail/logos/orange.png",
+      "mcc": [4814, 4812, 4899],
+      "website": "https://www.orange.com"
+    },
+    {
+      "key": "sfr-fr",
+      "name": { "en": "SFR", "ru": "SFR" },
+      "logo": "https://catalog.kazna.app/packs/fr-retail/logos/sfr-fr.png",
+      "mcc": [4814, 4812, 4899],
+      "website": "https://www.sfr.fr"
+    },
+    {
+      "key": "bouygues-telecom",
+      "name": { "en": "Bouygues Telecom", "ru": "Bouygues Telecom" },
+      "logo": "https://catalog.kazna.app/packs/fr-retail/logos/bouygues-telecom.png",
+      "mcc": [4814, 4812, 4899],
+      "website": "https://www.bouyguestelecom.fr"
+    },
+    {
+      "key": "free-fr",
+      "name": { "en": "Free", "ru": "Free" },
+      "logo": "https://catalog.kazna.app/packs/fr-retail/logos/free-fr.png",
+      "mcc": [4814, 4812, 4899],
+      "website": "https://www.free.fr"
+    }
+  ]
+}

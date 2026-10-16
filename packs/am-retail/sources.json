@@ -14,12 +14,12 @@
     "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
   },
   "carrefour": {
-    "source": "https://cdnprod.mafretailproxy.com/mafrp-web/assets/en/images/default/logo.svg",
-    "kind": "brand site SVG (Majid Al Futtaim)",
+    "source": "https://fr.wikipedia.org/wiki/Fichier:Logo_Carrefour_(2010).svg",
+    "kind": "Wikipedia SVG (fr.wikipedia local)",
     "licence": "Trademark",
-    "note": "MAF Carrefour symbol; shared key, logo copied from ge-retail",
-    "fetched": "2026-10-08",
-    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+    "note": "shared key, logo copied from fr-retail; replaces the Majid Al Futtaim arch shipped before",
+    "fetched": "2026-10-16",
+    "processing": "rendered; cropped to the symbol; fitted to 128x128 RGBA with a 6 px margin"
   },
   "zigzag": {
     "source": "https://www.zigzag.am/static/version1790774800/frontend/Magento/zigzag/hy_AM/images/zigzaglogo_am.svg",

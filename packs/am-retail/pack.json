@@ -1,6 +1,6 @@
 {
   "id": "am-retail",
-  "version": 3,
+  "version": 4,
   "type": "payees",
   "name": {
     "en": "Armenia: Shops & Services",
@@ -26,7 +26,7 @@
       "name": { "en": "Carrefour", "ru": "Карфур" },
       "logo": "https://catalog.kazna.app/packs/am-retail/logos/carrefour.png",
       "mcc": [5411],
-      "website": "https://www.majidalfuttaim.com"
+      "website": "https://www.carrefour.com"
     },
     {
       "key": "zigzag",

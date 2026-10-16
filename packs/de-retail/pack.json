@@ -1,0 +1,158 @@
+{
+  "id": "de-retail",
+  "version": 1,
+  "type": "payees",
+  "name": {
+    "en": "Germany: Shops & Services",
+    "ru": "Германия: магазины и сервисы"
+  },
+  "payees": [
+    {
+      "key": "rewe",
+      "name": { "en": "Rewe", "ru": "Rewe" },
+      "logo": "https://catalog.kazna.app/packs/de-retail/logos/rewe.png",
+      "mcc": [5411],
+      "website": "https://www.rewe.de"
+    },
+    {
+      "key": "edeka",
+      "name": { "en": "Edeka", "ru": "Edeka" },
+      "logo": "https://catalog.kazna.app/packs/de-retail/logos/edeka.png",
+      "mcc": [5411],
+      "website": "https://www.edeka.de"
+    },
+    {
+      "key": "lidl",
+      "name": { "en": "Lidl", "ru": "Lidl" },
+      "logo": "https://catalog.kazna.app/packs/de-retail/logos/lidl.png",
+      "mcc": [5411],
+      "website": "https://www.lidl.de"
+    },
+    {
+      "key": "aldi-sud",
+      "name": { "en": "Aldi Süd", "ru": "Aldi Süd" },
+      "logo": "https://catalog.kazna.app/packs/de-retail/logos/aldi-sud.png",
+      "mcc": [5411],
+      "website": "https://www.aldi-sued.de"
+    },
+    {
+      "key": "aldi-nord",
+      "name": { "en": "Aldi Nord", "ru": "Aldi Nord" },
+      "logo": "https://catalog.kazna.app/packs/de-retail/logos/aldi-nord.png",
+      "mcc": [5411],
+      "website": "https://www.aldi-nord.de"
+    },
+    {
+      "key": "kaufland",
+      "name": { "en": "Kaufland", "ru": "Kaufland" },
+      "logo": "https://catalog.kazna.app/packs/de-retail/logos/kaufland.png",
+      "mcc": [5411],
+      "website": "https://www.kaufland.de"
+    },
+    {
+      "key": "penny",
+      "name": { "en": "Penny", "ru": "Penny" },
+      "logo": "https://catalog.kazna.app/packs/de-retail/logos/penny.png",
+      "mcc": [5411],
+      "website": "https://www.penny.de"
+    },
+    {
+      "key": "netto-marken-discount",
+      "name": { "en": "Netto Marken-Discount", "ru": "Netto Marken-Discount" },
+      "logo": "https://catalog.kazna.app/packs/de-retail/logos/netto-marken-discount.png",
+      "mcc": [5411],
+      "website": "https://www.netto-online.de"
+    },
+    {
+      "key": "dm",
+      "name": { "en": "dm", "ru": "dm" },
+      "logo": "https://catalog.kazna.app/packs/de-retail/logos/dm.png",
+      "mcc": [5912, 5977],
+      "website": "https://www.dm.de"
+    },
+    {
+      "key": "rossmann",
+      "name": { "en": "Rossmann", "ru": "Rossmann" },
+      "logo": "https://catalog.kazna.app/packs/de-retail/logos/rossmann.png",
+      "mcc": [5912, 5977],
+      "website": "https://www.rossmann.de"
+    },
+    {
+      "key": "mediamarkt",
+      "name": { "en": "MediaMarkt", "ru": "MediaMarkt" },
+      "logo": "https://catalog.kazna.app/packs/de-retail/logos/mediamarkt.png",
+      "mcc": [5732],
+      "website": "https://www.mediamarkt.com.tr"
+    },
+    {
+      "key": "saturn",
+      "name": { "en": "Saturn", "ru": "Saturn" },
+      "logo": "https://catalog.kazna.app/packs/de-retail/logos/saturn.png",
+      "mcc": [5732],
+      "website": "https://www.saturn.de"
+    },
+    {
+      "key": "otto",
+      "name": { "en": "Otto", "ru": "Otto" },
+      "logo": "https://catalog.kazna.app/packs/de-retail/logos/otto.png",
+      "mcc": [5964, 5969],
+      "website": "https://www.otto.de"
+    },
+    {
+      "key": "primark",
+      "name": { "en": "Primark", "ru": "Primark" },
+      "logo": "https://catalog.kazna.app/packs/de-retail/logos/primark.png",
+      "mcc": [5651],
+      "website": "https://www.primark.com"
+    },
+    {
+      "key": "chipotle",
+      "name": { "en": "Chipotle", "ru": "Chipotle" },
+      "logo": "https://catalog.kazna.app/packs/de-retail/logos/chipotle.png",
+      "mcc": [5814],
+      "website": "https://www.chipotle.com"
+    },
+    {
+      "key": "deutsche-bahn",
+      "name": { "en": "Deutsche Bahn", "ru": "Deutsche Bahn" },
+      "logo": "https://catalog.kazna.app/packs/de-retail/logos/deutsche-bahn.png",
+      "mcc": [4112],
+      "website": "https://www.bahn.de"
+    },
+    {
+      "key": "telekom",
+      "name": { "en": "Telekom", "ru": "Telekom" },
+      "logo": "https://catalog.kazna.app/packs/de-retail/logos/telekom.png",
+      "mcc": [4814, 4899],
+      "website": "https://www.telekom.de"
+    },
+    {
+      "key": "vodafone",
+      "name": { "en": "Vodafone", "ru": "Vodafone" },
+      "logo": "https://catalog.kazna.app/packs/de-retail/logos/vodafone.png",
+      "mcc": [4814],
+      "website": "https://www.vodafone.co.uk"
+    },
+    {
+      "key": "o2",
+      "name": { "en": "O2", "ru": "O2", "de": "o2" },
+      "logo": "https://catalog.kazna.app/packs/de-retail/logos/o2.png",
+      "mcc": [4814],
+      "website": "https://www.o2.co.uk"
+    },
+    {
+      "key": "aral",
+      "name": { "en": "Aral", "ru": "Aral" },
+      "logo": "https://catalog.kazna.app/packs/de-retail/logos/aral.png",
+      "mcc": [5541, 5542],
+      "website": "https://www.aral.de"
+    },
+    {
+      "key": "shell",
+      "name": { "en": "Shell", "ru": "Shell" },
+      "logo": "https://catalog.kazna.app/packs/de-retail/logos/shell.png",
+      "mcc": [5541, 5542],
+      "website": "https://www.shell.com"
+    }
+  ]
+}

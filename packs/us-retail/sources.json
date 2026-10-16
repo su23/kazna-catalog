@@ -1,0 +1,163 @@
+{
+  "walmart": {
+    "source": "https://commons.wikimedia.org/wiki/File:Walmart_App_icon_(2025).svg",
+    "kind": "Wikimedia Commons SVG",
+    "licence": "Public domain; trademark",
+    "note": "the 2025 Spark on its True Blue tile: the yellow Spark alone is too faint on the light plate",
+    "fetched": "2026-10-16",
+    "processing": "rendered; the app icon's rounded corners filled with its #0053E2 so it is a square tile; the tile is the logo, so it fills 128x128 (full bleed)"
+  },
+  "target": {
+    "source": "https://corporate.target.com/getmedia/0289d38f-1bb0-48f9-b883-cd05e19b8f98/Target_Bullseye-Logo_Red_transparent.png",
+    "kind": "press kit",
+    "licence": "Trademark",
+    "fetched": "2026-10-16",
+    "processing": "rendered, cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "costco": {
+    "source": "https://commons.wikimedia.org/wiki/File:Costco_Wholesale_logo_2010-10-26.svg",
+    "kind": "Wikimedia Commons SVG",
+    "licence": "Public domain; trademark",
+    "fetched": "2026-10-16",
+    "processing": "rendered, cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "kroger": {
+    "source": "https://www.thekrogerco.com/wp-content/uploads/2026/06/logo.svg",
+    "kind": "brand site SVG",
+    "licence": "Trademark",
+    "fetched": "2026-10-16",
+    "processing": "rendered; cropped to the Fresh Cart, as the Kroger app icon; fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "whole-foods": {
+    "source": "https://commons.wikimedia.org/wiki/File:Whole_Foods_Market_201x_logo.svg",
+    "kind": "Wikimedia Commons SVG",
+    "licence": "Public domain; trademark",
+    "fetched": "2026-10-16",
+    "processing": "rendered, cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "trader-joes": {
+    "source": "https://www.traderjoes.com/etc.clientlibs/trjo/clientlibs/clientlib-react/resources/favicon.svg",
+    "kind": "brand site SVG",
+    "licence": "Trademark",
+    "note": "the TJ roundel the site uses as its icon; the wordmark is 6.7:1",
+    "fetched": "2026-10-16",
+    "processing": "rendered, cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "aldi-sud": {
+    "source": "https://commons.wikimedia.org/wiki/File:Aldi_S%C3%BCd_2017_logo.svg",
+    "kind": "Wikimedia Commons SVG",
+    "licence": "Public domain; trademark",
+    "fetched": "2026-10-16",
+    "processing": "rendered, cropped to the mark, fitted to 128x128 RGBA with a 6 px margin",
+    "note": "shared key, logo copied from de-retail"
+  },
+  "lidl": {
+    "source": "https://commons.wikimedia.org/wiki/File:Lidl-Logo.svg",
+    "kind": "Wikimedia Commons SVG",
+    "licence": "Public domain; trademark",
+    "fetched": "2026-10-16",
+    "processing": "rendered; the thin white outline removed; the tile is the logo, so it fills 128x128 (full bleed)",
+    "note": "shared key, logo copied from de-retail"
+  },
+  "cvs": {
+    "source": "https://www.cvshealth.com/content/dam/enterprise/cvs-enterprise/media-library/logos/migratedcontent/cvs-pharmacy-logo-stacked.png",
+    "kind": "press kit",
+    "licence": "Trademark",
+    "fetched": "2026-10-16",
+    "processing": "rendered, cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "walgreens": {
+    "source": "https://commons.wikimedia.org/wiki/File:Walgreens_2020_initial_W_logo.svg",
+    "kind": "Wikimedia Commons SVG",
+    "licence": "Public domain; trademark",
+    "fetched": "2026-10-16",
+    "processing": "rendered, cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "home-depot": {
+    "source": "https://commons.wikimedia.org/wiki/File:The_Home_Depot_logo.svg",
+    "kind": "Wikimedia Commons SVG",
+    "licence": "Public domain; trademark",
+    "fetched": "2026-10-16",
+    "processing": "rendered; the tile is the logo, so it fills 128x128 (full bleed); its anti-aliased edge trimmed so the corners are opaque"
+  },
+  "lowes": {
+    "source": "https://commons.wikimedia.org/wiki/File:Lowes_Companies_Logo.svg",
+    "kind": "Wikimedia Commons SVG",
+    "licence": "Public domain; trademark",
+    "fetched": "2026-10-16",
+    "processing": "rendered, cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "best-buy": {
+    "source": "https://commons.wikimedia.org/wiki/File:Best_Buy_logo_2018.svg",
+    "kind": "Wikimedia Commons SVG",
+    "licence": "Public domain; trademark",
+    "fetched": "2026-10-16",
+    "processing": "rendered, cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "primark": {
+    "source": "https://commons.wikimedia.org/wiki/File:Primark_Logo_2024.svg",
+    "kind": "Wikimedia Commons SVG",
+    "licence": "Public domain; trademark",
+    "fetched": "2026-10-16",
+    "processing": "rendered, cropped to the mark, fitted to 128x128 RGBA with a 6 px margin",
+    "note": "shared key, logo copied from gb-retail"
+  },
+  "chick-fil-a": {
+    "source": "https://commons.wikimedia.org/wiki/File:Chick-fil-A_Logo.svg",
+    "kind": "Wikimedia Commons SVG",
+    "licence": "Public domain; trademark",
+    "fetched": "2026-10-16",
+    "processing": "rendered, cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "chipotle": {
+    "source": "https://newsroom.chipotle.com/images/logo.svg",
+    "kind": "brand site SVG",
+    "licence": "Trademark",
+    "fetched": "2026-10-16",
+    "processing": "rendered without the embedded 30% raster drop shadow; fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "chevron": {
+    "source": "https://commons.wikimedia.org/wiki/File:Chevron_Logo.svg",
+    "kind": "Wikimedia Commons SVG",
+    "licence": "Public domain; trademark",
+    "fetched": "2026-10-16",
+    "processing": "rendered, cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "exxon": {
+    "source": "https://commons.wikimedia.org/wiki/File:Exxon_logo_2016.svg",
+    "kind": "Wikimedia Commons SVG",
+    "licence": "Public domain; trademark",
+    "fetched": "2026-10-16",
+    "processing": "rendered, cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "shell": {
+    "source": "https://www.shell.co.uk/",
+    "kind": "brand site inline SVG",
+    "licence": "Trademark",
+    "note": "shared key, logo copied from gb-retail",
+    "fetched": "2026-10-16",
+    "processing": "rendered, cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "verizon": {
+    "source": "https://commons.wikimedia.org/wiki/File:Verizon_2024_(symbol).svg",
+    "kind": "Wikimedia Commons SVG",
+    "licence": "Public domain; trademark",
+    "fetched": "2026-10-16",
+    "processing": "rendered, cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "att": {
+    "source": "https://commons.wikimedia.org/wiki/File:AT&T_Globe_2016.svg",
+    "kind": "Wikimedia Commons SVG",
+    "licence": "Public domain; trademark",
+    "fetched": "2026-10-16",
+    "processing": "rendered, cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "t-mobile": {
+    "source": "https://commons.wikimedia.org/wiki/File:T-Mobile_US_Logo_2022_RGB_Magenta_on_Transparent.svg",
+    "kind": "Wikimedia Commons SVG",
+    "licence": "Public domain; trademark",
+    "note": "the press kit PNG refuses scripted downloads; the same 2022 wordmark",
+    "fetched": "2026-10-16",
+    "processing": "rendered; cropped to the T with its digits; fitted to 128x128 RGBA with a 6 px margin"
+  }
+}

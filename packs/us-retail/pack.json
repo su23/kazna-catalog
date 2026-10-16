@@ -1,0 +1,165 @@
+{
+  "id": "us-retail",
+  "version": 1,
+  "type": "payees",
+  "name": {
+    "en": "USA: Shops & Services",
+    "ru": "США: магазины и сервисы"
+  },
+  "payees": [
+    {
+      "key": "walmart",
+      "name": { "en": "Walmart", "ru": "Walmart" },
+      "logo": "https://catalog.kazna.app/packs/us-retail/logos/walmart.png",
+      "mcc": [5310, 5411],
+      "website": "https://www.walmart.com"
+    },
+    {
+      "key": "target",
+      "name": { "en": "Target", "ru": "Target" },
+      "logo": "https://catalog.kazna.app/packs/us-retail/logos/target.png",
+      "mcc": [5310, 5311],
+      "website": "https://www.target.com"
+    },
+    {
+      "key": "costco",
+      "name": { "en": "Costco", "ru": "Costco" },
+      "logo": "https://catalog.kazna.app/packs/us-retail/logos/costco.png",
+      "mcc": [5300, 5542],
+      "website": "https://www.costco.com"
+    },
+    {
+      "key": "kroger",
+      "name": { "en": "Kroger", "ru": "Kroger" },
+      "logo": "https://catalog.kazna.app/packs/us-retail/logos/kroger.png",
+      "mcc": [5411, 5542],
+      "website": "https://www.kroger.com"
+    },
+    {
+      "key": "whole-foods",
+      "name": { "en": "Whole Foods Market", "ru": "Whole Foods Market" },
+      "logo": "https://catalog.kazna.app/packs/us-retail/logos/whole-foods.png",
+      "mcc": [5411],
+      "website": "https://www.wholefoodsmarket.com"
+    },
+    {
+      "key": "trader-joes",
+      "name": { "en": "Trader Joe's", "ru": "Trader Joe's" },
+      "logo": "https://catalog.kazna.app/packs/us-retail/logos/trader-joes.png",
+      "mcc": [5411],
+      "website": "https://www.traderjoes.com"
+    },
+    {
+      "key": "aldi-sud",
+      "name": { "en": "Aldi Süd", "ru": "Aldi Süd" },
+      "logo": "https://catalog.kazna.app/packs/us-retail/logos/aldi-sud.png",
+      "mcc": [5411],
+      "website": "https://www.aldi-sued.de"
+    },
+    {
+      "key": "lidl",
+      "name": { "en": "Lidl", "ru": "Lidl" },
+      "logo": "https://catalog.kazna.app/packs/us-retail/logos/lidl.png",
+      "mcc": [5411],
+      "website": "https://www.lidl.de"
+    },
+    {
+      "key": "cvs",
+      "name": { "en": "CVS Pharmacy", "ru": "CVS Pharmacy" },
+      "logo": "https://catalog.kazna.app/packs/us-retail/logos/cvs.png",
+      "mcc": [5912],
+      "website": "https://www.cvs.com"
+    },
+    {
+      "key": "walgreens",
+      "name": { "en": "Walgreens", "ru": "Walgreens" },
+      "logo": "https://catalog.kazna.app/packs/us-retail/logos/walgreens.png",
+      "mcc": [5912],
+      "website": "https://www.walgreens.com"
+    },
+    {
+      "key": "home-depot",
+      "name": { "en": "The Home Depot", "ru": "The Home Depot" },
+      "logo": "https://catalog.kazna.app/packs/us-retail/logos/home-depot.png",
+      "mcc": [5200],
+      "website": "https://www.homedepot.com"
+    },
+    {
+      "key": "lowes",
+      "name": { "en": "Lowe's", "ru": "Lowe's" },
+      "logo": "https://catalog.kazna.app/packs/us-retail/logos/lowes.png",
+      "mcc": [5200],
+      "website": "https://www.lowes.com"
+    },
+    {
+      "key": "best-buy",
+      "name": { "en": "Best Buy", "ru": "Best Buy" },
+      "logo": "https://catalog.kazna.app/packs/us-retail/logos/best-buy.png",
+      "mcc": [5732],
+      "website": "https://www.bestbuy.com"
+    },
+    {
+      "key": "primark",
+      "name": { "en": "Primark", "ru": "Primark" },
+      "logo": "https://catalog.kazna.app/packs/us-retail/logos/primark.png",
+      "mcc": [5651],
+      "website": "https://www.primark.com"
+    },
+    {
+      "key": "chick-fil-a",
+      "name": { "en": "Chick-fil-A", "ru": "Chick-fil-A" },
+      "logo": "https://catalog.kazna.app/packs/us-retail/logos/chick-fil-a.png",
+      "mcc": [5814],
+      "website": "https://www.chick-fil-a.com"
+    },
+    {
+      "key": "chipotle",
+      "name": { "en": "Chipotle", "ru": "Chipotle" },
+      "logo": "https://catalog.kazna.app/packs/us-retail/logos/chipotle.png",
+      "mcc": [5814],
+      "website": "https://www.chipotle.com"
+    },
+    {
+      "key": "chevron",
+      "name": { "en": "Chevron", "ru": "Chevron" },
+      "logo": "https://catalog.kazna.app/packs/us-retail/logos/chevron.png",
+      "mcc": [5541, 5542],
+      "website": "https://www.chevron.com"
+    },
+    {
+      "key": "exxon",
+      "name": { "en": "Exxon", "ru": "Exxon" },
+      "logo": "https://catalog.kazna.app/packs/us-retail/logos/exxon.png",
+      "mcc": [5541, 5542],
+      "website": "https://www.exxon.com"
+    },
+    {
+      "key": "shell",
+      "name": { "en": "Shell", "ru": "Shell" },
+      "logo": "https://catalog.kazna.app/packs/us-retail/logos/shell.png",
+      "mcc": [5541, 5542],
+      "website": "https://www.shell.com"
+    },
+    {
+      "key": "verizon",
+      "name": { "en": "Verizon", "ru": "Verizon" },
+      "logo": "https://catalog.kazna.app/packs/us-retail/logos/verizon.png",
+      "mcc": [4814, 4812],
+      "website": "https://www.verizon.com"
+    },
+    {
+      "key": "att",
+      "name": { "en": "AT&T", "ru": "AT&T" },
+      "logo": "https://catalog.kazna.app/packs/us-retail/logos/att.png",
+      "mcc": [4814, 4812],
+      "website": "https://www.att.com"
+    },
+    {
+      "key": "t-mobile",
+      "name": { "en": "T-Mobile", "ru": "T-Mobile" },
+      "logo": "https://catalog.kazna.app/packs/us-retail/logos/t-mobile.png",
+      "mcc": [4814, 4812],
+      "website": "https://www.t-mobile.com"
+    }
+  ]
+}

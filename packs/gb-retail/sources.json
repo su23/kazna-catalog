@@ -1,0 +1,196 @@
+{
+  "tesco": {
+    "source": "https://commons.wikimedia.org/wiki/File:Tesco_2016_logo.svg",
+    "kind": "Wikimedia Commons SVG",
+    "licence": "Public domain; trademark",
+    "fetched": "2026-10-16",
+    "processing": "rendered, cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "sainsburys": {
+    "source": "https://corporate.sainsburys.co.uk/media/tj5hzoka/sainsburys.svg",
+    "kind": "brand site SVG",
+    "licence": "Trademark",
+    "fetched": "2026-10-16",
+    "processing": "rendered, cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "asda": {
+    "source": "https://commons.wikimedia.org/wiki/File:Asda_logo.svg",
+    "kind": "Wikimedia Commons SVG",
+    "licence": "Public domain; trademark",
+    "fetched": "2026-10-16",
+    "processing": "rendered, cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "aldi-sud": {
+    "source": "https://commons.wikimedia.org/wiki/File:Aldi_S%C3%BCd_2017_logo.svg",
+    "kind": "Wikimedia Commons SVG",
+    "licence": "Public domain; trademark",
+    "fetched": "2026-10-16",
+    "processing": "rendered, cropped to the mark, fitted to 128x128 RGBA with a 6 px margin",
+    "note": "shared key, logo copied from de-retail"
+  },
+  "lidl": {
+    "source": "https://commons.wikimedia.org/wiki/File:Lidl-Logo.svg",
+    "kind": "Wikimedia Commons SVG",
+    "licence": "Public domain; trademark",
+    "fetched": "2026-10-16",
+    "processing": "rendered; the thin white outline removed; the tile is the logo, so it fills 128x128 (full bleed)",
+    "note": "shared key, logo copied from de-retail"
+  },
+  "morrisons": {
+    "source": "https://www.morrisons.com/_next/static/media/morrisons-logo.0ij88frbd63gw.svg",
+    "kind": "brand site SVG",
+    "licence": "Trademark",
+    "note": "Commons has only the 2007 logo",
+    "fetched": "2026-10-16",
+    "processing": "rendered, cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "waitrose": {
+    "source": "https://commons.wikimedia.org/wiki/File:Waitrose_%26_Partners_logo.svg",
+    "kind": "Wikimedia Commons SVG",
+    "licence": "Public domain; trademark",
+    "note": "the waitrose.com header draws the same lockup in #154734",
+    "fetched": "2026-10-16",
+    "processing": "rendered, recoloured from #5C8018 to #154734; fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "marks-and-spencer": {
+    "source": "https://commons.wikimedia.org/wiki/File:M&S_logo.svg",
+    "kind": "Wikimedia Commons SVG",
+    "licence": "Public domain; trademark",
+    "fetched": "2026-10-16",
+    "processing": "rendered, cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "boots": {
+    "source": "https://en.wikipedia.org/wiki/File:Boots_logo.svg",
+    "kind": "Wikipedia SVG (en.wikipedia local)",
+    "licence": "Trademark",
+    "note": "Commons has no Boots logo; boots.com draws the 2024 script in #0032C8 (boots_logo_web_2026.png)",
+    "fetched": "2026-10-16",
+    "processing": "rendered, recoloured from #1E1C59 to #0032C8; fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "superdrug": {
+    "source": "https://commons.wikimedia.org/wiki/File:Superdrug_logo.svg",
+    "kind": "Wikimedia Commons SVG",
+    "licence": "Public domain; trademark",
+    "fetched": "2026-10-16",
+    "processing": "rendered, cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "argos": {
+    "source": "https://corporate.sainsburys.co.uk/media/1g5gyho2/argos-logo.svg",
+    "kind": "brand site SVG",
+    "licence": "Trademark",
+    "fetched": "2026-10-16",
+    "processing": "rendered, cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "currys": {
+    "source": "https://commons.wikimedia.org/wiki/File:Currys_Logo.svg",
+    "kind": "Wikimedia Commons SVG",
+    "licence": "Public domain; trademark",
+    "fetched": "2026-10-16",
+    "processing": "rendered, cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "primark": {
+    "source": "https://commons.wikimedia.org/wiki/File:Primark_Logo_2024.svg",
+    "kind": "Wikimedia Commons SVG",
+    "licence": "Public domain; trademark",
+    "fetched": "2026-10-16",
+    "processing": "rendered, cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "greggs": {
+    "source": "https://www.greggs.com/",
+    "kind": "brand site inline SVG",
+    "licence": "Trademark",
+    "note": "the header's symbol (#FDB71A) and wordmark (#00558F) side by side, as the site sets them",
+    "fetched": "2026-10-16",
+    "processing": "rendered, cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "pret-a-manger": {
+    "source": "https://commons.wikimedia.org/wiki/File:PretAManger_logo.svg",
+    "kind": "Wikimedia Commons SVG",
+    "licence": "Public domain; trademark",
+    "fetched": "2026-10-16",
+    "processing": "rendered, cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "costco": {
+    "source": "https://commons.wikimedia.org/wiki/File:Costco_Wholesale_logo_2010-10-26.svg",
+    "kind": "Wikimedia Commons SVG",
+    "licence": "Public domain; trademark",
+    "fetched": "2026-10-16",
+    "processing": "rendered, cropped to the mark, fitted to 128x128 RGBA with a 6 px margin",
+    "note": "shared key, logo copied from us-retail"
+  },
+  "whole-foods": {
+    "source": "https://commons.wikimedia.org/wiki/File:Whole_Foods_Market_201x_logo.svg",
+    "kind": "Wikimedia Commons SVG",
+    "licence": "Public domain; trademark",
+    "fetched": "2026-10-16",
+    "processing": "rendered, cropped to the mark, fitted to 128x128 RGBA with a 6 px margin",
+    "note": "shared key, logo copied from us-retail"
+  },
+  "chick-fil-a": {
+    "source": "https://commons.wikimedia.org/wiki/File:Chick-fil-A_Logo.svg",
+    "kind": "Wikimedia Commons SVG",
+    "licence": "Public domain; trademark",
+    "fetched": "2026-10-16",
+    "processing": "rendered, cropped to the mark, fitted to 128x128 RGBA with a 6 px margin",
+    "note": "shared key, logo copied from us-retail"
+  },
+  "chipotle": {
+    "source": "https://newsroom.chipotle.com/images/logo.svg",
+    "kind": "brand site SVG",
+    "licence": "Trademark",
+    "fetched": "2026-10-16",
+    "processing": "rendered without the embedded 30% raster drop shadow; fitted to 128x128 RGBA with a 6 px margin",
+    "note": "shared key, logo copied from us-retail"
+  },
+  "tfl": {
+    "source": "https://commons.wikimedia.org/wiki/File:TfL_roundel_(no_text).svg",
+    "kind": "Wikimedia Commons SVG",
+    "licence": "Public domain; trademark",
+    "fetched": "2026-10-16",
+    "processing": "rendered, recoloured from #000F9F to TfL blue #0019A8; fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "trainline": {
+    "source": "https://static.trainlinecontent.com/content/vul/logos/trainline-mint.svg",
+    "kind": "brand site SVG",
+    "licence": "Trademark",
+    "fetched": "2026-10-16",
+    "processing": "rendered, cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "ee": {
+    "source": "https://content.presspage.com/templates/520/633/382893/ee-logo-green.svg",
+    "kind": "brand site SVG",
+    "licence": "Trademark",
+    "fetched": "2026-10-16",
+    "processing": "rendered, cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "o2": {
+    "source": "https://commons.wikimedia.org/wiki/File:O2_Logo_2024.svg",
+    "kind": "Wikimedia Commons SVG",
+    "licence": "Public domain; trademark",
+    "fetched": "2026-10-16",
+    "processing": "rendered, cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "vodafone": {
+    "source": "https://www.vodafone.co.uk/",
+    "kind": "brand site inline SVG",
+    "licence": "Trademark",
+    "note": "the speechmark from the header",
+    "fetched": "2026-10-16",
+    "processing": "rendered, cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "bt": {
+    "source": "https://commons.wikimedia.org/wiki/File:BT_logo_2019.svg",
+    "kind": "Wikimedia Commons SVG",
+    "licence": "Public domain; trademark",
+    "fetched": "2026-10-16",
+    "processing": "rendered, cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "shell": {
+    "source": "https://www.shell.co.uk/",
+    "kind": "brand site inline SVG",
+    "licence": "Trademark",
+    "note": "the 2012 pecten, a data: URI in the header logo's CSS background",
+    "fetched": "2026-10-16",
+    "processing": "rendered, cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  }
+}

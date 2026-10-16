@@ -1,0 +1,160 @@
+{
+  "leclerc": {
+    "source": "https://commons.wikimedia.org/wiki/File:Logo_E.Leclerc_Sans_le_texte.svg",
+    "kind": "Wikimedia Commons SVG",
+    "licence": "Public domain; trademark",
+    "fetched": "2026-10-16",
+    "processing": "rendered, cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "carrefour": {
+    "source": "https://fr.wikipedia.org/wiki/Fichier:Logo_Carrefour_(2010).svg",
+    "kind": "Wikipedia SVG (fr.wikipedia local)",
+    "licence": "Trademark",
+    "note": "carrefour.fr and .es are behind bot checks; replaces the Majid Al Futtaim arch shipped before",
+    "fetched": "2026-10-16",
+    "processing": "rendered; cropped to the symbol; fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "intermarche": {
+    "source": "https://presse.mousquetaires.com/wp-content/uploads/2025/11/36ca8c712c893467735c5373ad1683b5.png",
+    "kind": "press kit",
+    "licence": "Trademark",
+    "fetched": "2026-10-16",
+    "processing": "rendered, cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "auchan": {
+    "source": null,
+    "note": "shared key, logo copied from ru-supermarkets, whose sources.json has no record of it"
+  },
+  "lidl": {
+    "source": "https://commons.wikimedia.org/wiki/File:Lidl-Logo.svg",
+    "kind": "Wikimedia Commons SVG",
+    "licence": "Public domain; trademark",
+    "fetched": "2026-10-16",
+    "processing": "rendered; the thin white outline removed; the tile is the logo, so it fills 128x128 (full bleed)",
+    "note": "shared key, logo copied from de-retail"
+  },
+  "aldi-nord": {
+    "source": "https://commons.wikimedia.org/wiki/File:Aldi_Nord_201x_logo.svg",
+    "kind": "Wikimedia Commons SVG",
+    "licence": "Public domain; trademark",
+    "fetched": "2026-10-16",
+    "processing": "rendered; the white border outside the red frame removed; fitted to 128x128 RGBA with a 6 px margin",
+    "note": "shared key, logo copied from de-retail"
+  },
+  "monoprix": {
+    "source": "https://commons.wikimedia.org/wiki/File:Monoprix_logo.svg",
+    "kind": "Wikimedia Commons SVG",
+    "licence": "Public domain; trademark",
+    "fetched": "2026-10-16",
+    "processing": "rendered, recoloured to the brand sites' #D20824; fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "franprix": {
+    "source": "https://commons.wikimedia.org/wiki/File:Logo_Franprix_-_2015.svg",
+    "kind": "Wikimedia Commons SVG",
+    "licence": "Public domain; trademark",
+    "fetched": "2026-10-16",
+    "processing": "rendered, cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "picard": {
+    "source": "https://www.picard.fr/on/demandware.static/-/Sites-picard-Library/default/dwe7bc9519/images/SFRA/logo-picard-desktop.svg",
+    "kind": "brand site SVG",
+    "licence": "Trademark",
+    "note": "the 2026 logo from the picard.fr header",
+    "fetched": "2026-10-16",
+    "processing": "rendered, cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "costco": {
+    "source": "https://commons.wikimedia.org/wiki/File:Costco_Wholesale_logo_2010-10-26.svg",
+    "kind": "Wikimedia Commons SVG",
+    "licence": "Public domain; trademark",
+    "fetched": "2026-10-16",
+    "processing": "rendered, cropped to the mark, fitted to 128x128 RGBA with a 6 px margin",
+    "note": "shared key, logo copied from us-retail"
+  },
+  "fnac": {
+    "source": "https://commons.wikimedia.org/wiki/File:Fnac_Logo.svg",
+    "kind": "Wikimedia Commons SVG",
+    "licence": "Public domain; trademark",
+    "fetched": "2026-10-16",
+    "processing": "rendered, cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "darty": {
+    "source": "https://commons.wikimedia.org/wiki/File:Darty.svg",
+    "kind": "Wikimedia Commons SVG",
+    "licence": "Public domain; trademark",
+    "fetched": "2026-10-16",
+    "processing": "rendered; the tile is the logo, so it fills 128x128 (full bleed)"
+  },
+  "boulanger": {
+    "source": "https://commons.wikimedia.org/wiki/File:Boulanger_logo.svg",
+    "kind": "Wikimedia Commons SVG",
+    "licence": "Public domain; trademark",
+    "fetched": "2026-10-16",
+    "processing": "rendered; cropped to the b symbol; fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "primark": {
+    "source": "https://commons.wikimedia.org/wiki/File:Primark_Logo_2024.svg",
+    "kind": "Wikimedia Commons SVG",
+    "licence": "Public domain; trademark",
+    "fetched": "2026-10-16",
+    "processing": "rendered, cropped to the mark, fitted to 128x128 RGBA with a 6 px margin",
+    "note": "shared key, logo copied from gb-retail"
+  },
+  "chipotle": {
+    "source": "https://newsroom.chipotle.com/images/logo.svg",
+    "kind": "brand site SVG",
+    "licence": "Trademark",
+    "fetched": "2026-10-16",
+    "processing": "rendered without the embedded 30% raster drop shadow; fitted to 128x128 RGBA with a 6 px margin",
+    "note": "shared key, logo copied from us-retail"
+  },
+  "sncf": {
+    "source": "https://www.groupe-sncf.com/images/logo-light.svg",
+    "kind": "brand site SVG",
+    "licence": "Trademark",
+    "fetched": "2026-10-16",
+    "processing": "rendered; the GROUPE line under the block cropped off; fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "ratp": {
+    "source": "https://upload.wikimedia.org/wikipedia/fr/0/01/RATP.svg",
+    "kind": "Wikimedia SVG (fr.wikipedia local)",
+    "licence": "Trademark",
+    "fetched": "2026-10-16",
+    "processing": "rendered, recoloured to the group's #00AA91 / #0A0082; cropped to the face roundel; fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "totalenergies": {
+    "source": "https://www.totalenergies.fr/typo3conf/ext/de_site_package/Resources/Public/Dist/Images/Logo/totalenergies--vertical.svg",
+    "kind": "brand site SVG",
+    "licence": "Trademark",
+    "fetched": "2026-10-16",
+    "processing": "rendered; cropped to the symbol; fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "orange": {
+    "source": "https://brand.orange.com/themes/custom/slimline/components/orange-navbar-brand/orange-logo.svg",
+    "kind": "brand book (brand.orange.com)",
+    "licence": "Trademark",
+    "fetched": "2026-10-16",
+    "processing": "rendered; the tile is the logo, so it fills 128x128 (full bleed)"
+  },
+  "sfr-fr": {
+    "source": "https://static.s-sfr.fr/AlticeFrance/mediatheque/logos/hd/mediatheque-logos-sfr-hd.svg",
+    "kind": "press kit",
+    "licence": "Trademark",
+    "fetched": "2026-10-16",
+    "processing": "rendered; the tile is the logo, so it fills 128x128 (full bleed)"
+  },
+  "bouygues-telecom": {
+    "source": "https://www.corporate.bouyguestelecom.fr/wp-content/uploads/2021/05/Logo-BouyguesTelecom-Vertical-RVB-Mai2021.png",
+    "kind": "press kit",
+    "licence": "Trademark",
+    "fetched": "2026-10-16",
+    "processing": "cropped to the symbol; fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "free-fr": {
+    "source": "https://commons.wikimedia.org/wiki/File:Free_logo.svg",
+    "kind": "Wikimedia Commons SVG",
+    "licence": "Public domain; trademark",
+    "fetched": "2026-10-16",
+    "processing": "rendered, cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  }
+}

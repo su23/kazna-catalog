@@ -1,0 +1,193 @@
+{
+  "id": "gb-retail",
+  "version": 1,
+  "type": "payees",
+  "name": {
+    "en": "UK: Shops & Services",
+    "ru": "Великобритания: магазины и сервисы"
+  },
+  "payees": [
+    {
+      "key": "tesco",
+      "name": { "en": "Tesco", "ru": "Tesco" },
+      "logo": "https://catalog.kazna.app/packs/gb-retail/logos/tesco.png",
+      "mcc": [5411],
+      "website": "https://www.tesco.com"
+    },
+    {
+      "key": "sainsburys",
+      "name": { "en": "Sainsbury's", "ru": "Sainsbury's" },
+      "logo": "https://catalog.kazna.app/packs/gb-retail/logos/sainsburys.png",
+      "mcc": [5411],
+      "website": "https://www.sainsburys.co.uk"
+    },
+    {
+      "key": "asda",
+      "name": { "en": "Asda", "ru": "Asda" },
+      "logo": "https://catalog.kazna.app/packs/gb-retail/logos/asda.png",
+      "mcc": [5411],
+      "website": "https://www.asda.com"
+    },
+    {
+      "key": "aldi-sud",
+      "name": { "en": "Aldi Süd", "ru": "Aldi Süd" },
+      "logo": "https://catalog.kazna.app/packs/gb-retail/logos/aldi-sud.png",
+      "mcc": [5411],
+      "website": "https://www.aldi-sued.de"
+    },
+    {
+      "key": "lidl",
+      "name": { "en": "Lidl", "ru": "Lidl" },
+      "logo": "https://catalog.kazna.app/packs/gb-retail/logos/lidl.png",
+      "mcc": [5411],
+      "website": "https://www.lidl.de"
+    },
+    {
+      "key": "morrisons",
+      "name": { "en": "Morrisons", "ru": "Morrisons" },
+      "logo": "https://catalog.kazna.app/packs/gb-retail/logos/morrisons.png",
+      "mcc": [5411],
+      "website": "https://www.morrisons.com"
+    },
+    {
+      "key": "waitrose",
+      "name": { "en": "Waitrose", "ru": "Waitrose" },
+      "logo": "https://catalog.kazna.app/packs/gb-retail/logos/waitrose.png",
+      "mcc": [5411],
+      "website": "https://www.waitrose.com"
+    },
+    {
+      "key": "marks-and-spencer",
+      "name": { "en": "Marks & Spencer", "ru": "Marks & Spencer" },
+      "logo": "https://catalog.kazna.app/packs/gb-retail/logos/marks-and-spencer.png",
+      "mcc": [5311, 5411],
+      "website": "https://www.marksandspencer.com"
+    },
+    {
+      "key": "boots",
+      "name": { "en": "Boots", "ru": "Boots" },
+      "logo": "https://catalog.kazna.app/packs/gb-retail/logos/boots.png",
+      "mcc": [5912],
+      "website": "https://www.boots.com"
+    },
+    {
+      "key": "superdrug",
+      "name": { "en": "Superdrug", "ru": "Superdrug" },
+      "logo": "https://catalog.kazna.app/packs/gb-retail/logos/superdrug.png",
+      "mcc": [5912, 5977],
+      "website": "https://www.superdrug.com"
+    },
+    {
+      "key": "argos",
+      "name": { "en": "Argos", "ru": "Argos" },
+      "logo": "https://catalog.kazna.app/packs/gb-retail/logos/argos.png",
+      "mcc": [5311],
+      "website": "https://www.argos.co.uk"
+    },
+    {
+      "key": "currys",
+      "name": { "en": "Currys", "ru": "Currys" },
+      "logo": "https://catalog.kazna.app/packs/gb-retail/logos/currys.png",
+      "mcc": [5732, 5722],
+      "website": "https://www.currys.co.uk"
+    },
+    {
+      "key": "primark",
+      "name": { "en": "Primark", "ru": "Primark" },
+      "logo": "https://catalog.kazna.app/packs/gb-retail/logos/primark.png",
+      "mcc": [5651],
+      "website": "https://www.primark.com"
+    },
+    {
+      "key": "greggs",
+      "name": { "en": "Greggs", "ru": "Greggs" },
+      "logo": "https://catalog.kazna.app/packs/gb-retail/logos/greggs.png",
+      "mcc": [5814],
+      "website": "https://www.greggs.com"
+    },
+    {
+      "key": "pret-a-manger",
+      "name": { "en": "Pret A Manger", "ru": "Pret A Manger" },
+      "logo": "https://catalog.kazna.app/packs/gb-retail/logos/pret-a-manger.png",
+      "mcc": [5814, 5812],
+      "website": "https://www.pret.co.uk"
+    },
+    {
+      "key": "costco",
+      "name": { "en": "Costco", "ru": "Costco" },
+      "logo": "https://catalog.kazna.app/packs/gb-retail/logos/costco.png",
+      "mcc": [5300, 5542],
+      "website": "https://www.costco.com"
+    },
+    {
+      "key": "whole-foods",
+      "name": { "en": "Whole Foods Market", "ru": "Whole Foods Market" },
+      "logo": "https://catalog.kazna.app/packs/gb-retail/logos/whole-foods.png",
+      "mcc": [5411],
+      "website": "https://www.wholefoodsmarket.com"
+    },
+    {
+      "key": "chick-fil-a",
+      "name": { "en": "Chick-fil-A", "ru": "Chick-fil-A" },
+      "logo": "https://catalog.kazna.app/packs/gb-retail/logos/chick-fil-a.png",
+      "mcc": [5814],
+      "website": "https://www.chick-fil-a.com"
+    },
+    {
+      "key": "chipotle",
+      "name": { "en": "Chipotle", "ru": "Chipotle" },
+      "logo": "https://catalog.kazna.app/packs/gb-retail/logos/chipotle.png",
+      "mcc": [5814],
+      "website": "https://www.chipotle.com"
+    },
+    {
+      "key": "tfl",
+      "name": { "en": "TfL", "ru": "TfL" },
+      "logo": "https://catalog.kazna.app/packs/gb-retail/logos/tfl.png",
+      "mcc": [4111, 4131],
+      "website": "https://tfl.gov.uk"
+    },
+    {
+      "key": "trainline",
+      "name": { "en": "Trainline", "ru": "Trainline" },
+      "logo": "https://catalog.kazna.app/packs/gb-retail/logos/trainline.png",
+      "mcc": [4112, 4722],
+      "website": "https://www.thetrainline.com"
+    },
+    {
+      "key": "ee",
+      "name": { "en": "EE", "ru": "EE" },
+      "logo": "https://catalog.kazna.app/packs/gb-retail/logos/ee.png",
+      "mcc": [4814],
+      "website": "https://ee.co.uk"
+    },
+    {
+      "key": "o2",
+      "name": { "en": "O2", "ru": "O2", "de": "o2" },
+      "logo": "https://catalog.kazna.app/packs/gb-retail/logos/o2.png",
+      "mcc": [4814],
+      "website": "https://www.o2.co.uk"
+    },
+    {
+      "key": "vodafone",
+      "name": { "en": "Vodafone", "ru": "Vodafone" },
+      "logo": "https://catalog.kazna.app/packs/gb-retail/logos/vodafone.png",
+      "mcc": [4814],
+      "website": "https://www.vodafone.co.uk"
+    },
+    {
+      "key": "bt",
+      "name": { "en": "BT", "ru": "BT" },
+      "logo": "https://catalog.kazna.app/packs/gb-retail/logos/bt.png",
+      "mcc": [4814, 4899],
+      "website": "https://www.bt.com"
+    },
+    {
+      "key": "shell",
+      "name": { "en": "Shell", "ru": "Shell" },
+      "logo": "https://catalog.kazna.app/packs/gb-retail/logos/shell.png",
+      "mcc": [5541, 5542],
+      "website": "https://www.shell.com"
+    }
+  ]
+}
