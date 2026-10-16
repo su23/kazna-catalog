@@ -1,6 +1,6 @@
 {
   "id": "gb-retail",
-  "version": 1,
+  "version": 2,
   "type": "payees",
   "name": {
     "en": "UK: Shops & Services",
@@ -27,20 +27,6 @@
       "logo": "https://catalog.kazna.app/packs/gb-retail/logos/asda.png",
       "mcc": [5411],
       "website": "https://www.asda.com"
-    },
-    {
-      "key": "aldi-sud",
-      "name": { "en": "Aldi Süd", "ru": "Aldi Süd" },
-      "logo": "https://catalog.kazna.app/packs/gb-retail/logos/aldi-sud.png",
-      "mcc": [5411],
-      "website": "https://www.aldi-sued.de"
-    },
-    {
-      "key": "lidl",
-      "name": { "en": "Lidl", "ru": "Lidl" },
-      "logo": "https://catalog.kazna.app/packs/gb-retail/logos/lidl.png",
-      "mcc": [5411],
-      "website": "https://www.lidl.de"
     },
     {
       "key": "morrisons",
@@ -113,34 +99,6 @@
       "website": "https://www.pret.co.uk"
     },
     {
-      "key": "costco",
-      "name": { "en": "Costco", "ru": "Costco" },
-      "logo": "https://catalog.kazna.app/packs/gb-retail/logos/costco.png",
-      "mcc": [5300, 5542],
-      "website": "https://www.costco.com"
-    },
-    {
-      "key": "whole-foods",
-      "name": { "en": "Whole Foods Market", "ru": "Whole Foods Market" },
-      "logo": "https://catalog.kazna.app/packs/gb-retail/logos/whole-foods.png",
-      "mcc": [5411],
-      "website": "https://www.wholefoodsmarket.com"
-    },
-    {
-      "key": "chick-fil-a",
-      "name": { "en": "Chick-fil-A", "ru": "Chick-fil-A" },
-      "logo": "https://catalog.kazna.app/packs/gb-retail/logos/chick-fil-a.png",
-      "mcc": [5814],
-      "website": "https://www.chick-fil-a.com"
-    },
-    {
-      "key": "chipotle",
-      "name": { "en": "Chipotle", "ru": "Chipotle" },
-      "logo": "https://catalog.kazna.app/packs/gb-retail/logos/chipotle.png",
-      "mcc": [5814],
-      "website": "https://www.chipotle.com"
-    },
-    {
       "key": "tfl",
       "name": { "en": "TfL", "ru": "TfL" },
       "logo": "https://catalog.kazna.app/packs/gb-retail/logos/tfl.png",
@@ -162,32 +120,11 @@
       "website": "https://ee.co.uk"
     },
     {
-      "key": "o2",
-      "name": { "en": "O2", "ru": "O2", "de": "o2" },
-      "logo": "https://catalog.kazna.app/packs/gb-retail/logos/o2.png",
-      "mcc": [4814],
-      "website": "https://www.o2.co.uk"
-    },
-    {
-      "key": "vodafone",
-      "name": { "en": "Vodafone", "ru": "Vodafone" },
-      "logo": "https://catalog.kazna.app/packs/gb-retail/logos/vodafone.png",
-      "mcc": [4814],
-      "website": "https://www.vodafone.co.uk"
-    },
-    {
       "key": "bt",
       "name": { "en": "BT", "ru": "BT" },
       "logo": "https://catalog.kazna.app/packs/gb-retail/logos/bt.png",
       "mcc": [4814, 4899],
       "website": "https://www.bt.com"
-    },
-    {
-      "key": "shell",
-      "name": { "en": "Shell", "ru": "Shell" },
-      "logo": "https://catalog.kazna.app/packs/gb-retail/logos/shell.png",
-      "mcc": [5541, 5542],
-      "website": "https://www.shell.com"
     }
   ]
 }

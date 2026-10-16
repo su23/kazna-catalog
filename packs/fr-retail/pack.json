@@ -1,6 +1,6 @@
 {
   "id": "fr-retail",
-  "version": 1,
+  "version": 2,
   "type": "payees",
   "name": {
     "en": "France: Shops & Services",
@@ -36,20 +36,6 @@
       "website": "https://auchan.ru"
     },
     {
-      "key": "lidl",
-      "name": { "en": "Lidl", "ru": "Lidl" },
-      "logo": "https://catalog.kazna.app/packs/fr-retail/logos/lidl.png",
-      "mcc": [5411],
-      "website": "https://www.lidl.de"
-    },
-    {
-      "key": "aldi-nord",
-      "name": { "en": "Aldi Nord", "ru": "Aldi Nord" },
-      "logo": "https://catalog.kazna.app/packs/fr-retail/logos/aldi-nord.png",
-      "mcc": [5411],
-      "website": "https://www.aldi-nord.de"
-    },
-    {
       "key": "monoprix",
       "name": { "en": "Monoprix", "ru": "Monoprix" },
       "logo": "https://catalog.kazna.app/packs/fr-retail/logos/monoprix.png",
@@ -71,13 +57,6 @@
       "website": "https://www.picard.fr"
     },
     {
-      "key": "costco",
-      "name": { "en": "Costco", "ru": "Costco" },
-      "logo": "https://catalog.kazna.app/packs/fr-retail/logos/costco.png",
-      "mcc": [5300, 5542],
-      "website": "https://www.costco.com"
-    },
-    {
       "key": "fnac",
       "name": { "en": "Fnac", "ru": "Fnac" },
       "logo": "https://catalog.kazna.app/packs/fr-retail/logos/fnac.png",
@@ -97,20 +76,6 @@
       "logo": "https://catalog.kazna.app/packs/fr-retail/logos/boulanger.png",
       "mcc": [5732, 5722],
       "website": "https://www.boulanger.com"
-    },
-    {
-      "key": "primark",
-      "name": { "en": "Primark", "ru": "Primark" },
-      "logo": "https://catalog.kazna.app/packs/fr-retail/logos/primark.png",
-      "mcc": [5651],
-      "website": "https://www.primark.com"
-    },
-    {
-      "key": "chipotle",
-      "name": { "en": "Chipotle", "ru": "Chipotle" },
-      "logo": "https://catalog.kazna.app/packs/fr-retail/logos/chipotle.png",
-      "mcc": [5814],
-      "website": "https://www.chipotle.com"
     },
     {
       "key": "sncf",

@@ -25,22 +25,6 @@
     "source": null,
     "note": "shared key, logo copied from ru-supermarkets, whose sources.json has no record of it"
   },
-  "lidl": {
-    "source": "https://commons.wikimedia.org/wiki/File:Lidl-Logo.svg",
-    "kind": "Wikimedia Commons SVG",
-    "licence": "Public domain; trademark",
-    "fetched": "2026-10-16",
-    "processing": "rendered; the thin white outline removed; the tile is the logo, so it fills 128x128 (full bleed)",
-    "note": "shared key, logo copied from de-retail"
-  },
-  "aldi-nord": {
-    "source": "https://commons.wikimedia.org/wiki/File:Aldi_Nord_201x_logo.svg",
-    "kind": "Wikimedia Commons SVG",
-    "licence": "Public domain; trademark",
-    "fetched": "2026-10-16",
-    "processing": "rendered; the white border outside the red frame removed; fitted to 128x128 RGBA with a 6 px margin",
-    "note": "shared key, logo copied from de-retail"
-  },
   "monoprix": {
     "source": "https://commons.wikimedia.org/wiki/File:Monoprix_logo.svg",
     "kind": "Wikimedia Commons SVG",
@@ -63,14 +47,6 @@
     "fetched": "2026-10-16",
     "processing": "rendered, cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
   },
-  "costco": {
-    "source": "https://commons.wikimedia.org/wiki/File:Costco_Wholesale_logo_2010-10-26.svg",
-    "kind": "Wikimedia Commons SVG",
-    "licence": "Public domain; trademark",
-    "fetched": "2026-10-16",
-    "processing": "rendered, cropped to the mark, fitted to 128x128 RGBA with a 6 px margin",
-    "note": "shared key, logo copied from us-retail"
-  },
   "fnac": {
     "source": "https://commons.wikimedia.org/wiki/File:Fnac_Logo.svg",
     "kind": "Wikimedia Commons SVG",
@@ -91,22 +67,6 @@
     "licence": "Public domain; trademark",
     "fetched": "2026-10-16",
     "processing": "rendered; cropped to the b symbol; fitted to 128x128 RGBA with a 6 px margin"
-  },
-  "primark": {
-    "source": "https://commons.wikimedia.org/wiki/File:Primark_Logo_2024.svg",
-    "kind": "Wikimedia Commons SVG",
-    "licence": "Public domain; trademark",
-    "fetched": "2026-10-16",
-    "processing": "rendered, cropped to the mark, fitted to 128x128 RGBA with a 6 px margin",
-    "note": "shared key, logo copied from gb-retail"
-  },
-  "chipotle": {
-    "source": "https://newsroom.chipotle.com/images/logo.svg",
-    "kind": "brand site SVG",
-    "licence": "Trademark",
-    "fetched": "2026-10-16",
-    "processing": "rendered without the embedded 30% raster drop shadow; fitted to 128x128 RGBA with a 6 px margin",
-    "note": "shared key, logo copied from us-retail"
   },
   "sncf": {
     "source": "https://www.groupe-sncf.com/images/logo-light.svg",

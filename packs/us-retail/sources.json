@@ -43,22 +43,6 @@
     "fetched": "2026-10-16",
     "processing": "rendered, cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
   },
-  "aldi-sud": {
-    "source": "https://commons.wikimedia.org/wiki/File:Aldi_S%C3%BCd_2017_logo.svg",
-    "kind": "Wikimedia Commons SVG",
-    "licence": "Public domain; trademark",
-    "fetched": "2026-10-16",
-    "processing": "rendered, cropped to the mark, fitted to 128x128 RGBA with a 6 px margin",
-    "note": "shared key, logo copied from de-retail"
-  },
-  "lidl": {
-    "source": "https://commons.wikimedia.org/wiki/File:Lidl-Logo.svg",
-    "kind": "Wikimedia Commons SVG",
-    "licence": "Public domain; trademark",
-    "fetched": "2026-10-16",
-    "processing": "rendered; the thin white outline removed; the tile is the logo, so it fills 128x128 (full bleed)",
-    "note": "shared key, logo copied from de-retail"
-  },
   "cvs": {
     "source": "https://www.cvshealth.com/content/dam/enterprise/cvs-enterprise/media-library/logos/migratedcontent/cvs-pharmacy-logo-stacked.png",
     "kind": "press kit",
@@ -94,14 +78,6 @@
     "fetched": "2026-10-16",
     "processing": "rendered, cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
   },
-  "primark": {
-    "source": "https://commons.wikimedia.org/wiki/File:Primark_Logo_2024.svg",
-    "kind": "Wikimedia Commons SVG",
-    "licence": "Public domain; trademark",
-    "fetched": "2026-10-16",
-    "processing": "rendered, cropped to the mark, fitted to 128x128 RGBA with a 6 px margin",
-    "note": "shared key, logo copied from gb-retail"
-  },
   "chick-fil-a": {
     "source": "https://commons.wikimedia.org/wiki/File:Chick-fil-A_Logo.svg",
     "kind": "Wikimedia Commons SVG",
@@ -127,14 +103,6 @@
     "source": "https://commons.wikimedia.org/wiki/File:Exxon_logo_2016.svg",
     "kind": "Wikimedia Commons SVG",
     "licence": "Public domain; trademark",
-    "fetched": "2026-10-16",
-    "processing": "rendered, cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
-  },
-  "shell": {
-    "source": "https://www.shell.co.uk/",
-    "kind": "brand site inline SVG",
-    "licence": "Trademark",
-    "note": "shared key, logo copied from gb-retail",
     "fetched": "2026-10-16",
     "processing": "rendered, cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
   },

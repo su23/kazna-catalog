@@ -1,6 +1,6 @@
 {
   "id": "de-retail",
-  "version": 1,
+  "version": 2,
   "type": "payees",
   "name": {
     "en": "Germany: Shops & Services",
@@ -97,20 +97,6 @@
       "logo": "https://catalog.kazna.app/packs/de-retail/logos/otto.png",
       "mcc": [5964, 5969],
       "website": "https://www.otto.de"
-    },
-    {
-      "key": "primark",
-      "name": { "en": "Primark", "ru": "Primark" },
-      "logo": "https://catalog.kazna.app/packs/de-retail/logos/primark.png",
-      "mcc": [5651],
-      "website": "https://www.primark.com"
-    },
-    {
-      "key": "chipotle",
-      "name": { "en": "Chipotle", "ru": "Chipotle" },
-      "logo": "https://catalog.kazna.app/packs/de-retail/logos/chipotle.png",
-      "mcc": [5814],
-      "website": "https://www.chipotle.com"
     },
     {
       "key": "deutsche-bahn",

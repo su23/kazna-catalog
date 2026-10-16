@@ -15,14 +15,6 @@
     "fetched": "2026-10-16",
     "processing": "rendered; cropped to the symbol; fitted to 128x128 RGBA with a 6 px margin"
   },
-  "lidl": {
-    "source": "https://commons.wikimedia.org/wiki/File:Lidl-Logo.svg",
-    "kind": "Wikimedia Commons SVG",
-    "licence": "Public domain; trademark",
-    "fetched": "2026-10-16",
-    "processing": "rendered; the thin white outline removed; the tile is the logo, so it fills 128x128 (full bleed)",
-    "note": "shared key, logo copied from de-retail"
-  },
   "dia-es": {
     "source": "https://commons.wikimedia.org/wiki/File:Dia_2019.svg",
     "kind": "Wikimedia Commons SVG",
@@ -46,14 +38,6 @@
     "fetched": "2026-10-16",
     "processing": "cropped to the e square; fitted to 128x128 RGBA with a 6 px margin"
   },
-  "aldi-nord": {
-    "source": "https://commons.wikimedia.org/wiki/File:Aldi_Nord_201x_logo.svg",
-    "kind": "Wikimedia Commons SVG",
-    "licence": "Public domain; trademark",
-    "fetched": "2026-10-16",
-    "processing": "rendered; the white border outside the red frame removed; fitted to 128x128 RGBA with a 6 px margin",
-    "note": "shared key, logo copied from de-retail"
-  },
   "el-corte-ingles": {
     "source": "https://commons.wikimedia.org/wiki/File:Logo_Corte_Ingl%C3%A9s.svg",
     "kind": "Wikimedia Commons SVG",
@@ -68,22 +52,6 @@
     "note": "shared key, logo copied from tr-retail",
     "fetched": "2026-10-08",
     "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
-  },
-  "primark": {
-    "source": "https://commons.wikimedia.org/wiki/File:Primark_Logo_2024.svg",
-    "kind": "Wikimedia Commons SVG",
-    "licence": "Public domain; trademark",
-    "fetched": "2026-10-16",
-    "processing": "rendered, cropped to the mark, fitted to 128x128 RGBA with a 6 px margin",
-    "note": "shared key, logo copied from gb-retail"
-  },
-  "costco": {
-    "source": "https://commons.wikimedia.org/wiki/File:Costco_Wholesale_logo_2010-10-26.svg",
-    "kind": "Wikimedia Commons SVG",
-    "licence": "Public domain; trademark",
-    "fetched": "2026-10-16",
-    "processing": "rendered, cropped to the mark, fitted to 128x128 RGBA with a 6 px margin",
-    "note": "shared key, logo copied from us-retail"
   },
   "renfe": {
     "source": "https://commons.wikimedia.org/wiki/File:Logotipo_de_Renfe_Operadora_(2026).svg",
@@ -113,22 +81,6 @@
     "note": "the M in Azul Movistar #0066FF, from movistar.es's glyph server; every Commons file has the old #019DF4",
     "fetched": "2026-10-16",
     "processing": "rendered, cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
-  },
-  "vodafone": {
-    "source": "https://www.vodafone.co.uk/",
-    "kind": "brand site inline SVG",
-    "licence": "Trademark",
-    "note": "shared key, logo copied from gb-retail",
-    "fetched": "2026-10-16",
-    "processing": "rendered, cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
-  },
-  "orange": {
-    "source": "https://brand.orange.com/themes/custom/slimline/components/orange-navbar-brand/orange-logo.svg",
-    "kind": "brand book (brand.orange.com)",
-    "licence": "Trademark",
-    "fetched": "2026-10-16",
-    "processing": "rendered; the tile is the logo, so it fills 128x128 (full bleed)",
-    "note": "shared key, logo copied from fr-retail"
   },
   "telepizza": {
     "source": "https://statices.telepizza.com/static/on/demandware.static/-/Sites-TelepizzaES-Library/default/images/brand/logo.svg",

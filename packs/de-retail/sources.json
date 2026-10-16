@@ -91,22 +91,6 @@
     "fetched": "2026-10-16",
     "processing": "rendered, cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
   },
-  "primark": {
-    "source": "https://commons.wikimedia.org/wiki/File:Primark_Logo_2024.svg",
-    "kind": "Wikimedia Commons SVG",
-    "licence": "Public domain; trademark",
-    "fetched": "2026-10-16",
-    "processing": "rendered, cropped to the mark, fitted to 128x128 RGBA with a 6 px margin",
-    "note": "shared key, logo copied from gb-retail"
-  },
-  "chipotle": {
-    "source": "https://newsroom.chipotle.com/images/logo.svg",
-    "kind": "brand site SVG",
-    "licence": "Trademark",
-    "fetched": "2026-10-16",
-    "processing": "rendered without the embedded 30% raster drop shadow; fitted to 128x128 RGBA with a 6 px margin",
-    "note": "shared key, logo copied from us-retail"
-  },
   "deutsche-bahn": {
     "source": "https://commons.wikimedia.org/wiki/File:Deutsche_Bahn_AG-Logo.svg",
     "kind": "Wikimedia Commons SVG",
@@ -126,7 +110,7 @@
     "source": "https://www.vodafone.co.uk/",
     "kind": "brand site inline SVG",
     "licence": "Trademark",
-    "note": "shared key, logo copied from gb-retail",
+    "note": "the speechmark from the header",
     "fetched": "2026-10-16",
     "processing": "rendered, cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
   },
@@ -135,8 +119,7 @@
     "kind": "Wikimedia Commons SVG",
     "licence": "Public domain; trademark",
     "fetched": "2026-10-16",
-    "processing": "rendered, cropped to the mark, fitted to 128x128 RGBA with a 6 px margin",
-    "note": "shared key, logo copied from gb-retail"
+    "processing": "rendered, cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
   },
   "aral": {
     "source": "https://commons.wikimedia.org/wiki/File:Aral_Logo.svg",
@@ -149,7 +132,7 @@
     "source": "https://www.shell.co.uk/",
     "kind": "brand site inline SVG",
     "licence": "Trademark",
-    "note": "shared key, logo copied from gb-retail",
+    "note": "the 2012 pecten, a data: URI in the header logo's CSS background",
     "fetched": "2026-10-16",
     "processing": "rendered, cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
   }

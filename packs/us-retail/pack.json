@@ -1,6 +1,6 @@
 {
   "id": "us-retail",
-  "version": 1,
+  "version": 2,
   "type": "payees",
   "name": {
     "en": "USA: Shops & Services",
@@ -50,20 +50,6 @@
       "website": "https://www.traderjoes.com"
     },
     {
-      "key": "aldi-sud",
-      "name": { "en": "Aldi Süd", "ru": "Aldi Süd" },
-      "logo": "https://catalog.kazna.app/packs/us-retail/logos/aldi-sud.png",
-      "mcc": [5411],
-      "website": "https://www.aldi-sued.de"
-    },
-    {
-      "key": "lidl",
-      "name": { "en": "Lidl", "ru": "Lidl" },
-      "logo": "https://catalog.kazna.app/packs/us-retail/logos/lidl.png",
-      "mcc": [5411],
-      "website": "https://www.lidl.de"
-    },
-    {
       "key": "cvs",
       "name": { "en": "CVS Pharmacy", "ru": "CVS Pharmacy" },
       "logo": "https://catalog.kazna.app/packs/us-retail/logos/cvs.png",
@@ -99,13 +85,6 @@
       "website": "https://www.bestbuy.com"
     },
     {
-      "key": "primark",
-      "name": { "en": "Primark", "ru": "Primark" },
-      "logo": "https://catalog.kazna.app/packs/us-retail/logos/primark.png",
-      "mcc": [5651],
-      "website": "https://www.primark.com"
-    },
-    {
       "key": "chick-fil-a",
       "name": { "en": "Chick-fil-A", "ru": "Chick-fil-A" },
       "logo": "https://catalog.kazna.app/packs/us-retail/logos/chick-fil-a.png",
@@ -132,13 +111,6 @@
       "logo": "https://catalog.kazna.app/packs/us-retail/logos/exxon.png",
       "mcc": [5541, 5542],
       "website": "https://www.exxon.com"
-    },
-    {
-      "key": "shell",
-      "name": { "en": "Shell", "ru": "Shell" },
-      "logo": "https://catalog.kazna.app/packs/us-retail/logos/shell.png",
-      "mcc": [5541, 5542],
-      "website": "https://www.shell.com"
     },
     {
       "key": "verizon",
