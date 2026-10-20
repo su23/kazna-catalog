@@ -288,6 +288,7 @@
 {"c":["RU","KZ","BY","UZ","GE","AM"],"g":"transport","h":"045028164a8205a7","k":"yandex-go","m":[4121],"n":{"en":"Yandex Go","ru":"Яндекс Go"},"p":"ru-online-services","ps":["ru-online-services","ru-transport","ru-taxi-services","uz-retail","ge-retail","am-retail"],"w":"go.yandex.ru"},
 {"c":["RU"],"g":"transport","h":"05f69af887a0c4a7","k":"rzd","m":[4112],"n":{"en":"Russian Railways","ru":"РЖД"},"p":"ru-transport","w":"www.rzd.ru"},
 {"c":["RU"],"g":"transport","h":"50cc9b54bf90c379","k":"mos-transport","m":[4111],"n":{"en":"Moscow Transport (Troika)","ru":"Московский транспорт (Тройка)"},"p":"ru-transport","w":"transport.mos.ru"},
+{"a":["Подорожник","Подорожник СПб","Podorozhnik","Podorozhnik SPb","Организатор перевозок"],"c":["RU"],"g":"transport","h":"06512ea5a0fcf0d9","k":"podorozhnik-spb","m":[4111],"n":{"en":"Podorozhnik (Saint Petersburg)","ru":"Подорожник (Санкт-Петербург)"},"p":"ru-transport","w":"podorozhnik.spb.ru"},
 {"c":["RU"],"g":"transport","h":"1d7d251aa2c193dd","k":"aeroexpress","m":[4112],"n":{"en":"Aeroexpress","ru":"Аэроэкспресс"},"p":"ru-transport","w":"aeroexpress.ru"},
 {"c":["RU"],"g":"transport","h":"9ed7a165b6b50b9b","k":"delimobil","m":[7512],"n":{"en":"Delimobil","ru":"Делимобиль"},"p":"ru-transport","w":"delimobil.ru"},
 {"a":["БелкаКар"],"c":["RU"],"g":"transport","h":"5a4b45cccbe24f62","k":"belkacar","m":[7512],"n":{"en":"BelkaCar","ru":"BelkaCar"},"p":"ru-transport","w":"belkacar.ru"},
@@ -418,6 +419,7 @@
 {"a":["Aral pulse","Арал"],"c":["DE"],"g":"fuel","h":"93df9bf09265bc75","k":"aral","m":[5541,5542],"n":{"en":"Aral","ru":"Aral"},"p":"de-retail","w":"www.aral.de"},
 {"a":["Шелл","Shell Recharge","Shell petrol"],"c":["DE","GB","US"],"g":"fuel","h":"91c4bfb10b0baa08","k":"shell","m":[5541,5542],"n":{"en":"Shell","ru":"Shell"},"p":"de-retail","w":"www.shell.com"},
 {"c":["RU"],"g":"auto","h":"7f769c989abbf891","k":"avtodor","m":[4784],"n":{"en":"Avtodor Toll Roads","ru":"Автодор — Платные дороги"},"p":"ru-auto","w":"avtodor-tr.ru"},
+{"a":["ЗСД","Западный скоростной диаметр","Магистраль северной столицы","WHSD","Western High-Speed Diameter"],"c":["RU"],"g":"auto","h":"e4cf2de77486f6ab","k":"zsd","m":[4784],"n":{"en":"ZSD — Western High-Speed Diameter","ru":"ЗСД — Западный скоростной диаметр"},"p":"ru-auto","w":"whsd.ru"},
 {"c":["RU"],"g":"auto","h":"f9813990a3fe42d3","k":"mos-parking","m":[7523],"n":{"en":"Moscow Parking","ru":"Московский паркинг"},"p":"ru-auto","w":"parking.mos.ru"},
 {"c":["RU"],"g":"auto","h":"2a5c2e709900b36b","k":"fit-service","m":[7538],"n":{"en":"FIT SERVICE","ru":"ФИТ СЕРВИС"},"p":"ru-auto","w":"fitauto.ru"},
 {"a":["Экзист"],"c":["RU"],"g":"auto","h":"a58c1bc6f9f2fe47","k":"exist","m":[5533],"n":{"en":"Exist.ru","ru":"Exist.ru"},"p":"ru-auto","w":"exist.ru"},
@@ -777,6 +779,6 @@
 "logo_path":"index/v2/logos/{h}.png",
 "min_app_build":0,
 "renamed":{"obi":"dom-lenta","sbermarket":"kuper"},
-"rev":"799f3649d8bd6915",
+"rev":"3d5bb8b456cac59d",
 "updated":"2026-10-20"
 }

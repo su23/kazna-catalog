@@ -1,6 +1,6 @@
 {
   "id": "ru-auto",
-  "version": 1,
+  "version": 2,
   "type": "payees",
   "name": {
     "en": "Russian Car Costs",
@@ -13,6 +13,13 @@
       "logo": "https://catalog.kazna.app/packs/ru-auto/logos/avtodor.png",
       "mcc": [4784],
       "website": "https://avtodor-tr.ru"
+    },
+    {
+      "key": "zsd",
+      "name": { "en": "ZSD — Western High-Speed Diameter", "ru": "ЗСД — Западный скоростной диаметр" },
+      "logo": "https://catalog.kazna.app/packs/ru-auto/logos/zsd.png",
+      "mcc": [4784],
+      "website": "https://whsd.ru"
     },
     {
       "key": "mos-parking",

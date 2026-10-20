@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-16",
+  "generated_at": "2026-10-20",
   "base_url": "https://catalog.kazna.app",
   "packs": [
     {
@@ -532,17 +532,17 @@
     {
       "id": "ru-transport",
       "type": "payees",
-      "version": 2,
+      "version": 3,
       "name": {
         "en": "Russian Transport & Travel",
         "ru": "Транспорт и поездки"
       },
       "description": {
-        "en": "Trains, city transport, carsharing and travel booking in Russia — Russian Railways, Moscow Transport, Aeroexpress, Tutu and 7 more",
-        "ru": "Поезда, городской транспорт, каршеринг и бронирование поездок — РЖД, Московский транспорт, Аэроэкспресс, Туту и ещё 7"
+        "en": "Trains, city transport, carsharing and travel booking in Russia — Russian Railways, Moscow Transport, Aeroexpress, Tutu and 8 more",
+        "ru": "Поезда, городской транспорт, каршеринг и бронирование поездок — РЖД, Московский транспорт, Аэроэкспресс, Туту и ещё 8"
       },
       "tags": ["russia", "transport", "travel"],
-      "entity_count": 11,
+      "entity_count": 12,
       "pack_url": "https://catalog.kazna.app/packs/ru-transport/pack.json",
       "preview_logos": [
         "https://catalog.kazna.app/packs/ru-transport/logos/rzd.png",
@@ -686,17 +686,17 @@
     {
       "id": "ru-auto",
       "type": "payees",
-      "version": 1,
+      "version": 2,
       "name": {
         "en": "Russian Car Costs",
         "ru": "Автомобиль"
       },
       "description": {
-        "en": "Toll roads, parking, fuel apps, car service and parts in Russia — Avtodor, Moscow Parking, Yandex Fuel, FIT SERVICE and 3 more",
-        "ru": "Платные дороги, парковки, заправки, автосервис и запчасти — Автодор, Московский паркинг, Яндекс Заправки, ФИТ СЕРВИС и ещё 3"
+        "en": "Toll roads, parking, fuel apps, car service and parts in Russia — Avtodor, Moscow Parking, Yandex Fuel, FIT SERVICE and 4 more",
+        "ru": "Платные дороги, парковки, заправки, автосервис и запчасти — Автодор, Московский паркинг, Яндекс Заправки, ФИТ СЕРВИС и ещё 4"
       },
       "tags": ["russia", "auto", "transport"],
-      "entity_count": 7,
+      "entity_count": 8,
       "pack_url": "https://catalog.kazna.app/packs/ru-auto/pack.json",
       "preview_logos": [
         "https://catalog.kazna.app/packs/ru-auto/logos/avtodor.png",

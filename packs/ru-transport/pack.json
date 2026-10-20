@@ -1,6 +1,6 @@
 {
   "id": "ru-transport",
-  "version": 2,
+  "version": 3,
   "type": "payees",
   "name": {
     "en": "Russian Transport & Travel",
@@ -20,6 +20,13 @@
       "logo": "https://catalog.kazna.app/packs/ru-transport/logos/mos-transport.png",
       "mcc": [4111],
       "website": "https://transport.mos.ru"
+    },
+    {
+      "key": "podorozhnik-spb",
+      "name": { "en": "Podorozhnik (Saint Petersburg)", "ru": "Подорожник (Санкт-Петербург)" },
+      "logo": "https://catalog.kazna.app/packs/ru-transport/logos/podorozhnik-spb.png",
+      "mcc": [4111],
+      "website": "https://podorozhnik.spb.ru"
     },
     {
       "key": "aeroexpress",

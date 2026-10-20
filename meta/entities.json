@@ -351,6 +351,7 @@
   "playstation":            { "aliases": ["Плейстейшн"] },
   "pochtabank":             { "aliases": ["Лето Банк", "Leto Bank"] },
   "podari-zhizn":           { "countries": ["RU"] },
+  "podorozhnik-spb":        { "aliases": ["Подорожник", "Подорожник СПб", "Podorozhnik", "Podorozhnik SPb", "Организатор перевозок"] },
   "podorozhnyk":            { "category": "pharmacy" },
   "poe":                    { "pick": true },
   "popeyes":                { "name": { "ru": "Popeyes" }, "translit": true },
@@ -532,5 +533,6 @@
   "zigzag":                 { "category": "electronics" },
   "ziraat-bank":            { "aliases": ["Ziraat Bankası"] },
   "zolotaya-korona":        { "name": { "en": "Zolotaya Korona" }, "countries": ["RU"], "pick": true },
-  "zoom":                   { "aliases": ["Зум"] }
+  "zoom":                   { "aliases": ["Зум"] },
+  "zsd":                    { "aliases": ["ЗСД", "Западный скоростной диаметр", "Магистраль северной столицы", "WHSD", "Western High-Speed Diameter"] }
 }

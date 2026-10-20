@@ -14,6 +14,14 @@
     "fetched": "2026-10-08",
     "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
   },
+  "podorozhnik-spb": {
+    "source": "https://apps.apple.com/ru/app/id6478869877 (artwork 1024x1024bb.png)",
+    "kind": "App Store icon",
+    "licence": "trademark",
+    "note": "the official app of SPb GKU Organizator perevozok; podorozhnik.spb.ru serves a certificate macOS doesn't trust, and Commons has only a photo of the card",
+    "fetched": "2026-10-20",
+    "processing": "the icon as it is, white leaf on its green gradient tile, scaled to 128x128 (full bleed)"
+  },
   "aeroexpress": {
     "source": "https://aeroexpress.ru/favicon.svg",
     "kind": "brand site SVG",
