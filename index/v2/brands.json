@@ -289,6 +289,9 @@
 {"c":["RU"],"g":"transport","h":"05f69af887a0c4a7","k":"rzd","m":[4112],"n":{"en":"Russian Railways","ru":"РЖД"},"p":"ru-transport","w":"www.rzd.ru"},
 {"c":["RU"],"g":"transport","h":"50cc9b54bf90c379","k":"mos-transport","m":[4111],"n":{"en":"Moscow Transport (Troika)","ru":"Московский транспорт (Тройка)"},"p":"ru-transport","w":"transport.mos.ru"},
 {"a":["Подорожник","Подорожник СПб","Podorozhnik","Podorozhnik SPb","Организатор перевозок"],"c":["RU"],"g":"transport","h":"06512ea5a0fcf0d9","k":"podorozhnik-spb","m":[4111],"n":{"en":"Podorozhnik (Saint Petersburg)","ru":"Подорожник (Санкт-Петербург)"},"p":"ru-transport","w":"podorozhnik.spb.ru"},
+{"a":["Ситикард","Siticard","Citicard"],"c":["RU"],"g":"transport","h":"456c924c7e18d90f","k":"siticard","m":[4111],"n":{"en":"Siticard (Nizhny Novgorod)","ru":"Ситикард (Нижний Новгород)"},"p":"ru-transport","w":"siticard.ru"},
+{"a":["ЕКАРТА","Екарта","Ekarta","Е-карта"],"c":["RU"],"g":"transport","h":"f615668855bdb7a0","k":"ekarta","m":[4111],"n":{"en":"Ekarta (Yekaterinburg)","ru":"Екарта (Екатеринбург)"},"p":"ru-transport","w":"www.ekarta-ek.ru"},
+{"a":["Транспортная карта Казани","Транспортная карта РТ","Транспортная карта Татарстана"],"c":["RU"],"g":"transport","h":"cb71ac936d76acc8","k":"tcard-kazan","m":[4111],"n":{"en":"Transport Card (Kazan)","ru":"Транспортная карта (Казань)"},"p":"ru-transport"},
 {"c":["RU"],"g":"transport","h":"1d7d251aa2c193dd","k":"aeroexpress","m":[4112],"n":{"en":"Aeroexpress","ru":"Аэроэкспресс"},"p":"ru-transport","w":"aeroexpress.ru"},
 {"c":["RU"],"g":"transport","h":"9ed7a165b6b50b9b","k":"delimobil","m":[7512],"n":{"en":"Delimobil","ru":"Делимобиль"},"p":"ru-transport","w":"delimobil.ru"},
 {"a":["БелкаКар"],"c":["RU"],"g":"transport","h":"5a4b45cccbe24f62","k":"belkacar","m":[7512],"n":{"en":"BelkaCar","ru":"BelkaCar"},"p":"ru-transport","w":"belkacar.ru"},
@@ -779,6 +782,6 @@
 "logo_path":"index/v2/logos/{h}.png",
 "min_app_build":0,
 "renamed":{"obi":"dom-lenta","sbermarket":"kuper"},
-"rev":"3d5bb8b456cac59d",
+"rev":"8fedeb211f46077e",
 "updated":"2026-10-20"
 }

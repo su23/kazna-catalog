@@ -1,6 +1,6 @@
 {
   "id": "ru-transport",
-  "version": 3,
+  "version": 4,
   "type": "payees",
   "name": {
     "en": "Russian Transport & Travel",
@@ -27,6 +27,26 @@
       "logo": "https://catalog.kazna.app/packs/ru-transport/logos/podorozhnik-spb.png",
       "mcc": [4111],
       "website": "https://podorozhnik.spb.ru"
+    },
+    {
+      "key": "siticard",
+      "name": { "en": "Siticard (Nizhny Novgorod)", "ru": "Ситикард (Нижний Новгород)" },
+      "logo": "https://catalog.kazna.app/packs/ru-transport/logos/siticard.png",
+      "mcc": [4111],
+      "website": "https://siticard.ru"
+    },
+    {
+      "key": "ekarta",
+      "name": { "en": "Ekarta (Yekaterinburg)", "ru": "Екарта (Екатеринбург)" },
+      "logo": "https://catalog.kazna.app/packs/ru-transport/logos/ekarta.png",
+      "mcc": [4111],
+      "website": "https://www.ekarta-ek.ru"
+    },
+    {
+      "key": "tcard-kazan",
+      "name": { "en": "Transport Card (Kazan)", "ru": "Транспортная карта (Казань)" },
+      "logo": "https://catalog.kazna.app/packs/ru-transport/logos/tcard-kazan.png",
+      "mcc": [4111]
     },
     {
       "key": "aeroexpress",

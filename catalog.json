@@ -532,17 +532,17 @@
     {
       "id": "ru-transport",
       "type": "payees",
-      "version": 3,
+      "version": 4,
       "name": {
         "en": "Russian Transport & Travel",
         "ru": "Транспорт и поездки"
       },
       "description": {
-        "en": "Trains, city transport, carsharing and travel booking in Russia — Russian Railways, Moscow Transport, Aeroexpress, Tutu and 8 more",
-        "ru": "Поезда, городской транспорт, каршеринг и бронирование поездок — РЖД, Московский транспорт, Аэроэкспресс, Туту и ещё 8"
+        "en": "Trains, city transport, carsharing and travel booking in Russia — Russian Railways, Moscow Transport, Aeroexpress, Tutu and 11 more",
+        "ru": "Поезда, городской транспорт, каршеринг и бронирование поездок — РЖД, Московский транспорт, Аэроэкспресс, Туту и ещё 11"
       },
       "tags": ["russia", "transport", "travel"],
-      "entity_count": 12,
+      "entity_count": 15,
       "pack_url": "https://catalog.kazna.app/packs/ru-transport/pack.json",
       "preview_logos": [
         "https://catalog.kazna.app/packs/ru-transport/logos/rzd.png",
