@@ -134,5 +134,195 @@
     "note": "replaces the Yandex Pay mark",
     "fetched": "2026-10-08",
     "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "tochka": {
+    "source": "https://tochka.com/images/favicon/favicon.svg",
+    "kind": "bank site SVG (favicon)",
+    "licence": "Trademark",
+    "note": "T tile; Commons Tochka_Logo.svg is the wordmark",
+    "fetched": "2026-10-30",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "modulbank": {
+    "source": "https://commons.wikimedia.org/wiki/File:Модульбанк_лого.svg",
+    "kind": "Wikimedia Commons SVG",
+    "licence": "CC BY-SA 4.0; trademark",
+    "note": "symbol only; 2019 brand book file, site unreachable; card colour read from the logo",
+    "fetched": "2026-10-30",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "abr": {
+    "source": "https://commons.wikimedia.org/wiki/File:Bank_Rossija_logo.svg",
+    "kind": "Wikimedia Commons SVG",
+    "licence": "PD-shape; trademark",
+    "note": "emblem only",
+    "fetched": "2026-10-30",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "cifrabank": {
+    "source": "https://cifra-bank.ru/",
+    "kind": "bank site inline SVG",
+    "licence": "Trademark",
+    "note": "wordmark; currentColor block set to the site accent #33E771; formerly Freedom Finance Bank",
+    "fetched": "2026-10-30",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "ingobank": {
+    "source": "https://ingobank.ru/local/templates/ingos_2023/img/logo-mobile-new.svg",
+    "kind": "bank site SVG",
+    "licence": "Trademark",
+    "note": "symbol",
+    "fetched": "2026-10-30",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "svoibank": {
+    "source": "https://svoi.ru/icons/icon-512x512.png",
+    "kind": "bank site PNG icon",
+    "licence": "Trademark",
+    "note": "white tile removed",
+    "fetched": "2026-10-30",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "poidem": {
+    "source": "https://www.poidem.ru/themes/p/assets/images/poidem-bank-logo.svg",
+    "kind": "bank site SVG",
+    "licence": "Trademark",
+    "fetched": "2026-10-30",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "finambank": {
+    "source": "https://cdn-lpbr01.finam.ru/lpbr-static/favicon_e58c47cd78.svg",
+    "kind": "bank site SVG (favicon)",
+    "licence": "Trademark",
+    "note": "symbol",
+    "fetched": "2026-10-30",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "centrocredit": {
+    "source": "https://www.centrocredit.ru/",
+    "kind": "bank site inline SVG symbol",
+    "licence": "Trademark",
+    "note": "mark only",
+    "fetched": "2026-10-30",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "blancbank": {
+    "source": "https://blanc.ru/assets/sprites/shared-vendor_sprite.svg",
+    "kind": "bank site SVG sprite (vendor_blanc)",
+    "licence": "Trademark",
+    "note": "currentColor set to #222222",
+    "fetched": "2026-10-30",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "kub": {
+    "source": "https://creditural.ru/local/templates/kub/build/images/logo.svg",
+    "kind": "bank site SVG",
+    "licence": "Trademark",
+    "note": "globe symbol only (Gazprombank group)",
+    "fetched": "2026-10-30",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "hlynov": {
+    "source": "https://www.bank-hlynov.ru/",
+    "kind": "bank site inline SVG",
+    "licence": "Trademark",
+    "note": "X symbol only",
+    "fetched": "2026-10-30",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "gazenergobank": {
+    "source": "https://gebank.ru/uploads/files/gebank_logo.png",
+    "kind": "bank site PNG",
+    "licence": "Trademark",
+    "note": "wordmark only; Sinara group",
+    "fetched": "2026-10-30",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "primorye": {
+    "source": "https://www.primbank.ru/local/templates/main/images/logo-p.svg",
+    "kind": "bank site SVG",
+    "licence": "Trademark",
+    "note": "gold tile only, anniversary 32 removed",
+    "fetched": "2026-10-30",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "energotransbank": {
+    "source": "https://energotransbank.com/bitrix/templates/etb/images/logo.png",
+    "kind": "bank site PNG",
+    "licence": "Trademark",
+    "note": "symbol only",
+    "fetched": "2026-10-30",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "chelinvest": {
+    "source": "https://chelinvest.ru/local/templates/delement/frontend/assets/images/logo-short.svg",
+    "kind": "bank site SVG",
+    "licence": "Trademark",
+    "fetched": "2026-10-30",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "bystrobank": {
+    "source": "https://static.rustore.ru/apk/2063620651/content/ICON/fb5d3da6-5045-4755-9f7a-0e11d2f4a12d.jpg",
+    "kind": "RuStore app icon (developer БыстроБанк)",
+    "licence": "Trademark",
+    "note": "white tile removed, symbol only",
+    "fetched": "2026-10-30",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "timerbank": {
+    "source": "https://timerbank.ru/local/static/images/svg/logo-dark.svg",
+    "kind": "bank site SVG",
+    "licence": "Trademark",
+    "note": "tick only",
+    "fetched": "2026-10-30",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "kbb": {
+    "source": "https://kbb.ru/safari-pinned-tab.svg",
+    "kind": "bank site mask icon SVG",
+    "licence": "Trademark",
+    "note": "mono mask recoloured #4665AE",
+    "fetched": "2026-10-30",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "aeb": {
+    "source": "https://albank.ru/local/templates/Aeb/assets/img/aeb/general/aeb-logo-icon.svg",
+    "kind": "bank site SVG",
+    "licence": "Trademark",
+    "note": "white symbol recoloured #2F88F0",
+    "fetched": "2026-10-30",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "uralfd": {
+    "source": "https://uralfd.ru/local/templates/domru/assets/img/header-logo-new.svg",
+    "kind": "bank site SVG",
+    "licence": "Trademark",
+    "note": "symbol only",
+    "fetched": "2026-10-30",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "bankkazani": {
+    "source": "https://www.bankofkazan.ru/local/templates/bank2020/static/img/logo-violet.svg",
+    "kind": "bank site SVG",
+    "licence": "Trademark",
+    "note": "K symbol only",
+    "fetched": "2026-10-30",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "energobank": {
+    "source": "https://static.rustore.ru/apk/2063583831/content/ICON/bbd6bcae-3d06-411d-a61e-6d805856f168.png",
+    "kind": "RuStore app icon (developer АКБ «Энергобанк» (АО))",
+    "licence": "Trademark",
+    "note": "white tile removed",
+    "fetched": "2026-10-30",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "akcept": {
+    "source": "https://static.rustore.ru/apk/2063643755/content/ICON/82566f99-73f4-40eb-bf38-8925700c99e6.png",
+    "kind": "RuStore app icon (developer АО «Банк Акцепт»)",
+    "licence": "Trademark",
+    "note": "app tile; site blocked; card colour read from the icon",
+    "fetched": "2026-10-30",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
   }
 }
