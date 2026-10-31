@@ -1,0 +1,14 @@
+{
+  "id": "cy-banks",
+  "version": 1,
+  "type": "banks",
+  "name": {
+    "en": "Cypriot Banks",
+    "ru": "Банки Кипра"
+  },
+  "banks": [
+    {"key": "bankofcyprus", "name": {"en": "Bank of Cyprus", "ru": "Банк Кипра"}, "logo": "https://catalog.kazna.app/packs/cy-banks/logos/bankofcyprus.png", "countries": ["CY"], "website": "https://www.bankofcyprus.com", "card_background": "solid:#005A73", "accent_color": "#FDB728", "aliases": ["Τράπεζα Κύπρου"]},
+    {"key": "eurobank-cy", "name": {"en": "Eurobank", "ru": "Юробанк"}, "logo": "https://catalog.kazna.app/packs/cy-banks/logos/eurobank-cy.png", "countries": ["CY"], "website": "https://www.eurobank.com.cy", "card_background": "solid:#011442", "accent_color": "#0050B5", "aliases": ["Hellenic Bank", "Eurobank Cyprus"]},
+    {"key": "alphabank-cy", "name": {"en": "Alpha Bank", "ru": "Альфа Банк (Кипр)"}, "logo": "https://catalog.kazna.app/packs/cy-banks/logos/alphabank-cy.png", "countries": ["CY"], "website": "https://www.alphabank.com.cy", "card_background": "solid:#0C366C", "accent_color": "#0C366C", "aliases": ["AstroBank", "Astrobank"]}
+  ]
+}

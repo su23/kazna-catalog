@@ -43,5 +43,51 @@
     "licence": "trademark",
     "fetched": "2026-10-08",
     "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "halyk-ge": {
+    "source": "https://catalog.kazna.app/packs/kz-banks/logos/halyk.png",
+    "kind": "same logo as kz-banks/halyk",
+    "licence": "Trademark",
+    "note": "group logo copied from kz-banks/halyk"
+  },
+  "terabank": {
+    "source": "https://terabank.ge/en/retail",
+    "kind": "bank site inline SVG",
+    "licence": "Trademark",
+    "note": "symbol; CSS class fills inlined",
+    "fetched": "2026-10-30",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "cartu-ge": {
+    "source": "https://www.cartubank.ge/assets/images/BLUE.png",
+    "kind": "bank site PNG",
+    "licence": "Trademark",
+    "note": "swoosh only",
+    "fetched": "2026-10-30",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "paysera-ge": {
+    "source": "https://www.paysera.ge/v2/compiled/logo-v2.46bfedbcb8c97c6bb2a683fdae6cb7a8.svg",
+    "kind": "bank site SVG",
+    "licence": "Trademark",
+    "note": "mark only",
+    "fetched": "2026-10-30",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "isbank-ge": {
+    "source": "https://commons.wikimedia.org/wiki/File:Türkiye_İş_Bankası_logo.svg",
+    "kind": "Wikimedia Commons SVG",
+    "licence": "Public domain; trademark",
+    "note": "symbol cropped; group logo copied from tr-banks/isbank",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "ziraat-ge": {
+    "source": "https://commons.wikimedia.org/wiki/File:Ziraat_Bankası_2025_Logo.svg",
+    "kind": "Wikimedia Commons SVG",
+    "licence": "Public domain; trademark",
+    "note": "2025 logo, emblem cropped; group logo copied from tr-banks/ziraat-bank",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
   }
 }

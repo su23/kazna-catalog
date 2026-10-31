@@ -1,0 +1,26 @@
+{
+  "bankofcyprus": {
+    "source": "https://commons.wikimedia.org/wiki/File:BOC LOGO ENGLISH ART.svg",
+    "kind": "Wikimedia Commons SVG",
+    "licence": "CC BY-SA 4.0; trademark",
+    "note": "emblem only",
+    "fetched": "2026-10-30",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "eurobank-cy": {
+    "source": "https://commons.wikimedia.org/wiki/File:Eurobank logo 2021.svg",
+    "kind": "Wikimedia Commons SVG",
+    "licence": "Public domain; trademark",
+    "note": "symbol only; Hellenic Bank merged into it in 2025",
+    "fetched": "2026-10-30",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "alphabank-cy": {
+    "source": "https://commons.wikimedia.org/wiki/File:AlphaBank logo 2026.svg",
+    "kind": "Wikimedia Commons SVG",
+    "licence": "Public domain; trademark",
+    "note": "symbol only",
+    "fetched": "2026-10-30",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  }
+}

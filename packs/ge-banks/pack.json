@@ -1,6 +1,6 @@
 {
   "id": "ge-banks",
-  "version": 3,
+  "version": 4,
   "type": "banks",
   "name": {
     "en": "Georgian Banks",
@@ -51,7 +51,8 @@
       "countries": ["GE"],
       "website": "https://procreditbank.ge",
       "card_background": "solid:#D40E14",
-      "accent_color": "#D40E14"
+      "accent_color": "#D40E14",
+      "brand": "procredit"
     },
     {
       "key": "basisbank",
@@ -61,6 +62,12 @@
       "website": "https://bb.ge",
       "card_background": "solid:#0054CD",
       "accent_color": "#0054CD"
-    }
+    },
+    {"key": "halyk-ge", "name": {"en": "Halyk Bank Georgia", "ru": "Халык Банк Грузия"}, "logo": "https://catalog.kazna.app/packs/ge-banks/logos/halyk-ge.png", "countries": ["GE"], "website": "https://halykbank.ge", "card_background": "solid:#1B8131", "accent_color": "#1B8131", "brand": "halyk"},
+    {"key": "terabank", "name": {"en": "Terabank", "ru": "Терабанк"}, "logo": "https://catalog.kazna.app/packs/ge-banks/logos/terabank.png", "countries": ["GE"], "website": "https://terabank.ge", "card_background": "solid:#A41B66", "accent_color": "#46AC37"},
+    {"key": "cartu-ge", "name": {"en": "Cartu Bank", "ru": "Карту Банк"}, "logo": "https://catalog.kazna.app/packs/ge-banks/logos/cartu-ge.png", "countries": ["GE"], "website": "https://www.cartubank.ge", "card_background": "solid:#1C5285", "accent_color": "#1C5285"},
+    {"key": "paysera-ge", "name": {"en": "Paysera Bank Georgia", "ru": "Paysera Банк Грузия"}, "logo": "https://catalog.kazna.app/packs/ge-banks/logos/paysera-ge.png", "countries": ["GE"], "website": "https://www.paysera.ge", "card_background": "solid:#000099", "accent_color": "#3399FF", "aliases": ["Paysera"]},
+    {"key": "isbank-ge", "name": {"en": "Isbank Georgia", "ru": "Ишбанк Грузия"}, "logo": "https://catalog.kazna.app/packs/ge-banks/logos/isbank-ge.png", "countries": ["GE"], "website": "https://www.isbank.ge", "card_background": "solid:#005098", "accent_color": "#005098", "brand": "isbank"},
+    {"key": "ziraat-ge", "name": {"en": "Ziraat Bank Georgia", "ru": "Зираат Банк Грузия"}, "logo": "https://catalog.kazna.app/packs/ge-banks/logos/ziraat-ge.png", "countries": ["GE"], "website": "https://www.ziraatbank.ge", "card_background": "solid:#E10514", "accent_color": "#E10514", "brand": "ziraat-bank"}
   ]
 }

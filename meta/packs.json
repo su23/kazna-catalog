@@ -8,6 +8,9 @@
   "am-banks":            { "rank": 70,  "countries": ["AM"] },
   "tr-banks":            { "rank": 80,  "countries": ["TR"] },
   "ae-banks":            { "rank": 90,  "countries": ["AE"] },
+  "rs-banks":           { "rank": 92,  "countries": ["RS"] },
+  "kg-banks":           { "rank": 94,  "countries": ["KG"] },
+  "cy-banks":           { "rank": 96,  "countries": ["CY"] },
   "global-banks":        { "rank": 100, "countries": [] },
 
   "ru-supermarkets":     { "rank": 110, "countries": ["RU"], "category": "groceries" },

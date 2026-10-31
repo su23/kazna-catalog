@@ -1,6 +1,6 @@
 {
   "id": "ae-banks",
-  "version": 1,
+  "version": 2,
   "type": "banks",
   "name": {
     "en": "UAE Banks",
@@ -14,7 +14,8 @@
       "countries": ["AE"],
       "website": "https://www.emiratesnbd.com",
       "card_background": "solid:#072447",
-      "accent_color": "#072447"
+      "accent_color": "#072447",
+      "aliases": ["Liv"]
     },
     {
       "key": "adcb",
@@ -41,7 +42,8 @@
       "countries": ["AE"],
       "website": "https://www.mashreq.com",
       "card_background": "solid:#E85820",
-      "accent_color": "#E85820"
+      "accent_color": "#E85820",
+      "aliases": ["Mashreq Neo"]
     },
     {
       "key": "dib",
@@ -78,6 +80,11 @@
       "website": "https://wio.io",
       "card_background": "solid:#5700FF",
       "accent_color": "#5700FF"
-    }
+    },
+    {"key": "cbd-ae", "name": {"en": "Commercial Bank of Dubai", "ru": "Коммерческий банк Дубая"}, "logo": "https://catalog.kazna.app/packs/ae-banks/logos/cbd-ae.png", "countries": ["AE"], "website": "https://www.cbd.ae", "card_background": "solid:#2C90C2", "accent_color": "#2C90C2", "aliases": ["CBD"]},
+    {"key": "emirates-islamic", "name": {"en": "Emirates Islamic", "ru": "Эмирейтс Исламик"}, "logo": "https://catalog.kazna.app/packs/ae-banks/logos/emirates-islamic.png", "countries": ["AE"], "website": "https://www.emiratesislamic.ae", "card_background": "solid:#461E57", "accent_color": "#461E57"},
+    {"key": "sharjah-islamic-bank", "name": {"en": "Sharjah Islamic Bank", "ru": "Исламский банк Шарджи"}, "logo": "https://catalog.kazna.app/packs/ae-banks/logos/sharjah-islamic-bank.png", "countries": ["AE"], "website": "https://www.sib.ae", "card_background": "solid:#001489", "accent_color": "#FF8200", "aliases": ["SIB"]},
+    {"key": "ajman-bank", "name": {"en": "Ajman Bank", "ru": "Аджман Банк"}, "logo": "https://catalog.kazna.app/packs/ae-banks/logos/ajman-bank.png", "countries": ["AE"], "website": "https://www.ajmanbank.ae", "card_background": "solid:#EB6F30", "accent_color": "#EB6F30"},
+    {"key": "hsbc-ae", "name": {"en": "HSBC UAE", "ru": "HSBC ОАЭ"}, "logo": "https://catalog.kazna.app/packs/ae-banks/logos/hsbc-ae.png", "countries": ["AE"], "website": "https://www.hsbc.ae", "card_background": "solid:#DB0011", "accent_color": "#DB0011", "brand": "hsbc"}
   ]
 }

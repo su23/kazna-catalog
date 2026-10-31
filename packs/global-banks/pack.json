@@ -1,6 +1,6 @@
 {
   "id": "global-banks",
-  "version": 4,
+  "version": 5,
   "type": "banks",
   "name": {
     "en": "Global Banks",
@@ -176,7 +176,8 @@
       "countries": ["FR"],
       "website": "https://credit-agricole.com",
       "card_background": "solid:#1E6B2E",
-      "accent_color": "#1E6B2E"
+      "accent_color": "#1E6B2E",
+      "brand": "credit-agricole"
     },
     {
       "key": "societe_generale",
@@ -200,7 +201,7 @@
       "key": "raiffeisen",
       "name": {"en": "Raiffeisen Bank", "ru": "Райффайзен Банк", "de": "Raiffeisenbank"},
       "logo": "https://catalog.kazna.app/packs/global-banks/logos/raiffeisen.png",
-      "countries": ["AT", "DE", "CZ", "SK", "RS", "HR"],
+      "countries": ["AT", "DE", "CZ", "SK", "HR"],
       "website": "https://raiffeisen.com",
       "card_background": "solid:#FFDD00",
       "accent_color": "#FFDD00"

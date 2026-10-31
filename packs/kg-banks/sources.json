@@ -1,0 +1,79 @@
+{
+  "mbank-kg": {
+    "source": "https://mbank.kg/_next/static/media/logo.6cee92d7.svg",
+    "kind": "bank site SVG",
+    "licence": "Trademark",
+    "note": "M symbol only",
+    "fetched": "2026-10-30",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "optimabank-kg": {
+    "source": "https://www.optimabank.kg/",
+    "kind": "bank site inline SVG",
+    "licence": "Trademark",
+    "note": "symbol; class fills flattened",
+    "fetched": "2026-10-30",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "demirbank-kg": {
+    "source": "https://demirbank.kg/logo-without-slogan.svg",
+    "kind": "bank site SVG",
+    "licence": "Trademark",
+    "note": "db symbol only",
+    "fetched": "2026-10-30",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "bakai": {
+    "source": "https://apps.apple.com/app/id6755689540",
+    "kind": "App Store icon (seller Bakai Bank Ojsc)",
+    "licence": "Trademark",
+    "note": "white tile removed",
+    "fetched": "2026-10-30",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "kicb": {
+    "source": "https://kicb.net/local/templates/kicb/kicb_html/html/images/general/logos/logo-small.svg",
+    "kind": "bank site SVG",
+    "licence": "Trademark",
+    "note": "white symbol recoloured #0046AA",
+    "fetched": "2026-10-30",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "eldik-kg": {
+    "source": "https://apps.apple.com/app/id6596756225",
+    "kind": "App Store icon (seller ELDIK BANK OAO)",
+    "licence": "Trademark",
+    "fetched": "2026-10-30",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "abank-kg": {
+    "source": "https://abank.kg/_next/static/media/logo.ff74537b.svg",
+    "kind": "bank site SVG",
+    "licence": "Trademark",
+    "note": "A tile only",
+    "fetched": "2026-10-30",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "kompanion": {
+    "source": "https://www.kompanion.kg/logo/kompanion-logo.svg",
+    "kind": "bank site SVG",
+    "licence": "Trademark",
+    "note": "symbol only",
+    "fetched": "2026-10-30",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "halyk-kg": {
+    "source": "https://catalog.kazna.app/packs/kz-banks/logos/halyk.png",
+    "kind": "same logo as kz-banks/halyk",
+    "licence": "Trademark",
+    "note": "group logo copied from kz-banks/halyk"
+  },
+  "dcb-kg": {
+    "source": "https://www.dcb.kg/static/img/svg/logo.svg",
+    "kind": "bank site SVG",
+    "licence": "Trademark",
+    "note": "symbol only",
+    "fetched": "2026-10-30",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  }
+}

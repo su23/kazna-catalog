@@ -1,6 +1,6 @@
 {
   "id": "ua-banks",
-  "version": 3,
+  "version": 4,
   "type": "banks",
   "name": {
     "en": "Ukrainian Banks",
@@ -90,6 +90,12 @@
       "card_background": "solid:#009A44",
       "accent_color": "#009A44",
       "brand": "otpbank"
-    }
+    },
+    {"key": "ukrgasbank", "name": {"en": "Ukrgasbank", "ru": "Укргазбанк", "uk": "Укргазбанк"}, "logo": "https://catalog.kazna.app/packs/ua-banks/logos/ukrgasbank.png", "countries": ["UA"], "website": "https://www.ukrgasbank.com", "card_background": "solid:#084E97", "accent_color": "#76B729", "aliases": ["UGB", "ugb"]},
+    {"key": "ukreximbank", "name": {"en": "Ukreximbank", "ru": "Укрэксимбанк", "uk": "Укрексімбанк"}, "logo": "https://catalog.kazna.app/packs/ua-banks/logos/ukreximbank.png", "countries": ["UA"], "website": "https://www.eximb.com", "card_background": "solid:#112D6A", "accent_color": "#112D6A"},
+    {"key": "tascombank", "name": {"en": "TASCOMBANK", "ru": "Таскомбанк", "uk": "Таскомбанк"}, "logo": "https://catalog.kazna.app/packs/ua-banks/logos/tascombank.png", "countries": ["UA"], "website": "https://tascombank.ua", "card_background": "solid:#373F5F", "accent_color": "#C64D4F", "aliases": ["TAS"]},
+    {"key": "izibank", "name": {"en": "izibank", "ru": "izibank", "uk": "izibank"}, "logo": "https://catalog.kazna.app/packs/ua-banks/logos/izibank.png", "countries": ["UA"], "website": "https://izibank.com.ua", "card_background": "solid:#FF5900", "accent_color": "#FF5900"},
+    {"key": "credit-agricole-ua", "name": {"en": "Credit Agricole", "ru": "Креди Агриколь Банк", "uk": "Креді Агріколь Банк"}, "logo": "https://catalog.kazna.app/packs/ua-banks/logos/credit-agricole-ua.png", "countries": ["UA"], "website": "https://credit-agricole.ua", "card_background": "solid:#1E6B2E", "accent_color": "#1E6B2E", "brand": "credit-agricole"},
+    {"key": "kredobank", "name": {"en": "KredoBank", "ru": "Кредобанк", "uk": "Кредобанк"}, "logo": "https://catalog.kazna.app/packs/ua-banks/logos/kredobank.png", "countries": ["UA"], "website": "https://kredobank.com.ua", "card_background": "solid:#004F9E", "accent_color": "#F18B00"}
   ]
 }

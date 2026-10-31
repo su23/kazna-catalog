@@ -61,5 +61,60 @@
     "licence": "trademark",
     "fetched": "2026-10-08",
     "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "sqb": {
+    "source": "https://sqb.uz/local/templates/sqb/img/SQB-Logo-main.svg",
+    "kind": "bank site SVG",
+    "licence": "Trademark",
+    "note": "symbol only",
+    "fetched": "2026-10-30",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "xalqbank": {
+    "source": "https://xb.uz/_next/static/media/logo.36vahqtq2knd0.svg",
+    "kind": "bank site SVG",
+    "licence": "Trademark",
+    "note": "symbol only",
+    "fetched": "2026-10-30",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "agrobank-uz": {
+    "source": "https://agrobank.uz/uz/person",
+    "kind": "bank site inline SVG",
+    "licence": "Trademark",
+    "note": "symbol; CSS class fills resolved",
+    "fetched": "2026-10-30",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "aloqabank": {
+    "source": "https://aloqabank.uz/bitrix/templates/main/mk/images/logo.svg",
+    "kind": "bank site SVG",
+    "licence": "Trademark",
+    "note": "symbol tile only",
+    "fetched": "2026-10-30",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "infinbank": {
+    "source": "https://www.infinbank.com/upload/icons/full-logo.svg",
+    "kind": "bank site SVG",
+    "licence": "Trademark",
+    "note": "symbol only",
+    "fetched": "2026-10-30",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "davrbank": {
+    "source": "https://davrbank.uz/uz",
+    "kind": "bank site inline SVG",
+    "licence": "Trademark",
+    "note": "symbol only, currentColor #1E1E1E",
+    "fetched": "2026-10-30",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "trastbank": {
+    "source": "https://trastbank.uz/bitrix/templates/main_2020/tb/img/footer__logo.svg",
+    "kind": "bank site SVG",
+    "licence": "Trademark",
+    "fetched": "2026-10-30",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
   }
 }

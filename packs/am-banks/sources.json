@@ -51,5 +51,51 @@
     "note": "current navy/orange logo, symbol only; main_logo.svg in the bundle is the old blue one",
     "fetched": "2026-10-08",
     "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "vtb-am": {
+    "source": "https://catalog.kazna.app/packs/ru-banks/logos/vtb.png",
+    "kind": "same logo as ru-banks/vtb",
+    "licence": "Trademark",
+    "note": "group logo copied from ru-banks/vtb"
+  },
+  "unibank": {
+    "source": "https://www.unibank.am/local/templates/creo/assets/logos/logo_main.svg",
+    "kind": "bank site SVG",
+    "licence": "Trademark",
+    "note": "emblem tile only",
+    "fetched": "2026-10-30",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "araratbank": {
+    "source": "https://www.araratbank.am/img/ararat-mobile-logo.svg",
+    "kind": "bank site SVG",
+    "licence": "Trademark",
+    "note": "symbol only, white tile removed",
+    "fetched": "2026-10-30",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "amio": {
+    "source": "https://amiobank.am/",
+    "kind": "bank site inline SVG",
+    "licence": "Trademark",
+    "note": "wordmark",
+    "fetched": "2026-10-30",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "armeconombank": {
+    "source": "https://www.aeb.am/hy",
+    "kind": "bank site inline SVG",
+    "licence": "Trademark",
+    "note": "AEB letters only",
+    "fetched": "2026-10-30",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "fastbank": {
+    "source": "https://apps.apple.com/app/id6472175291",
+    "kind": "App Store icon (seller Fast Bank CJSC)",
+    "licence": "Trademark",
+    "note": "site logo is white-only",
+    "fetched": "2026-10-30",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
   }
 }

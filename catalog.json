@@ -225,18 +225,18 @@
     {
       "id": "ua-banks",
       "type": "banks",
-      "version": 3,
+      "version": 4,
       "name": {
         "en": "Ukrainian Banks",
         "ru": "Банки Украины",
         "uk": "Банки України"
       },
       "description": {
-        "en": "Major Ukrainian banks with card colors — Monobank, PrivatBank, Oschadbank, PUMB and 5 more",
-        "ru": "Крупные банки Украины с цветами карт — Монобанк, ПриватБанк, Ощадбанк, ПУМБ и ещё 5"
+        "en": "Major Ukrainian banks with card colors — Monobank, PrivatBank, Oschadbank, PUMB and 11 more",
+        "ru": "Крупные банки Украины с цветами карт — Монобанк, ПриватБанк, Ощадбанк, ПУМБ и ещё 11"
       },
       "tags": ["ukraine", "banks"],
-      "entity_count": 9,
+      "entity_count": 15,
       "pack_url": "https://catalog.kazna.app/packs/ua-banks/pack.json",
       "preview_logos": [
         "https://catalog.kazna.app/packs/ua-banks/logos/monobank.png",
@@ -246,7 +246,7 @@
     {
       "id": "global-banks",
       "type": "banks",
-      "version": 4,
+      "version": 5,
       "name": {
         "en": "Global Banks",
         "ru": "Мировые банки"
@@ -422,17 +422,17 @@
     {
       "id": "ge-banks",
       "type": "banks",
-      "version": 3,
+      "version": 4,
       "name": {
         "en": "Georgian Banks",
         "ru": "Банки Грузии"
       },
       "description": {
-        "en": "Major Georgian banks with card colors — TBC Bank, Bank of Georgia, Liberty Bank, Credo Bank and 2 more",
-        "ru": "Крупные банки Грузии с цветами карт — ТБС Банк, Банк Грузии, Либерти Банк, Кредо Банк и ещё 2"
+        "en": "Major Georgian banks with card colors — TBC Bank, Bank of Georgia, Liberty Bank, Credo Bank and 8 more",
+        "ru": "Крупные банки Грузии с цветами карт — ТБС Банк, Банк Грузии, Либерти Банк, Кредо Банк и ещё 8"
       },
       "tags": ["georgia", "banks"],
-      "entity_count": 6,
+      "entity_count": 12,
       "pack_url": "https://catalog.kazna.app/packs/ge-banks/pack.json",
       "preview_logos": [
         "https://catalog.kazna.app/packs/ge-banks/logos/tbc-ge.png",
@@ -444,17 +444,17 @@
     {
       "id": "am-banks",
       "type": "banks",
-      "version": 1,
+      "version": 2,
       "name": {
         "en": "Armenian Banks",
         "ru": "Банки Армении"
       },
       "description": {
-        "en": "Major Armenian banks with card colors — Ameriabank, Ardshinbank, ACBA Bank, Inecobank and 3 more",
-        "ru": "Крупные банки Армении с цветами карт — Америабанк, Ардшинбанк, АКБА Банк, Инекобанк и ещё 3"
+        "en": "Major Armenian banks with card colors — Ameriabank, Ardshinbank, ACBA Bank, Inecobank and 9 more",
+        "ru": "Крупные банки Армении с цветами карт — Америабанк, Ардшинбанк, АКБА Банк, Инекобанк и ещё 9"
       },
       "tags": ["armenia", "banks"],
-      "entity_count": 7,
+      "entity_count": 13,
       "pack_url": "https://catalog.kazna.app/packs/am-banks/pack.json",
       "preview_logos": [
         "https://catalog.kazna.app/packs/am-banks/logos/ameriabank.png",
@@ -466,17 +466,17 @@
     {
       "id": "uz-banks",
       "type": "banks",
-      "version": 2,
+      "version": 3,
       "name": {
         "en": "Uzbek Banks",
         "ru": "Банки Узбекистана"
       },
       "description": {
-        "en": "Major Uzbek banks with card colors — Kapitalbank, TBC Bank, Uzum Bank, Hamkorbank and 4 more",
-        "ru": "Крупные банки Узбекистана с цветами карт — Капиталбанк, ТБС Банк, Узум Банк, Хамкорбанк и ещё 4"
+        "en": "Major Uzbek banks with card colors — Kapitalbank, TBC Bank, Uzum Bank, Hamkorbank and 11 more",
+        "ru": "Крупные банки Узбекистана с цветами карт — Капиталбанк, ТБС Банк, Узум Банк, Хамкорбанк и ещё 11"
       },
       "tags": ["uzbekistan", "banks"],
-      "entity_count": 8,
+      "entity_count": 15,
       "pack_url": "https://catalog.kazna.app/packs/uz-banks/pack.json",
       "preview_logos": [
         "https://catalog.kazna.app/packs/uz-banks/logos/kapitalbank.png",
@@ -576,17 +576,17 @@
     {
       "id": "ae-banks",
       "type": "banks",
-      "version": 1,
+      "version": 2,
       "name": {
         "en": "UAE Banks",
         "ru": "Банки ОАЭ"
       },
       "description": {
-        "en": "Major UAE banks with card colors — Emirates NBD, ADCB, First Abu Dhabi Bank, Mashreq and 4 more",
-        "ru": "Крупные банки ОАЭ с цветами карт — Эмирейтс НБД, ADCB, Первый банк Абу-Даби, Машрек и ещё 4"
+        "en": "Major UAE banks with card colors — Emirates NBD, ADCB, First Abu Dhabi Bank, Mashreq and 9 more",
+        "ru": "Крупные банки ОАЭ с цветами карт — Эмирейтс НБД, ADCB, Первый банк Абу-Даби, Машрек и ещё 9"
       },
       "tags": ["uae", "banks"],
-      "entity_count": 8,
+      "entity_count": 13,
       "pack_url": "https://catalog.kazna.app/packs/ae-banks/pack.json",
       "preview_logos": [
         "https://catalog.kazna.app/packs/ae-banks/logos/emirates-nbd.png",
@@ -1760,6 +1760,71 @@
         "https://catalog.kazna.app/packs/es-retail/logos/carrefour.png",
         "https://catalog.kazna.app/packs/es-retail/logos/dia-es.png",
         "https://catalog.kazna.app/packs/es-retail/logos/alcampo.png"
+      ]
+    },
+    {
+      "id": "rs-banks",
+      "type": "banks",
+      "version": 1,
+      "name": {
+        "en": "Serbian Banks",
+        "ru": "Банки Сербии"
+      },
+      "description": {
+        "en": "Major Serbian banks with card colors — Banca Intesa, Raiffeisen banka, OTP banka, UniCredit Bank and 8 more",
+        "ru": "Крупные банки Сербии с цветами карт — Банка Интеза, Райффайзен банк, ОТП банка, ЮниКредит Банк и ещё 8"
+      },
+      "tags": ["serbia", "banks"],
+      "entity_count": 12,
+      "pack_url": "https://catalog.kazna.app/packs/rs-banks/pack.json",
+      "preview_logos": [
+        "https://catalog.kazna.app/packs/rs-banks/logos/intesa-rs.png",
+        "https://catalog.kazna.app/packs/rs-banks/logos/raiffeisen-rs.png",
+        "https://catalog.kazna.app/packs/rs-banks/logos/otpbank-rs.png",
+        "https://catalog.kazna.app/packs/rs-banks/logos/unicredit-rs.png"
+      ]
+    },
+    {
+      "id": "kg-banks",
+      "type": "banks",
+      "version": 1,
+      "name": {
+        "en": "Kyrgyz Banks",
+        "ru": "Банки Кыргызстана"
+      },
+      "description": {
+        "en": "Major Kyrgyz banks with card colors — MBANK, Optima Bank, DemirBank, Bakai Bank and 6 more",
+        "ru": "Крупные банки Кыргызстана с цветами карт — МБанк, Оптима Банк, Демир Банк, Бакай Банк и ещё 6"
+      },
+      "tags": ["kyrgyzstan", "banks"],
+      "entity_count": 10,
+      "pack_url": "https://catalog.kazna.app/packs/kg-banks/pack.json",
+      "preview_logos": [
+        "https://catalog.kazna.app/packs/kg-banks/logos/mbank-kg.png",
+        "https://catalog.kazna.app/packs/kg-banks/logos/optimabank-kg.png",
+        "https://catalog.kazna.app/packs/kg-banks/logos/demirbank-kg.png",
+        "https://catalog.kazna.app/packs/kg-banks/logos/bakai.png"
+      ]
+    },
+    {
+      "id": "cy-banks",
+      "type": "banks",
+      "version": 1,
+      "name": {
+        "en": "Cypriot Banks",
+        "ru": "Банки Кипра"
+      },
+      "description": {
+        "en": "Major Cypriot banks with card colors — Bank of Cyprus, Eurobank, Alpha Bank and -1 more",
+        "ru": "Крупные банки Кипра с цветами карт — Банк Кипра, Юробанк, Альфа Банк (Кипр) и ещё -1"
+      },
+      "tags": ["cyprus", "banks"],
+      "entity_count": 3,
+      "pack_url": "https://catalog.kazna.app/packs/cy-banks/pack.json",
+      "preview_logos": [
+        "https://catalog.kazna.app/packs/cy-banks/logos/bankofcyprus.png",
+        "https://catalog.kazna.app/packs/cy-banks/logos/eurobank-cy.png",
+        "https://catalog.kazna.app/packs/cy-banks/logos/alphabank-cy.png"
       ]
     }
   ]

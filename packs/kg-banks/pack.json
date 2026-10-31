@@ -1,0 +1,21 @@
+{
+  "id": "kg-banks",
+  "version": 1,
+  "type": "banks",
+  "name": {
+    "en": "Kyrgyz Banks",
+    "ru": "Банки Кыргызстана"
+  },
+  "banks": [
+    {"key": "mbank-kg", "name": {"en": "MBANK", "ru": "МБанк"}, "logo": "https://catalog.kazna.app/packs/kg-banks/logos/mbank-kg.png", "countries": ["KG"], "website": "https://mbank.kg", "card_background": "solid:#0092A1", "accent_color": "#FABF00", "aliases": ["Мбанк"]},
+    {"key": "optimabank-kg", "name": {"en": "Optima Bank", "ru": "Оптима Банк"}, "logo": "https://catalog.kazna.app/packs/kg-banks/logos/optimabank-kg.png", "countries": ["KG"], "website": "https://www.optimabank.kg", "card_background": "solid:#EC1C24", "accent_color": "#EC1C24", "aliases": ["Optima24"]},
+    {"key": "demirbank-kg", "name": {"en": "DemirBank", "ru": "Демир Банк"}, "logo": "https://catalog.kazna.app/packs/kg-banks/logos/demirbank-kg.png", "countries": ["KG"], "website": "https://demirbank.kg", "card_background": "solid:#CE1E2C", "accent_color": "#CE1E2C", "aliases": ["Demir Kyrgyz International Bank"]},
+    {"key": "bakai", "name": {"en": "Bakai Bank", "ru": "Бакай Банк"}, "logo": "https://catalog.kazna.app/packs/kg-banks/logos/bakai.png", "countries": ["KG"], "website": "https://bakai.kg", "card_background": "solid:#001F47", "accent_color": "#811E3B", "aliases": ["BAKAI", "БакАй"]},
+    {"key": "kicb", "name": {"en": "KICB", "ru": "Кыргызский инвестиционно-кредитный банк"}, "logo": "https://catalog.kazna.app/packs/kg-banks/logos/kicb.png", "countries": ["KG"], "website": "https://kicb.net", "card_background": "solid:#0046AA", "accent_color": "#F08219", "aliases": ["КИКБ"]},
+    {"key": "eldik-kg", "name": {"en": "Eldik Bank", "ru": "Элдик Банк"}, "logo": "https://catalog.kazna.app/packs/kg-banks/logos/eldik-kg.png", "countries": ["KG"], "website": "https://eldik.kg", "card_background": "solid:#156CE6", "accent_color": "#156CE6", "aliases": ["РСК Банк", "RSK Bank", "Элдик"]},
+    {"key": "abank-kg", "name": {"en": "ABank", "ru": "АБанк"}, "logo": "https://catalog.kazna.app/packs/kg-banks/logos/abank-kg.png", "countries": ["KG"], "website": "https://abank.kg", "card_background": "solid:#15953B", "accent_color": "#15953B", "aliases": ["Айыл Банк", "Aiyl Bank", "АБ"]},
+    {"key": "kompanion", "name": {"en": "Bank Kompanion", "ru": "Банк Компаньон"}, "logo": "https://catalog.kazna.app/packs/kg-banks/logos/kompanion.png", "countries": ["KG"], "website": "https://www.kompanion.kg", "card_background": "solid:#7FC344", "accent_color": "#7FC344"},
+    {"key": "halyk-kg", "name": {"en": "Halyk Bank Kyrgyzstan", "ru": "Халык Банк Кыргызстан"}, "logo": "https://catalog.kazna.app/packs/kg-banks/logos/halyk-kg.png", "countries": ["KG"], "website": "https://halykbank.kg", "card_background": "solid:#1B8131", "accent_color": "#1B8131", "brand": "halyk"},
+    {"key": "dcb-kg", "name": {"en": "Dos-Kredobank", "ru": "Дос-Кредобанк"}, "logo": "https://catalog.kazna.app/packs/kg-banks/logos/dcb-kg.png", "countries": ["KG"], "website": "https://www.dcb.kg", "card_background": "solid:#E31E24", "accent_color": "#E31E24", "aliases": ["DCB", "Simbank"]}
+  ]
+}

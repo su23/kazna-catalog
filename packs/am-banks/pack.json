@@ -1,6 +1,6 @@
 {
   "id": "am-banks",
-  "version": 1,
+  "version": 2,
   "type": "banks",
   "name": {
     "en": "Armenian Banks",
@@ -69,6 +69,12 @@
       "website": "https://conversebank.am",
       "card_background": "solid:#002366",
       "accent_color": "#002366"
-    }
+    },
+    {"key": "vtb-am", "name": {"en": "VTB Bank (Armenia)", "ru": "ВТБ (Армения)"}, "logo": "https://catalog.kazna.app/packs/am-banks/logos/vtb-am.png", "countries": ["AM"], "website": "https://vtb.am", "card_background": "solid:#003087", "accent_color": "#003087", "brand": "vtb"},
+    {"key": "unibank", "name": {"en": "Unibank", "ru": "Юнибанк"}, "logo": "https://catalog.kazna.app/packs/am-banks/logos/unibank.png", "countries": ["AM"], "website": "https://www.unibank.am", "card_background": "solid:#016197", "accent_color": "#F69137"},
+    {"key": "araratbank", "name": {"en": "Araratbank", "ru": "Араратбанк"}, "logo": "https://catalog.kazna.app/packs/am-banks/logos/araratbank.png", "countries": ["AM"], "website": "https://www.araratbank.am", "card_background": "solid:#FCBB00", "accent_color": "#FCBB00"},
+    {"key": "amio", "name": {"en": "AMIO Bank", "ru": "АМИО Банк"}, "logo": "https://catalog.kazna.app/packs/am-banks/logos/amio.png", "countries": ["AM"], "website": "https://amiobank.am", "card_background": "solid:#00A8C6", "accent_color": "#00A8C6", "aliases": ["Armbusinessbank", "Армбизнесбанк"]},
+    {"key": "armeconombank", "name": {"en": "Armeconombank", "ru": "Армэкономбанк"}, "logo": "https://catalog.kazna.app/packs/am-banks/logos/armeconombank.png", "countries": ["AM"], "website": "https://www.aeb.am", "card_background": "solid:#223E7D", "accent_color": "#A5CD39", "aliases": ["AEB"]},
+    {"key": "fastbank", "name": {"en": "Fast Bank", "ru": "Фаст Банк"}, "logo": "https://catalog.kazna.app/packs/am-banks/logos/fastbank.png", "countries": ["AM"], "website": "https://www.fastbank.am", "card_background": "solid:#EC008C", "accent_color": "#EC008C"}
   ]
 }

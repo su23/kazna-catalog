@@ -1,6 +1,6 @@
 {
   "id": "uz-banks",
-  "version": 2,
+  "version": 3,
   "type": "banks",
   "name": {
     "en": "Uzbek Banks",
@@ -79,6 +79,13 @@
       "website": "https://asakabank.uz",
       "card_background": "solid:#E41D32",
       "accent_color": "#E41D32"
-    }
+    },
+    {"key": "sqb", "name": {"en": "SQB", "ru": "SQB"}, "logo": "https://catalog.kazna.app/packs/uz-banks/logos/sqb.png", "countries": ["UZ"], "website": "https://sqb.uz", "card_background": "solid:#003D64", "accent_color": "#D52023", "aliases": ["Sanoat Qurilish Bank", "Uzpromstroybank", "Узпромстройбанк"]},
+    {"key": "xalqbank", "name": {"en": "Xalq Bank", "ru": "Халк банк"}, "logo": "https://catalog.kazna.app/packs/uz-banks/logos/xalqbank.png", "countries": ["UZ"], "website": "https://xb.uz", "card_background": "solid:#095052", "accent_color": "#095052", "aliases": ["Xalq banki", "Народный банк", "xazna"]},
+    {"key": "agrobank-uz", "name": {"en": "Agrobank", "ru": "Агробанк"}, "logo": "https://catalog.kazna.app/packs/uz-banks/logos/agrobank-uz.png", "countries": ["UZ"], "website": "https://agrobank.uz", "card_background": "solid:#00CC69", "accent_color": "#00CC69"},
+    {"key": "aloqabank", "name": {"en": "Aloqabank", "ru": "Алокабанк"}, "logo": "https://catalog.kazna.app/packs/uz-banks/logos/aloqabank.png", "countries": ["UZ"], "website": "https://aloqabank.uz", "card_background": "solid:#0099FF", "accent_color": "#0099FF", "aliases": ["Zoomrad"]},
+    {"key": "infinbank", "name": {"en": "InfinBANK", "ru": "Инфинбанк"}, "logo": "https://catalog.kazna.app/packs/uz-banks/logos/infinbank.png", "countries": ["UZ"], "website": "https://www.infinbank.com", "card_background": "solid:#234A98", "accent_color": "#9B3589", "aliases": ["Invest Finance Bank"]},
+    {"key": "davrbank", "name": {"en": "Davr Bank", "ru": "Даврбанк"}, "logo": "https://catalog.kazna.app/packs/uz-banks/logos/davrbank.png", "countries": ["UZ"], "website": "https://davrbank.uz", "card_background": "solid:#1E1E1E", "accent_color": "#1E1E1E"},
+    {"key": "trastbank", "name": {"en": "Trastbank", "ru": "Трастбанк"}, "logo": "https://catalog.kazna.app/packs/uz-banks/logos/trastbank.png", "countries": ["UZ"], "website": "https://trastbank.uz", "card_background": "solid:#007EC4", "accent_color": "#007EC4", "aliases": ["Trustbank"]}
   ]
 }

@@ -62,5 +62,43 @@
     "note": "wordmark drawn in the site primary #5700FF",
     "fetched": "2026-10-08",
     "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "cbd-ae": {
+    "source": "https://www.cbd.ae/images/default-source/3-in-1-cut/cbd-logo.svg",
+    "kind": "bank site SVG",
+    "licence": "Trademark",
+    "note": "swirl symbol only",
+    "fetched": "2026-10-30",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "emirates-islamic": {
+    "source": "https://www.emiratesislamic.ae/-/media/ei/images/header/logo_white_ei_new.svg",
+    "kind": "bank site SVG",
+    "licence": "Trademark",
+    "note": "EI mark, white recoloured to the site purple #461E57",
+    "fetched": "2026-10-30",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "sharjah-islamic-bank": {
+    "source": "https://www.sib.ae/images/default-source/default-album/sib-logo-white---white-bg.svg",
+    "kind": "bank site SVG, rendered in the browser",
+    "licence": "Trademark",
+    "note": "dhow symbol, white recoloured to the site navy #001489",
+    "fetched": "2026-10-30",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "ajman-bank": {
+    "source": "https://www.ajmanbank.ae/site/assets/img/logo/logo-white.png",
+    "kind": "bank site PNG (155x55)",
+    "licence": "Trademark",
+    "note": "symbol only, low resolution",
+    "fetched": "2026-10-30",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "hsbc-ae": {
+    "source": "https://catalog.kazna.app/packs/global-banks/logos/hsbc.png",
+    "kind": "same logo as global-banks/hsbc",
+    "licence": "Trademark",
+    "note": "group logo copied from global-banks/hsbc"
   }
 }

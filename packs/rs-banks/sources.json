@@ -1,0 +1,90 @@
+{
+  "intesa-rs": {
+    "source": "https://commons.wikimedia.org/wiki/File:Intesa Sanpaolo - logo (Italy, 2007-).svg",
+    "kind": "Wikimedia Commons SVG",
+    "licence": "Public domain; trademark",
+    "note": "Intesa Sanpaolo symbol",
+    "fetched": "2026-10-30",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "raiffeisen-rs": {
+    "source": "https://catalog.kazna.app/packs/global-banks/logos/raiffeisen.png",
+    "kind": "same logo as global-banks/raiffeisen",
+    "licence": "Trademark",
+    "note": "group logo copied from global-banks/raiffeisen"
+  },
+  "otpbank-rs": {
+    "source": "https://catalog.kazna.app/packs/ru-banks/logos/otpbank.png",
+    "kind": "same logo as ru-banks/otpbank",
+    "licence": "Trademark",
+    "note": "group logo copied from ru-banks/otpbank"
+  },
+  "unicredit-rs": {
+    "source": "https://catalog.kazna.app/packs/global-banks/logos/unicredit.png",
+    "kind": "same logo as global-banks/unicredit",
+    "licence": "Trademark",
+    "note": "group logo copied from global-banks/unicredit"
+  },
+  "aikbank": {
+    "source": "https://www.aikbank.rs/icons/aik-bank-logo.svg",
+    "kind": "bank site SVG",
+    "licence": "Trademark",
+    "note": "mark only",
+    "fetched": "2026-10-30",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "erste-rs": {
+    "source": "https://commons.wikimedia.org/wiki/File:Logo Erste Bank 2023.svg",
+    "kind": "Wikimedia Commons SVG",
+    "licence": "Public domain; trademark",
+    "fetched": "2026-10-30",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "nlb-rs": {
+    "source": "https://www.nlb.rs/content/dam/nlb/brand-assets/logos/nlb-logo-small.svg",
+    "kind": "bank site SVG",
+    "licence": "Trademark",
+    "fetched": "2026-10-30",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "addiko-rs": {
+    "source": "https://commons.wikimedia.org/wiki/File:Addiko Bank Logo.svg",
+    "kind": "Wikimedia Commons SVG",
+    "licence": "Public domain; trademark",
+    "note": "wordmark",
+    "fetched": "2026-10-30",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "halkbank-rs": {
+    "source": "https://commons.wikimedia.org/wiki/File:Halkbank_logo.svg",
+    "kind": "Wikimedia Commons SVG",
+    "licence": "Public domain; trademark",
+    "note": "symbol cropped; colour sampled from the logo; group logo copied from tr-banks/halkbank",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "postanska": {
+    "source": "https://apps.apple.com/app/id6502988321",
+    "kind": "App Store icon (seller BANKA POSTANSKA STEDIONICA AD BEOGRAD)",
+    "licence": "Trademark",
+    "note": "site SVG is white-only",
+    "fetched": "2026-10-30",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "yettelbank": {
+    "source": "https://www.yettelbank.rs/wp-content/themes/mobi-banka-website/static/images/logo.svg",
+    "kind": "bank site SVG",
+    "licence": "Trademark",
+    "note": "wordmark",
+    "fetched": "2026-10-30",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "procredit-rs": {
+    "source": "https://commons.wikimedia.org/wiki/File:Logo_ProCredit_Bank.svg",
+    "kind": "Wikimedia Commons SVG",
+    "licence": "Public domain; trademark",
+    "note": "symbol cropped from the wordmark; group logo copied from ge-banks/procredit-ge",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  }
+}
