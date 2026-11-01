@@ -1,6 +1,6 @@
 {
   "id": "rs-banks",
-  "version": 1,
+  "version": 2,
   "type": "banks",
   "name": {
     "en": "Serbian Banks",
@@ -12,9 +12,9 @@
     {"key": "otpbank-rs", "name": {"en": "OTP banka", "ru": "ОТП банка"}, "logo": "https://catalog.kazna.app/packs/rs-banks/logos/otpbank-rs.png", "countries": ["RS"], "website": "https://www.otpbanka.rs", "card_background": "solid:#009A44", "accent_color": "#009A44", "brand": "otpbank", "aliases": ["OTP Srbija"]},
     {"key": "unicredit-rs", "name": {"en": "UniCredit Bank", "ru": "ЮниКредит Банк"}, "logo": "https://catalog.kazna.app/packs/rs-banks/logos/unicredit-rs.png", "countries": ["RS"], "website": "https://www.unicreditbank.rs", "card_background": "solid:#CC0000", "accent_color": "#CC0000", "brand": "unicredit"},
     {"key": "aikbank", "name": {"en": "AikBank", "ru": "АИК Банк"}, "logo": "https://catalog.kazna.app/packs/rs-banks/logos/aikbank.png", "countries": ["RS"], "website": "https://www.aikbank.rs", "card_background": "solid:#000F28", "accent_color": "#D9153D", "aliases": ["AIK Banka", "Eurobank Direktna"]},
-    {"key": "erste-rs", "name": {"en": "Erste Bank", "ru": "Эрсте Банк"}, "logo": "https://catalog.kazna.app/packs/rs-banks/logos/erste-rs.png", "countries": ["RS"], "website": "https://www.erstebank.rs", "card_background": "solid:#2870ED", "accent_color": "#2870ED"},
-    {"key": "nlb-rs", "name": {"en": "NLB Komercijalna banka", "ru": "НЛБ Комерцијална банка"}, "logo": "https://catalog.kazna.app/packs/rs-banks/logos/nlb-rs.png", "countries": ["RS"], "website": "https://www.nlb.rs", "card_background": "solid:#230078", "accent_color": "#84BD00", "aliases": ["Komercijalna banka", "NLB"]},
-    {"key": "addiko-rs", "name": {"en": "Addiko Bank", "ru": "Аддико Банк"}, "logo": "https://catalog.kazna.app/packs/rs-banks/logos/addiko-rs.png", "countries": ["RS"], "website": "https://www.addiko.rs", "card_background": "solid:#FF4D5A", "accent_color": "#002D4C"},
+    {"key": "erste-rs", "name": {"en": "Erste Bank", "ru": "Эрсте Банк"}, "logo": "https://catalog.kazna.app/packs/rs-banks/logos/erste-rs.png", "countries": ["RS"], "website": "https://www.erstebank.rs", "card_background": "solid:#2870ED", "accent_color": "#2870ED", "brand": "erste"},
+    {"key": "nlb-rs", "name": {"en": "NLB Komercijalna banka", "ru": "НЛБ Комерцијална банка"}, "logo": "https://catalog.kazna.app/packs/rs-banks/logos/nlb-rs.png", "countries": ["RS"], "website": "https://www.nlb.rs", "card_background": "solid:#230078", "accent_color": "#84BD00", "brand": "nlb", "aliases": ["Komercijalna banka", "NLB"]},
+    {"key": "addiko-rs", "name": {"en": "Addiko Bank", "ru": "Аддико Банк"}, "logo": "https://catalog.kazna.app/packs/rs-banks/logos/addiko-rs.png", "countries": ["RS"], "website": "https://www.addiko.rs", "card_background": "solid:#FF4D5A", "accent_color": "#002D4C", "brand": "addiko"},
     {"key": "halkbank-rs", "name": {"en": "Halkbank", "ru": "Халкбанк"}, "logo": "https://catalog.kazna.app/packs/rs-banks/logos/halkbank-rs.png", "countries": ["RS"], "website": "https://www.halkbank.rs", "card_background": "solid:#005090", "accent_color": "#005090", "brand": "halkbank"},
     {"key": "postanska", "name": {"en": "Banka Poštanska štedionica", "ru": "Банка Поштанска штедионица"}, "logo": "https://catalog.kazna.app/packs/rs-banks/logos/postanska.png", "countries": ["RS"], "website": "https://www.posted.co.rs", "card_background": "solid:#26356B", "accent_color": "#26356B", "aliases": ["BPŠ", "Banka Postanska stedionica"]},
     {"key": "yettelbank", "name": {"en": "Yettel Bank", "ru": "Йеттел Банк"}, "logo": "https://catalog.kazna.app/packs/rs-banks/logos/yettelbank.png", "countries": ["RS"], "website": "https://www.yettelbank.rs", "card_background": "solid:#002340", "accent_color": "#B4FF00"},

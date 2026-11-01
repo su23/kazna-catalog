@@ -1,0 +1,18 @@
+{
+  "id": "th-banks",
+  "version": 1,
+  "type": "banks",
+  "name": {
+    "en": "Thai Banks",
+    "ru": "Банки Таиланда"
+  },
+  "banks": [
+    {"key": "bangkok-bank", "name": {"en": "Bangkok Bank", "ru": "Бангкок Банк"}, "logo": "https://catalog.kazna.app/packs/th-banks/logos/bangkok-bank.png", "countries": ["TH"], "website": "https://www.bangkokbank.com", "card_background": "solid:#002850", "accent_color": "#0064FF", "aliases": ["ธนาคารกรุงเทพ", "BBL", "Bualuang"]},
+    {"key": "kasikornbank", "name": {"en": "Kasikornbank", "ru": "Касикорнбанк"}, "logo": "https://catalog.kazna.app/packs/th-banks/logos/kasikornbank.png", "countries": ["TH"], "website": "https://www.kasikornbank.com", "card_background": "solid:#009B3B", "accent_color": "#009B3B", "aliases": ["KBank", "K PLUS", "กสิกรไทย", "ธนาคารกสิกรไทย"]},
+    {"key": "scb-th", "name": {"en": "SCB", "ru": "Сиам Коммерческий Банк"}, "logo": "https://catalog.kazna.app/packs/th-banks/logos/scb-th.png", "countries": ["TH"], "website": "https://www.scb.co.th", "card_background": "solid:#462279", "accent_color": "#FEAC00", "aliases": ["Siam Commercial Bank", "ไทยพาณิชย์", "ธนาคารไทยพาณิชย์", "SCB EASY"]},
+    {"key": "krungthai", "name": {"en": "Krungthai Bank", "ru": "Крунгтай Банк"}, "logo": "https://catalog.kazna.app/packs/th-banks/logos/krungthai.png", "countries": ["TH"], "website": "https://krungthai.com", "card_background": "solid:#00A4E4", "accent_color": "#00A4E4", "aliases": ["KTB", "กรุงไทย", "ธนาคารกรุงไทย", "Krungthai NEXT"]},
+    {"key": "krungsri", "name": {"en": "Krungsri", "ru": "Крунгсри"}, "logo": "https://catalog.kazna.app/packs/th-banks/logos/krungsri.png", "countries": ["TH"], "website": "https://www.krungsri.com", "card_background": "solid:#FFD400", "accent_color": "#6F5F5E", "aliases": ["Bank of Ayudhya", "BAY", "กรุงศรี", "ธนาคารกรุงศรีอยุธยา"]},
+    {"key": "ttb", "name": {"en": "ttb", "ru": "ТМБТанашарт"}, "logo": "https://catalog.kazna.app/packs/th-banks/logos/ttb.png", "countries": ["TH"], "website": "https://www.ttbbank.com", "card_background": "solid:#002D63", "accent_color": "#F68B1F", "aliases": ["TMBThanachart", "TMB", "Thanachart", "ทีทีบี", "ทีเอ็มบีธนชาต"]},
+    {"key": "gsb-th", "name": {"en": "Government Savings Bank", "ru": "Государственный сберегательный банк"}, "logo": "https://catalog.kazna.app/packs/th-banks/logos/gsb-th.png", "countries": ["TH"], "website": "https://www.gsb.or.th", "card_background": "solid:#EC008C", "accent_color": "#EC008C", "aliases": ["GSB", "ออมสิน", "ธนาคารออมสิน", "MyMo"]}
+  ]
+}

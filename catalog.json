@@ -181,7 +181,7 @@
     {
       "id": "by-banks",
       "type": "banks",
-      "version": 3,
+      "version": 4,
       "name": {
         "en": "Belarusian Banks",
         "ru": "Банки Беларуси",
@@ -192,7 +192,7 @@
         "ru": "Крупные банки Беларуси — Беларусбанк, Белагропромбанк, Приорбанк и другие"
       },
       "tags": ["belarus", "banks"],
-      "entity_count": 11,
+      "entity_count": 18,
       "pack_url": "https://catalog.kazna.app/packs/by-banks/pack.json",
       "preview_logos": [
         "https://catalog.kazna.app/packs/by-banks/logos/belarusbank.png",
@@ -203,7 +203,7 @@
     {
       "id": "kz-banks",
       "type": "banks",
-      "version": 3,
+      "version": 4,
       "name": {
         "en": "Kazakh Banks",
         "ru": "Банки Казахстана",
@@ -214,7 +214,7 @@
         "ru": "Крупные банки Казахстана — Каспи Банк, Халык Банк, ЦентрКредит и другие"
       },
       "tags": ["kazakhstan", "banks"],
-      "entity_count": 11,
+      "entity_count": 15,
       "pack_url": "https://catalog.kazna.app/packs/kz-banks/pack.json",
       "preview_logos": [
         "https://catalog.kazna.app/packs/kz-banks/logos/kaspi.png",
@@ -1765,7 +1765,7 @@
     {
       "id": "rs-banks",
       "type": "banks",
-      "version": 1,
+      "version": 2,
       "name": {
         "en": "Serbian Banks",
         "ru": "Банки Сербии"
@@ -1825,6 +1825,94 @@
         "https://catalog.kazna.app/packs/cy-banks/logos/bankofcyprus.png",
         "https://catalog.kazna.app/packs/cy-banks/logos/eurobank-cy.png",
         "https://catalog.kazna.app/packs/cy-banks/logos/alphabank-cy.png"
+      ]
+    },
+    {
+      "id": "me-banks",
+      "type": "banks",
+      "version": 1,
+      "name": {
+        "en": "Montenegrin Banks",
+        "ru": "Банки Черногории"
+      },
+      "description": {
+        "en": "Major Montenegrin banks with card colors — CKB, NLB Banka, Erste Bank, Hipotekarna banka and 4 more",
+        "ru": "Крупные банки Черногории с цветами карт — ЦКБ, НЛБ Банка, Эрсте Банк, Хипотекарна банка и ещё 4"
+      },
+      "tags": ["montenegro", "banks"],
+      "entity_count": 8,
+      "pack_url": "https://catalog.kazna.app/packs/me-banks/pack.json",
+      "preview_logos": [
+        "https://catalog.kazna.app/packs/me-banks/logos/ckb-me.png",
+        "https://catalog.kazna.app/packs/me-banks/logos/nlb-me.png",
+        "https://catalog.kazna.app/packs/me-banks/logos/erste-me.png",
+        "https://catalog.kazna.app/packs/me-banks/logos/hipotekarna.png"
+      ]
+    },
+    {
+      "id": "az-banks",
+      "type": "banks",
+      "version": 1,
+      "name": {
+        "en": "Azerbaijani Banks",
+        "ru": "Банки Азербайджана"
+      },
+      "description": {
+        "en": "Major Azerbaijani banks with card colors — Kapital Bank, ABB, PASHA Bank, Bank Respublika and 7 more",
+        "ru": "Крупные банки Азербайджана с цветами карт — Капитал Банк, АББ, ПАША Банк, Банк Республика и ещё 7"
+      },
+      "tags": ["azerbaijan", "banks"],
+      "entity_count": 11,
+      "pack_url": "https://catalog.kazna.app/packs/az-banks/pack.json",
+      "preview_logos": [
+        "https://catalog.kazna.app/packs/az-banks/logos/kapitalbank-az.png",
+        "https://catalog.kazna.app/packs/az-banks/logos/abb-az.png",
+        "https://catalog.kazna.app/packs/az-banks/logos/pashabank-az.png",
+        "https://catalog.kazna.app/packs/az-banks/logos/bankrespublika.png"
+      ]
+    },
+    {
+      "id": "th-banks",
+      "type": "banks",
+      "version": 1,
+      "name": {
+        "en": "Thai Banks",
+        "ru": "Банки Таиланда"
+      },
+      "description": {
+        "en": "Major Thai banks with card colors — Bangkok Bank, Kasikornbank, SCB, Krungthai Bank and 3 more",
+        "ru": "Крупные банки Таиланда с цветами карт — Бангкок Банк, Касикорнбанк, Сиам Коммерческий Банк, Крунгтай Банк и ещё 3"
+      },
+      "tags": ["thailand", "banks"],
+      "entity_count": 7,
+      "pack_url": "https://catalog.kazna.app/packs/th-banks/pack.json",
+      "preview_logos": [
+        "https://catalog.kazna.app/packs/th-banks/logos/bangkok-bank.png",
+        "https://catalog.kazna.app/packs/th-banks/logos/kasikornbank.png",
+        "https://catalog.kazna.app/packs/th-banks/logos/scb-th.png",
+        "https://catalog.kazna.app/packs/th-banks/logos/krungthai.png"
+      ]
+    },
+    {
+      "id": "il-banks",
+      "type": "banks",
+      "version": 1,
+      "name": {
+        "en": "Israeli Banks",
+        "ru": "Банки Израиля"
+      },
+      "description": {
+        "en": "Major Israeli banks with card colors — Bank Leumi, Bank Hapoalim, Israel Discount Bank, Mizrahi-Tefahot and 2 more",
+        "ru": "Крупные банки Израиля с цветами карт — Банк Леуми, Банк Апоалим, Израильский Дисконт Банк, Мизрахи-Тфахот и ещё 2"
+      },
+      "tags": ["israel", "banks"],
+      "entity_count": 6,
+      "pack_url": "https://catalog.kazna.app/packs/il-banks/pack.json",
+      "preview_logos": [
+        "https://catalog.kazna.app/packs/il-banks/logos/leumi.png",
+        "https://catalog.kazna.app/packs/il-banks/logos/hapoalim.png",
+        "https://catalog.kazna.app/packs/il-banks/logos/discount-il.png",
+        "https://catalog.kazna.app/packs/il-banks/logos/mizrahi-tefahot.png"
       ]
     }
   ]

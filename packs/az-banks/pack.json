@@ -1,0 +1,22 @@
+{
+  "id": "az-banks",
+  "version": 1,
+  "type": "banks",
+  "name": {
+    "en": "Azerbaijani Banks",
+    "ru": "Банки Азербайджана"
+  },
+  "banks": [
+    {"key": "kapitalbank-az", "name": {"en": "Kapital Bank", "ru": "Капитал Банк"}, "logo": "https://catalog.kazna.app/packs/az-banks/logos/kapitalbank-az.png", "countries": ["AZ"], "website": "https://www.kapitalbank.az", "card_background": "solid:#B61D29", "accent_color": "#EF3E42", "aliases": ["Kapital Bank ASC", "Birbank", "Kapitalbank"]},
+    {"key": "abb-az", "name": {"en": "ABB", "ru": "АББ"}, "logo": "https://catalog.kazna.app/packs/az-banks/logos/abb-az.png", "countries": ["AZ"], "website": "https://abb-bank.az", "card_background": "solid:#1B63ED", "accent_color": "#1B63ED", "aliases": ["International Bank of Azerbaijan", "Azərbaycan Beynəlxalq Bankı", "Международный банк Азербайджана"]},
+    {"key": "pashabank-az", "name": {"en": "PASHA Bank", "ru": "ПАША Банк"}, "logo": "https://catalog.kazna.app/packs/az-banks/logos/pashabank-az.png", "countries": ["AZ"], "website": "https://www.pashabank.az", "card_background": "solid:#099A71", "accent_color": "#099A71", "aliases": ["PAŞA Bank", "Paşa Bank"]},
+    {"key": "bankrespublika", "name": {"en": "Bank Respublika", "ru": "Банк Республика"}, "logo": "https://catalog.kazna.app/packs/az-banks/logos/bankrespublika.png", "countries": ["AZ"], "website": "https://bankrespublika.az", "card_background": "solid:#475ED0", "accent_color": "#475ED0", "aliases": ["Respublika"]},
+    {"key": "unibank-az", "name": {"en": "Unibank", "ru": "Юнибанк"}, "logo": "https://catalog.kazna.app/packs/az-banks/logos/unibank-az.png", "countries": ["AZ"], "website": "https://unibank.az", "card_background": "solid:#FF6400", "accent_color": "#FF6400", "aliases": ["UBank"]},
+    {"key": "leobank", "name": {"en": "Leobank", "ru": "Леобанк"}, "logo": "https://catalog.kazna.app/packs/az-banks/logos/leobank.png", "countries": ["AZ"], "website": "https://leobank.az", "card_background": "solid:#000000", "accent_color": "#021E31"},
+    {"key": "yelobank", "name": {"en": "Yelo Bank", "ru": "Ело Банк"}, "logo": "https://catalog.kazna.app/packs/az-banks/logos/yelobank.png", "countries": ["AZ"], "website": "https://yelo.az", "card_background": "solid:#FFC628", "accent_color": "#000000", "aliases": ["Yelo", "Nikoil Bank"]},
+    {"key": "accessbank-az", "name": {"en": "AccessBank", "ru": "АккессБанк"}, "logo": "https://catalog.kazna.app/packs/az-banks/logos/accessbank-az.png", "countries": ["AZ"], "website": "https://www.accessbank.az", "card_background": "solid:#2362A9", "accent_color": "#2362A9", "aliases": ["myAccess"]},
+    {"key": "rabitabank", "name": {"en": "Rabitabank", "ru": "Рабитабанк"}, "logo": "https://catalog.kazna.app/packs/az-banks/logos/rabitabank.png", "countries": ["AZ"], "website": "https://www.rabitabank.com", "card_background": "solid:#126537", "accent_color": "#7CBD42", "aliases": ["Rabitəbank"]},
+    {"key": "bankofbaku", "name": {"en": "Bank of Baku", "ru": "Банк оф Баку"}, "logo": "https://catalog.kazna.app/packs/az-banks/logos/bankofbaku.png", "countries": ["AZ"], "website": "https://www.bankofbaku.com", "card_background": "solid:#00A3C9", "accent_color": "#184277", "aliases": ["Dostbank"]},
+    {"key": "ziraat-az", "name": {"en": "Ziraat Bank Azerbaijan", "ru": "Зираат Банк Азербайджан"}, "logo": "https://catalog.kazna.app/packs/az-banks/logos/ziraat-az.png", "countries": ["AZ"], "website": "https://ziraatbank.az", "card_background": "solid:#E10514", "accent_color": "#E10514", "brand": "ziraat-bank"}
+  ]
+}

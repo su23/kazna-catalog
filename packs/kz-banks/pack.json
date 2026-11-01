@@ -1,6 +1,6 @@
 {
   "id": "kz-banks",
-  "version": 3,
+  "version": 4,
   "type": "banks",
   "name": {
     "en": "Kazakh Banks",
@@ -106,6 +106,47 @@
       "website": "https://eubank.kz",
       "card_background": "solid:#E12972",
       "accent_color": "#E12972"
+    },
+    {
+      "key": "nurbank",
+      "name": {"en": "Nurbank", "ru": "Нурбанк", "kk": "Нұрбанк"},
+      "logo": "https://catalog.kazna.app/packs/kz-banks/logos/nurbank.png",
+      "countries": ["KZ"],
+      "website": "https://nurbank.kz",
+      "card_background": "solid:#0077C8",
+      "accent_color": "#FFC72C",
+      "aliases": ["Nur24"]
+    },
+    {
+      "key": "shinhan-kz",
+      "name": {"en": "Shinhan Bank Kazakhstan", "ru": "Шинхан Банк Казахстан", "kk": "Шинхан Банк Қазақстан"},
+      "logo": "https://catalog.kazna.app/packs/kz-banks/logos/shinhan-kz.png",
+      "countries": ["KZ"],
+      "website": "https://shinhan.kz",
+      "card_background": "solid:#011B6A",
+      "accent_color": "#00428E",
+      "aliases": ["Shinhan"]
+    },
+    {
+      "key": "altynbank",
+      "name": {"en": "Altyn Bank", "ru": "Алтын Банк", "kk": "Altyn Bank"},
+      "logo": "https://catalog.kazna.app/packs/kz-banks/logos/altynbank.png",
+      "countries": ["KZ"],
+      "website": "https://altynbank.kz",
+      "card_background": "solid:#E31E24",
+      "accent_color": "#D7B56D",
+      "aliases": ["HSBC Bank Kazakhstan", "Алтын"]
+    },
+    {
+      "key": "kzibank",
+      "name": {"en": "KZI Bank", "ru": "КЗИ Банк", "kk": "KZI Bank"},
+      "logo": "https://catalog.kazna.app/packs/kz-banks/logos/kzibank.png",
+      "countries": ["KZ"],
+      "website": "https://kzibank.kz",
+      "card_background": "solid:#E10514",
+      "accent_color": "#E10514",
+      "brand": "ziraat-bank",
+      "aliases": ["Kazakhstan-Ziraat International Bank", "Казахстан-Зираат Интернешнл Банк"]
     }
   ]
 }

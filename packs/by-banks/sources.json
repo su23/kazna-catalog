@@ -56,5 +56,61 @@
     "note": "white lotus recoloured to the site blue #005CAA",
     "fetched": "2026-10-08",
     "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "paritetbank": {
+    "source": "https://apps.apple.com/app/id1543156711",
+    "kind": "App Store icon (seller PARITETBANK, OAO)",
+    "licence": "Trademark",
+    "note": "white symbol recoloured #004A98; the site SVG puts the wordmark against it",
+    "fetched": "2026-10-31",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "bnb-by": {
+    "source": "https://bnb.by/local/templates/itachMain_copy/assets/images/logo/logo.svg",
+    "kind": "bank site SVG",
+    "licence": "Trademark",
+    "note": "lion only, light box removed",
+    "fetched": "2026-10-31",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "dabrabyt": {
+    "source": "https://web.archive.org/web/2023/https://bankdabrabyt.by/upload/userfiles/images/svg/Bank_Dabrabyt_logo.svg",
+    "kind": "bank site SVG via the Wayback Machine (2023 capture)",
+    "licence": "Trademark",
+    "note": "symbol only; the live site is not reachable from abroad",
+    "fetched": "2026-10-31",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "technobank-by": {
+    "source": "https://tb.by/local/assets/dist/icons/sprite.svg#svg-icon-logo",
+    "kind": "bank site SVG sprite",
+    "licence": "Trademark",
+    "note": "swoosh only, currentColor #122DB0",
+    "fetched": "2026-10-31",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "statusbank": {
+    "source": "https://apps.apple.com/app/id6444286133",
+    "kind": "App Store icon (seller STATUSBANK, OAO)",
+    "licence": "Trademark",
+    "note": "white tile removed; the site SVG has a white box",
+    "fetched": "2026-10-31",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "rrb-by": {
+    "source": "https://www.rrb.by/images/logo.svg",
+    "kind": "bank site SVG",
+    "licence": "Trademark",
+    "note": "stripes symbol only",
+    "fetched": "2026-10-31",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "reshenie": {
+    "source": "https://apps.apple.com/app/id1169048080",
+    "kind": "App Store icon (seller BANK RESHENIE, ZAO)",
+    "licence": "Trademark",
+    "note": "white tile removed; the site has a wordmark only",
+    "fetched": "2026-10-31",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
   }
 }

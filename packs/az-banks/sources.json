@@ -1,0 +1,90 @@
+{
+  "kapitalbank-az": {
+    "source": "https://www.kapitalbank.az/images/small-new-logo.svg",
+    "kind": "bank site SVG",
+    "licence": "Trademark",
+    "note": "symbol only",
+    "fetched": "2026-10-31",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "abb-az": {
+    "source": "https://abb-bank.az/",
+    "kind": "bank site inline SVG",
+    "licence": "Trademark",
+    "note": "symbol only, currentColor #1B63ED",
+    "fetched": "2026-10-31",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "pashabank-az": {
+    "source": "https://apps.apple.com/app/id1531789455",
+    "kind": "App Store icon (seller PASHA Bank JSC)",
+    "licence": "Trademark",
+    "note": "star only, white tile removed; the site logo is white-only",
+    "fetched": "2026-10-31",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "bankrespublika": {
+    "source": "https://bankrespublika.az/site/views/site/images/logo.svg",
+    "kind": "bank site SVG",
+    "licence": "Trademark",
+    "note": "wordmark, tagline removed",
+    "fetched": "2026-10-31",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "unibank-az": {
+    "source": "https://apps.apple.com/app/id1073632425",
+    "kind": "App Store icon (seller Unibank ASC)",
+    "licence": "Trademark",
+    "note": "white U recoloured to the site orange #FF6400",
+    "fetched": "2026-10-31",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "leobank": {
+    "source": "https://commons.wikimedia.org/wiki/File:Logo of Leobank.svg",
+    "kind": "Wikimedia Commons SVG",
+    "licence": "Public domain; trademark",
+    "note": "wordmark; digital bank on Unibank's licence",
+    "fetched": "2026-10-31",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "yelobank": {
+    "source": "https://yelo.az/site/templates/style/img/logo.svg",
+    "kind": "bank site SVG",
+    "licence": "Trademark",
+    "note": "wordmark",
+    "fetched": "2026-10-31",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "accessbank-az": {
+    "source": "https://www.accessbank.az/bitrix/templates/publicV2/images/AccessBank-logo-v2.svg",
+    "kind": "bank site SVG",
+    "licence": "Trademark",
+    "note": "globe symbol only",
+    "fetched": "2026-10-31",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "rabitabank": {
+    "source": "https://www.rabitabank.com/images/rabitebank.svg",
+    "kind": "bank site SVG",
+    "licence": "Trademark",
+    "note": "symbol only",
+    "fetched": "2026-10-31",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "bankofbaku": {
+    "source": "https://www.bankofbaku.com/images/logos/logo-single.svg",
+    "kind": "bank site SVG",
+    "licence": "Trademark",
+    "note": "symbol",
+    "fetched": "2026-10-31",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "ziraat-az": {
+    "source": "https://commons.wikimedia.org/wiki/File:Ziraat_Bankası_2025_Logo.svg",
+    "kind": "Wikimedia Commons SVG",
+    "licence": "Public domain; trademark",
+    "note": "2025 logo, emblem cropped; group logo copied from tr-banks/ziraat-bank",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  }
+}

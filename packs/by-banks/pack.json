@@ -1,6 +1,6 @@
 {
   "id": "by-banks",
-  "version": 3,
+  "version": 4,
   "type": "banks",
   "name": {
     "en": "Belarusian Banks",
@@ -105,6 +105,74 @@
       "website": "https://www.bsb.by",
       "card_background": "solid:#E30613",
       "accent_color": "#E30613"
+    },
+    {
+      "key": "paritetbank",
+      "name": {"en": "Paritetbank", "ru": "Паритетбанк", "be": "Паритэтбанк"},
+      "logo": "https://catalog.kazna.app/packs/by-banks/logos/paritetbank.png",
+      "countries": ["BY"],
+      "website": "https://www.paritetbank.by",
+      "card_background": "solid:#004A98",
+      "accent_color": "#004A98",
+      "aliases": ["iParitet"]
+    },
+    {
+      "key": "bnb-by",
+      "name": {"en": "BNB-Bank", "ru": "БНБ-Банк", "be": "БНБ-Банк"},
+      "logo": "https://catalog.kazna.app/packs/by-banks/logos/bnb-by.png",
+      "countries": ["BY"],
+      "website": "https://bnb.by",
+      "card_background": "solid:#F96302",
+      "accent_color": "#F96302",
+      "aliases": ["Belarusian People's Bank", "Белорусский народный банк", "Беларускі народны банк"]
+    },
+    {
+      "key": "dabrabyt",
+      "name": {"en": "Bank Dabrabyt", "ru": "Банк Дабрабыт", "be": "Банк Дабрабыт"},
+      "logo": "https://catalog.kazna.app/packs/by-banks/logos/dabrabyt.png",
+      "countries": ["BY"],
+      "website": "https://bankdabrabyt.by",
+      "card_background": "solid:#E20613",
+      "accent_color": "#E20613",
+      "aliases": ["Москва-Минск", "Moskva-Minsk"]
+    },
+    {
+      "key": "technobank-by",
+      "name": {"en": "Technobank", "ru": "Технобанк", "be": "Тэхнабанк"},
+      "logo": "https://catalog.kazna.app/packs/by-banks/logos/technobank-by.png",
+      "countries": ["BY"],
+      "website": "https://tb.by",
+      "card_background": "solid:#122DB0",
+      "accent_color": "#122DB0",
+      "aliases": ["MyTechno"]
+    },
+    {
+      "key": "statusbank",
+      "name": {"en": "Status Bank", "ru": "Статусбанк", "be": "Статусбанк"},
+      "logo": "https://catalog.kazna.app/packs/by-banks/logos/statusbank.png",
+      "countries": ["BY"],
+      "website": "https://stbank.by",
+      "card_background": "solid:#B0CC20",
+      "accent_color": "#58A6B2"
+    },
+    {
+      "key": "rrb-by",
+      "name": {"en": "Bank RRB", "ru": "Банк РРБ", "be": "Банк РРБ"},
+      "logo": "https://catalog.kazna.app/packs/by-banks/logos/rrb-by.png",
+      "countries": ["BY"],
+      "website": "https://www.rrb.by",
+      "card_background": "solid:#C52E35",
+      "accent_color": "#C52E35",
+      "aliases": ["РРБ-Банк", "RRB-Bank"]
+    },
+    {
+      "key": "reshenie",
+      "name": {"en": "Bank Reshenie", "ru": "Банк Решение", "be": "Банк Рашэнне"},
+      "logo": "https://catalog.kazna.app/packs/by-banks/logos/reshenie.png",
+      "countries": ["BY"],
+      "website": "https://rbank.by",
+      "card_background": "solid:#B92135",
+      "accent_color": "#3C2B6F"
     }
   ]
 }

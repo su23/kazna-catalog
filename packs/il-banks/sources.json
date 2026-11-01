@@ -1,0 +1,49 @@
+{
+  "leumi": {
+    "source": "https://www.leumi.co.il/themes/custom/leumi_new/leumi_logo_en.svg",
+    "kind": "bank site SVG",
+    "licence": "Trademark",
+    "fetched": "2026-10-31",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "hapoalim": {
+    "source": "https://www.bankhapoalim.co.il/api/media/l3hlwykh/logo-poalim-1.svg",
+    "kind": "bank site SVG",
+    "licence": "Trademark",
+    "note": "diamond symbol only",
+    "fetched": "2026-10-31",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "discount-il": {
+    "source": "https://www.discountbank.co.il/media/npmnath4/wide.svg",
+    "kind": "bank site SVG",
+    "licence": "Trademark",
+    "note": "wordmark, slogan removed",
+    "fetched": "2026-10-31",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "mizrahi-tefahot": {
+    "source": "https://commons.wikimedia.org/wiki/File:לוגו של בנק מזרחי-טפחות.svg",
+    "kind": "Wikimedia Commons SVG",
+    "licence": "Public domain; trademark",
+    "note": "symbol only",
+    "fetched": "2026-10-31",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "fibi": {
+    "source": "https://apps.apple.com/app/id1071401107",
+    "kind": "App Store icon (seller MATAF – the bank's IT company)",
+    "licence": "Trademark",
+    "note": "yellow symbol taken off its tile; the site is behind a CAPTCHA",
+    "fetched": "2026-10-31",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "one-zero-il": {
+    "source": "https://www.onezerobank.com/",
+    "kind": "bank site inline SVG",
+    "licence": "Trademark",
+    "note": "symbol only",
+    "fetched": "2026-10-31",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  }
+}

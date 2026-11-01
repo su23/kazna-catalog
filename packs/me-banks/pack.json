@@ -1,0 +1,19 @@
+{
+  "id": "me-banks",
+  "version": 1,
+  "type": "banks",
+  "name": {
+    "en": "Montenegrin Banks",
+    "ru": "Банки Черногории"
+  },
+  "banks": [
+    {"key": "ckb-me", "name": {"en": "CKB", "ru": "ЦКБ"}, "logo": "https://catalog.kazna.app/packs/me-banks/logos/ckb-me.png", "countries": ["ME"], "website": "https://www.ckb.me", "card_background": "solid:#009A44", "accent_color": "#009A44", "brand": "otpbank", "aliases": ["Crnogorska komercijalna banka", "CKB banka"]},
+    {"key": "nlb-me", "name": {"en": "NLB Banka", "ru": "НЛБ Банка"}, "logo": "https://catalog.kazna.app/packs/me-banks/logos/nlb-me.png", "countries": ["ME"], "website": "https://www.nlb.me", "card_background": "solid:#230078", "accent_color": "#84BD00", "brand": "nlb", "aliases": ["NLB Banka Podgorica", "NLB"]},
+    {"key": "erste-me", "name": {"en": "Erste Bank", "ru": "Эрсте Банк"}, "logo": "https://catalog.kazna.app/packs/me-banks/logos/erste-me.png", "countries": ["ME"], "website": "https://www.erstebank.me", "card_background": "solid:#2870ED", "accent_color": "#2870ED", "brand": "erste", "aliases": ["Erste Bank AD Podgorica"]},
+    {"key": "hipotekarna", "name": {"en": "Hipotekarna banka", "ru": "Хипотекарна банка"}, "logo": "https://catalog.kazna.app/packs/me-banks/logos/hipotekarna.png", "countries": ["ME"], "website": "https://hipotekarnabanka.com", "card_background": "solid:#F16523", "accent_color": "#F16523", "aliases": ["Hipotekarna", "HB"]},
+    {"key": "addiko-me", "name": {"en": "Addiko Bank", "ru": "Аддико Банк"}, "logo": "https://catalog.kazna.app/packs/me-banks/logos/addiko-me.png", "countries": ["ME"], "website": "https://www.addiko.me", "card_background": "solid:#FF4D5A", "accent_color": "#002D4C", "brand": "addiko"},
+    {"key": "lovcen", "name": {"en": "Lovćen banka", "ru": "Ловћен банка"}, "logo": "https://catalog.kazna.app/packs/me-banks/logos/lovcen.png", "countries": ["ME"], "website": "https://www.lovcenbanka.me", "card_background": "solid:#114BA3", "accent_color": "#34B5F9", "aliases": ["Lovcen banka", "Ловчен банка"]},
+    {"key": "prvabanka-me", "name": {"en": "Prva banka Crne Gore", "ru": "Прва банка Црне Горе"}, "logo": "https://catalog.kazna.app/packs/me-banks/logos/prvabanka-me.png", "countries": ["ME"], "website": "https://prvabankacg.com", "card_background": "solid:#D2232A", "accent_color": "#D2232A", "aliases": ["Prva banka", "Прва банка"]},
+    {"key": "ziraat-me", "name": {"en": "Ziraat Bank Montenegro", "ru": "Зираат Банк Черногория"}, "logo": "https://catalog.kazna.app/packs/me-banks/logos/ziraat-me.png", "countries": ["ME"], "website": "https://ziraatbank.me", "card_background": "solid:#E10514", "accent_color": "#E10514", "brand": "ziraat-bank"}
+  ]
+}

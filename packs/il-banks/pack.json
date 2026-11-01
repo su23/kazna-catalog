@@ -1,0 +1,17 @@
+{
+  "id": "il-banks",
+  "version": 1,
+  "type": "banks",
+  "name": {
+    "en": "Israeli Banks",
+    "ru": "Банки Израиля"
+  },
+  "banks": [
+    {"key": "leumi", "name": {"en": "Bank Leumi", "ru": "Банк Леуми"}, "logo": "https://catalog.kazna.app/packs/il-banks/logos/leumi.png", "countries": ["IL"], "website": "https://www.leumi.co.il", "card_background": "solid:#10069A", "accent_color": "#0066FF", "aliases": ["Leumi", "לאומי", "בנק לאומי", "Pepper", "Pepper by Leumi", "פפר"]},
+    {"key": "hapoalim", "name": {"en": "Bank Hapoalim", "ru": "Банк Апоалим"}, "logo": "https://catalog.kazna.app/packs/il-banks/logos/hapoalim.png", "countries": ["IL"], "website": "https://www.bankhapoalim.co.il", "card_background": "solid:#F0000B", "accent_color": "#F0000B", "aliases": ["Hapoalim", "Poalim", "הפועלים", "בנק הפועלים"]},
+    {"key": "discount-il", "name": {"en": "Israel Discount Bank", "ru": "Израильский Дисконт Банк"}, "logo": "https://catalog.kazna.app/packs/il-banks/logos/discount-il.png", "countries": ["IL"], "website": "https://www.discountbank.co.il", "card_background": "solid:#00A661", "accent_color": "#00A661", "aliases": ["Discount", "IDB", "דיסקונט", "בנק דיסקונט"]},
+    {"key": "mizrahi-tefahot", "name": {"en": "Mizrahi-Tefahot", "ru": "Мизрахи-Тфахот"}, "logo": "https://catalog.kazna.app/packs/il-banks/logos/mizrahi-tefahot.png", "countries": ["IL"], "website": "https://www.mizrahi-tefahot.co.il", "card_background": "solid:#F5821F", "accent_color": "#F5821F", "aliases": ["Mizrahi", "Tefahot", "UMTB", "מזרחי טפחות", "Union Bank", "בנק איגוד"]},
+    {"key": "fibi", "name": {"en": "First International Bank of Israel", "ru": "Первый международный банк Израиля"}, "logo": "https://catalog.kazna.app/packs/il-banks/logos/fibi.png", "countries": ["IL"], "website": "https://www.fibi.co.il", "card_background": "solid:#18285F", "accent_color": "#FDB726", "aliases": ["FIBI", "Beinleumi", "הבינלאומי", "הבנק הבינלאומי"]},
+    {"key": "one-zero-il", "name": {"en": "ONE ZERO", "ru": "Ван Зиро"}, "logo": "https://catalog.kazna.app/packs/il-banks/logos/one-zero-il.png", "countries": ["IL"], "website": "https://www.onezerobank.com", "card_background": "solid:#000000", "accent_color": "#2D68F3", "aliases": ["One Zero", "וואן זירו"]}
+  ]
+}

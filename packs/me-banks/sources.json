@@ -1,0 +1,64 @@
+{
+  "ckb-me": {
+    "source": "https://catalog.kazna.app/packs/ru-banks/logos/otpbank.png",
+    "kind": "same logo as ru-banks/otpbank",
+    "licence": "Trademark",
+    "note": "group logo copied from ru-banks/otpbank"
+  },
+  "nlb-me": {
+    "source": "https://www.nlb.rs/content/dam/nlb/brand-assets/logos/nlb-logo-small.svg",
+    "kind": "bank site SVG",
+    "licence": "Trademark",
+    "fetched": "2026-10-30",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin",
+    "note": "group logo copied from rs-banks/nlb-rs"
+  },
+  "erste-me": {
+    "source": "https://commons.wikimedia.org/wiki/File:Logo Erste Bank 2023.svg",
+    "kind": "Wikimedia Commons SVG",
+    "licence": "Public domain; trademark",
+    "fetched": "2026-10-30",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin",
+    "note": "group logo copied from rs-banks/erste-rs"
+  },
+  "hipotekarna": {
+    "source": "https://apps.apple.com/app/id630526172",
+    "kind": "App Store icon (seller HIPOTEKARNA BANKA A.D.)",
+    "licence": "Trademark",
+    "note": "white tile removed; the site has only a small PNG",
+    "fetched": "2026-10-31",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "addiko-me": {
+    "source": "https://commons.wikimedia.org/wiki/File:Addiko Bank Logo.svg",
+    "kind": "Wikimedia Commons SVG",
+    "licence": "Public domain; trademark",
+    "note": "wordmark; group logo copied from rs-banks/addiko-rs",
+    "fetched": "2026-10-30",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "lovcen": {
+    "source": "https://apps.apple.com/app/id1631296858",
+    "kind": "App Store icon (seller Lovcen banka AD)",
+    "licence": "Trademark",
+    "note": "white arc recoloured to the site blue #114BA3",
+    "fetched": "2026-10-31",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "prvabanka-me": {
+    "source": "https://prvabankacg.com/img/logo/prva_banka_logo_white.svg",
+    "kind": "bank site SVG",
+    "licence": "Trademark",
+    "note": "symbol only",
+    "fetched": "2026-10-31",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "ziraat-me": {
+    "source": "https://commons.wikimedia.org/wiki/File:Ziraat_Bankası_2025_Logo.svg",
+    "kind": "Wikimedia Commons SVG",
+    "licence": "Public domain; trademark",
+    "note": "2025 logo, emblem cropped; group logo copied from tr-banks/ziraat-bank",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  }
+}
