@@ -1,6 +1,6 @@
 {
   "id": "ru-banks",
-  "version": 10,
+  "version": 11,
   "type": "banks",
   "name": {
     "en": "Russian Banks",
@@ -68,7 +68,8 @@
       "countries": ["RU"],
       "website": "https://mkb.ru",
       "card_background": "solid:#002D74",
-      "accent_color": "#002D74"
+      "accent_color": "#002D74",
+      "aliases": ["Дальневосточный банк", "Дальневосточный"]
     },
     {
       "key": "domrf",
@@ -432,6 +433,26 @@
     {"key": "uralfd", "name": {"en": "Ural FD", "ru": "Урал ФД"}, "logo": "https://catalog.kazna.app/packs/ru-banks/logos/uralfd.png", "countries": ["RU"], "website": "https://uralfd.ru", "card_background": "solid:#FF2E2C", "accent_color": "#FF2E2C"},
     {"key": "bankkazani", "name": {"en": "Bank of Kazan", "ru": "Банк Казани"}, "logo": "https://catalog.kazna.app/packs/ru-banks/logos/bankkazani.png", "countries": ["RU"], "website": "https://www.bankofkazan.ru", "card_background": "solid:#551967", "accent_color": "#94C22B"},
     {"key": "energobank", "name": {"en": "Energobank", "ru": "Энергобанк"}, "logo": "https://catalog.kazna.app/packs/ru-banks/logos/energobank.png", "countries": ["RU"], "website": "https://energobank.ru", "card_background": "solid:#0F23E1", "accent_color": "#0F23E1"},
-    {"key": "akcept", "name": {"en": "Bank Akcept", "ru": "Банк Акцепт"}, "logo": "https://catalog.kazna.app/packs/ru-banks/logos/akcept.png", "countries": ["RU"], "website": "https://www.akcept.ru", "card_background": "solid:#24458C", "accent_color": "#24458C", "aliases": ["Акцепт"]}
+    {"key": "akcept", "name": {"en": "Bank Akcept", "ru": "Банк Акцепт"}, "logo": "https://catalog.kazna.app/packs/ru-banks/logos/akcept.png", "countries": ["RU"], "website": "https://www.akcept.ru", "card_background": "solid:#24458C", "accent_color": "#24458C", "aliases": ["Акцепт"]},
+    {"key": "boc-ru", "name": {"en": "Bank of China (Russia)", "ru": "Бэнк оф Чайна"}, "logo": "https://catalog.kazna.app/packs/ru-banks/logos/boc-ru.png", "countries": ["RU"], "website": "https://www.boc.ru", "card_background": "solid:#B50029", "accent_color": "#B50029", "aliases": ["Bank of China", "BOC", "Банк Китая", "中国银行"]},
+    {"key": "icbc-ru", "name": {"en": "ICBC (Russia)", "ru": "АйСиБиСи Банк"}, "logo": "https://catalog.kazna.app/packs/ru-banks/logos/icbc-ru.png", "countries": ["RU"], "website": "https://www.icbcmoscow.ru", "card_background": "solid:#C8000A", "accent_color": "#C8000A", "aliases": ["ICBC", "АйСиБиСи", "ICBC Moscow", "工商银行"]},
+    {"key": "iba-moscow", "name": {"en": "IBA-Moscow", "ru": "МБА-Москва"}, "logo": "https://catalog.kazna.app/packs/ru-banks/logos/iba-moscow.png", "countries": ["RU"], "website": "https://www.ibam.ru", "card_background": "solid:#0060A8", "accent_color": "#0060A8", "aliases": ["МБА", "IBA Moscow", "Международный банк Азербайджана"]},
+    {"key": "ziraat-ru", "name": {"en": "Ziraat Bank (Moscow)", "ru": "Зираат Банк (Москва)"}, "logo": "https://catalog.kazna.app/packs/ru-banks/logos/ziraat-ru.png", "countries": ["RU"], "website": "https://ziraatbank.ru", "card_background": "solid:#E10514", "accent_color": "#E10514", "aliases": ["Ziraat", "Зираат"], "brand": "ziraat-bank"},
+    {"key": "isbank-ru", "name": {"en": "Isbank (Russia)", "ru": "Ишбанк"}, "logo": "https://catalog.kazna.app/packs/ru-banks/logos/isbank-ru.png", "countries": ["RU"], "website": "https://www.isbank.com.ru", "card_background": "solid:#005098", "accent_color": "#005098", "aliases": ["Isbank", "İşbank", "Ишбанк Россия"], "brand": "isbank"},
+    {"key": "kuznetsky", "name": {"en": "Kuznetsky Bank", "ru": "Банк «Кузнецкий»"}, "logo": "https://catalog.kazna.app/packs/ru-banks/logos/kuznetsky.png", "countries": ["RU"], "website": "https://kuzbank.ru", "card_background": "solid:#069347", "accent_color": "#069347", "aliases": ["Кузнецкий", "Банк Кузнецкий"]},
+    {"key": "koshelev", "name": {"en": "Koshelev-Bank", "ru": "Кошелев-Банк"}, "logo": "https://catalog.kazna.app/packs/ru-banks/logos/koshelev.png", "countries": ["RU"], "website": "https://www.koshelev-bank.ru", "card_background": "solid:#62B641", "accent_color": "#196D1F", "aliases": ["Кошелев", "Кошелев Банк"]},
+    {"key": "tatsotsbank", "name": {"en": "Tatsotsbank", "ru": "Татсоцбанк"}, "logo": "https://catalog.kazna.app/packs/ru-banks/logos/tatsotsbank.png", "countries": ["RU"], "website": "https://www.tatsotsbank.ru", "card_background": "solid:#F6620C", "accent_color": "#F6620C", "aliases": ["ТСБ"]},
+    {"key": "avers", "name": {"en": "Bank Avers", "ru": "Банк «Аверс»"}, "logo": "https://catalog.kazna.app/packs/ru-banks/logos/avers.png", "countries": ["RU"], "website": "https://www.aversbank.ru", "card_background": "solid:#216B36", "accent_color": "#216B36", "aliases": ["Аверс"]},
+    {"key": "tolyattikhimbank", "name": {"en": "Togliattikhimbank", "ru": "Тольяттихимбанк"}, "logo": "https://catalog.kazna.app/packs/ru-banks/logos/tolyattikhimbank.png", "countries": ["RU"], "website": "https://www.thbank.ru", "card_background": "solid:#00703C", "accent_color": "#8CC63F", "aliases": ["ТХБ"]},
+    {"key": "orbank", "name": {"en": "Bank Orenburg", "ru": "Банк «Оренбург»"}, "logo": "https://catalog.kazna.app/packs/ru-banks/logos/orbank.png", "countries": ["RU"], "website": "https://www.orbank.ru", "card_background": "solid:#0099FF", "accent_color": "#0099FF", "aliases": ["Банк Оренбург", "Оренбург"]},
+    {"key": "banksaratov", "name": {"en": "Bank Saratov", "ru": "Банк «Саратов»"}, "logo": "https://catalog.kazna.app/packs/ru-banks/logos/banksaratov.png", "countries": ["RU"], "website": "https://www.banksaratov.ru", "card_background": "solid:#CF162B", "accent_color": "#CF162B", "aliases": ["Банк Саратов"]},
+    {"key": "databank", "name": {"en": "Databank", "ru": "Датабанк"}, "logo": "https://catalog.kazna.app/packs/ru-banks/logos/databank.png", "countries": ["RU"], "website": "https://databank.ru", "card_background": "solid:#1D478C", "accent_color": "#1D478C", "aliases": ["Ижкомбанк", "Databank"]},
+    {"key": "uralprombank", "name": {"en": "Uralprombank", "ru": "Уралпромбанк"}, "logo": "https://catalog.kazna.app/packs/ru-banks/logos/uralprombank.png", "countries": ["RU"], "website": "https://uralprombank.ru", "card_background": "solid:#00A388", "accent_color": "#CCB581", "aliases": ["УПБ"]},
+    {"key": "nico-bank", "name": {"en": "NICO-BANK", "ru": "Нико-банк"}, "logo": "https://catalog.kazna.app/packs/ru-banks/logos/nico-bank.png", "countries": ["RU"], "website": "https://www.nico-bank.ru", "card_background": "solid:#0C6C54", "accent_color": "#0C6C54", "aliases": ["НИКО", "Нико банк"]},
+    {"key": "sevnb", "name": {"en": "Severny Narodny Bank", "ru": "Северный Народный Банк"}, "logo": "https://catalog.kazna.app/packs/ru-banks/logos/sevnb.png", "countries": ["RU"], "website": "https://www.sevnb.ru", "card_background": "solid:#0059CC", "accent_color": "#FFCC00", "aliases": ["СНБ", "SNB"]},
+    {"key": "venets", "name": {"en": "Bank Venets", "ru": "Банк «Венец»"}, "logo": "https://catalog.kazna.app/packs/ru-banks/logos/venets.png", "countries": ["RU"], "website": "https://www.venets-bank.ru", "card_background": "solid:#CC1824", "accent_color": "#CC1824", "aliases": ["Венец"]},
+    {"key": "novobank", "name": {"en": "Novobank", "ru": "Новобанк"}, "logo": "https://catalog.kazna.app/packs/ru-banks/logos/novobank.png", "countries": ["RU"], "website": "https://novobank.ru", "card_background": "solid:#1971C0", "accent_color": "#BC262C", "aliases": ["Новобанк Великий Новгород"]},
+    {"key": "priovtb", "name": {"en": "Prio-Vneshtorgbank", "ru": "Прио-Внешторгбанк"}, "logo": "https://catalog.kazna.app/packs/ru-banks/logos/priovtb.png", "countries": ["RU"], "website": "https://priovtb.com", "card_background": "solid:#C8186E", "accent_color": "#00B295", "aliases": ["Прио", "Приобанк"]},
+    {"key": "tpsbank", "name": {"en": "Tomskpromstroybank", "ru": "Томскпромстройбанк"}, "logo": "https://catalog.kazna.app/packs/ru-banks/logos/tpsbank.png", "countries": ["RU"], "website": "https://www.tpsbank.tomsk.ru", "card_background": "solid:#09A543", "accent_color": "#09A543", "aliases": ["ТПСБ", "ТпсБанк"]}
   ]
 }

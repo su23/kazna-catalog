@@ -324,5 +324,165 @@
     "note": "app tile; site blocked; card colour read from the icon",
     "fetched": "2026-10-30",
     "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "boc-ru": {
+    "source": "https://www.boc.ru/local/templates/bocMain/img/mainLogo.svg",
+    "kind": "Site SVG",
+    "licence": "Trademark",
+    "note": "emblem cropped from the header logo; colour from its fill",
+    "fetched": "2026-11-02",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "icbc-ru": {
+    "source": "https://commons.wikimedia.org/wiki/File:ICBC_China_logo.svg",
+    "kind": "Wikimedia Commons SVG",
+    "licence": "Public domain; trademark",
+    "note": "parent group mark (the subsidiary uses it); emblem cropped",
+    "fetched": "2026-11-02",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "iba-moscow": {
+    "source": "https://apps.apple.com/ru/app/id1528300453",
+    "kind": "App Store app icon (seller BANK MBA-MOSKVA OOO)",
+    "licence": "Trademark",
+    "note": "retail app «МБА-Москва Онлайн»; white tile removed; site closed to visitors",
+    "fetched": "2026-11-02",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "ziraat-ru": {
+    "source": "https://commons.wikimedia.org/wiki/File:Ziraat_Bankası_2025_Logo.svg",
+    "kind": "Wikimedia Commons SVG",
+    "licence": "Public domain; trademark",
+    "note": "2025 logo, emblem cropped; group logo copied from tr-banks/ziraat-bank",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "isbank-ru": {
+    "source": "https://commons.wikimedia.org/wiki/File:Türkiye_İş_Bankası_logo.svg",
+    "kind": "Wikimedia Commons SVG",
+    "licence": "Public domain; trademark",
+    "note": "symbol cropped; group logo copied from tr-banks/isbank",
+    "fetched": "2026-10-08",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "kuznetsky": {
+    "source": "https://apps.apple.com/ru/app/id703534332",
+    "kind": "App Store app icon (seller KUZNETSKI PAO)",
+    "licence": "Trademark",
+    "note": "white tile removed; colour from the site logo SVG (#069347)",
+    "fetched": "2026-11-02",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "koshelev": {
+    "source": "https://www.koshelev-bank.ru/android-chrome-512x512.png",
+    "kind": "Site icon (web manifest)",
+    "licence": "Trademark",
+    "note": "white mark keyed off the green tile and recoloured #61B72D",
+    "fetched": "2026-11-02",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "tatsotsbank": {
+    "source": "https://static.rustore.ru/2025/12/24/ae/apk/2063680199/content/ICON/8b1828cc-2aa6-4df7-a305-1f90aa96d99f.png",
+    "kind": "RuStore app icon («Татсоцбанк Онлайн», ru.ftc.faktura.tatsoc)",
+    "licence": "Trademark",
+    "note": "symbol above the wordmark; white tile removed",
+    "fetched": "2026-11-02",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "avers": {
+    "source": "https://www.aversbank.ru/local/styles/img/logogreen.svg",
+    "kind": "Site SVG",
+    "licence": "Trademark",
+    "note": "emblem cropped from the wordmark",
+    "fetched": "2026-11-02",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "tolyattikhimbank": {
+    "source": "https://www.thbank.ru/local/templates/thb/im/thb-logo-green.png",
+    "kind": "Site PNG",
+    "licence": "Trademark",
+    "note": "spiral symbol cropped from the ТХБ wordmark",
+    "fetched": "2026-11-02",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "orbank": {
+    "source": "https://apps.apple.com/ru/app/id1081331829",
+    "kind": "App Store app icon (seller BANK ORENBURG, AO)",
+    "licence": "Trademark",
+    "note": "white tile removed; the site logo PNG is small",
+    "fetched": "2026-11-02",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "banksaratov": {
+    "source": "https://www.banksaratov.ru/tpl/assets/img/logo.svg",
+    "kind": "Site SVG",
+    "licence": "Trademark",
+    "note": "symbol cropped from the wordmark",
+    "fetched": "2026-11-02",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "databank": {
+    "source": "https://databank.ru/images/favicon.svg",
+    "kind": "Site SVG (favicon)",
+    "licence": "Trademark",
+    "note": "white «дата банк» keyed off the blue tile and recoloured #1D478C",
+    "fetched": "2026-11-02",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "uralprombank": {
+    "source": "https://uralprombank.ru/media/d1mfqu33/logo_upb.svg",
+    "kind": "Site SVG",
+    "licence": "Trademark",
+    "note": "symbol cropped from the wordmark",
+    "fetched": "2026-11-02",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "nico-bank": {
+    "source": "https://apps.apple.com/ru/app/id6443673166",
+    "kind": "App Store app icon (seller NIKO-BANK, PAO)",
+    "licence": "Trademark",
+    "note": "white tile removed; colour from the mark",
+    "fetched": "2026-11-02",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "sevnb": {
+    "source": "https://apps.apple.com/ru/app/id1559542544",
+    "kind": "App Store app icon (seller SEVERNY NARODNY BANK, AO)",
+    "licence": "Trademark",
+    "note": "app tile kept (no clean mark on the site); colours from the tile",
+    "fetched": "2026-11-02",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "venets": {
+    "source": "https://apps.apple.com/ru/app/id912299273",
+    "kind": "App Store app icon (seller VENETS, AO)",
+    "licence": "Trademark",
+    "note": "white tile removed; colour from the mark",
+    "fetched": "2026-11-02",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "novobank": {
+    "source": "https://apps.apple.com/ru/app/id1629823062",
+    "kind": "App Store app icon (seller NOVOBANK, PAO)",
+    "licence": "Trademark",
+    "note": "white symbol keyed off the blue tile above the wordmark, recoloured to the tile blue",
+    "fetched": "2026-11-02",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "priovtb": {
+    "source": "https://commons.wikimedia.org/wiki/File:Prio-Vneshtorgbank_logo.svg",
+    "kind": "Wikimedia Commons SVG",
+    "licence": "Public domain; trademark",
+    "note": "full wordmark (the dot alone is too small); card colour from the magenta wordmark",
+    "fetched": "2026-11-02",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "tpsbank": {
+    "source": "https://www.tpsbank.tomsk.ru/static/prj/dist/img/psb/logo-icon.svg",
+    "kind": "Site SVG",
+    "licence": "Trademark",
+    "note": "symbol above the ТпсБанк wordmark",
+    "fetched": "2026-11-02",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
   }
 }
