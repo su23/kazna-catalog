@@ -105,6 +105,16 @@
 {"a":["Новобанк Великий Новгород"],"ac":"#BC262C","bg":"#1971C0","c":["RU"],"h":"fdd44ceaa6a2d2fe","k":"novobank","n":{"en":"Novobank","ru":"Новобанк"},"p":"ru-banks"},
 {"a":["Прио","Приобанк"],"ac":"#00B295","bg":"#C8186E","c":["RU"],"h":"d16e14a9669e02fe","k":"priovtb","n":{"en":"Prio-Vneshtorgbank","ru":"Прио-Внешторгбанк"},"p":"ru-banks"},
 {"a":["ТПСБ","ТпсБанк"],"ac":"#09A543","bg":"#09A543","c":["RU"],"h":"715f9b4eeb2a4d00","k":"tpsbank","n":{"en":"Tomskpromstroybank","ru":"Томскпромстройбанк"},"p":"ru-banks"},
+{"a":["ЮMoney","ЮМани","YooMoney","Яндекс.Деньги","Яндекс Деньги"],"ac":"#702FF4","bg":"#702FF4","c":["RU"],"h":"ad12c64d6999af59","k":"yoomoney","n":{"en":"YooMoney","ru":"ЮMoney"},"p":"ru-banks"},
+{"a":["Сургутнефтегазбанк","SNGB","Банк СНГБ"],"ac":"#FDB913","bg":"#0C3C6C","c":["RU"],"h":"6576366b299e88a9","k":"sngb","n":{"en":"Surgutneftegasbank","ru":"СНГБ"},"p":"ru-banks"},
+{"a":["ХМБ"],"ac":"#F8C300","bg":"#3C7B25","c":["RU"],"h":"7411d414ed2429a8","k":"khmb","n":{"en":"Khakas Municipal Bank","ru":"Хакасский муниципальный банк"},"p":"ru-banks"},
+{"a":["Газтрансбанк","ГТБ"],"ac":"#ACABAB","bg":"#114A93","c":["RU"],"h":"3cde0238f1a9b61e","k":"gtbank","n":{"en":"GT Bank","ru":"ГТ банк"},"p":"ru-banks"},
+{"a":["Йошкар-Ола","OlaBank"],"ac":"#0C54A0","bg":"#0C54A0","c":["RU"],"h":"557c8e0772c5fe7f","k":"olabank","n":{"en":"Bank Yoshkar-Ola","ru":"Банк «Йошкар-Ола»"},"p":"ru-banks"},
+{"a":["Развитие-Столица"],"ac":"#DB082B","bg":"#DB082B","c":["RU"],"h":"769f6b66ede98e27","k":"dcapital","n":{"en":"Razvitie-Stolitsa Bank","ru":"Банк «Развитие-Столица»"},"p":"ru-banks"},
+{"a":["АТБ Банк"],"ac":"#4C5C65","bg":"#A6CE39","c":["RU"],"h":"f2c9987bdf783146","k":"avtotorgbank","n":{"en":"Avtotorgbank","ru":"Автоторгбанк"},"p":"ru-banks"},
+{"a":["ВЛББ","VLBB"],"ac":"#9D235A","bg":"#9D235A","c":["RU"],"h":"e41107d0918e234d","k":"vlbb","n":{"en":"Vladbusinessbank","ru":"Владбизнесбанк"},"p":"ru-banks"},
+{"a":["Вологжанин"],"ac":"#FFAE00","bg":"#00A54F","c":["RU"],"h":"53085a426314eaf8","k":"vologzhanin","n":{"en":"Bank Vologzhanin","ru":"Банк «Вологжанин»"},"p":"ru-banks"},
+{"a":["Снежинский"],"ac":"#1E89BE","bg":"#0164A9","c":["RU"],"h":"96ffeed85a4c9fe3","k":"snezhinsky","n":{"en":"Bank Snezhinsky","ru":"Банк «Снежинский»"},"p":"ru-banks"},
 {"a":["Kaspi","Каспи","Kaspi.kz","Kaspi Gold"],"ac":"#FF5818","bg":"#FF5818","c":["KZ"],"h":"b1d559e55a307697","k":"kaspi","n":{"en":"Kaspi Bank","kk":"Каспи Банк","ru":"Каспи Банк"},"p":"kz-banks"},
 {"a":["Halyk","Халык","Народный банк Казахстана"],"ac":"#1B8131","bg":"#1B8131","c":["KZ"],"h":"6fd1aa82b7aba95b","k":"halyk","n":{"en":"Halyk Bank","kk":"Халық Банкі","ru":"Халык Банк"},"p":"kz-banks"},
 {"a":["BCC","БЦК"],"ac":"#005BAC","bg":"#005BAC","c":["KZ"],"h":"9ed9383b6143db1e","k":"centercredit","n":{"en":"Bank CenterCredit","kk":"Банк ЦентрКредит","ru":"Банк ЦентрКредит"},"p":"kz-banks"},
@@ -304,6 +314,6 @@
 "regions":{},
 "renamed":{},
 "reserve":["USD","EUR"],
-"rev":"98a6d980c064027f",
-"updated":"2026-11-02"
+"rev":"f41f551f6adc52ae",
+"updated":"2026-11-03"
 }

@@ -1,6 +1,6 @@
 {
   "id": "ru-banks",
-  "version": 11,
+  "version": 12,
   "type": "banks",
   "name": {
     "en": "Russian Banks",
@@ -453,6 +453,16 @@
     {"key": "venets", "name": {"en": "Bank Venets", "ru": "Банк «Венец»"}, "logo": "https://catalog.kazna.app/packs/ru-banks/logos/venets.png", "countries": ["RU"], "website": "https://www.venets-bank.ru", "card_background": "solid:#CC1824", "accent_color": "#CC1824", "aliases": ["Венец"]},
     {"key": "novobank", "name": {"en": "Novobank", "ru": "Новобанк"}, "logo": "https://catalog.kazna.app/packs/ru-banks/logos/novobank.png", "countries": ["RU"], "website": "https://novobank.ru", "card_background": "solid:#1971C0", "accent_color": "#BC262C", "aliases": ["Новобанк Великий Новгород"]},
     {"key": "priovtb", "name": {"en": "Prio-Vneshtorgbank", "ru": "Прио-Внешторгбанк"}, "logo": "https://catalog.kazna.app/packs/ru-banks/logos/priovtb.png", "countries": ["RU"], "website": "https://priovtb.com", "card_background": "solid:#C8186E", "accent_color": "#00B295", "aliases": ["Прио", "Приобанк"]},
-    {"key": "tpsbank", "name": {"en": "Tomskpromstroybank", "ru": "Томскпромстройбанк"}, "logo": "https://catalog.kazna.app/packs/ru-banks/logos/tpsbank.png", "countries": ["RU"], "website": "https://www.tpsbank.tomsk.ru", "card_background": "solid:#09A543", "accent_color": "#09A543", "aliases": ["ТПСБ", "ТпсБанк"]}
+    {"key": "tpsbank", "name": {"en": "Tomskpromstroybank", "ru": "Томскпромстройбанк"}, "logo": "https://catalog.kazna.app/packs/ru-banks/logos/tpsbank.png", "countries": ["RU"], "website": "https://www.tpsbank.tomsk.ru", "card_background": "solid:#09A543", "accent_color": "#09A543", "aliases": ["ТПСБ", "ТпсБанк"]},
+    {"key": "yoomoney", "name": {"en": "YooMoney", "ru": "ЮMoney"}, "logo": "https://catalog.kazna.app/packs/ru-banks/logos/yoomoney.png", "countries": ["RU"], "website": "https://yoomoney.ru", "card_background": "solid:#702FF4", "accent_color": "#702FF4", "aliases": ["ЮMoney", "ЮМани", "YooMoney", "Яндекс.Деньги", "Яндекс Деньги"]},
+    {"key": "sngb", "name": {"en": "Surgutneftegasbank", "ru": "СНГБ"}, "logo": "https://catalog.kazna.app/packs/ru-banks/logos/sngb.png", "countries": ["RU"], "website": "https://www.sngb.ru", "card_background": "solid:#0C3C6C", "accent_color": "#FDB913", "aliases": ["Сургутнефтегазбанк", "SNGB", "Банк СНГБ"]},
+    {"key": "khmb", "name": {"en": "Khakas Municipal Bank", "ru": "Хакасский муниципальный банк"}, "logo": "https://catalog.kazna.app/packs/ru-banks/logos/khmb.png", "countries": ["RU"], "website": "https://kbhmb.ru", "card_background": "solid:#3C7B25", "accent_color": "#F8C300", "aliases": ["ХМБ"]},
+    {"key": "gtbank", "name": {"en": "GT Bank", "ru": "ГТ банк"}, "logo": "https://catalog.kazna.app/packs/ru-banks/logos/gtbank.png", "countries": ["RU"], "website": "https://gaztransbank.ru", "card_background": "solid:#114A93", "accent_color": "#ACABAB", "aliases": ["Газтрансбанк", "ГТБ"]},
+    {"key": "olabank", "name": {"en": "Bank Yoshkar-Ola", "ru": "Банк «Йошкар-Ола»"}, "logo": "https://catalog.kazna.app/packs/ru-banks/logos/olabank.png", "countries": ["RU"], "website": "https://olabank.ru", "card_background": "solid:#0C54A0", "accent_color": "#0C54A0", "aliases": ["Йошкар-Ола", "OlaBank"]},
+    {"key": "dcapital", "name": {"en": "Razvitie-Stolitsa Bank", "ru": "Банк «Развитие-Столица»"}, "logo": "https://catalog.kazna.app/packs/ru-banks/logos/dcapital.png", "countries": ["RU"], "website": "https://www.dcapital.ru", "card_background": "solid:#DB082B", "accent_color": "#DB082B", "aliases": ["Развитие-Столица"]},
+    {"key": "avtotorgbank", "name": {"en": "Avtotorgbank", "ru": "Автоторгбанк"}, "logo": "https://catalog.kazna.app/packs/ru-banks/logos/avtotorgbank.png", "countries": ["RU"], "website": "https://www.avtotorgbank.ru", "card_background": "solid:#A6CE39", "accent_color": "#4C5C65", "aliases": ["АТБ Банк"]},
+    {"key": "vlbb", "name": {"en": "Vladbusinessbank", "ru": "Владбизнесбанк"}, "logo": "https://catalog.kazna.app/packs/ru-banks/logos/vlbb.png", "countries": ["RU"], "website": "https://www.vlbb.ru", "card_background": "solid:#9D235A", "accent_color": "#9D235A", "aliases": ["ВЛББ", "VLBB"]},
+    {"key": "vologzhanin", "name": {"en": "Bank Vologzhanin", "ru": "Банк «Вологжанин»"}, "logo": "https://catalog.kazna.app/packs/ru-banks/logos/vologzhanin.png", "countries": ["RU"], "website": "https://bankvl.ru", "card_background": "solid:#00A54F", "accent_color": "#FFAE00", "aliases": ["Вологжанин"]},
+    {"key": "snezhinsky", "name": {"en": "Bank Snezhinsky", "ru": "Банк «Снежинский»"}, "logo": "https://catalog.kazna.app/packs/ru-banks/logos/snezhinsky.png", "countries": ["RU"], "website": "https://www.snbank.ru", "card_background": "solid:#0164A9", "accent_color": "#1E89BE", "aliases": ["Снежинский"]}
   ]
 }

@@ -484,5 +484,85 @@
     "note": "symbol above the ТпсБанк wordmark",
     "fetched": "2026-11-02",
     "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "yoomoney": {
+    "source": "https://static.yoomoney.ru/files-front/resources/head/wallet/safari-pinned-tab.svg",
+    "kind": "Site SVG (pinned-tab mask)",
+    "licence": "Trademark",
+    "note": "single-colour mark recoloured to the brand purple #702FF4 (site CSS --color-bg-brand)",
+    "fetched": "2026-11-03",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "sngb": {
+    "source": "https://static.rustore.ru/03f5cb4a-d95c-4e40-9441-bd41f5182802",
+    "kind": "RuStore app icon («СНГБ Онлайн», ru.sngb.dbo.client.android)",
+    "licence": "Trademark",
+    "note": "white tile removed; colours from the mark",
+    "fetched": "2026-11-03",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "khmb": {
+    "source": "https://apps.apple.com/ru/app/id1259778585",
+    "kind": "App Store app icon (seller KHAKASSKI MUNITSIPALNY BANK, OOO)",
+    "licence": "Trademark",
+    "note": "white tile removed; the site SVG has the same symbol",
+    "fetched": "2026-11-03",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "gtbank": {
+    "source": "https://gaztransbank.ru/local/templates/main/images/m-logo.svg",
+    "kind": "Site SVG (compact logo)",
+    "licence": "Trademark",
+    "note": "symbol without the wordmark",
+    "fetched": "2026-11-03",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "olabank": {
+    "source": "https://static.rustore.ru/apk/201922495/content/ICON/f82e6641-ea0c-43ae-bbcc-02936c75c0c6.jpg",
+    "kind": "RuStore app icon («OlaBank», ru.olabank.fmobile)",
+    "licence": "Trademark",
+    "note": "white emblem keyed off the blue tile and recoloured #0C54A0 (the site SVG fill)",
+    "fetched": "2026-11-03",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "dcapital": {
+    "source": "https://www.dcapital.ru/bitrix/templates/s1/assets/images/logo.svg",
+    "kind": "Site SVG",
+    "licence": "Trademark",
+    "note": "symbol cropped from the wordmark",
+    "fetched": "2026-11-03",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "avtotorgbank": {
+    "source": "https://www.avtotorgbank.ru/assets/client/images/logo.svg",
+    "kind": "Site SVG",
+    "licence": "Trademark",
+    "note": "wordmark (no separate symbol); named Автоторгбанк, not АТБ, to keep it apart from Азиатско-Тихоокеанский банк",
+    "fetched": "2026-11-03",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "vlbb": {
+    "source": "https://www.vlbb.ru/favicon.svg",
+    "kind": "Site SVG (favicon)",
+    "licence": "Trademark",
+    "note": "symbol; same as in the colour header logo",
+    "fetched": "2026-11-03",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "vologzhanin": {
+    "source": "https://bankvl.ru/assets/img/logo.png",
+    "kind": "Site PNG",
+    "licence": "Trademark",
+    "note": "emblem cropped from the wordmark",
+    "fetched": "2026-11-03",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
+  },
+  "snezhinsky": {
+    "source": "https://www.snbank.ru/images/logo.png",
+    "kind": "Site PNG",
+    "licence": "Trademark",
+    "note": "symbol cropped from a small (216x57) logo, upscaled; no app, no SVG",
+    "fetched": "2026-11-03",
+    "processing": "rendered/cropped to the mark, fitted to 128x128 RGBA with a 6 px margin"
   }
 }
