@@ -1,8 +1,9 @@
 #!/usr/bin/env python3
-"""Builds the app's catalog index (format 2) from packs/ and meta/.
+"""Builds the app's catalog index (format 2) from packs/ and meta/, and the tax files from tax/.
 
-    python3 build.py                  write index/v2/banks.json, index/v2/brands.json and the
-                                      hashed logo copies in index/v2/logos/, then print sizes
+    python3 build.py                  write index/v2/banks.json, index/v2/brands.json, the
+                                      hashed logo copies in index/v2/logos/ and each
+                                      index/v2/interest-tax-<country>.json, then print sizes
     python3 build.py --check          write nothing; exit 1 if the index is stale or anything
                                       below is wrong
     python3 build.py --check --base origin/main
@@ -14,7 +15,8 @@ for a key no pack has, shared payee copies that differ, a missing logo, a budget
 a key published in the committed index that vanished without a meta/renamed.json entry, a
 name published there that is gone from its entry (a brand keeps it in n, a, o or r, a bank in
 n or a), a translit brand whose names aren't one Latin name in every language, a logo copy
-committed at the base that is gone, or a MIN_APP_BUILD that isn't on the app's scale. They warn
+committed at the base that is gone, a MIN_APP_BUILD that isn't on the app's scale, or a tax file
+in tax/ that the app would turn down (see check_tax). They warn
 when a name override changes an en name, and when a brand that had countries at the base is
 international now.
 
@@ -766,20 +768,20 @@ def git(*args):
     return subprocess.run(["git", "-C", str(ROOT), *args], capture_output=True)
 
 
-def last_input_date():
-    """The date of the last commit that touched the packs or meta/, or today with changes pending."""
+def last_input_date(pathspecs=INPUT_PATHSPECS, what="packs/ or meta/"):
+    """The date of the last commit that touched `pathspecs`, or today with changes pending."""
     today = datetime.date.today().isoformat()
     try:
-        pending = git("status", "--porcelain", "--untracked-files=all", "--", *INPUT_PATHSPECS)
+        pending = git("status", "--porcelain", "--untracked-files=all", "--", *pathspecs)
         if pending.returncode == 0 and pending.stdout.strip():
-            return today, "packs/ or meta/ have uncommitted changes, so updated is today"
-        log = git("log", "-1", "--format=%cs", "--", *INPUT_PATHSPECS)
+            return today, f"{what} have uncommitted changes, so updated is today"
+        log = git("log", "-1", "--format=%cs", "--", *pathspecs)
         date = log.stdout.decode().strip() if log.returncode == 0 else ""
         if re.fullmatch(r"\d{4}-\d{2}-\d{2}", date):
             return date, None
     except OSError:
         pass
-    warn("git could not date the last change to packs/ or meta/, so updated is today")
+    warn(f"git could not date the last change to {what}, so updated is today")
     return today, None
 
 
@@ -916,6 +918,148 @@ def check_min_app_build():
     if not is_int(MIN_APP_BUILD) or not (MIN_APP_BUILD == 0 or MIN_APP_BUILD >= MIN_APP_VERSION_SCALE):
         error(f"MIN_APP_BUILD is {MIN_APP_BUILD!r}: it is 0, or the oldest app version as "
               "major * 1,000,000 + minor * 1,000 + patch (1.13.0 = 1013000), never a store build number")
+
+
+# ---------------------------------------------------------------------------------------------
+# The tax on interest (app 2.4.0): a file a country in tax/, edited by hand, served as
+# index/v2/interest-tax-<country>.json with format, updated and rev added. The app has the
+# arithmetic of each country it knows (its InterestTaxRegime); the file has the numbers, so that a
+# new rate, threshold or date reaches the app with no new build. What needs new arithmetic needs a
+# new build too: raise the file's min_app_build to it, and older builds keep the rules they ship.
+# Amounts are whole units of the currency (2400000 is 2.4 mln roubles), rates in basis points.
+
+TAX_DIR = ROOT / "tax"
+TAX_FORMAT = 1
+TAX_BUDGET = (16 * 1024, 4 * 1024)
+TAX_NAME_PATTERN = re.compile(r"^interest-tax-[a-z]{2}\.json$")
+TAX_FIELDS = ("country", "currency", "law", "min_app_build", "due", "notices", "years")
+TAX_SPAN_FIELDS = ("from", "to", "exempt", "free_base", "bands", "other_with_salary", "long_deposit_months",
+                   "due", "notices", "note")
+
+
+def check_tax_day(where, value):
+    """A day of the year after the one taxed: {"month": 12, "day": 1}."""
+    if not check_fields(where, value, ("month", "day"), ("month", "day")):
+        return
+    month, day = value["month"], value["day"]
+    try:
+        if not (is_int(month) and is_int(day)):
+            raise ValueError
+        datetime.date(2001, month, day)
+    except ValueError:
+        error(f"{where}: {month!r}-{day!r} is not a day of a year (not 29 February either)")
+
+
+def check_tax_bands(where, bands):
+    """Rates from the lowest income up: each band but the last ends at a higher up_to; the last goes on."""
+    if not isinstance(bands, list) or not bands:
+        error(f"{where}: bands must be a list of at least one band")
+        return
+    below = 0
+    for i, band in enumerate(bands):
+        at = f"{where}.bands[{i}]"
+        if not check_fields(at, band, ("up_to", "bps"), ("bps",)):
+            continue
+        if not is_int(band["bps"]) or not 0 <= band["bps"] <= 10000:
+            error(f"{at}: bps must be 0 to 10000 (13% is 1300)")
+        if i == len(bands) - 1:
+            if "up_to" in band:
+                error(f"{at}: the last band has no up_to: it takes everything above the one before")
+        elif not is_int(band.get("up_to")) or band["up_to"] <= below:
+            error(f"{at}: up_to must be a whole amount above the band before's ({below})")
+        else:
+            below = band["up_to"]
+
+
+def check_tax(path, document):
+    """What the app checks before it takes a tax file, so that a file it would turn down never ships."""
+    where = rel(path)
+    if not check_fields(where, document, TAX_FIELDS, ("country", "currency", "due", "notices", "years")):
+        return
+    country, currency = document["country"], document["currency"]
+    if not (isinstance(country, str) and COUNTRY_PATTERN.match(country)):
+        error(f"{where}: country must be an ISO code such as \"RU\"")
+    elif path.name != f"interest-tax-{country.lower()}.json":
+        error(f"{where}: the file of {country} is interest-tax-{country.lower()}.json")
+    if not (isinstance(currency, str) and CURRENCY_PATTERN.match(currency)):
+        error(f"{where}: currency must be an ISO code such as \"RUB\"")
+    if "law" in document and not is_text(document["law"]):
+        error(f"{where}: law must be a non-empty text")
+    min_app = document.get("min_app_build", 0)
+    if not is_int(min_app) or not (min_app == 0 or min_app >= MIN_APP_VERSION_SCALE):
+        error(f"{where}: min_app_build is {min_app!r}: 0, or the oldest app version as "
+              "major * 1,000,000 + minor * 1,000 + patch (2.4.0 = 2004000)")
+    check_tax_day(f"{where}.due", document["due"])
+    check_tax_day(f"{where}.notices", document["notices"])
+    spans = document["years"]
+    if not isinstance(spans, list) or not spans:
+        error(f"{where}: years must be a list of at least one span")
+        return
+    next_year = None
+    for i, span in enumerate(spans):
+        at = f"{where}.years[{i}]"
+        if not check_fields(at, span, TAX_SPAN_FIELDS, ("from",)):
+            continue
+        start, end, last = span["from"], span.get("to"), i == len(spans) - 1
+        if not is_int(start) or not 1990 <= start <= 2200:
+            error(f"{at}: from must be a year")
+            next_year = None
+            continue
+        if next_year is not None and start != next_year:
+            error(f"{at}: starts in {start}, but the span before ends in {next_year - 1}: the years run on with no gap")
+        if last:
+            if end is not None:
+                error(f"{at}: the last span goes on: it has no to")
+        elif not is_int(end) or end < start:
+            error(f"{at}: to must be a year no earlier than from")
+        next_year = end + 1 if is_int(end) else None
+        for flag in ("exempt", "other_with_salary"):
+            if flag in span and not isinstance(span[flag], bool):
+                error(f"{at}: {flag} must be true or false")
+        if "note" in span and not is_text(span["note"]):
+            error(f"{at}: note must be a non-empty text")
+        for day in ("due", "notices"):
+            if day in span:
+                check_tax_day(f"{at}.{day}", span[day])
+        if span.get("exempt") is True:
+            for name in ("free_base", "bands", "other_with_salary", "long_deposit_months"):
+                if name in span:
+                    error(f"{at}: an exempt span has no {name}")
+            continue
+        if "bands" not in span:
+            error(f"{at}: missing 'bands'")
+        else:
+            check_tax_bands(at, span["bands"])
+        if not is_int(span.get("free_base", 0)) or span.get("free_base", 0) < 0:
+            error(f"{at}: free_base must be a whole amount, 0 or more")
+        months = span.get("long_deposit_months")
+        if months is not None and (not is_int(months) or not 1 <= months <= 120):
+            error(f"{at}: long_deposit_months must be 1 to 120, or left out for no carry")
+
+
+def build_tax():
+    """The tax files as the app reads them, by name: {} when tax/ has none."""
+    documents = {}
+    if not TAX_DIR.is_dir():
+        return documents
+    for path in sorted(TAX_DIR.iterdir()):
+        if path.name.startswith("."):
+            continue
+        if not TAX_NAME_PATTERN.match(path.name):
+            error(f"{rel(path)}: a tax file is named interest-tax-<country>.json")
+            continue
+        source = load_json(path)
+        if source is None:
+            continue
+        check_tax(path, source)
+        if not isinstance(source, dict):
+            continue
+        updated, _ = last_input_date((f"tax/{path.name}",), rel(path))
+        document = dict(source, format=TAX_FORMAT, updated=updated)
+        document.setdefault("min_app_build", 0)
+        document["rev"] = index_rev(document)
+        documents[path.name] = document
+    return documents
 
 
 # ---------------------------------------------------------------------------------------------
@@ -1062,6 +1206,19 @@ def main():
     for name, (raw, packed) in sizes.items():
         check_budget(name, raw, packed)
 
+    tax_documents = build_tax()
+    tax_texts = {name: render(document).encode("utf-8") for name, document in tax_documents.items()}
+    for name, data in tax_texts.items():
+        raw, packed = len(data), gzip_size(data)
+        if raw > TAX_BUDGET[0] or packed > TAX_BUDGET[1]:
+            error(f"{INDEX_REL}/{name}: {kb(raw)} raw, {kb(packed)} gzipped, over its budget of "
+                  f"{kb(TAX_BUDGET[0])} and {kb(TAX_BUDGET[1])}")
+    texts.update(tax_texts)
+    if INDEX_DIR.is_dir():
+        for path in sorted(INDEX_DIR.glob("interest-tax-*.json")):
+            if path.name not in tax_texts:
+                error(f"{rel(path)}: tax/ has no {path.name}; a published tax file is never taken away")
+
     # Logo copies are immutable: never rewritten, never deleted, only added.
     missing_logos = []
     for h, data in sorted(logos.files.items()):
@@ -1125,6 +1282,10 @@ def main():
         "  Brands by category: " + ", ".join(
             f"{cid} {by_category.get(cid, 0)}"
             for cid, _ in sorted(categories.items(), key=lambda pair: pair[1]["rank"])),
+    ] + [
+        f"  {INDEX_REL}/{name}: rev {document['rev']}, updated {document['updated']}, "
+        f"{len(document['years'])} span(s) from {document['years'][0].get('from')}"
+        for name, document in tax_documents.items() if isinstance(document.get("years"), list) and document["years"]
     ] + [f"  {note}" for note in notes]
     report_and_exit(args.check, lines)
 
